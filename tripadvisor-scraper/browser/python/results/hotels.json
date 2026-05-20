@@ -1,0 +1,594 @@
+{
+  "basic_data": {
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "1926 Le Soleil Hotel & Spa",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g190327-d264936-Reviews-1926_Le_Soleil_Hotel_Spa-Sliema_Island_of_Malta.html",
+    "priceRange": "$$ (Based on Average Nightly Rates for a Standard Room from our Partners)",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.3",
+      "reviewCount": 1261
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Thornton Street",
+      "addressLocality": "Sliema",
+      "postalCode": "SLM 3143",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "MT"
+      }
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 35.9096,
+      "longitude": 14.508747
+    },
+    "amenityFeatures": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Free public parking nearby",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Free internet",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Fitness Center with Gym / Workout Room",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Pool",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Free breakfast",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Beach",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Airport transportation",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Meeting rooms",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Paid private parking nearby",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Street parking",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Wifi",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Fitness / spa locker rooms",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Sauna",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Pool / beach towels",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Infinity pool",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Pool with view",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Outdoor pool",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Heated pool",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Saltwater pool",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Shallow end in pool",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Bar / lounge",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Coffee shop",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Restaurant",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Breakfast available",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Breakfast buffet",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Breakfast in the room",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Complimentary Instant Coffee",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Complimentary tea",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Complimentary welcome drink",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Outdoor dining area",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Vending machine",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Poolside bar",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Taxi service",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Spa",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Steam room",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Rooftop terrace",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "24-hour security",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Baggage storage",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Non-smoking hotel",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Sun deck",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Sun loungers / beach chairs",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Sun terrace",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Doorperson",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "First aid kit",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Umbrella",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "24-hour check-in",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "24-hour front desk",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Express check-in / check-out",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Dry cleaning",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Laundry service",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Ironing service",
+        "value": true
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Shoeshine",
+        "value": true
+      }
+    ],
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/db/ba/a1/hotel-1926.jpg?w=500&h=-1&s=1"
+  },
+  "description": "Inspired by the life and passions of one man and featuring a touch of the roaring twenties, 1926 Le Soleil Hotel & Spa offers luxurious rooms and suites in the central city of Sliema. The hotel is located 200 meters from the seafront and also offers a splendid 1926 La Plage Beach Club on the water’s edge as well as a luxury SPA. The beach club is located 200 meters away from the hotel and is a seasonal operation. Our concept of ‘Lean Luxury’ includes the following: • Luxury rooms at affordable prices • Uncomplicated comfort and a great sleep • Smart design technology • Raindance showerheads • Flat screens • SuitePad Tablets • Self check in and check out (if desired) • Coffee & tea making facilities",
+  "featues": [
+    "Free public parking nearby",
+    "Free internet",
+    "Fitness Center with Gym / Workout Room",
+    "Pool",
+    "Free breakfast",
+    "Beach",
+    "Airport transportation",
+    "Meeting rooms",
+    "Bathrobes",
+    "Air conditioning",
+    "Desk",
+    "Housekeeping",
+    "Interconnected rooms available",
+    "Refrigerator",
+    "Cable / satellite TV",
+    "Walk-in shower",
+    "Non-smoking rooms"
+  ],
+  "reviews": [
+    {
+      "title": "Great locations, amazing service would return",
+      "text": "Excellent service from all staff, so clean, great breakfast - all staff go above and beyond and service with a smile.  Great cocktails.  Spacious room which is cleaned daily.  Rooftop pool with drinks is slightly more expensive than first floor bar. If it’s about the experience and nice place for a lunch.  Reserve a space,Lovely thick towels.  Did not score a 5 due to two  minor issues the large great sun beds are uncomfortable in the middle you need to sit to the side.  The cabana and other chairs are prefect.  The other issue was the shower was not very powerful had to use the lower one and at times the water was not hot which we assume was due to use.  Spa facilities were great and I enjoyed a wonderful massage",
+      "rate": 4,
+      "tripDate": "May 2026",
+      "tripType": "Traveled with friends"
+    },
+    {
+      "title": "Great location but obsessed with its app",
+      "text": "The location of this hotel is its best feature. The rooms are ok, if a little sparse and soulless, and we enjoyed the spa. The staff were friendly but it lacks a bit in genuine customer service because of an obsession with tech. You are directed to do pretty much everything through their app, including booking sun loungers by the rooftop pool (which, be warned, must be done before you arrive if you want to use them during the first few days of your trip).  It feels like a lot of admin for a holiday and takes away any sense of warmth and hospitality.",
+      "rate": 4,
+      "tripDate": "May 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Never ever again...",
+      "text": "This was a very disappointing experience. I was initially assigned to an accessible room, which meant there was a lowered toilet and no shower curtain. When using the shower, it was not possible to position the shower head properly without flooding the entire bathroom. In addition, the air conditioning was not working.On the second day, I returned to the room and noticed a number of insects on the bathroom floor. I took photos and later understood these to be baby cockroaches. At that point, I did not raise it immediately. However, when I later sat on the bed, I saw several large cockroaches moving around the room. I took photos and a video and went to reception. The staff member initially suggested sending housekeeping at 11pm to spray the room so that I could still sleep there.After insisting, I was eventually moved to another room. However, I was asked whether I would return to the original room the following day due to reservations, which I declined.The breakfast was enjoyable, but aside from the room change, no compensation, upgrade or alternative resolution was offered. Based on this experience, I would not stay here again.",
+      "rate": 1,
+      "tripDate": "May 2026",
+      "tripType": "Traveled on business"
+    },
+    {
+      "title": "Great relaxing stay",
+      "text": "My friends and I stayed at this beautiful hotel for one week. The staff went above and beyond to help my friends and I have a lovely relaxing stay. The breakfast staff especially were very friendly and helpful and did their very best to make this stay great. Highly recommend this hotel to anyone staying in silema Malta!! Thank you for four Irish girls!! 🇮🇪",
+      "rate": 5,
+      "tripDate": "May 2026",
+      "tripType": "Traveled with friends"
+    },
+    {
+      "title": "Average hotel",
+      "text": "Very mediocre hotel the room itself was fine , but we had a hotel with sea view unfortunately I did not enrich so I did not see the stripe of sea what would be seen . That was not the biggest problem there is a rooftop bar with swimming pool , which is one of the reasons why I booked this in a center , but this is only accessible with a reservation and works in time slots and these were all fully booked in our stay . In the evening it is also not open for a drink. That is a great pity if one cannot make use of it. I also found that it was in a bit of a muddy neighborhood with garbage bags everywhere etc. No it was not my thing and also after a night of trying to sleep ( I heard the neighbors snoring as if they were in my room ) booked another hotel and left . They wanted to arrange everything for us like other room because of the neighbors snoring. Access to other pool at another hotel . But no money back for the unslept days. But I was so sorry about the hotel that we took our loss and took a few more very nice days in another hotel",
+      "rate": 2,
+      "tripDate": "April 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "The best hotel experience in Malta",
+      "text": "Wow this hotel is fantastic what a beautiful stay we have had . The staff are the most amazing staff Ive ever experienced. Big shout out and thank you to Santiago on reception hes is amazing so polite helpful and genuinely a lovely person he always helped us with any questions or requests we had also Min is one of the nicest bar staff I've ever met and so friendly. Mario in the upstairs pool area was great and really accommodating and helpful. They are just to name a few so many other wonderful staff. The hotel itself is gorgeous the rooms were spotless and cleaned to a high standard.I felt safe at all times very central to the harbour , shops restaurants and the buses . The spa is gorgeous. The food in the pool bar is lovely the guy behind the bar in the pool bar is also super friendly.The main event is the beach bar wow wow wow what an amazing experience just fantastic thanks everyone we will 100% be back from Karen and Chris Clarke",
+      "rate": 5,
+      "tripDate": "April 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "City break, sight seeing and food",
+      "text": "Arrived by car reception greeting good, went up to the room to be disappointed, it was very small, the bathroom in particular, basin was a cloakroom style basin very small, and the shower hinged inwards, which meant you had to cram yourself into a corner to close the door, very uncomfortable. Bed hard but not horrendous. All amenities there except a hair dryer. Again room very small.Breakfast was a buffet, all staff friendly and attentive, but for me a huge failing is the use of powered eggs for the scrambled eggs, no other options for eggs, unless you asked for fried or poached and they happily made them fresh for you. Which was great, but not being given this as a choice or explained, I'd imagine people didn't know.Two other things really bothered me, the first was free water, you arrive in your room and there is a bottle of water with Compliments, but with a note saying if you want more you will be charged for it. I find this outrageous, I've travelled all over the world and water has always been made available free of charge.Lastly, checking out, we had a few pool side drinks and food so when I went to check out I was informed that the credit card that they took on arrival had been used and charged for all my items also any City tax that I needed to pay, asking why and could I not have used up my last cash euros, I was informed that a refund would take several days, nobody explained this before hand and not that it's a issue on my card, but I gave NEVER not being given an alternative method of payment before SHOCKING.",
+      "rate": 3,
+      "tripDate": "April 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Don´t go there with children!!",
+      "text": "The hotel is absolutely unfriendly to children. Children are not allowed in the outdoor pool on the rooftop, nor in the gym. They are not even allowed when accompanied by their parents! That is hard to understand for parents and even more for the kids!! The SPA is only accessible with children during very limited hours in the morning and afternoon when you are normally on sightseeing trips. The employee at the reception explained that this restriction is noticed somewhere on the hompage. Who is reading the conditions of the hotel on their homepage before booking? They sould mention during the booking process that they prefer to have adults only as their guests.",
+      "rate": 1,
+      "tripDate": "April 2026",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Great hotel but not a family hotel",
+      "text": "We've just had 3 nights at the hotel (3 generations, Inc kids aged 12&14). It has a lot of great points, the staff are amazing, the food was great and the location is very handy BUT it wasn't what we were expecting. From the Jet2 website it looked like a hotel that overlooked the sea and had 2 outdoor pools and an indoor pool (our Jet2 search criteria) which is why we booked it. However the big pool in the picture is a beach club which only opens in May and isn't attached to the hotel, the other outdoor pool is heated but adult only and the spa pool is very small and was only available to children 8-11am and 3-4pm. It was far from ideal. The other thing that isn't clear from the Jet2 website is that the hotel is in the middle of buildings and not next to the sea. We had 2 rooms, 1 looked straight onto apartment block balconies and the other faced the street, we had hoped for a balcony we could enjoy a drink on. The location is very handy for ferries, eateries, shops etc but is in the middle of the mêlée, not peaceful, overlooking the sea! The other aspect that was a bit disappointing was the room itself, it was called a Family Suite but it wasn't a suite, it was a room with 2 big beds in it and a small bathroom. There was limited space for clothes, only hanging space (no drawers and and only 1 high shelf), there were 2 hooks for robes, not 4, no towel rail to hang wet towels, 2 chairs on the tiny balcony, there just wasn't enough space. It would be better to get rid of the 2nd big bed and put bunk beds in and add a chest of drawers. The room became very claustrophobic v quickly!I feel bad putting this negative review but wish I'd known what we had booked before arriving. This is a lovely hotel for adults and I'd highly recommend it for adults, the rooftop bar is amazing, just leave the kids at home!",
+      "rate": 3,
+      "tripDate": "April 2026",
+      "tripType": null
+    },
+    {
+      "title": "Lovely hotel, great staff.",
+      "text": "Gorgeous hotel. Exceptionally clean and maintained. Lovely breakfast menu, a self service buffet which was always replenished. We didn't eat in the evening as we wanted to try food from around the island. The gym was very clean and all machines worked. The spa was clean and well maintained. All staff were excellent -very friendly, polite and helpful. The coffee/tea facilities in the room were good, there was even a Nespresso machine!  I drink tea but there were only small coffee cups so a teapot would have been better for me.There were only two problems..there were no proper cupboards or wardrobes, just an open framework of shelving and a hanging rail. This wasn't enough for two people, meaning we had to store clothes in our suitcases. I like to put worn clothes back in my case throughout the stay but I was unable to do so.The other is the corridors...they are tiled floors which are easy to keep clean and look very nice, but they are noisy at times as they echo when doors close and people wheel their suitcases along. A carpet might soften the noise. On the whole, we had a great holiday and we would recommend this hotel.Dear Naomi,Thank you very much for taking the time to share your detailed impressions of your stay at 1926 Le Soleil Hotel and Spa. We are delighted to read your kind words regarding our dedicated staff, the cleanliness of our facilities, and the quality of our breakfast offerings. It is also gratifying to know that you appreciated the amenities provided in your room, including the Nespresso machine, as well as the high standards maintained in our gym and spa.We also value your constructive feedback concerning the room storage options and the acoustics in our corridors. Your observations regarding the wardrobe and shelving arrangement, as well as the noise levels due to tiled flooring, are important to us. Please be assured that we continuously review our guests’ comments to enhance both comfort and convenience for future stays.We hope to have the pleasure of welcoming you back on your next visit to the island, and we look forward to providing you with an even more enjoyable experience.Sincerely,  Giorgia F.  Hospitality Team – 1926 Collection",
+      "rate": 4,
+      "tripDate": "March 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "The spa saved us from storms",
+      "text": "We were unfortunate with weather over St. Patrick's weekend, but the spa at 1926 Le Soleil saved us.  Tamara,  Aleksandar,  Ivana and Biljana were fabulous. We booked several massages (deep tissue, aromatherapy and hot stone/ salt) and,  as it qas my birthday, were treated to a bathing experience at 1926 Le Bains. What a joy! The room was nice,  if on the small side, but it had a balcony.  The breakfast was tasty and plentiful. A lovely relaxing weekend,  even in the storms.Dear Ana,Thank you very much for taking the time to share your experience at 1926 Le Soleil Hotel & Spa. We are delighted to hear that our spa facilities and the dedicated service provided by Tamara, Aleksandar, Ivana, and Biljana contributed to making your stay memorable, especially during unexpected weather conditions. It is wonderful to know that you enjoyed the variety of massage treatments and the special bathing experience for your birthday. We also appreciate your positive comments regarding the comfort of your room, the balcony, and the quality of our breakfast offerings.We acknowledge your mention of the room size and value your constructive feedback, as it assists us in our ongoing efforts to enhance guest satisfaction. Please rest assured that we are committed to continuous improvement, and guest feedback such as yours is invaluable to us.We would be honored to welcome you again in the future for another relaxing and enjoyable stay, regardless of the weather.Sincerely,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 4,
+      "tripDate": "March 2026",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Amazing hotel amazing stay",
+      "text": "Stayed for 4 nights with my mother who is 80 years old, our tour operator had not informed the hotel that we wanted a twin room and a king size had been allocated; the hotel were quick to change this for us and it was actually an upgrade on a higher floor which was marvellous. The hotel is immaculately clean and well situated within walking distance to everywhere required. We didn’t use the spa but it looked amazing, the staff are super friendly and go over and above to make you feel welcome, nothing is too much trouble. We ate at Margeaux’s most evenings and the presentation, taste and service was special.Breakfast is buffet style and hot and plentiful. Would stay again !! Recommend to allDear Vanessa,Thank you for taking the time to share your wonderful feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you and your mother enjoyed a comfortable visit, and it is pleasing to hear our team was able to promptly accommodate your room preference, providing you with an upgraded experience. Your kind words about the cleanliness of our property, the convenient location, and the exceptional service from our staff are greatly appreciated. We are also glad that you found the dining experience at Margeaux’s and our breakfast offerings to be of high quality.Your generous recommendation and intention to return mean a great deal to us. We remain committed to enhancing our guests' experiences and sincerely value your feedback as it inspires us to continuously improve.We hope to have the pleasure of welcoming you back in the future.Sincerely,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 5,
+      "tripDate": "March 2026",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Malta for the First Time",
+      "text": "We just spent 3 1/2 weeks at this hotel. The reason we chose it was it had 2 bedroom apartments as part of their offerings. Unfortunately when we arrived we were booked into the wrong apartment and it took 2 days to get us moved to the apartment we requested. Having said that the hotel has many good things going for it. First of all the location is great. There are numerous restaurants within a 10 minute walk, same for 2 banks and a great pharmacy just 2 blocks away. 2 convenience stores and 2 grocery stores are also less than a 10 minute walk away as is the Point Shopping Centre.Walking to the Strand either on the harbour side or the Mediterranean side is also a few minutes walk away and the ferry to Valetta is a 10 minute walk.The hotel's amenities are good including a rooftop view with a terrific 360 view. There is also an indoor pool and spa. Both pools are on the small side and quite shallow, more for cooling off rather than swimming. The indoor pool is really more like a giant hot tub as it is quite narrow and heated to probably 80 or higher.We only ate at Margaux and the food was quite good although we did find the menu to be a bit limited and it never changed in the entire time we were there.The staff were eager to please and helpful. Occasionally a minor difficulty in communication but never a problem. A special shout out to Mohammed who took us to our room on that first day and then just seemed to keep an eye on us to make sure or stay went well.Because we were there longer than most there were a few things to note. First is that it took 3 weeks to get the wifi in our apartment fixed. Until then we had to use the guest service option which was not as secure and often unstable so that was a frustration. The apartments themselves, while quiet and very clean they are sparsely furnished. For example in the 2 bedroom apartments there was 1 sofa, not sufficient for 4 people to sit on and not very comfortable. The kitchen was also quite sparse, so little things like salt and pepper, maybe some olive oil, napkins, oven mitts should be present but they were not. There is no direct phone from the apartment to the hotel so ether have to use the hotel app or use a cell phone to call the hotel directly, The hotel app is good but if you actually need to talk to someone then a phone call or go to the front desk is are the only options.Dear Guest,Thank you for taking the time to share such a detailed review of your recent stay at 1926 Le Soleil Hotel & Spa. We are pleased to learn that you found our location convenient, with easy access to local amenities and attractions, and that you enjoyed the panoramic views from our rooftop as well as the professionalism and helpfulness of our staff. Your positive comments regarding our team, particularly Mohammed, are very much appreciated and will be shared with all concerned.We regret the inconvenience caused by the initial apartment allocation and the delay in resolving the Wi-Fi issues during your extended stay. Your observations regarding the apartment furnishings, kitchen provisions, and communication channels are duly noted. We understand how these aspects can impact overall comfort and convenience, especially for longer stays, and we appreciate your constructive feedback as it guides our ongoing efforts to enhance the guest experience.Please rest assured that your comments are invaluable to us as we continuously strive to improve our services and facilities. We sincerely hope to have the opportunity to welcome you back in the future and provide an even more enjoyable stay.Best Regards,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 4,
+      "tripDate": "February 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "1926 le soleil hotel & spa",
+      "text": "If you want to relax and enjoy yourself this is a wonderful place to go and you will find beautiful staff special when you will meet PETRA one of the manager and what about the SPA it is so special u have to come there is NO words to explain come and visit  1926 le soleil hotel & spaDear Alfred,Thank you very much for sharing your thoughtful feedback regarding your recent experience at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you found our property to be a wonderful place for relaxation and leisure. Your kind words about our dedicated team, especially your mention of Petra, as well as your appreciation for the unique atmosphere of our spa, are greatly valued by all of us.We continuously strive to provide memorable experiences for our guests and your feedback serves as an encouragement for our ongoing commitment to excellence.We sincerely hope to have the pleasure of welcoming you again in the future.Best Regards,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 5,
+      "tripDate": "March 2026",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Great property in perfect location",
+      "text": "We stayed at the 1926 Le Soleil Hotel & Spa and we really enjoyed it. The staff was always very kind and helpful for any request. The structure is well-kept and with an excellent value for money. Large and comfortable room, with large bathroom. Breakfast varied and well stocked. The spa is also very nice, although at busy times there are few sunbeds to relax. Perfect location: close to public transport, ferry and liveliest area full of restaurants and clubs. Highly recommended!Dear Giulia,Thank you for taking the time to share your experience at 1926 Le Soleil Hotel & Spa. We are pleased to learn that you appreciated our welcoming and attentive staff, the comfort and spaciousness of your room, as well as the variety and quality of our breakfast offerings. It is also gratifying to know that you found our location convenient for accessing public transportation, the ferry, and the vibrant areas filled with restaurants and entertainment.We appreciate your feedback regarding the availability of sunbeds in the spa during peak times. Please be assured that we take such comments seriously, and your observations are valuable to our ongoing efforts to enhance the guest experience.We look forward to welcoming you back to 1926 Le Soleil Hotel & Spa in the future and hope your next stay will be just as enjoyable.Sincerely,  Giorgia F.  Hospitality Team – 1926 Collection",
+      "rate": 5,
+      "tripDate": "February 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Spectacular room.",
+      "text": "We stayed at this hotel with my wife and other couples of friends, and I must say that we were all pleasantly satisfied, starting with the very friendly and professional lobby staff, always available for any need such as booking a taxi; the modern structure and equipped with a SPA, so there is the Turkish bath, sauna, swimming pool and the possibility of doing massages (I think service for a fee); the very spacious room, the very comfortable bed, the bathroom with a very large shower, also the room is equipped with a fridge, coffee machine with capsules, and bottle of water.Dear Tony,Thank you very much for sharing your positive experience at 1926 Le Soleil Hotel & Spa. We are truly pleased to read that you and your group of friends appreciated the professionalism and friendliness of our lobby staff, as well as the modern atmosphere of our property and the variety of wellness facilities available. It is also gratifying to know that you found the guest room spacious and well-appointed, with thoughtful amenities for your comfort.Your feedback motivates us to continue striving for excellence in every aspect of our guests' stay. We are committed to ongoing improvement and your comments are truly valued.We would be delighted to welcome you again on your next visit to Sliema.Best regards,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 5,
+      "tripDate": "February 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Fabulous hotel with amazing staff",
+      "text": "This hotel is pure luxury. The rooms are spacious with good facilities. The complementary toiletries are of great quality.The housekeeping staff keep the rooms clean and comfortable and they replenish the teabags, coffee pods etc every day. They callled to our room every evening to ask if they could get us anything and they are so nice.Breakfast was fantastic, with plenty of choice.It's a very short walk to the shops, buses, ferry.We had a wonderful time in this fantastic hotel.The staff are absolutetly amazing, every one of them.We thoroughly enjoyed our stay.Dear Carol,Thank you very much for your wonderful review and for taking the time to share your experience at 1926 Le Soleil Hotel and Spa. We are delighted to hear that you appreciated the luxury of our hotel, the spacious and well-equipped rooms, and the dedication of our housekeeping team in ensuring your comfort. It is also gratifying to know that our breakfast offerings and convenient location contributed positively to your stay. Your recognition of our staff’s efforts and kindness is truly appreciated, and we are pleased that their service made your visit memorable. Please rest assured that your feedback encourages us to maintain our high standards and to continually enhance the guest experience.We sincerely hope to welcome you again in the future at 1926 Le Soleil Hotel & Spa.Best Regards,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 5,
+      "tripDate": "December 2025",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Great service, great location.",
+      "text": "The hotel is perfectly situated in Sliema,5 minute walk from shops, sight seeing booths to book boats buses etc. facilities are great and the spa is fabulous.  Staff are  extremely helpful and friendly,and Marek( ?spelling) the duty manager was exceptionally helpful and made sure we had everything we needed, we were offered an upgrade and a session in the spa when our door failed because of the security lock.       The rooms are big enough, beds really comfortable and the toiletries very good.     Would certainly stay here again.Dear Paul,Thank you very much for sharing your valuable feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you appreciated our convenient location in Sliema, the quality of our facilities—especially the spa—and the dedication of our staff. It is gratifying to know that our team, including the duty manager Marek, contributed positively to your experience and ensured your comfort.We also appreciate your understanding regarding the inconvenience with the room security lock, and are pleased that our team was able to address the matter promptly. Your comments regarding the spaciousness of the rooms, the comfort of the beds, and the quality of the toiletries are greatly valued, as they inspire us to maintain and enhance the guest experience.Your feedback is essential to our ongoing commitment to excellence, and we are continuously striving to provide exceptional service to all our guests. We would be honoured to welcome you back in the future and provide another memorable stay.Best Regards,  Giorgia F.  Hospitality Supervisor - 1926 Collection",
+      "rate": 5,
+      "tripDate": "February 2026",
+      "tripType": "Traveled with friends"
+    },
+    {
+      "title": "A very beautiful experience",
+      "text": "Location good 4 shops and public transport.The atmosphere was very calmingFamily Room excellentStaff A-star very pleasant from front desk to cleaning staff.Breakfast excellent (not the scramble eggs).Very cleanno noise away from the traffic Spa great for relaxingWell done 1926 Le SliemaDear Diane,Thank you for sharing your thoughtful review of your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you appreciated our convenient location, the tranquil atmosphere throughout the property, and the quality of our Family Room. It is also wonderful to hear your positive remarks regarding our dedicated staff and the cleanliness of our facilities.We have taken note of your feedback regarding the breakfast, particularly the scrambled eggs, and we appreciate your constructive input. Your comments help us to identify areas for enhancement, and we remain committed to elevating the guest experience through ongoing improvements.We sincerely hope to have the pleasure of welcoming you and your family back in the future.Best Regards,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 5,
+      "tripDate": "February 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "1926 Le Soleil Hotel Silema, Malta",
+      "text": "Just returned from this hotel. While it is aesthetically pleasing and clean and the staff lovely there are things that could be improved. It is noisy and difficult to sleep in this hotel. All the floors are tiled and rooms have chairs with metal legs that scrape across the floor. Staff are very noisy in the corridors. Beds are very hard. Water in the showers is lukewarm and you’ll be lucky if you don’t kill yourself on the slippery shower floor. Breakfast was very poor, I’m sure the scrambled were powdered as these were atrocious and we saw lots of people trying these but not many eating them. An À la Carte breakfast menu is provided at extra cost which I tried as the buffet was so bad. The eggs Benedict I ordered was one of the worst I’ve ever eaten. Fried in lots of oil was the roll, tiny thin bit of ham and not cooked properly poached eggs. We did eat one evening in the restaurant and this food and service was very good. Location was good but unfortunately slept so poorly have come home absolutely exhausted.  Overall sadly I wouldn’t recommend or return to this hotel.Dear Sarah,Thank you for taking the time to share your detailed feedback regarding your recent stay at 1926 Le Soleil Hotel and Spa. We greatly appreciate your recognition of our hotel's cleanliness, aesthetic appeal, and the courtesy of our staff, as well as your positive remarks about the quality of our restaurant's evening service and our convenient location.We are, however, sincerely sorry to learn that certain elements of your experience did not meet your expectations. Your observations regarding noise disturbances, bedding comfort, the shower facilities, and the breakfast offerings, both buffet and à la carte, are invaluable to us. Please be assured that your comments have been noted and will be shared with the relevant departments, as we are committed to the ongoing enhancement of our guest experience.We hope you may consider giving us another opportunity in the future to provide you with a more restful and satisfying stay. Best Regards,Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 3,
+      "tripDate": "February 2026",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "professional and friendly in good location",
+      "text": "I booked very spontaneously and at short notice four nights in January. The price was unbelievably cheap for this highly rated hotel. accordingly, I didn't expect much, but already other reception. On arrival I was received highly professional and friendly and received a beautiful room. On the sixth floor with balcony. Breakfast I deliberately didn't choose one, because I prefer to drink only coffee and tea in the morning. Both, I had free in the room available. Since it is naturally cooler in winter and this year the storms were very special, I could enjoy the wellness center very much whether steam bath or indoor pool everything was top notch.Originally I wanted to visit the gourmet restaurant in the attic. Unfortunately, however, on the ground floor of the house in the restaurant on the first evening I had no good experiences at all and therefore preferred to eat in other places. Hence the one point deduction.Dear Vanessa,Thank you for taking the time to share your detailed feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are pleased to learn that you appreciated our professional and welcoming reception, the comfort of your room with a balcony, as well as the complimentary in-room refreshments. It is wonderful to know that you found value in our 1926 Spa wellness center, especially during the cooler season, and that our facilities contributed positively to your stay.We regret to hear that your experience in our ground-floor restaurant did not meet your expectations and influenced your dining choices during your visit. Please be assured that your impressions are important to us, and your feedback will be shared with our team to further enhance the quality of our services. At 1926 Le Soleil Hotel & Spa, we are committed to continuous improvement and are grateful for your insights, which help us to refine our guest experience.We would be delighted to welcome you back on a future occasion and hope to have the opportunity to exceed your expectations.Sincerely,  Giorgia F.  Hospitality Team – 1926 Collection",
+      "rate": 4,
+      "tripDate": "January 2026",
+      "tripType": "Traveled solo"
+    },
+    {
+      "title": "Excellent experience at Spa",
+      "text": "I highly recommend to visit Spa center at 1926 Le Soleil Hotel & Spa. Alex provided an amazing massage, thank you so much! As someone who works non-stop at a computer, I came in with a lot of muscular tension and blockages. Alex knew exactly how to target these problem areas. I left feeling fantastic, and I’m feeling an incredible difference now! I already look forward to my next session with him.The spa itself is very clean and cosy, I liked the pool, sauna, steam room. The service is always excellent - all the therapists are very welcoming and attentive - Tamara and other ladies. Thank you and keep it up!Dear Anna,Thank you for sharing your experience at the 1926 Le Soleil Hotel & Spa. We are grateful for your kind words regarding the professionalism and attentiveness of our spa team, as well as the positive impact the massage provided by Alex had on your well-being. It is wonderful to hear that the cleanliness and comfort of our spa facilities, including the pool, sauna, and steam room, contributed to your overall enjoyment. Your recognition of our team's hospitality, particularly Tamara and her colleagues, is greatly appreciated.We are committed to maintaining high standards and continuously enhancing the guest experience based on valuable feedback such as yours. We sincerely hope to welcome you back for another rejuvenating visit in the near future.Sincerely,  Giorgia F.  Hospitality Supervisor - 1926 Collection",
+      "rate": 5,
+      "tripDate": "February 2026",
+      "tripType": "Traveled solo"
+    },
+    {
+      "title": "Comfortable, Quiet, and Relaxing",
+      "text": "Really comfortable stay here for a week and was quite peaceful. The app for the room codes and requesting service and therapy treatements made the stay very slick. No having to share or remember 2 room cards! The food was good here too and the breakfasts are excellent, made a really good start to every day! Room Services were good and maintenance were quick to resolve a couple of minor issues. The rooftop facilities were rather limited but the beach club was great to pop down to.Dear Andrew,Thank you for sharing your experience following your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you found your accommodation comfortable, peaceful, and relaxing. It is also gratifying to know that the digital app enhanced the convenience of your stay and that you appreciated the quality of our food and breakfast offerings. Furthermore, we are pleased that you found our room services and maintenance team to be attentive and responsive.We acknowledge your feedback regarding the limitations of the rooftop facilities. Please rest assured that your observations are valued, and we continually strive to enhance our offerings to ensure our guests' satisfaction.We look forward to welcoming you again in the future for another enjoyable stay.Sincerely,  Giorgia F.  Hospitality Supervisor - 1926 Collection",
+      "rate": 5,
+      "tripDate": "October 2025",
+      "tripType": "Traveled with friends"
+    },
+    {
+      "title": "Pleasant experience and professional staff",
+      "text": "Very nice hotel with a lot of potential but the services offered have reserved us some surprises. The location is very nice, the deluxe rooms are quite large and the breakfast is good (15 euros per person if not included in the overnight price).Cleanliness of the rooms was initially approximate.The two pools available, one in the spa and one on the rooftop, did not have the temperature that was indicated in the hotel description. They then explained that they had experienced technical problems.The spa is not very large and can hold about 10 people to maintain a comfortable situation.We decided to do the Roman route in the building in front (also of the hotel) with pools of heated water at different temperatures but it is a service that is given to you for a fee.Our choice of hotel had been made especially for the services.After writing to the hotel, reporting the various situations observed, the staff immediately took action to try to understand and come against us. I have to put a positive note to the reception manager, Mr. Ra Patrizia, who was very keen to meet x a confrontation and make us directly her apology for what happened. You can see in the staff the utmost attention and care that is given to customers and any observation or report that is made, trying in every way to solve the problem or find alternatives.Also all the staff was attentive and helpful in every aspect.The rooms were cleaned with further inspection by an attendant and offered us options x apologize for the inconveniences.We also carried out treatments at the spa (e.g. winter wonderland). Beautiful experience with two masseurs (a man and a woman) very professional and very good. Congratulations, really.We thank all the staff for the pleasant holiday in MaltaDear Valentina,Thank you for taking the time to share your detailed feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you appreciated our beautiful location, the spaciousness of the deluxe rooms, and the quality of our breakfast offerings. Furthermore, your kind words regarding the professionalism and attentiveness of our staff, particularly Ms. Patrizia and the spa team, are truly valued.We also acknowledge your observations concerning the initial standards of room cleanliness, the temperature of the pools, and the size and services of the spa. Please rest assured that your constructive comments have been duly noted, and we are committed to ongoing enhancements in order to provide a consistently high level of service for our guests.Your feedback is invaluable to us as we strive for continuous improvement. We would be pleased to welcome you again in the future, and we hope to have another opportunity to exceed your expectations.Sincerely,  Giorgia F.  Hospitality Team – 1926 Collection",
+      "rate": 5,
+      "tripDate": "January 2026",
+      "tripType": "Traveled with friends"
+    },
+    {
+      "title": "Great hotel",
+      "text": "We stayed at the 1926 Le Soleil Hotel for five days during our stay in Malta. The hotel is very nice and has a great location, just a 5-minute walk from the ferry going to Valletta. Shops, restaurants, and a shopping center are also nearby. The hotel has three swimming pools: an indoor pool, a heated rooftop pool, and an outdoor pool, open only in the summer. Also, it offers to its guests a spa, sauna, steam room & gym. The hotel staff are very friendly, kind, and helpful. We stayed in a family room, which was clean, spacious, with a small balcony, and the beds were comfortable. Breakfast at the hotel was delicious and fresh. Furthermore, the hotel does not have its own parking lot. It is very difficult to find a free space near the hotel, especially during the day. The only option is private parking, which costs 7 euros per day. We loved our stay at the 1926 Le Soleil, I highly recommend this hotel, and would definitely choose it again if I were to return to MaltaDear Marta,Thank you for taking the time to share your experience at 1926 Le Soleil Hotel & Spa. We greatly appreciate your positive feedback regarding our convenient location, the variety of swimming facilities and wellness amenities, as well as the comfort and cleanliness of your family room. Your kind words about our team’s friendliness and the quality of our breakfast are especially valued.We also acknowledge your comments concerning the parking options available at our property. We understand the challenges you faced with on-street parking and appreciate your constructive input on this matter.Please be assured that we are continuously striving to enhance the experience for all our guests, and your observations are instrumental in guiding our ongoing improvements. We hope to have the pleasure of welcoming you back on your next visit to Malta.Best Regards,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 5,
+      "tripDate": "January 2026",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Travel with the family",
+      "text": "Excellent location, courteous and precise staff.Good value for money. Spa, pleasant, clean and comfortable gym. Hotel to recommendDear Alessandro,Thank you for taking the time to share your feedback regarding your recent family stay at 1926 Le Soleil Hotel & Spa. We are pleased to know that you appreciated our prime location, the professionalism of our staff, as well as the value for money. It is also gratifying to hear that you enjoyed our spa and found our gym facilities both clean and comfortable.Your recommendation is truly valued, and we remain dedicated to continually enhancing our services to ensure memorable experiences for all our guests. We sincerely hope to have the pleasure of welcoming you and your family back to our hotel in the future.Sincerely,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 5,
+      "tripDate": "January 2026",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Decent city style hotel, but where design takes priority over practicality. Better located hotels nearer to the sea",
+      "text": "Decent city style hotel, but where design takes priority over practicality.Stayed in a premium room with a small north east facing balcony, which was in the shade in Nov other than early morning.Large bedroom but no drawers for clothes - just a couple of shelves in the wardrobes.Large bathroom with 2 wash basins but nowhere to put wash bags etc. Electric shaving point over the toilet.King size bed but with double quilt.Poor bedroom lighting, being too dark to read at night.Number keypads to enter bedroom, but our key code didn’t work so we were given a normal key.Roof top terrace filled with just 12 very large sun beds (plus 4 cabanas) which you have to book in advance. Also a few tables and chairs.Rooftop terrace is shut after 6pmVery small bar and lounge area.Decent breakfast, although buffet could be warmer and very small cups mean people are constantly walking to and from the 2 hot drinks machines.Dining/ breakfast room tables very near to each other.No paper used in the hotel - all communications via the App, including room entrance number.Tiny safe too small for an IPadWall light rattled when there was movement in next bedroom Some noise at around 5.30am from deliveries etc.Some noise from building work in the area in the daytimeUp a steep hill (7/10 min walk) from the seafront so perhaps not ideal for those not physically fit.Better locations for hotels further along the seafront towards St Julian which have sea viewsDear Westmids,Thank you for taking the time to share your detailed feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We appreciate your recognition of our city-inspired design and the spaciousness of both the bedroom and bathroom facilities. We are also pleased to note your positive remarks about the breakfast offering.We regret to learn that certain aspects of your experience, such as the practicality of room furnishings, the functionality of bedroom lighting, and the ease of access to the rooftop terrace, did not fully meet your expectations. Additionally, we acknowledge your comments regarding the noise levels, the location relative to the seafront, and the digital communication approach within the hotel. Please be assured that your observations are invaluable to us, and we continuously strive to refine our services and amenities to better serve our guests’ needs.We sincerely hope to have the opportunity to welcome you back in the future and provide you with an enhanced experience.Best Regards,  Giorgia F.  Hospitality Team - 1926 Collection",
+      "rate": 3,
+      "tripDate": "November 2025",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Experience you would never wish to have",
+      "text": "The worst experience ever. In my eyes, 1926 Le Soleil is a place that should be avoided. The missing jewelry after the treatment in the property’s SPA says it all. My jewelry that apparently was never meant to be found despite all immediate steps and actions taken by me. Obviously, the hotel claimed that the CCTV cameras were not functioning on that specific day, making any review of footage impossible. I tend to believe that ensuring that security systems are operational is clearly the hotel’s responsibility, not their guest’s, yet I was made to feel as though raising the issue was unjustified or unfair. Ultimately, the management chose to defend their position and company’s policy rather than take further actions, offer accountability, or even provide an apology. As a guest, I was left feeling dismissed and neglected, despite being the victim.",
+      "rate": 1,
+      "tripDate": "November 2025",
+      "tripType": "Traveled on business"
+    },
+    {
+      "title": "A great place to stay",
+      "text": "We had a lovely stay beginning with a very warm welcome and help bringing in our luggage in pouring rain, which was greatly appreciated. From then on the level of care and help was consistent, ensuring our stay was a pleasurable one. The hotel is conveniently situated for the sea fronts and facilities offered by Tower Road, Tigne Point and The Strand, including the short hop ferry over to Valletta. Our room was spacious and very comfortable and breakfast in the Margaux was something to look forward to with a very good selection including delicious local pastizzi. Happy to recommend this hotel and would gladly stay again.Dear Chris,Thank you for taking the time to share your positive experience at 1926 Le Soleil Hotel & Spa. We are delighted to hear that you appreciated the warm welcome and attentive assistance upon your arrival, as well as the consistent level of care provided throughout your stay. It is also gratifying to know that our convenient location and comfortable accommodations contributed to your enjoyment, and that you found the breakfast selection at Margaux, especially the local pastizzi, to be a highlight.We are committed to maintaining high standards of service and continually seek ways to enhance the guest experience based on valuable feedback such as yours. We sincerely hope to have the pleasure of welcoming you back on your future visits.Best Regards,  Giorgia F.  Hospitality Supervisor - 1926 Collection",
+      "rate": 5,
+      "tripDate": "December 2025",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "First and last visit.",
+      "text": "The rooms are uncomfortable. The beds are constantly moving, causing your back to tip over, the bed slides, the pillow falls, and you have to get up and straighten the bed. Bathroom is like shower is the summer village home, not done in a proper way.Dear Alimzhan,Thank you for taking the time to share your impressions following your stay at 1926 Le Soleil Hotel & Spa. We regret to learn that you found the room and bedding arrangements uncomfortable, and that the bathroom facilities did not meet your expectations. Your feedback regarding the movement of the beds and the overall bathroom design is invaluable to us as we strive to enhance the guest experience.Please be assured that your comments will be carefully reviewed as part of our ongoing commitment to continuous improvement. We sincerely hope you will consider giving us another opportunity in the future to provide a more comfortable and satisfying stay.Sincerely,  Giorgia F.  Hospitality Supervisor - 1926 Le Soleil Hotel & Spa",
+      "rate": 2,
+      "tripDate": "December 2025",
+      "tripType": "Traveled on business"
+    },
+    {
+      "title": "Clean, modern, quiet hotel with a great location!",
+      "text": "The hotel is beautiful. It's a 5 minute walk to the Valletta ferry and countless cafes. The cappuccino in the bar is delicious! Santiago at the front desk really made our experience special from check in to checkout. The rooms are comfortable, clean, and modern. The neighborhood is quiet. It's a great value! The spa is included and the location is phenomenal. I can't wait to book the next trip here and bring my family!Dear Laura,Thank you for taking the time to share your feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you appreciated the cleanliness, modern design, and tranquillity of our hotel, as well as our advantageous location close to the Valletta ferry and local cafes. It is also gratifying to know that our team member Santiago contributed positively to your overall experience, and that you enjoyed the amenities such as the bar and spa.Your recognition of the comfortable rooms and the overall value you found in your stay is sincerely appreciated. Please be assured that your kind comments motivate us to maintain our high standards and continuously enhance the guest experience.We look forward to welcoming you and your family on your next visit, and hope to provide another memorable stay.Best Regards,  Giorgia F.  Hospitality Supervisor - 1926 Le Soleil Hotel & Spa",
+      "rate": 5,
+      "tripDate": "November 2025",
+      "tripType": "Traveled with friends"
+    },
+    {
+      "title": "Nice hotel, a bit old, with fantastic staff",
+      "text": "The hotel is well equipped but quite old. The maintenance has been carried out a bit unlovingly.Unfortunately no cupboards in the room, but only shelves, so the suitcases are visible in the room.Nice spa/wellness area, reasonable gym.The staff is extremely friendly, extremely helpful! Soheil and Girish in particular did a fantastic job in the restaurant area!Dear Sören,Thank you for taking the time to share your feedback of your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you appreciated our well-equipped facilities, the relaxing spa and wellness area, as well as the professionalism and dedication demonstrated by our staff, particularly Soheil and Girish in the restaurant.We acknowledge your observations regarding the overall condition of the property and the room furnishings. Your feedback about the maintenance and storage options is invaluable, and we understand how these aspects may have impacted your experience. Please rest assured that we are committed to continually enhancing our facilities and services, and guest insights such as yours are essential in guiding our ongoing improvements.We sincerely hope to have the opportunity to welcome you back in the future and provide you with an even more enjoyable stay.Best regards,  Giorgia F.  Hospitality Supervisor - 1926 Le Soleil Hotel & Spa",
+      "rate": 5,
+      "tripDate": "October 2025",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Excellent hotel",
+      "text": "We loved our stay here and I am happy to give an excellent review. The staff, without exception, were the best I’ve ever experienced. Every morning we were met with a smile and a chat about our day. Breakfast provided plenty of variety to suit everyone and the service was efficient and personal - my elderly mother was given a wee pot of tea each morning without having to ask (after the first morning) - a nice touch!The rooms were comfortable, with Nespresso machine, shampoo, gel, shower cap, bottled water all provided. As previously stated there was no wardrobe or drawers, but enough hanging space and shelving to suffice. Housekeeping kept the rooms lovely daily and provided any extras we asked for as well as a few wee treats at turndown. Sweet 💞The spa absolutely made the visit complete for me - I used it every day. Very tranquil and a real haven in a busy world. Dinner in the hotel was excellent and good value. The hotel was located conveniently for the ferries and the hop on hop off buses and there were plenty of restaurants around to choose from. Not the prettiest area but that is nothing to do with the hotel!All amenities were bookable online but if you prefer a human to talk to that was no problem. Handy to have a code for the room rather than a key. All in all a great hotel to stay in and if you are visiting Sliema, would not hesitate to recommend this hotel. Thank you to all the staff for making our holiday so special.Dear Suzi,Thank you for taking the time to share your detailed and generous feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are truly grateful for your kind words about our team; it is wonderful to know that their attentive and warm approach contributed significantly to your positive experience. We are also pleased that you enjoyed the variety and quality of our breakfast offerings, as well as the thoughtful touches extended to your mother. Your appreciation for the comfort of our rooms and the special attention from our housekeeping team is greatly valued.We are delighted that the spa facilities provided you with a tranquil retreat during your visit, and that you found our dining options and location to your satisfaction. We acknowledge your note regarding storage in the rooms and the surroundings outside the hotel, and we appreciate your understanding in these matters. Your observations help us to reflect and continue enhancing our guest experience.Your recommendation is highly appreciated and serves as motivation for our ongoing commitment to excellence. We sincerely hope to welcome you back to our property whenever your travels bring you to Sliema again.Best Regards,  Giorgia F.  Hospitality Supervisor - 1926 Le Soleil Hotel & Spa",
+      "rate": 5,
+      "tripDate": "November 2025",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Faultless",
+      "text": "We thoroughly enjoyed our stay at 1926. Our room was spacious, with a small terrace. The cleaning staff were great, and would do more than one check a day to ensure you have enough tea/coffee/milk/towels. Happy hour in the hotel bar is excellent value and the cocktails are really well made.As with the cleaners, all the hotel staff were extremely helpful and friendly. Special mention to Santiago on the front desk. From beginning to end of our stay there wasn’t anything that was too much trouble. He was so friendly and polite and showed a real interest in how we were finding our stay in Malta.Dear Sov13v,Thank you for taking the time to share your feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you found your room comfortable and spacious, and that you appreciated the attention to detail from our housekeeping team. It is also wonderful to hear that you enjoyed the excellent value and quality of our happy hour, and that you found the cocktails to your satisfaction.We are especially pleased to know that the helpfulness and friendliness of our staff contributed positively to your experience, with particular recognition for Santiago at the front desk. Your kind comments will certainly be shared with the team, as they serve as great motivation for us to maintain high standards of service.We are committed to continually enhancing our guests’ experiences, and your feedback is invaluable in this regard. It would be our pleasure to welcome you back on your next visit to Malta.Best Regards,  Giorgia F.  Senior Hospitality Agent - 1926 Le Soleil Hotel & Spa",
+      "rate": 5,
+      "tripDate": "November 2025",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Nice hotel with nice staff",
+      "text": "Very tasty breakfast. Room nice u clean.Friendly staff u super service For a city hotel pool right on the seafront terrific.Unfortunately, you had to book extra for pool on roof terrace.Dear Lisa,Thank you for sharing your valuable feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are delighted to learn that you appreciated the stylish ambiance of our hotel, the cleanliness and comfort of your room, as well as the courteous service provided by our team. It is also wonderful to hear that you enjoyed the breakfast offerings and the unique experience of our pool by the sea.We have taken note of your comments regarding the additional booking required for the rooftop terrace pool. Your observations are important to us, and we continuously review our amenities and services to enhance our guests’ experience. Please rest assured that we value your input as we strive to improve with every visit.We hope to have the pleasure of welcoming you again in the future.Best Regards,  Giorgia F.  Hospitality Supervisor - 1926 Le Soleil Hotel & Spa",
+      "rate": 5,
+      "tripDate": "November 2025",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Very pleasant stay",
+      "text": "Nice location close to ferry and bus stations, .Good breakfast.very nice pool but not as in the pictures, you have to walk a little to access it.Dear Imen,Thank you very much for sharing your feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are pleased to hear that you appreciated our convenient location near the ferry and bus stations, enjoyed the breakfast offerings at Margaux Restaurant , and found the swimming pool to be a highlight of your visit.We have noted your observation regarding the pool's appearance compared to the photos and the short walk required to access it. Your comments are invaluable to us as we strive to ensure our guests have an accurate understanding of our facilities and continue to improve our services.We sincerely hope to welcome you back for another enjoyable stay in the future.Best regards,  Giorgia F.  Senior Hospitality Agent – 1926 Le Soleil Hotel & Spa",
+      "rate": 4,
+      "tripDate": "July 2025",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Lovely hotel",
+      "text": "Overall we enjoyed our stay at this hotel. It is an ideal location for getting into Sliema and Valletta. Close to lots of shops, bars and eateries. We had room 118, which was a basic room and was fine but we did have some slight issues. It was quite a small room, which was to be expected, but we did have plenty of storage with a big double wardrobe. We had a balcony with chairs but couldn’t really use it as it was completely built up with other buildings/apartments all around it. It was very ugly. As our room was on the first floor, which had an open balcony down into reception and the bar, there was a lot of noise constantly. The hotel room door could do with some kind of sound proofing to combat this. On the first night we noticed that when the shower was in use, the drain was clearly blocked and so water was flooding out of the bathroom and into the main bedroom. This has clearly been happening for some time as there was water damage to the bathroom door. We did report this twice on the app and had someone from maintenance come to have a look, but they just told us they had unblocked the drain. It never resolved, we just had to use the shower on half-pressure so the drains could cope. In the room, the bed was very comfortable, coffee and tea was available and replenished daily and upon request if needed. There was a small fridge and AC. The cleaners also did a great job. The whole hotel was very clean and well looked after. One thing we weren’t sure about before we went was that we could rent beach/swimming towels - so that is useful to know. We heard the beach club a couple of times during our stay, which was on a server-come first-served basis, but we never saw it get too full that there were no beds spare. It wasn’t quite as luxurious as the photos but was still nice. A little annoying that you aren’t allowed to eat or drink food from outside of the hotel there though. Not even water. We tried the rooftop pool once - it took us 3 days to be able to secure a booking. The sun beds were really uncomfortable so we didn’t stay long. We tried one of the gazebos one afternoon and they were much better and more private, but just away from the pool. The booking system could really do with being reviewed as it was difficult to book, and when we went up to the rooftop we realised people weren’t even using the sunbeds there. When we got there we were also told our booking had been cancelled - even though we hadn’t cancelled it. We did like the system of having a door code on the app, it saved having to carry a key around and would be easier if a family was staying in one room but doing separate things. We used the spa twice, which was nice but basic. It was very busy both times. We used the lobby bar a couple of evenings and that was very nice. Very friendly staff. Overall a lovely stay and I would recommend to others. There were just a few little things that could’ve made it better for us.Dear Kate,Thank you for taking the time to share your detailed feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are pleased to learn that you appreciated our convenient location, the comfort of your bed, and the cleanliness maintained throughout our property. It is also gratifying to know that you enjoyed our lobby bar and the attentive service provided by our staff.We acknowledge your comments regarding the noise levels in your room, the balcony view, and the drainage issue you experienced during your stay. Please accept our apologies for any inconvenience caused. Your observations concerning the booking system for La Terrasse rooftop pool and the comfort of the sunbeds have also been noted. We appreciate your remarks about the spa’s capacity and the beach club's policies. Your feedback provides valuable insight as we continually strive to improve our facilities and services for all our guests.We are committed to enhancing the guest experience and your suggestions will be shared with the relevant departments for further review. We hope to welcome you back in the future and provide you with an even more enjoyable stay.Best regards, Giorgia F.  Senior Hospitality Agent - 1926 Le Soleil Hotel & Spa",
+      "rate": 4,
+      "tripDate": "November 2025",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "We were upgraded, so delighted with every aspect of this hotel",
+      "text": "This hotel was more than excellent, the staff are so nice, the facilities are top class, the food -OMG, we would so recommend it.Dear Guest,Thank you very much for your glowing review and for sharing your experience at 1926 Le Soleil Hotel & Spa. It is truly rewarding to learn that you appreciated the complimentary upgrade, found our facilities to be of the highest standard, and enjoyed the quality of our cuisine. We are also grateful for your kind words regarding our dedicated team.Your enthusiastic recommendation means a great deal to us. Please be assured that we continuously strive to enhance every aspect of our guests’ experience, and your feedback motivates us to maintain these high standards.We sincerely hope to have the pleasure of welcoming you back in the future.Best regards,  Giorgia F.  Senior Hospitality Agent – 1926 Le Soleil Hotel & Spa",
+      "rate": 5,
+      "tripDate": "November 2025",
+      "tripType": "Traveled as a couple"
+    },
+    {
+      "title": "Santiago from reception is star ⭐️  Staff is real treasure ❤️⭐️",
+      "text": "The Heart of This Hotel Is Amazing Staff ❤️”The best thing about this hotel was without a doubt the people who work here. They took care of us far beyond our expectations.I want to give a special mention to Santiago from the reception, who is, in my opinion, the true heart of the hotel ❤️ His friendly and genuine attitude isn’t forced — it’s real and from the heart.Also, the breakfast team deserves a huge thank you, especially Shaíesh, Girish, Sohel, and Fahim ⭐️ — they made every morning such a pleasure!And Sofia from the Beach Club was so friendly and always smiling — a true professional.These people are the biggest treasure of the hotel. Even if something isn’t perfect, they’re the ones who make everything right again — and they do it with kindness and a smile.When we arrived, I wasn’t happy with room 1003. It felt a bit empty, and the fridge didn’t smell nice. I think the more spacious rooms could use a few more decorations to feel cozier.The room also didn’t look like the one we had booked — but the next day, Santiago changed our room to 812, the one we had chosen when making the reservation.That completely changed our stay — it made all the difference!A small downside for families is that children under 16 can’t access Le Terrasse, and you also have to book the rooftop pool in advance. There’s a limited time slot for children in the spa too, which is a pity since the hotel isn’t adults-only.The Beach Club was a bit of a disappointment — it looked more luxurious in the photos than in reality.Still, despite a few small downsides, I would absolutely recommend this hotel because of the exceptional and heartfelt service.Thanks to these amazing employees, we would definitely come back ❤️Also, a big thank you for the Vintage Tour led by Santiago — it was free for guests and such a lovely experience!Breakfast was similar each day, but there’s plenty to choose. The breakfast service is outstanding, and the staff there truly deserve a special thank you.Even though I’ve mentioned some negatives, they’re not meant as criticism — just honest feedback on what could be improved.Thank you again, and we’ll definitely be back — as long as these wonderful people are still part of the team! 🙏❤️Dear Lenka,Thank you very much for your thoughtful and detailed review of your recent stay at 1926 Le Soleil Hotel & Spa. We are truly grateful for your kind words regarding our team, especially Santiago at reception, as well as Shaíesh, Girish, Sohel, Fahim, and Sofia. It is wonderful to know that their genuine hospitality, professionalism, and dedication made such a positive impact on your experience. We are also delighted that you enjoyed the breakfast selection and appreciated the complimentary Vintage Tour led by Santiago.We note your feedback regarding your initial room assignment and the condition of the fridge, as well as your suggestions for enhancing the atmosphere in our more spacious rooms. Additionally, we acknowledge your comments about the access restrictions for children at Le Terrasse, the need to book the rooftop pool in advance, limited spa time slots for younger guests, and your impressions of the Beach Club. Please be assured that we value your observations, and your feedback will inform our ongoing efforts to improve the guest experience.We remain committed to delivering exceptional service and continually enhancing our facilities, so that each visit is even more enjoyable than the last. We sincerely hope to welcome you back in the future and provide another memorable stay.Best Regards,  Giorgia F.  Senior Hospitality Agent - 1926 Le Soleil Hotel & Spa",
+      "rate": 5,
+      "tripDate": "October 2025",
+      "tripType": "Traveled with family"
+    },
+    {
+      "title": "Modern hotel  in Built up area",
+      "text": "The Hotel is in quite a built up area so not very scenic and a 10 minute walk to the pool over the seaWhen you arrive it was quite complicated as you had to download an app to obtain your room security code If you can upgrade your room as the standard rooms are really tiny with the smallest of balcony’sThe hotel is very clean and the staff are all very pleasant Breakfast was good with lots of choiceDear Kazmac,Thank you for taking the time to share your detailed feedback regarding your recent stay at 1926 Le Soleil Hotel & Spa. We are pleased to know that you found our hotel to be modern, appreciated the cleanliness of our facilities, and enjoyed the variety and quality of our breakfast offerings. It is also gratifying to hear that our staff made a positive impression during your visit.We have taken note of your remarks concerning the surrounding area, the app-based check-in process, and the room size. We understand that these aspects may have impacted your overall experience, and we value your observations as they help us identify areas for potential enhancement. Please be assured that your feedback is important to us as we continually strive to improve the comfort and convenience we offer our guests.We hope to have the opportunity to welcome you back in the future and provide an even more enjoyable stay.Sincerely,  Giorgia F.  Hospitality Supervisor - 1926 Collection",
+      "rate": 4,
+      "tripDate": "October 2025",
+      "tripType": "Traveled as a couple"
+    }
+  ]
+}

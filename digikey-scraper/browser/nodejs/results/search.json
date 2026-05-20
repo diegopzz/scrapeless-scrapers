@@ -1,0 +1,50 @@
+[
+  {
+    "id": "687",
+    "categoryName": "Instrumentation, Op Amps, Buffer Amps",
+    "parentCategory": "Amplifiers",
+    "productCount": "132",
+    "categoryUrl": "/en/products/filter/instrumentation-op-amps-buffer-amps/687",
+    "imageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/280/629/296%3B-4040047-5%3B-D%3B-14_tmb.jpg"
+  },
+  {
+    "id": "797",
+    "categoryName": "Expansion Boards, Daughter Cards",
+    "parentCategory": "Evaluation Boards",
+    "productCount": "2",
+    "categoryUrl": "/en/products/filter/expansion-boards-daughter-cards/797",
+    "imageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/271/097/MFG_3191_tmb%2864x64%29.jpg"
+  },
+  {
+    "id": "658",
+    "categoryName": "Integrated Circuits (ICs) Kits",
+    "parentCategory": "Kits",
+    "productCount": "3",
+    "categoryUrl": "/en/products/filter/integrated-circuits-ics-kits/658",
+    "imageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/003/102/040/497-17565-KIT_tmb%2864x64%29.jpg"
+  },
+  {
+    "id": "100",
+    "categoryName": "Spacers, Standoffs",
+    "parentCategory": "Optoelectronics",
+    "productCount": "2",
+    "categoryUrl": "/en/products/filter/spacers-standoffs/100",
+    "imageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/001/176/770/LTM-400_tmb.jpg"
+  },
+  {
+    "id": "794",
+    "categoryName": "LED Driver Evaluation Boards",
+    "parentCategory": "Evaluation Boards",
+    "productCount": "1",
+    "categoryUrl": "/en/products/filter/led-driver-evaluation-boards/794",
+    "imageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/403/745/MFG_COM-13716_Bottom_tmb.jpg"
+  },
+  {
+    "id": "787",
+    "categoryName": "Evaluation and Demonstration Boards and Kits",
+    "parentCategory": "Evaluation Boards",
+    "productCount": "1",
+    "categoryUrl": "/en/products/filter/evaluation-and-demonstration-boards-and-kits/787",
+    "imageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/373/134/DLPDLCR2000EVM_tmb.jpg"
+  }
+]

@@ -1,0 +1,1 @@
+partial: product.json real; search.json empty (likely anti-bot block); shop.json 404 redirect to /jobs/ (sample URL /depopofficial/ no longer exists)

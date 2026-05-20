@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Four Points By Sheraton Hainan Qiongzhong",
+    "rating": 9.3,
+    "reviews": 1281,
+    "price_usd": 57,
+    "total_price_usd": 66,
+    "location_hint": "Near Baihua Bridge March 3 Square"
+  },
+  {
+    "name": "Hengxin Hotel",
+    "rating": 9.4,
+    "reviews": 153,
+    "price_usd": 25,
+    "discount_pct": 25,
+    "total_price_usd": 26,
+    "location_hint": "Near Qiongzhong Station March 3 Square"
+  },
+  {
+    "name": "Tianyi Hotel",
+    "rating": 9.3,
+    "reviews": 408,
+    "price_usd": 33,
+    "discount_pct": 45,
+    "total_price_usd": 35,
+    "location_hint": "Near March 3 Square Qiongzhong Station"
+  },
+  {
+    "name": "Lavande Hotels (Qiongzhong Bus Station Branch)",
+    "rating": 9.3,
+    "reviews": 770,
+    "price_usd": 28,
+    "discount_pct": 5,
+    "total_price_usd": 30,
+    "location_hint": "Near March 3 Square Qiongzhong Station"
+  },
+  {
+    "name": "Baihualing ShanShui Village Hotel",
+    "rating": 9.3,
+    "reviews": 129,
+    "price_usd": 83,
+    "total_price_usd": 88,
+    "location_hint": "Near Hai Nan Bai Hua Ling Nantianmen Tropical Rainforest Park"
+  },
+  {
+    "name": "Bengenei Hotel",
+    "rating": 9.0,
+    "reviews": 148,
+    "price_usd": 25,
+    "total_price_usd": 26,
+    "location_hint": "Near Qiongzhong Station March 3 Square"
+  },
+  {
+    "name": "Qiongzhong Benhao Business Hotel",
+    "rating": 9.4,
+    "reviews": 385,
+    "price_usd": 20,
+    "discount_pct": 37,
+    "total_price_usd": 21,
+    "location_hint": "Near Qiongzhong Station March 3 Square"
+  },
+  {
+    "name": "Yonghe Hotel",
+    "rating": 8.9,
+    "reviews": 152,
+    "price_usd": 24,
+    "total_price_usd": 26,
+    "location_hint": "Near Qiongzhong Station March 3 Square"
+  }
+]

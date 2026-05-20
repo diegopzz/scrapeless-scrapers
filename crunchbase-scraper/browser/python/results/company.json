@@ -1,0 +1,179 @@
+{
+  "organization": {
+    "description": "Tesla develops and manufactures electric vehicles and related technologies. The company produces its own branded vehicles and operates showrooms for direct sales. Tesla also supplies electric powertrain components and systems to other automotive manufacturers. Its product lineup supports various use cases in personal and commercial transportation.",
+    "linkedin": {
+      "value": "https://www.linkedin.com/company/tesla-motors"
+    },
+    "twitter": {
+      "value": "https://x.com/Tesla"
+    },
+    "website": {
+      "value": "https://www.tesla.com"
+    },
+    "ipo_status": "public",
+    "rank_org_company": 2240,
+    "semrush_visits_latest_month": 33804538,
+    "categories": [
+      {
+        "uuid": "bb2ad65f-1009-db81-c6f6-83dbcfd64870",
+        "value": "Automotive",
+        "image_id": "70b9211be4744e26936e45db0b986706",
+        "permalink": "automotive",
+        "entity_def_id": "category"
+      },
+      {
+        "uuid": "3f4ebc8c-8d6d-623c-099b-4b3a437d98db",
+        "value": "Electric Vehicle",
+        "image_id": "4dbd89bf80ff44f8862ef6edb4e7d346",
+        "permalink": "electric-vehicle",
+        "entity_def_id": "category"
+      },
+      {
+        "uuid": "0ff04f3a-4264-226a-9c03-a481554b637d",
+        "value": "Energy",
+        "image_id": "a37d3a8ad0f8428d993c84dac3d61375",
+        "permalink": "energy-0ff0",
+        "entity_def_id": "category"
+      },
+      {
+        "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+        "value": "Manufacturing",
+        "image_id": "5084654e06b74f8e91be2b078888e701",
+        "permalink": "manufacturing",
+        "entity_def_id": "category"
+      },
+      {
+        "uuid": "e531be19-46aa-fb4e-354e-79b05ae1802a",
+        "value": "Renewable Energy",
+        "image_id": "7e7312d80f24449a8429800e94adeac8",
+        "permalink": "renewable-energy",
+        "entity_def_id": "category"
+      },
+      {
+        "uuid": "95642ff0-23e9-79a3-612b-50de99f06305",
+        "value": "Transportation",
+        "image_id": "df94c7e21c8648cabd5c8fb42a2fc129",
+        "permalink": "transportation",
+        "entity_def_id": "category"
+      }
+    ],
+    "legal_name": "Tesla, Inc.",
+    "operating_status": "active",
+    "last_funding_type": "post_ipo_debt"
+  },
+  "employees": [
+    {
+      "name": "Andrew Romanovich",
+      "linkedin": "andrew-romanovich-221893b4",
+      "job_levels": [
+        "l_100_individual",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management"
+      ]
+    },
+    {
+      "name": "Anthony (A.J.) Graybill",
+      "linkedin": "ajgraybill",
+      "job_levels": [
+        "l_100_individual",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management",
+        "operations"
+      ]
+    },
+    {
+      "name": "Ashley Gustafson",
+      "linkedin": "ashley-gustafson-62b33560",
+      "job_levels": [
+        "l_200_manager",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management",
+        "operations"
+      ]
+    },
+    {
+      "name": "Beau Snyder",
+      "linkedin": "beau-snyder-b71b0aa1",
+      "job_levels": [
+        "l_100_individual",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management"
+      ]
+    },
+    {
+      "name": "Emilie Bruce",
+      "linkedin": "emilie-bruce-13904710",
+      "job_levels": [
+        "l_100_individual",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management",
+        "operations"
+      ]
+    },
+    {
+      "name": "Eric Mack",
+      "linkedin": "eric-mack-a27954",
+      "job_levels": [
+        "l_300_director",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management"
+      ]
+    },
+    {
+      "name": "Filipe Henrique",
+      "linkedin": "filipe-henrique-667301102",
+      "job_levels": [
+        "l_100_individual",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management"
+      ]
+    },
+    {
+      "name": "Ira Ehrenpreis",
+      "linkedin": "iraehrenpreis",
+      "job_levels": [
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "management"
+      ]
+    },
+    {
+      "name": "Jaime Bodiford",
+      "linkedin": "jaimebodiford",
+      "job_levels": [
+        "l_100_individual",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "human_resources"
+      ]
+    },
+    {
+      "name": "Jt Boone",
+      "linkedin": "jt-boone-62364411",
+      "job_levels": [
+        "l_100_individual",
+        "l_500_exec"
+      ],
+      "job_departments": [
+        "legal",
+        "management"
+      ]
+    }
+  ]
+}

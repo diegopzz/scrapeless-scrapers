@@ -1,0 +1,9 @@
+Phase-2B live CLI run (2026-05-17)
+Scraper: immowelt-scraper
+Result: partial
+
+Notes:
+- properties.json: real (~24KB) — single expose extracted cleanly.
+- search.json: `[]` across 4 attempts — classified-search results not visible
+  to the cloud browser (likely anti-bot wall or DOM rewrite).
+- run.sh and eval/*.js intentionally not modified per agent constraints.

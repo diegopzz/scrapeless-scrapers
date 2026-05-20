@@ -1,0 +1,160 @@
+[
+  {
+    "id": null,
+    "url": null,
+    "title": "Just a moment...",
+    "address": null,
+    "price": {
+      "amount": null,
+      "currency": "£"
+    },
+    "gallery": [],
+    "epcRating": null,
+    "floorArea": null,
+    "numOfReceptions": null,
+    "numOfBathrooms": null,
+    "numOfBedrooms": null,
+    "propertyTags": [],
+    "propertyInfo": [],
+    "propertyDescription": [],
+    "coordinates": {
+      "googleMapeSource": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "nearby": [],
+    "agent": {
+      "name": null,
+      "logo": null,
+      "url": null
+    }
+  },
+  {
+    "id": 71411815,
+    "url": "https://www.zoopla.co.uk/new-homes/details/71411815/",
+    "title": "Somerset Road, West Ealing W13, New home, 3 bed maisonette for sale, £725,000 - Zoopla",
+    "address": "Somerset Road, West Ealing W13",
+    "price": {
+      "amount": 725000,
+      "currency": "£"
+    },
+    "gallery": [
+      "https://lid.zoocdn.com/u/1024/768/02ce81bf9288556a89ca01c356f5891fb2e8ff6b.jpg 768w"
+    ],
+    "epcRating": "EPC Rating: C",
+    "floorArea": "(£577/sq. ft)",
+    "numOfReceptions": 1,
+    "numOfBathrooms": 3,
+    "numOfBedrooms": 3,
+    "propertyTags": [
+      "3 beds",
+      "3 baths",
+      "1 reception",
+      "1,256 sq. ft",
+      "EPC Rating: C"
+    ],
+    "propertyInfo": [
+      {
+        "title": "Tenure",
+        "value": "Leasehold (999 years)"
+      },
+      {
+        "title": "Service charge",
+        "value": "£1,450 per year"
+      },
+      {
+        "title": "Council tax band",
+        "value": "Ask agent"
+      },
+      {
+        "title": "Ground rent",
+        "value": "Ask agent"
+      },
+      {
+        "title": "Ground rent date of next review",
+        "value": "Ask agent"
+      }
+    ],
+    "propertyDescription": [
+      "",
+      "En Suite",
+      "",
+      "Large Patio",
+      "",
+      "Communal garden",
+      "",
+      "Terrace",
+      "",
+      "Central heating",
+      "",
+      "Double glazing",
+      "",
+      "Wood floors",
+      "",
+      "Self Contained Maisonette",
+      "",
+      "Master with En-Suite",
+      "",
+      "Underfloor Heating",
+      "",
+      "Luxury Finishes"
+    ],
+    "coordinates": {
+      "googleMapeSource": "https://maps.prod.zoopla.co.uk/styles/portal/static/-0.315167,51.508279,13/480x160@2x.webp?marker=-0.315167%2C51.508279%7Cmap-static-pin-purple-76.png%7Cscale%3A0.5&Expires=1778771906&Key-Pair-Id=K12772E47ES84B&Signature=akl-DgiufE1oWNXj-1L05jujCxv7OZN2GNc6gP4wAL4Y2wcXDzrs9MItRNLu9ZIt7uA22tblaQmu6npT63XqPrnp89DliGn8nJHOetuR7BNG~kA~FRUeJJ0oPjdHRabjt5ELKELQv-~woo9TTDVB7002m3s0~gFdHE8hcpS9nLz2W-Ekh-gZp5Ks4IFXlRc0514V2vrqROttOOtEDn0v1lalqfNaxzpGOq67YOCuTOiKcUZkxpgyx9pCjGhImgeMIUvQhuDXSiwhQAdlhqGtcE9RdbfoxOjSUGxF-do9LKUda1ab5t-a65v25c9CJZ34RKPqc1GsEzIsODCMgdjqNQ__ 1024w",
+      "latitude": -0.315167,
+      "longitude": 51.508279
+    },
+    "nearby": [
+      {
+        "title": null,
+        "distance": null,
+        "unit": null
+      },
+      {
+        "title": null,
+        "distance": null,
+        "unit": null
+      },
+      {
+        "title": null,
+        "distance": null,
+        "unit": null
+      }
+    ],
+    "agent": {
+      "name": "June Estates",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(762494).png",
+      "url": "https://www.zoopla.co.uk/find-agents/branch/june-estates-london-156183/"
+    }
+  },
+  {
+    "id": null,
+    "url": null,
+    "title": "New build homes and developments for sale in Gordon Road, London W5 - Zoopla",
+    "address": "Willow & Verde, 63-65 Gordon Road, London W5",
+    "price": {
+      "amount": 999950,
+      "currency": "£"
+    },
+    "gallery": [],
+    "epcRating": null,
+    "floorArea": "Elegantly designed and luxuriously spacious, this impressive 1,098 sq ft three bedroom split level apartment, situated on a ...",
+    "numOfReceptions": 3,
+    "numOfBathrooms": 3,
+    "numOfBedrooms": 3,
+    "propertyTags": [],
+    "propertyInfo": [],
+    "propertyDescription": [],
+    "coordinates": {
+      "googleMapeSource": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "nearby": [],
+    "agent": {
+      "name": null,
+      "logo": null,
+      "url": null
+    }
+  }
+]

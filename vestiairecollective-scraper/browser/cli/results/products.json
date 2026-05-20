@@ -1,0 +1,871 @@
+[
+  {
+    "id": "66935196",
+    "type": "product",
+    "name": "Jacket",
+    "price": {
+      "currency": "USD",
+      "cents": 103400,
+      "formatted": "$1,034"
+    },
+    "isLocal": true,
+    "description": "Monogram Padded Windbreaker\n\nThis hooded windbreaker from the Spring-Summer 2025 show elevates a classic piece of outerwear with a tone-on-tone embossed allover Monogram motif in an elegant sandy color. It is lightly padded for comfort while the lining adds a silky accent. This versatile piece brings a chic signature look to everyday ensembles.",
+    "likeCount": 4,
+    "path": "/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml",
+    "sold": false,
+    "reserved": false,
+    "negotiable": true,
+    "inStock": false,
+    "measurementFormatted": "Size: M International",
+    "receipt": false,
+    "available": true,
+    "consignment": false,
+    "prohibited": false,
+    "localizedDescription": "Monogram Padded Windbreaker\n\nThis hooded windbreaker from the Spring-Summer 2025 show elevates a classic piece of outerwear with a tone-on-tone embossed allover Monogram motif in an elegant sandy color. It is lightly padded for comfort while the lining adds a silky accent. This versatile piece brings a chic signature look to everyday ensembles.",
+    "originalDescription": "Monogram Padded Windbreaker\n\nThis hooded windbreaker from the Spring-Summer 2025 show elevates a classic piece of outerwear with a tone-on-tone embossed allover Monogram motif in an elegant sandy color. It is lightly padded for comfort while the lining adds a silky accent. This versatile piece brings a chic signature look to everyday ensembles.",
+    "originalDescriptionLanguage": "en",
+    "metadata": {
+      "title": "Jacket Louis Vuitton Camel size M International in Polyester - 66935196",
+      "description": "Buy your jacket Louis Vuitton on Vestiaire Collective, the luxury consignment store online. Jacket Louis Vuitton Camel in Polyester available for sale on Vestiaire Collective. 66935196",
+      "keywords": "Louis Vuitton Polyester Jackets "
+    },
+    "pricingBreakdown": {
+      "sellerPrice": {
+        "currency": "USD",
+        "cents": 89900,
+        "formatted": "$899"
+      },
+      "sellerEarning": {
+        "currency": "USD",
+        "cents": 87203,
+        "formatted": "$872.03"
+      },
+      "fullPrice": {
+        "currency": "USD",
+        "cents": 103400,
+        "formatted": "$1,034"
+      },
+      "buyerFees": {
+        "hasCrossBorderFees": true,
+        "name": "buyer-service",
+        "feeType": "percent",
+        "percent": {
+          "value": 0.15,
+          "formatted": "15%"
+        },
+        "amount": {
+          "currency": "USD",
+          "cents": 13500,
+          "formatted": "$135"
+        },
+        "includesAuthenticationFees": false
+      }
+    },
+    "descriptionTranslationProvider": "google",
+    "regularPrice": {
+      "currency": "USD",
+      "cents": 114900,
+      "formatted": "$1,149"
+    },
+    "sellerRegularPrice": {
+      "currency": "USD",
+      "cents": 99900,
+      "formatted": "$999"
+    },
+    "warehouse": {
+      "name": "empty",
+      "localizedName": "empty"
+    },
+    "pictures": [
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-1_2.jpg"
+      },
+      {
+        "alt": "Buy Louis Vuitton Jacket online",
+        "path": "66935196-2_2.jpg"
+      },
+      {
+        "alt": "Luxury Louis Vuitton Jackets Men",
+        "path": "66935196-3_2.jpg"
+      },
+      {
+        "alt": "Second hand Clothing Men",
+        "path": "66935196-4_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-5_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-6_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-7_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-8_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-9_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-10_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-11_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-12_2.jpg"
+      },
+      {
+        "alt": "Jacket Louis Vuitton",
+        "path": "66935196-13_2.jpg"
+      }
+    ],
+    "size": {
+      "id": "148",
+      "type": "size",
+      "size": "M",
+      "standard": "International",
+      "localizedStandard": "International"
+    },
+    "brand": {
+      "id": "17",
+      "type": "brand",
+      "name": "Louis Vuitton",
+      "localizedName": "louis vuitton",
+      "url": {
+        "original": "/louis-vuitton/",
+        "path": "/louis-vuitton/",
+        "url": "/louis-vuitton/"
+      }
+    },
+    "material": {
+      "id": "46",
+      "type": "material",
+      "name": "Polyester",
+      "localizedName": "Polyester"
+    },
+    "color": {
+      "id": "222",
+      "type": "color",
+      "name": "Camel",
+      "localizedName": "Camel"
+    },
+    "condition": {
+      "id": "9",
+      "type": "condition",
+      "description": "Never worn"
+    },
+    "universe": {
+      "id": "2",
+      "type": "universe",
+      "name": "Men",
+      "localizedName": "Men"
+    },
+    "category": {
+      "id": "39",
+      "type": "category",
+      "name": "Jackets",
+      "localizedName": "Jackets",
+      "parent": {
+        "id": "12",
+        "type": "category",
+        "name": "Clothing",
+        "localizedName": "Clothing"
+      }
+    },
+    "subcategory": {
+      "id": "136",
+      "type": "subcategory",
+      "name": "Jackets",
+      "localizedName": "Jackets"
+    },
+    "model": {
+      "id": "0",
+      "type": "model",
+      "name": "",
+      "localizedName": ""
+    },
+    "installment": {
+      "icon": "/payment-method/logo/affirm.png",
+      "name": "Affirm",
+      "iconPlaceholder": "{icon}",
+      "disclaimer": "",
+      "description": "Pay with Affirm on orders over $50. {icon}",
+      "mnemonic": "affirm",
+      "link": "https://www.affirm.com/apps/prequal/?public_api_key=D2FYAAX8YTGWLYZB&unit_price=100000&page_type=product&locale=en_US"
+    },
+    "buyersWhoHaveActiveNegotiation": [
+      "28837527"
+    ],
+    "seller": {
+      "id": "35408221",
+      "type": "user",
+      "firstname": "Ryan",
+      "username": "10seller909",
+      "hyperwalletActive": false,
+      "alreadyDepositedAProduct": false,
+      "mood": "",
+      "country": "United States",
+      "countryISO": "US",
+      "civility": {
+        "name": "miss",
+        "localizedName": "miss",
+        "idGender": 0
+      },
+      "language": {
+        "name": "United States",
+        "localizedName": "United States",
+        "code": "223"
+      },
+      "hasWallet": false,
+      "badges": [],
+      "statistics": {
+        "productsWished": 0,
+        "productsSold": 0,
+        "productsListed": 3,
+        "productsBought": 0,
+        "passRate": 0
+      },
+      "sellerRating": {
+        "badge": "Common",
+        "goals": {
+          "conformity": 0,
+          "cx": 0,
+          "shipping": 0,
+          "volume": 0,
+          "tags": {
+            "volume": false,
+            "conformity": false,
+            "shipping": false
+          }
+        },
+        "goalsThresholds": [
+          {
+            "category": "volume",
+            "max_value": 5,
+            "thresholds": [
+              {
+                "label": "Trusted",
+                "value": 2
+              },
+              {
+                "label": "Expert",
+                "value": 5
+              }
+            ]
+          },
+          {
+            "category": "conformity",
+            "max_value": 1,
+            "thresholds": [
+              {
+                "label": "Trusted",
+                "value": 0.8
+              },
+              {
+                "label": "Expert",
+                "value": 0.9
+              }
+            ]
+          },
+          {
+            "category": "shipping",
+            "max_value": 1,
+            "thresholds": [
+              {
+                "label": "Trusted",
+                "value": 0.8
+              },
+              {
+                "label": "Expert",
+                "value": 0.9
+              }
+            ]
+          }
+        ],
+        "achievementsGoals": [
+          {
+            "category": "volume",
+            "achievements": [],
+            "tip": "Sell 2 more items"
+          },
+          {
+            "category": "conformity",
+            "achievements": [],
+            "tip": "Ensure item descriptions conform to reality"
+          },
+          {
+            "category": "shipping",
+            "achievements": [],
+            "tip": "Ship your sold items within 5 days"
+          }
+        ]
+      },
+      "picture": {
+        "path": "/profil/35408221-f2e079181173d09aa8ce803b29a41055.jpg"
+      },
+      "vacation": {
+        "active": false,
+        "hasOngoingOrUpcomingVacation": false
+      },
+      "segment": "C2C"
+    },
+    "creationDate": "2026-05-13T08:50:20Z",
+    "meshLinks": {
+      "topCategory": {
+        "name": "Men Clothing",
+        "localizedName": "Men Clothing",
+        "url": {
+          "path": "/men-clothing/"
+        }
+      },
+      "category": {
+        "name": "Jackets ",
+        "localizedName": "Jackets ",
+        "url": {
+          "path": "/men-clothing/jackets/"
+        }
+      },
+      "categoryBrand": {
+        "name": "Louis Vuitton Jackets ",
+        "localizedName": "Louis Vuitton Jackets ",
+        "url": {
+          "path": "/men-clothing/jackets/louis-vuitton/"
+        }
+      },
+      "categoryBrandModelMaterial": {
+        "name": "Louis Vuitton Polyester Jackets ",
+        "localizedName": "Louis Vuitton Polyester Jackets ",
+        "url": {
+          "path": "/men-clothing/jackets/louis-vuitton/polyester/"
+        }
+      }
+    },
+    "alternateVersions": [
+      {
+        "language": "fr",
+        "path": "https://fr.vestiairecollective.com/vetements-homme/vestes-blousons/louis-vuitton/vesteblouson-louis-vuitton-en-polyester-camel-66935196.shtml"
+      },
+      {
+        "language": "x-default",
+        "path": "https://www.vestiairecollective.com/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml"
+      },
+      {
+        "language": "us",
+        "path": "https://us.vestiairecollective.com/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml"
+      },
+      {
+        "language": "en",
+        "path": "https://www.vestiairecollective.com/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml"
+      },
+      {
+        "language": "de",
+        "path": "https://de.vestiairecollective.com/herren-kleidung/jacken-blousons/louis-vuitton/kamel-polyester-louis-vuitton-jacken-66935196.shtml"
+      },
+      {
+        "language": "es",
+        "path": "https://es.vestiairecollective.com/hombre-ropa/chaquetas-cazadoras/louis-vuitton/chaqueta-louis-vuitton-de-poliester-camello-66935196.shtml"
+      },
+      {
+        "language": "it",
+        "path": "https://it.vestiairecollective.com/uomo-abbigliamento/giacche-giubbotti/louis-vuitton/giacca-giubbotto-louis-vuitton-cammello-poliestere-66935196.shtml"
+      },
+      {
+        "language": "ko",
+        "path": "https://kr.vestiairecollective.com/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml"
+      },
+      {
+        "language": "nl",
+        "path": "https://nl.vestiairecollective.com/heren-kleding/jassen/louis-vuitton/louis-vuitton-polyester-kameel-jasje-66935196.shtml"
+      },
+      {
+        "language": "hk",
+        "path": "https://hk.vestiairecollective.com/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml"
+      },
+      {
+        "language": "sv",
+        "path": "https://sv.vestiairecollective.com/herr-klader/jackor/louis-vuitton/louis-vuitton-kamel-polyester-jacka-66935196.shtml"
+      }
+    ],
+    "shouldBeGone": false,
+    "indexation": {
+      "index": true,
+      "follow": true,
+      "crawlPagination": false
+    },
+    "buyerFees": [
+      {
+        "rateType": "FLAT",
+        "value": 1500,
+        "description": "",
+        "cost": {
+          "currency": "USD",
+          "cents": 1500,
+          "formatted": "$15"
+        }
+      }
+    ],
+    "dutyAndTax": {
+      "currency": "USD",
+      "cents": 0,
+      "formatted": "$0"
+    },
+    "flags": [
+      "direct-shipping"
+    ]
+  },
+  {
+    "id": "66965047",
+    "type": "product",
+    "name": "Pochette Accessoire leather crossbody bag",
+    "price": {
+      "currency": "USD",
+      "cents": 34000,
+      "formatted": "$340"
+    },
+    "isLocal": true,
+    "description": "LOUIS VUITTON Pochette Women's Brown LV Monogram Canvas Purse Pouch Hand Bag\nGood used condition. Comes with an additional non-original chain strap. Bag was relined by professional leather repair shop.\n\n\n0505-452",
+    "likeCount": 56,
+    "path": "/women-bags/handbags/louis-vuitton/brown-leather-pochette-accessoire-louis-vuitton-handbag-66965047.shtml",
+    "sold": false,
+    "reserved": false,
+    "negotiable": true,
+    "inStock": false,
+    "measurements": [
+      {
+        "name": "Width",
+        "localizedName": "Width",
+        "value": "7.5"
+      },
+      {
+        "name": "Height",
+        "localizedName": "Height",
+        "value": "3.9"
+      },
+      {
+        "name": "Depth",
+        "localizedName": "Depth",
+        "value": "0.8"
+      }
+    ],
+    "measurementFormatted": "Width 7.5 in, Height 3.9 in, Depth 0.8 in",
+    "unit": "in",
+    "receipt": false,
+    "available": true,
+    "consignment": false,
+    "prohibited": false,
+    "localizedDescription": "LOUIS VUITTON Pochette Women's Brown LV Monogram Canvas Purse Pouch Hand Bag\nGood used condition. Comes with an additional non-original chain strap. Bag was relined by professional leather repair shop.\n\n\n0505-452",
+    "originalDescription": "LOUIS VUITTON Pochette Women's Brown LV Monogram Canvas Purse Pouch Hand Bag\nGood used condition. Comes with an additional non-original chain strap. Bag was relined by professional leather repair shop.\n\n\n0505-452",
+    "originalDescriptionLanguage": "en",
+    "metadata": {
+      "title": "Pochette accessoire leather crossbody bag Louis Vuitton Brown in Leather - 66965047",
+      "description": "Buy your pochette accessoire leather crossbody bag Louis Vuitton on Vestiaire Collective, the luxury consignment store online. Pochette accessoire leather crossbody bag Louis Vuitton Brown in Leather available for sale on Vestiaire Collective. 66965047",
+      "keywords": "Louis Vuitton Pochette Accessoire Handbags"
+    },
+    "pricingBreakdown": {
+      "sellerPrice": {
+        "currency": "USD",
+        "cents": 29500,
+        "formatted": "$295"
+      },
+      "sellerEarning": {
+        "currency": "USD",
+        "cents": 25075,
+        "formatted": "$250.75"
+      },
+      "fullPrice": {
+        "currency": "USD",
+        "cents": 34000,
+        "formatted": "$340"
+      },
+      "buyerFees": {
+        "hasCrossBorderFees": true,
+        "name": "buyer-service",
+        "feeType": "percent",
+        "percent": {
+          "value": 0.15,
+          "formatted": "15%"
+        },
+        "amount": {
+          "currency": "USD",
+          "cents": 4500,
+          "formatted": "$45"
+        },
+        "includesAuthenticationFees": false
+      }
+    },
+    "descriptionTranslationProvider": "google",
+    "warehouse": {
+      "name": "empty",
+      "localizedName": "empty"
+    },
+    "pictures": [
+      {
+        "alt": "Pochette Accessoire leather crossbody bag Louis Vuitton",
+        "path": "66965047-1_2.jpg"
+      },
+      {
+        "alt": "Buy Louis Vuitton Pochette Accessoire leather crossbody bag online",
+        "path": "66965047-2_2.jpg"
+      },
+      {
+        "alt": "Luxury Louis Vuitton Handbags Women",
+        "path": "66965047-3_2.jpg"
+      },
+      {
+        "alt": "Second hand Bags Women",
+        "path": "66965047-4_2.jpg"
+      },
+      {
+        "alt": "Pochette Accessoire leather crossbody bag Louis Vuitton",
+        "path": "66965047-5_2.jpg"
+      },
+      {
+        "alt": "Pochette Accessoire leather crossbody bag Louis Vuitton",
+        "path": "66965047-6_2.jpg"
+      },
+      {
+        "alt": "Pochette Accessoire leather crossbody bag Louis Vuitton",
+        "path": "66965047-7_2.jpg"
+      },
+      {
+        "alt": "Pochette Accessoire leather crossbody bag Louis Vuitton",
+        "path": "66965047-8_2.jpg"
+      },
+      {
+        "alt": "Pochette Accessoire leather crossbody bag Louis Vuitton",
+        "path": "66965047-9_2.jpg"
+      },
+      {
+        "alt": "Pochette Accessoire leather crossbody bag Louis Vuitton",
+        "path": "66965047-10_2.jpg"
+      }
+    ],
+    "brand": {
+      "id": "17",
+      "type": "brand",
+      "name": "Louis Vuitton",
+      "localizedName": "louis vuitton",
+      "url": {
+        "original": "/louis-vuitton/",
+        "path": "/louis-vuitton/",
+        "url": "/louis-vuitton/"
+      }
+    },
+    "material": {
+      "id": "3",
+      "type": "material",
+      "name": "Leather",
+      "localizedName": "Leather"
+    },
+    "color": {
+      "id": "8",
+      "type": "color",
+      "name": "Brown",
+      "localizedName": "Brown"
+    },
+    "condition": {
+      "id": "3",
+      "type": "condition",
+      "description": "Very good condition"
+    },
+    "universe": {
+      "id": "1",
+      "type": "universe",
+      "name": "Women",
+      "localizedName": "Women"
+    },
+    "category": {
+      "id": "59",
+      "type": "category",
+      "name": "Handbags",
+      "localizedName": "Handbags",
+      "parent": {
+        "id": "5",
+        "type": "category",
+        "name": "Bags",
+        "localizedName": "Bags"
+      }
+    },
+    "subcategory": {
+      "id": "203",
+      "type": "subcategory",
+      "name": "Crossbody bags",
+      "localizedName": "Crossbody bags"
+    },
+    "model": {
+      "id": "2049",
+      "type": "model",
+      "name": "Pochette Accessoire",
+      "localizedName": "Pochette Accessoire"
+    },
+    "installment": {
+      "icon": "/payment-method/logo/affirm.png",
+      "name": "Affirm",
+      "iconPlaceholder": "{icon}",
+      "disclaimer": "",
+      "description": "Pay with Affirm on orders over $50. {icon}",
+      "mnemonic": "affirm",
+      "link": "https://www.affirm.com/apps/prequal/?public_api_key=D2FYAAX8YTGWLYZB&unit_price=100000&page_type=product&locale=en_US"
+    },
+    "buyersWhoHaveActiveNegotiation": [
+      "18630834",
+      "20826489",
+      "30518640",
+      "31218842",
+      "35341470",
+      "35425226",
+      "35429100"
+    ],
+    "seller": {
+      "id": "18672901",
+      "type": "user",
+      "firstname": "SHOPINVTG",
+      "username": "christensen18672901",
+      "hyperwalletActive": false,
+      "alreadyDepositedAProduct": false,
+      "mood": "",
+      "country": "United States",
+      "countryISO": "AU",
+      "civility": {
+        "name": "miss",
+        "localizedName": "miss",
+        "idGender": 0
+      },
+      "language": {
+        "name": "United States",
+        "localizedName": "United States",
+        "code": "223"
+      },
+      "hasWallet": false,
+      "badges": [
+        "expert-seller",
+        "fashion-activist"
+      ],
+      "statistics": {
+        "productsWished": 0,
+        "productsSold": 963,
+        "productsListed": 45,
+        "productsBought": 0,
+        "passRate": 0
+      },
+      "sellerRating": {
+        "badge": "Expert",
+        "goals": {
+          "conformity": 0,
+          "cx": 0,
+          "shipping": 0,
+          "volume": 0,
+          "tags": {
+            "volume": true,
+            "shipping": true,
+            "conformity": true
+          }
+        },
+        "goalsThresholds": [
+          {
+            "category": "volume",
+            "max_value": 5,
+            "thresholds": [
+              {
+                "label": "Trusted",
+                "value": 2
+              },
+              {
+                "label": "Expert",
+                "value": 5
+              }
+            ]
+          },
+          {
+            "category": "conformity",
+            "max_value": 1,
+            "thresholds": [
+              {
+                "label": "Trusted",
+                "value": 0.8
+              },
+              {
+                "label": "Expert",
+                "value": 0.9
+              }
+            ]
+          },
+          {
+            "category": "shipping",
+            "max_value": 1,
+            "thresholds": [
+              {
+                "label": "Trusted",
+                "value": 0.8
+              },
+              {
+                "label": "Expert",
+                "value": 0.9
+              }
+            ]
+          }
+        ],
+        "achievementsGoals": [
+          {
+            "category": "volume",
+            "achievements": [
+              {
+                "badge": "Trusted"
+              },
+              {
+                "badge": "Expert"
+              }
+            ],
+            "tip": "Achieved"
+          },
+          {
+            "category": "conformity",
+            "achievements": [
+              {
+                "badge": "Trusted"
+              },
+              {
+                "badge": "Expert"
+              }
+            ],
+            "tip": "Achieved"
+          },
+          {
+            "category": "shipping",
+            "achievements": [
+              {
+                "badge": "Trusted"
+              },
+              {
+                "badge": "Expert"
+              }
+            ],
+            "tip": "Achieved"
+          }
+        ]
+      },
+      "picture": {
+        "path": "/profil/missing_avatar.gif"
+      },
+      "vacation": {
+        "active": false,
+        "hasOngoingOrUpcomingVacation": false
+      },
+      "segment": "C2C"
+    },
+    "creationDate": "2026-05-12T13:46:52Z",
+    "meshLinks": {
+      "topCategory": {
+        "name": "Women Bags",
+        "localizedName": "Women Bags",
+        "url": {
+          "path": "/women-bags/"
+        }
+      },
+      "category": {
+        "name": "Handbags",
+        "localizedName": "Handbags",
+        "url": {
+          "path": "/women-bags/handbags/"
+        }
+      },
+      "categoryBrand": {
+        "name": "Louis Vuitton Handbags",
+        "localizedName": "Louis Vuitton Handbags",
+        "url": {
+          "path": "/women-bags/handbags/louis-vuitton/"
+        }
+      },
+      "categoryBrandModel": {
+        "name": "Louis Vuitton Pochette Accessoire Handbags",
+        "localizedName": "Louis Vuitton Pochette Accessoire Handbags",
+        "url": {
+          "path": "/women-bags/handbags/louis-vuitton/pochette-accessoire/"
+        }
+      }
+    },
+    "alternateVersions": [
+      {
+        "language": "fr",
+        "path": "https://fr.vestiairecollective.com/sacs-femme/sacs-a-main/louis-vuitton/sac-a-main-louis-vuitton-pochette-accessoire-en-cuir-marron-66965047.shtml"
+      },
+      {
+        "language": "x-default",
+        "path": "https://www.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-pochette-accessoire-louis-vuitton-handbag-66965047.shtml"
+      },
+      {
+        "language": "us",
+        "path": "https://us.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-pochette-accessoire-louis-vuitton-handbag-66965047.shtml"
+      },
+      {
+        "language": "en",
+        "path": "https://www.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-pochette-accessoire-louis-vuitton-handbag-66965047.shtml"
+      },
+      {
+        "language": "de",
+        "path": "https://de.vestiairecollective.com/damen-taschen/handtaschen/louis-vuitton/kastanienbraun-leder-pochette-accessoire-louis-vuitton-handtaschen-66965047.shtml"
+      },
+      {
+        "language": "es",
+        "path": "https://es.vestiairecollective.com/mujer-bolsos/bolsos-de-mano/louis-vuitton/bolsos-de-mano-pochette-accessoire-louis-vuitton-de-cuero-marron-66965047.shtml"
+      },
+      {
+        "language": "it",
+        "path": "https://it.vestiairecollective.com/donna-borse/borse/louis-vuitton/borsa-a-mano-louis-vuitton-pochette-accessoire-marrone-pelle-66965047.shtml"
+      },
+      {
+        "language": "ko",
+        "path": "https://kr.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-pochette-accessoire-louis-vuitton-handbag-66965047.shtml"
+      },
+      {
+        "language": "nl",
+        "path": "https://nl.vestiairecollective.com/dames-tassen/handtassen/louis-vuitton/louis-vuitton-pochette-accessoire-leer-bruin-handtas-66965047.shtml"
+      },
+      {
+        "language": "hk",
+        "path": "https://hk.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-pochette-accessoire-louis-vuitton-handbag-66965047.shtml"
+      },
+      {
+        "language": "sv",
+        "path": "https://sv.vestiairecollective.com/dam-vaskor/handvaskor/louis-vuitton/louis-vuitton-pochette-accessoire-brun-lader-handvaska-66965047.shtml"
+      }
+    ],
+    "shouldBeGone": false,
+    "indexation": {
+      "index": true,
+      "follow": true,
+      "crawlPagination": false
+    },
+    "buyerFees": [
+      {
+        "rateType": "FLAT",
+        "value": 1500,
+        "description": "",
+        "cost": {
+          "currency": "USD",
+          "cents": 1500,
+          "formatted": "$15"
+        }
+      }
+    ],
+    "dutyAndTax": {
+      "currency": "USD",
+      "cents": 0,
+      "formatted": "$0"
+    },
+    "flags": [
+      "direct-shipping"
+    ]
+  }
+]

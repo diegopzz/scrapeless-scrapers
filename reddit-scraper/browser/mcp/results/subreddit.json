@@ -1,0 +1,64 @@
+{
+  "info": {
+    "id": "wallstreetbets",
+    "description": "Like 4chan found a Bloomberg Terminal.",
+    "rank": null,
+    "members": 3229029,
+    "bookmarks": {
+      "Wiki": "/r/wallstreetbets/wiki/index/",
+      "YouTube": "https://www.youtube.com/@WSBverse?sub_confirmation=1",
+      "Discord": "https://discord.gg/wsbverse",
+      "Twitch": "https://twitch.tv/wsbverse",
+      "Verified Trade": "https://www.reddit.com/r/wallstreetbets/?f=flair_name%3A%22Verified%20Trade%22",
+      "Earnings Thread": "https://www.reddit.com/r/wallstreetbets/search?q=flair_name%3A%22Earnings%20Thread%22&restrict_sr=1&sort=new",
+      "Gain": "https://new.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AGain",
+      "Loss": "https://new.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ALoss",
+      "YOLO": "https://new.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3AYOLO",
+      "DD": "https://www.reddit.com/r/wallstreetbets/search/?q=flair%3ADD&include_over_18=on&sort=new",
+      "Discussion": "https://new.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ADiscussion",
+      "News": "https://new.reddit.com/r/wallstreetbets/search?sort=new&restrict_sr=on&q=flair%3ANews"
+    },
+    "url": "https://www.reddit.com/r/wallstreetbets/"
+  },
+  "posts": [
+    {
+      "authorProfile": "https://www.reddit.com/user/tommos",
+      "authorId": "t2_58bt4",
+      "title": "Bullish",
+      "link": "https://www.reddit.com/r/wallstreetbets/comments/1tbv0nq/bullish/",
+      "publishingDate": "2026-05-13T09:56:04.451000+0000",
+      "postId": "t3_1tbv0nq",
+      "postLabel": "Meme",
+      "postUpvotes": 19351,
+      "commentCount": 513,
+      "attachmentType": "image",
+      "attachmentLink": "https://preview.redd.it/oxilztfonv0h1.jpeg?width=640&crop=smart&auto=webp&s=13fad625ddd16aa12390f2739a93a25a7f373620"
+    },
+    {
+      "authorProfile": "https://www.reddit.com/user/btoned",
+      "authorId": "t2_4pzgbn",
+      "title": "strait of hormuz blockade satellite photo",
+      "link": "https://www.reddit.com/r/wallstreetbets/comments/1sjf8vx/strait_of_hormuz_blockade_satellite_photo/",
+      "publishingDate": "2026-04-12T13:57:13.887000+0000",
+      "postId": "t3_1sjf8vx",
+      "postLabel": "Meme",
+      "postUpvotes": 37264,
+      "commentCount": 717,
+      "attachmentType": "image",
+      "attachmentLink": "https://preview.redd.it/strait-of-hormuz-blockade-satellite-photo-v0-8pom6fmfmrug1.jpeg?width=640&crop=smart&auto=webp&s=24e73663b516e19a15285cb020e0b9998bf9792a"
+    },
+    {
+      "authorProfile": "https://www.reddit.com/user/navybluebaklava",
+      "authorId": "t2_26zbjz4z0y",
+      "title": "You forgot to take your meds grandpa",
+      "link": "https://www.reddit.com/r/wallstreetbets/comments/1tbuax5/you_forgot_to_take_your_meds_grandpa/",
+      "publishingDate": "2026-05-13T09:16:27.265000+0000",
+      "postId": "t3_1tbuax5",
+      "postLabel": "Meme",
+      "postUpvotes": 3597,
+      "commentCount": 147,
+      "attachmentType": "image",
+      "attachmentLink": "https://preview.redd.it/you-forgot-to-take-your-meds-grandpa-v0-8rbiqqlmgv0h1.jpeg?width=640&crop=smart&auto=webp&s=9588c9677394c1199462b52ae8e7b5be261ee47e"
+    }
+  ]
+}

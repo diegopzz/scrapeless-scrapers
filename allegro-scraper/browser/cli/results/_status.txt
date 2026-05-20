@@ -1,0 +1,5 @@
+Scraper: allegro-scraper
+Date: Sun, May 17, 2026  5:35:05 PM
+
+Note: 4 live attempts all returned a bot-detection page (title='natgeo', empty products).
+Reverted to prior committed real data.

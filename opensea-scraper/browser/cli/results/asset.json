@@ -1,0 +1,37 @@
+{
+  "chain": "ethereum",
+  "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+  "token_id": "1",
+  "name": "#1",
+  "collection_slug": "boredapeyachtclub",
+  "collection_name": "Bored Ape Yacht Club",
+  "owner": "gordongoner",
+  "owner_address": "0x46efbaedc92067e6d60e84ed6395099723252496",
+  "rarity_rank": 2692,
+  "image": "https://i2c.seadn.io/matic/0x24728cf6f3ca32b95b496628fc0ccbc626e26c2b/399ac6f35935d93930b68fa64cd307/5d399ac6f35935d93930b68fa64cd307.png",
+  "traits": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vietnam Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Beams"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    }
+  ],
+  "best_offer": 14.53,
+  "best_offer_currency": "WETH",
+  "url": "https://opensea.io/item/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1"
+}

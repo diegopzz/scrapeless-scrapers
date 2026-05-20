@@ -1,0 +1,14 @@
+{
+  "slug": "boredapeyachtclub",
+  "name": "Bored Ape Yacht Club",
+  "description": "The company’s flagship collection, Bored Ape Yacht Club (BAYC), launched in April 2021, with each NFT doubling as a membership to the community. Inspired by the early crypto adopters who aped in, 10,000 Bored Apes were minted.",
+  "chain": "ethereum",
+  "total_supply": 9998,
+  "floor_price": 9.6699999999999,
+  "floor_currency": "ETH",
+  "floor_price_usd": 21830.605199999776,
+  "volume_native": 1572269.8086744037,
+  "volume_usd": 3740494282.0657177,
+  "image": "https://i2c.seadn.io/collection/boredapeyachtclub/overview/module/0/narrative/media/0/a16f55f89daf71ce82ea556f2c2f28/8aa16f55f89daf71ce82ea556f2c2f28.png?fit=inside",
+  "url": "https://opensea.io/collection/boredapeyachtclub"
+}

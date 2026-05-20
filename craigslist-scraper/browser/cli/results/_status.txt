@@ -1,0 +1,3 @@
+incomplete after 2 attempts (rate-limit-aware run)
+search.json empty; listing.json is chrome-error placeholder (listing URL empty because search returned no items)
+Likely anti-bot/captcha block on Craigslist

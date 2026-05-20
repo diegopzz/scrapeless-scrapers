@@ -1,0 +1,23 @@
+[
+  {
+    "video": {
+      "videoId": "1Y-XvvWlyzk",
+      "title": "Capture screenshots of any website using Scrapfly's Screenshot API - Introduction",
+      "publishingDate": "2024-07-09T04:34:01-07:00",
+      "lengthSeconds": 271,
+      "keywords": [],
+      "viewCount": 1117,
+      "shortDescription": "introduction to Scrapfly's Screenshot API for capturing screenshots of websites on demand for data analysis and event tracking. See https://github.com/scrapfly/screenshot-scraping-demo for notebook source code of examples used in this video.\n\nSections:\n00:00 introduction\n00:21 setup \n01:00 Basic use\n01:26 Capture parameter\n01:42 Resolution parameter\n02:10 Capture areas\n02:40 Javascript execution\n03:08 Auto_scroll parameter\n03:25 Options parameter\n03:35 Block Banners\n03:46 Dark mode option\n04:00 Cache parameter\n04:20 Web Player & Outro",
+      "thumbnail": "https://i.ytimg.com/vi/1Y-XvvWlyzk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfganxjv1aQ24yeeCXQ-NwMVsFmg",
+      "isFamilySafe": true,
+      "isUnlisted": false,
+      "category": "People & Blogs",
+      "url": "https://www.youtube.com/watch?v=1Y-XvvWlyzk"
+    },
+    "channel": {
+      "channelId": "UCoX3U_dywuQf_KbLhWoUCmw",
+      "name": "Scrapfly",
+      "url": "https://www.youtube.com/channel/UCoX3U_dywuQf_KbLhWoUCmw"
+    }
+  }
+]

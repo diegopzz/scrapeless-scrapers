@@ -1,0 +1,27 @@
+{
+  "id": "9N8PMW7QMD3D",
+  "url": "https://www.xbox.com/en-us/games/store/marvel-rivals/9N8PMW7QMD3D",
+  "name": "Marvel Rivals",
+  "publisher": "NetEase Games",
+  "developer": "NetEase Games",
+  "categories": ["Multi-Player Online Battle Arena", "Shooter"],
+  "price": "Free+",
+  "rating": "TEEN",
+  "rating_descriptors": ["Violence", "Suggestive Themes", "Users Interact", "In-Game Purchases (Includes Random Items)"],
+  "release_date": "12/6/2024",
+  "platforms": ["Xbox Series X|S"],
+  "capabilities": [
+    "Online multiplayer (2-12)",
+    "Xbox cross-platform multiplayer",
+    "4K Ultra HD",
+    "Variable Refresh Rate",
+    "Ray Tracing",
+    "60 fps+",
+    "120 fps",
+    "Spatial Sound",
+    "Optimized for Xbox Series X|S",
+    "Xbox achievements"
+  ],
+  "supported_languages": 11,
+  "description": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!"
+}

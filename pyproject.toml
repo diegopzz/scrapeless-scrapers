@@ -1,0 +1,7 @@
+[tool.ruff]
+line-length = 140
+target-version = "py310"
+
+[tool.ruff.lint]
+# Skip cosmetic-only checks across the 71-site corpus.
+ignore = ["E731", "E741", "E702", "E402", "F811", "F841", "E501"]

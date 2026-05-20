@@ -1,0 +1,37 @@
+# StockX data model
+
+Two surfaces:
+
+- `scrape_product(url)` → single `Product` dict (lifted from `__NEXT_DATA__` cache and the in-page `product` GraphQL fragment)
+- `scrape_search(url, max_pages)` → list of `SearchResult` (lifted from each `__NEXT_DATA__`'s `results.edges[].node`)
+
+## Product
+
+Top-level keys covered by the upstream reference's validator:
+
+| Field        | Type    | Required | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------ | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| id           | string  | yes      |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| listingType  | string  | no       |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| deleted      | boolean | no       |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| gender       | string  | no       |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| title        | string  | yes      |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| brand        | string  | no       |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| description  | string  | no       |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| model        | string  | no       |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| urlKey       | string  | no       | Slug                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| variants     | list    | no       | Each: `{id, market: {bidAskData: {lowestAsk, numberOfAsks, highestBid, numberOfBids}, salesInformation: {lastSale, salesLast72Hours}, statistics: {lastSale: {amount, changePercentage, changeValue, sameFees}}}}`                                                                                                                                                                                                                                |
+| market       | dict    | no       | `{bidAskData, salesInformation, statistics}` (same shape as `variants[].market`)                                                                                                                                                                                                                                                                                                                                                                 |
+| pricing      | dict    | no       | `{minimumBid, market: {state: {lowestAsk: {amount, currency}, highestBid: {amount}, numberOfAsks, numberOfBids}}, variants: [{id, ...}]}` — attached from the in-page XHR product fragment                                                                                                                                                                                                                                                       |
+
+## SearchResult
+
+| Field        | Type   | Required | Notes |
+| ------------ | ------ | -------- | ----- |
+| id           | string | yes      |       |
+| name         | string | no       |       |
+| urlKey       | string | no       | Slug  |
+| title        | string | no       |       |
+| brand        | string | no       |       |
+| description  | string | no       |       |
+| model        | string | no       |       |

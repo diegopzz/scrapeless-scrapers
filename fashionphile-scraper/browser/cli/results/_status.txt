@@ -1,0 +1,1 @@
+search kind blocked by Algolia anti-bot; products kind real via Shopify .json endpoint. Use python/nodejs for search.

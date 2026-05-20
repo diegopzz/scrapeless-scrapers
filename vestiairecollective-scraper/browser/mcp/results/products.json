@@ -1,0 +1,37 @@
+[
+  {
+    "id": "66935196",
+    "type": "product",
+    "name": "Jacket",
+    "price": {
+      "currency": "PLN",
+      "cents": 433400,
+      "formatted": "4.334 zł"
+    },
+    "description": "Monogram Padded Windbreaker\n\nThis hooded windbreaker from the Spring-Summer 2025 show elevates a classic piece of outerwear with a tone-on-tone embossed allover Monogram motif in an elegant sandy color. It is lightly padded for comfort while the lining adds a silky accent. This versatile piece brings a chic signature look to everyday ensembles.",
+    "likeCount": 15,
+    "path": "/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml",
+    "measurementFormatted": "Size: M International",
+    "unit": null,
+    "metadata": {
+      "title": "Jacket Louis Vuitton Camel size M International in Polyester - 66935196",
+      "description": "Buy your jacket Louis Vuitton on Vestiaire Collective, the luxury consignment store online. Jacket Louis Vuitton Camel in Polyester available for sale on Vestiaire Collective. 66935196",
+      "keywords": "Louis Vuitton Polyester Jackets "
+    },
+    "warehouse": {
+      "name": "empty",
+      "localizedName": "empty"
+    },
+    "brand": {
+      "id": "17",
+      "type": "brand",
+      "name": "Louis Vuitton",
+      "localizedName": "louis vuitton",
+      "url": {
+        "original": "/louis-vuitton/",
+        "path": "/louis-vuitton/",
+        "url": "/louis-vuitton/"
+      }
+    }
+  }
+]

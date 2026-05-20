@@ -1,0 +1,526 @@
+[
+  {
+    "listing": {
+      "id": null,
+      "name": "494 Properties for rent: Bern (from CHF 1,530.–)",
+      "url": null,
+      "image": null,
+      "description": "Rent property in Bern: Find your dream property that suits your needs now on ImmoScout24 - The platform for real estate in Switzerland.",
+      "price": null,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "494 Properties for rent: Bern (from CHF 1,530.–)",
+        "description": "Rent property in Bern: Find your dream property that suits your needs now on ImmoScout24 - The platform for real estate in Switzerland.",
+        "offers": {
+          "@type": "AggregateOffer",
+          "offerCount": 494,
+          "lowPrice": 1530,
+          "highPrice": 3920,
+          "priceCurrency": "CHF"
+        }
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Wittenbergstrasse 11 - CHF 1950 - 2.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116459/image/ee4d2466afff06c43d4032b88579f542.jpg",
+      "description": null,
+      "price": 1950,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Wittenbergstrasse 11 - CHF 1950 - 2.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116459/image/ee4d2466afff06c43d4032b88579f542.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1950,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Wittenbergstrasse 11 - CHF 2250 - 3.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116458/image/fba6942edc807539f17966998512e91c.jpg",
+      "description": null,
+      "price": 2250,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Wittenbergstrasse 11 - CHF 2250 - 3.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116458/image/fba6942edc807539f17966998512e91c.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2250,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Wittenbergstrasse 11 - CHF 2498 - 4.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116456/image/5da6303cacc1177fa89fae320dbbf756.jpg",
+      "description": null,
+      "price": 2498,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Wittenbergstrasse 11 - CHF 2498 - 4.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116456/image/5da6303cacc1177fa89fae320dbbf756.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2498,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Wittenbergstrasse 11 - CHF 2850 - 5.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116455/image/8408da3e0e9a86566552f89f01a2208f.jpg",
+      "description": null,
+      "price": 2850,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Wittenbergstrasse 11 - CHF 2850 - 5.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/h539082/4003116455/image/8408da3e0e9a86566552f89f01a2208f.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2850,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Belpstrasse 23 - CHF 1650 - 1.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/e335city/4002086531/image/0273e379bef721b59e28e9463ab30b85.jpg",
+      "description": null,
+      "price": 1650,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Belpstrasse 23 - CHF 1650 - 1.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/e335city/4002086531/image/0273e379bef721b59e28e9463ab30b85.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1650,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Fischermättelistrasse 6 - CHF 1629 - 1.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/e335city/4002968183/image/80c7e012b271683aab6bca38992ce70c.jpg",
+      "description": null,
+      "price": 1629,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Fischermättelistrasse 6 - CHF 1629 - 1.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/e335city/4002968183/image/80c7e012b271683aab6bca38992ce70c.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1629,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Fischermättelistrasse 6 - CHF 1543 - 1.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/e335city/4002967950/image/48140207317b057d81b7b12778005cde.jpg",
+      "description": null,
+      "price": 1543,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Fischermättelistrasse 6 - CHF 1543 - 1.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/e335city/4002967950/image/48140207317b057d81b7b12778005cde.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1543,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Bantigerstrasse 24 - CHF 2250 - 2.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/f026/4002993719/image/6b6a898d78330d429c5b351af7460612.jpg",
+      "description": null,
+      "price": 2250,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Bantigerstrasse 24 - CHF 2250 - 2.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/f026/4002993719/image/6b6a898d78330d429c5b351af7460612.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2250,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Freiburgstrasse 161 - CHF 2100 - 3.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003137584/image/ad0fe0e1459648d393650bdef18f0b43.jpg",
+      "description": null,
+      "price": 2100,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Freiburgstrasse 161 - CHF 2100 - 3.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003137584/image/ad0fe0e1459648d393650bdef18f0b43.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2100,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Landoltstrasse 81 - CHF 1975 - 3.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003097090/image/a2c48afd40368090a1769590ad498e6c.jpg",
+      "description": null,
+      "price": 1975,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Landoltstrasse 81 - CHF 1975 - 3.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003097090/image/a2c48afd40368090a1769590ad498e6c.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1975,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Hotelgasse 3 - CHF 3200 - 3.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003038624/image/a97a4631db45424edcef0891206976e6.jpg",
+      "description": null,
+      "price": 3200,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Hotelgasse 3 - CHF 3200 - 3.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003038624/image/a97a4631db45424edcef0891206976e6.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 3200,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Ostermundigenstrasse 93 - CHF 3160 - 4.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4002479522/image/0d7385dd02f7cbcbd2f465301f7e1f1f.jpg",
+      "description": null,
+      "price": 3160,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Ostermundigenstrasse 93 - CHF 3160 - 4.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4002479522/image/0d7385dd02f7cbcbd2f465301f7e1f1f.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 3160,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Standstrasse 21 - CHF 1990 - 2.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/f026/4002898017/image/a87bbaa7e109ae9d58d11b151dd8f289.jpg",
+      "description": null,
+      "price": 1990,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Standstrasse 21 - CHF 1990 - 2.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/f026/4002898017/image/a87bbaa7e109ae9d58d11b151dd8f289.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1990,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Ostermundigenstrasse 93a - CHF 2000 - 2.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4002479577/image/1701fbaac96bf8d20cb3db7b90a3f9a6.jpg",
+      "description": null,
+      "price": 2000,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Ostermundigenstrasse 93a - CHF 2000 - 2.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4002479577/image/1701fbaac96bf8d20cb3db7b90a3f9a6.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2000,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Könizstrasse 42 - CHF 1530 - 2 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/liv2/4003125641/image/952a00b6ac8d02943b28ca0611836f2f.jpg",
+      "description": null,
+      "price": 1530,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Könizstrasse 42 - CHF 1530 - 2 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/liv2/4003125641/image/952a00b6ac8d02943b28ca0611836f2f.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1530,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Morillonstrasse 4 - CHF 2130 - 3.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/f427x/4003053785/image/4c023dd76baf0cf4225e27bd33ac99b7.jpg",
+      "description": null,
+      "price": 2130,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Morillonstrasse 4 - CHF 2130 - 3.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/f427x/4003053785/image/4c023dd76baf0cf4225e27bd33ac99b7.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2130,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Diesbachstrasse 10 - CHF 3920 - 5.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003146310/image/0f24718fd7e525a045c7981fcb08b867.jpg",
+      "description": null,
+      "price": 3920,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Diesbachstrasse 10 - CHF 3920 - 5.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003146310/image/0f24718fd7e525a045c7981fcb08b867.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 3920,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Junkerngasse 3 - CHF 3700 - 4 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003104415/image/d86dd974c7752620586669387af8a747.jpg",
+      "description": null,
+      "price": 3700,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Junkerngasse 3 - CHF 3700 - 4 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4003104415/image/d86dd974c7752620586669387af8a747.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 3700,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Kramgasse 52 - CHF 2780 - 2.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4002977234/image/7d36ddd1f6b9e71b6120c8258567a5ec.jpg",
+      "description": null,
+      "price": 2780,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Kramgasse 52 - CHF 2780 - 2.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/is24nif/4002977234/image/7d36ddd1f6b9e71b6120c8258567a5ec.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 2780,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "listing": {
+      "id": null,
+      "name": "Giacomettistrasse 10 - CHF 1880 - 3.5 Rooms",
+      "url": null,
+      "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/x279sub/4003116701/image/edff2bf330bd74ed2fbf4ecc863425a7.jpg",
+      "description": null,
+      "price": 1880,
+      "priceCurrency": "CHF",
+      "rawJsonLd": {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Giacomettistrasse 10 - CHF 1880 - 3.5 Rooms",
+        "image": "https://cdn.immoscout24.ch/f_auto/t_web_dp_small/listings/v2/x279sub/4003116701/image/edff2bf330bd74ed2fbf4ecc863425a7.jpg",
+        "offers": [
+          {
+            "@context": "http://schema.org",
+            "@type": "Offer",
+            "price": 1880,
+            "priceCurrency": "CHF"
+          }
+        ]
+      }
+    }
+  }
+]

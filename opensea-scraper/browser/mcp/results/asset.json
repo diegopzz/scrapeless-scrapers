@@ -1,0 +1,17 @@
+{
+  "chain": "Ethereum",
+  "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+  "token_id": "1",
+  "name": "#1",
+  "collection": "Bored Ape Yacht Club",
+  "collection_slug": "boredapeyachtclub",
+  "owner": "gordongoner",
+  "owner_url": "https://opensea.io/gordongoner",
+  "token_standard": "ERC721",
+  "top_offer": "13.86 WETH",
+  "collection_floor": "9.53 ETH",
+  "rarity_rank": 2692,
+  "last_sale": null,
+  "traits": [],
+  "image": "https://i2c.seadn.io/matic/0x24728cf6f3ca32b95b496628fc0ccbc626e26c2b/399ac6f35935d93930b68fa64cd307/5d399ac6f35935d93930b68fa64cd307.png"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "com.spotify.music",
+  "name": "Spotify: Music and Podcasts",
+  "developer": "Spotify AB",
+  "rating": 4.336979389190674,
+  "rating_count": 35562293,
+  "price": "Free",
+  "installs": "1B+ Downloads",
+  "description": "Listen to songs, play podcasts, create playlists and discover music you'll love",
+  "categories": [
+    "MUSIC_AND_AUDIO",
+    "Kids"
+  ],
+  "latest_update": "May 11, 2026",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xl04GurQer374yogi24hRkvUcXtMStMOcOo86Sprmrid9j6wQHF0d9xMh73CwUEg57lbsGIwpOXgrJ927Q",
+    "https://play-lh.googleusercontent.com/fOaUJKnuMPk02Gl5qu_B6ePw0myxaNJx3QZihKxsaAix5TYKl1NnfmvzZ52nSAc3w8nD",
+    "https://play-lh.googleusercontent.com/a7950Z_tJAMl7t9mh62ZBJianaWewvFqSXbpp4XqnrShHD1x4_JzB4ONSfM124rAvd3J",
+    "https://play-lh.googleusercontent.com/I2iwvszKORGgJssO-Q-sy1jL3zcjOQRJ7QBuUW5Zd3z6UeAYXqINSeujzs40f7iTxg",
+    "https://play-lh.googleusercontent.com/eT7N-DGqCGJI1UGli8jF7BbMM-6K-Rs2Kw0WFMy7VABLTZdo01qoPknKKg5OxGSvKw",
+    "https://play-lh.googleusercontent.com/xNZPPk0aK44-0NGEiyq1BGXU4zqGfuBwSL5njO7iDvAJym0F7h0OWyCWmzej1tzxZQ",
+    "https://play-lh.googleusercontent.com/N5zVY4F6PCUc5vhuYyF80h-inbcsuIR2qgJXXgBtzXNfIUveb7kEkbcEZCh_xHyOQjY",
+    "https://play-lh.googleusercontent.com/55pukJuhIGd8TzPnlMUtmnrNKBooTfEy1WphYaaB4OBbrkgV0XYiNbnSaBoVPl_P4A",
+    "https://play-lh.googleusercontent.com/oDhlIw_PEl0h-r4MN0Sw1mI0YW09rvunAwTtlVgiOj9yzKNJgbC3nz-7d-5EHwQWmpIX",
+    "https://play-lh.googleusercontent.com/C1rFzHXR1YG89J-8Ii0qudukTqfHrwImOP-G_2HzIhXQVvqo8glRY4y8J45ykMQNKw",
+    "https://play-lh.googleusercontent.com/-64f3U89NwuLlMTnwHGLrsE931U5RA7YtHqM2zHsoR0s3yomsIRzKWaq08apJrbT2A",
+    "https://play-lh.googleusercontent.com/vPR9n4p2MSehOzztDYDFeRNraECmUE6g-ExRkEfrL3um7x6JAIUXsyYsTWh4nJBhs4Q",
+    "https://play-lh.googleusercontent.com/tVSs3puT4BzDVQU-gyVaOZU44Wu--qJMj3d0Tnrr1kyMRbJMl4l2e89_JTTOZ1O35zg",
+    "https://play-lh.googleusercontent.com/q2hZdI_sVaQQaCtDEgjg1-o6RyhEp0rTJ9owUlXUdBToxEmsVpgidHbl1jrZY5Qeasmn",
+    "https://play-lh.googleusercontent.com/R7YRxP5unYD-6fXkZbnKdCAbyjWCaWOMGuwmwIh4iKFiPP1shirblyuntdzbrrINeZ8",
+    "https://play-lh.googleusercontent.com/DkHcreRjEgK91k6Vk6c_ZOZRnXb5FjQWC8wxddQqx6DeiYVi5V5YWSe8LkgqhmbuLn8A",
+    "https://play-lh.googleusercontent.com/AIocvAMZdBcodpyBYkTfGcEBk4dPX7pkRMGwZn8GisPqk0BF6mooBv9NEZ1ZRzVCog",
+    "https://play-lh.googleusercontent.com/g82KPwIsKsmrsZV-NbrXYJTcmg-upazffzRpSSIQ1AsDe2TOGd53SDlwbD9K2Iy5vJ0",
+    "https://play-lh.googleusercontent.com/zCMERKbxdICzOc1m_t2gqSir2d9xdBjVH5b9UoThCBLJG0vK7yCJPfP2v1RO7b3fiAc",
+    "https://play-lh.googleusercontent.com/6pmgjbV10LmTH1ke9f1o_UmfHnNg5w74AsA8f5Nzr7MU6HNEO6bnsL9wP3FJWYF0Qh_K"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN",
+  "url": "https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US&gl=US"
+}

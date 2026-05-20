@@ -1,0 +1,48 @@
+# Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+poetry.lock
+
+# Node
+node_modules/
+.pnpm-store/
+pnpm-lock.yaml
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local results overrides (committed results/*.json are intentional)
+**/results/*.local.json
+
+node_modules/
+logs/
+
+# Crawlee/Apify local storage
+storage/

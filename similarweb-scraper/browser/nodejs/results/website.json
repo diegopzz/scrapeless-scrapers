@@ -1,0 +1,2901 @@
+[
+  {
+    "interests": {
+      "interestedWebsitesTotalCount": 10,
+      "topInterestedWebsites": [
+        {
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "domain": "chatgpt.com",
+          "icon": "https://site-images.similarcdn.com/image?url=chatgpt.com&t=2&s=1&h=a31616ae3cdef12fcfc664127563e6092e7531e7b4c3cde7e0c8c5fd3310dfc0"
+        },
+        {
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "domain": "reddit.com",
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        },
+        {
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        }
+      ],
+      "topInterestedTopics": [
+        "news",
+        "social network",
+        "search",
+        "video",
+        "social"
+      ],
+      "topInterestedCategories": [
+        "games/video_games_consoles_and_accessories",
+        "adult",
+        "computers_electronics_and_technology/programming_and_developer_software",
+        "computers_electronics_and_technology/computers_electronics_and_technology",
+        "computers_electronics_and_technology/social_networks_and_online_communities"
+      ]
+    },
+    "competitors": {
+      "topSimilarityCompetitors": [
+        {
+          "domain": "bing.com",
+          "icon": "https://site-images.similarcdn.com/image?url=bing.com&t=2&s=1&h=a37ae326ae78ba2da30e9c8da030e84e07d4c76c5452c239f85c9050781ffde8",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 2,
+          "affinity": 1,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "yandex.ru",
+          "icon": "https://site-images.similarcdn.com/image?url=yandex.ru&t=2&s=1&h=f0674e5e56f12160a4f31738b3aecd42e2ebffde994db0c5ebdd214ef6dde60e",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 3,
+          "affinity": 0.8947368421052632,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "baidu.com",
+          "icon": "https://site-images.similarcdn.com/image?url=baidu.com&t=2&s=1&h=178228b3c52f0d8b0cb0b138670cccb41d21f5ff03551da7375a97012005daa7",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 4,
+          "affinity": 0.8736842105263158,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "naver.com",
+          "icon": "https://site-images.similarcdn.com/image?url=naver.com&t=2&s=1&h=d0cb2a7c7e5048fcae43abc238269736c1eaae31a8f89160c5be0080115448fc",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 5,
+          "affinity": 0.8210526315789475,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "search.yahoo.com",
+          "icon": "https://site-images.similarcdn.com/image?url=search.yahoo.com&t=2&s=1&h=e598ab1bba5add97d2be66771087003d488a40f4235e8e92ba96275f613c0184",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": null,
+          "affinity": 0.7894736842105263,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+          "categoryId": "arts_and_entertainment/tv_movies_and_streaming",
+          "categoryRank": 1,
+          "affinity": 0.7578947368421053,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "ecosia.org",
+          "icon": "https://site-images.similarcdn.com/image?url=ecosia.org&t=2&s=1&h=5278c0cf0866a10d3c7cfaae91dc127367e2268750ac13451bda62d7b78abde2",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 11,
+          "affinity": 0.7157894736842106,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "startpage.com",
+          "icon": "https://site-images.similarcdn.com/image?url=startpage.com&t=2&s=1&h=9dd44324a668f2859e2067368b6a0800eb84f9de7696d54f58e7c1d345cf8392",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 21,
+          "affinity": 0.6842105263157895,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "qwant.com",
+          "icon": "https://site-images.similarcdn.com/image?url=qwant.com&t=2&s=1&h=f6cd13e6c02383894186221d8475b094dfa3725b65c00ec9fc20e2343d2d005a",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 28,
+          "affinity": 0.6526315789473685,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "daum.net",
+          "icon": "https://site-images.similarcdn.com/image?url=daum.net&t=2&s=1&h=86047477cd324bd410c48b5a0b483b2499f022a93658efb42ae32030bc646175",
+          "categoryId": "computers_electronics_and_technology/search_engines",
+          "categoryRank": 9,
+          "affinity": 0.631578947368421,
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "searchesSource": {
+      "organicSearchShare": 0.9467347517170137,
+      "paidSearchShare": 0.05326524828298629,
+      "keywordsTotalCount": 29922276,
+      "topKeywords": [
+        {
+          "name": "gemini",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.25
+        },
+        {
+          "name": "gmail",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 1.64
+        },
+        {
+          "name": "google maps",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.41
+        },
+        {
+          "name": "google",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 1.19
+        },
+        {
+          "name": "maps",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.24
+        }
+      ]
+    },
+    "incomingReferrals": {
+      "referralSitesTotalCount": 874,
+      "topReferralSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.06671010484496753,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.04099375286716784,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.035061709729690034,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "goo.gl",
+          "icon": "https://site-images.similarcdn.com/image?url=goo.gl&t=2&s=1&h=70d4b3f8c0a49fab1f15358fa8e7d5fa52429e5eba9d6b2ec7acd14c673e618b",
+          "visitsShare": 0.030061934632987595,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "t-mobile.com",
+          "icon": "https://site-images.similarcdn.com/image?url=t-mobile.com&t=2&s=1&h=0cf172e3add035984697c4cf1a00b1454211dcb73924fb12b812aecf3b615379",
+          "visitsShare": 0.027177283419609035,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "canva.com",
+          "icon": "https://site-images.similarcdn.com/image?url=canva.com&t=2&s=1&h=76c69b938e0fc8e4bebe1e545dba8f4ad7bd78aec8c65f149f36030ee1036a65",
+          "visitsShare": 0.016606644036682897,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ],
+      "topIncomingCategories": [
+        {
+          "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
+          "visitsShare": 0.11003874247612715
+        },
+        {
+          "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+          "visitsShare": 0.07955872643491609
+        },
+        {
+          "category": "Adult",
+          "visitsShare": 0.07718131976178073
+        },
+        {
+          "category": "Games/Video_Games_Consoles_and_Accessories",
+          "visitsShare": 0.061793287426197885
+        },
+        {
+          "category": "News_and_Media",
+          "visitsShare": 0.05752743427726351
+        }
+      ]
+    },
+    "adsSource": {
+      "adsSitesTotalCount": 955,
+      "adsNetworksTotalCount": 29,
+      "topAdsSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.05608192110769611,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.034931836623288026,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "userstyles.org",
+          "icon": "https://site-images.similarcdn.com/image?url=userstyles.org&t=2&s=1&h=15ea1603088d1de504e69bd677e9c6bacf66031419c4e6c3059cfdb936b3f4d6",
+          "visitsShare": 0.031387610311707205,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "msn.com",
+          "icon": "https://site-images.similarcdn.com/image?url=msn.com&t=2&s=1&h=0e9d9ff92e58e52339a7efacceaa06a7e68aa6a51e59b91207ae666108368a10",
+          "visitsShare": 0.019950595612809544,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "poki.com",
+          "icon": "https://site-images.similarcdn.com/image?url=poki.com&t=2&s=1&h=686b99fbd076a5cbf7ba504cdfa3b5741b31b0961905070b35289bae5c70afcc",
+          "visitsShare": 0.017679144440551194,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    "socialNetworksSource": {
+      "topSocialNetworks": [
+        {
+          "name": "Youtube",
+          "visitsShare": 0.5994891772162728,
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "name": "Facebook",
+          "visitsShare": 0.08928746889293138,
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "name": "Reddit",
+          "visitsShare": 0.060172280435025,
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        },
+        {
+          "name": "X-twitter",
+          "visitsShare": 0.05876689882935138,
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "name": "WhatsApp Webapp",
+          "visitsShare": 0.041167402676371555,
+          "icon": "https://site-images.similarcdn.com/image?url=web.whatsapp.com&t=2&s=1&h=451e82ca011741d37d72edee1d8fdc272155924d894fe937e292066acb713bc8"
+        }
+      ],
+      "socialNetworksTotalCount": 91
+    },
+    "outgoingReferrals": {
+      "outgoingSitesTotalCount": 940,
+      "topOutgoingSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.05819362787224108,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.057744312347996506,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.05351053241279187,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "wikipedia.org",
+          "icon": "https://site-images.similarcdn.com/image?url=wikipedia.org&t=2&s=1&h=460eb7e23fbc3666abf9d8b5497c3ca33d1de8ff9c66dd5d182c7633fe475c61",
+          "visitsShare": 0.042460516587376755,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "about.google",
+          "icon": "https://site-images.similarcdn.com/image?url=about.google&t=2&s=1&h=bde171529b1cc0988575ee7f0f3fc0980a8b58fd0b1e5ddecd0413324bfa4c29",
+          "visitsShare": 0.03743673401101892,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+          "visitsShare": 0.027768314335868426,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ],
+      "topOutgoingCategories": [
+        {
+          "category": "Computers_Electronics_and_Technology/Social_Networks_and_Online_Communities",
+          "visitsShare": 0.15047287107103652
+        },
+        {
+          "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
+          "visitsShare": 0.14075920046656382
+        },
+        {
+          "category": "Travel_and_Tourism/Accommodation_and_Hotels",
+          "visitsShare": 0.11383502740094005
+        },
+        {
+          "category": "Arts_and_Entertainment/TV_Movies_and_Streaming",
+          "visitsShare": 0.06804402713759805
+        },
+        {
+          "category": "Travel_and_Tourism/Travel_and_Tourism",
+          "visitsShare": 0.06345890049968235
+        }
+      ]
+    },
+    "compareCompetitor": null,
+    "technologies": {
+      "categories": [
+        {
+          "categoryId": "payment_and_currencies",
+          "topTechName": "Cart Functionality",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=2901",
+          "technologiesTotalCount": 29
+        },
+        {
+          "categoryId": "advertising",
+          "topTechName": "Google Adsense",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=237",
+          "technologiesTotalCount": 17
+        },
+        {
+          "categoryId": "conversion_and_analytics",
+          "topTechName": "Google Analytics",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1",
+          "technologiesTotalCount": 8
+        },
+        {
+          "categoryId": "social",
+          "topTechName": "Google+ Platform",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1345",
+          "technologiesTotalCount": 6
+        }
+      ],
+      "categoriesTotalCount": 19,
+      "technologiesTotalCount": 96
+    },
+    "recentAds": {
+      "recentAds": [
+        {
+          "creativeId": "e07e070d30fb6e14616f117f1800417187fe_aa45ca63",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/e07e070d30fb6e14616f117f1800417187fe_aa45ca63.jpeg?REDACTED",
+          "height": 250,
+          "width": 300,
+          "activeDays": 1404
+        },
+        {
+          "creativeId": "01f03f03f00f30f70f00f0af0ef06f04f30f_aa45ca63",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/01f03f03f00f30f70f00f0af0ef06f04f30f_aa45ca63.jpeg?REDACTED",
+          "height": 90,
+          "width": 728,
+          "activeDays": 1363
+        },
+        {
+          "creativeId": "01f03f11f00f50f70f70f01f01f01f03f06f_aa45ca63",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/01f03f11f00f50f70f70f01f01f01f03f06f_aa45ca63.jpeg?REDACTED",
+          "height": 90,
+          "width": 728,
+          "activeDays": 1281
+        }
+      ],
+      "isMoreAds": true
+    },
+    "snapshotDate": "2026-04-01T00:00:00+00:00",
+    "domain": "google.com",
+    "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461",
+    "previewDesktop": "https://site-images.similarcdn.com/image?url=google.com&t=1&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461",
+    "previewMobile": "https://site-images.similarcdn.com/image?url=google.com&t=4&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461",
+    "isInvalidTrafficData": false,
+    "domainGaStatus": 0,
+    "isDataFromGaHighlyDiscrepant": false,
+    "isDataFromGa": false,
+    "categoryId": "computers_electronics_and_technology/search_engines",
+    "overview": {
+      "description": "Learn about the Certified Publisher Program. Our publishing software experts will help you maximize revenue and grow your business.",
+      "globalRank": 1,
+      "globalRankChange": 0,
+      "countryAlpha2Code": "US",
+      "countryUrlCode": "united-states",
+      "countryRank": 1,
+      "countryRankChange": 0,
+      "categoryRank": 1,
+      "categoryRankChange": 0,
+      "visitsTotalCount": 84751050692,
+      "bounceRate": 0.2822308407579359,
+      "pagesPerVisit": 8.720267160531861,
+      "visitsAvgDurationFormatted": "00:10:13",
+      "companyFeedbackRecaptcha": "6LfEq1gUAAAAACEE4w7Zek8GEmBooXMMWDpBjI6r",
+      "companyName": "Google",
+      "companyYearFounded": 1998,
+      "companyHeadquarterCountryCode": "US",
+      "companyHeadquarterStateCode": 8406,
+      "companyHeadquarterCity": "Mountain View",
+      "companyEmployeesMin": 10001,
+      "companyEmployeesMax": null,
+      "companyRevenueMin": 1000000000,
+      "companyRevenueMax": null,
+      "companyCategoryId": "computers_electronics_and_technology/search_engines",
+      "companyRevenueCurrency": null,
+      "companyParentDomain": "google.com"
+    },
+    "traffic": {
+      "graphVisitsGrade": "<100B",
+      "visitsTotalCount": 84751050692,
+      "visitsTotalCountChange": -0.024174350339730054,
+      "bounceRate": 0.2822308407579359,
+      "pagesPerVisit": 8.720267160531861,
+      "visitsAvgDurationFormatted": "00:10:13",
+      "history": [
+        {
+          "date": "2026-02-01T00:00:00",
+          "percentageChange": -8.776839256687701,
+          "percentageValue": 75.40687211810001
+        },
+        {
+          "date": "2026-03-01T00:00:00",
+          "percentageChange": 11.019769217819608,
+          "percentageValue": 83.16554693900001
+        },
+        {
+          "date": "2026-04-01T00:00:00",
+          "percentageChange": -2.4174350339730055,
+          "percentageValue": 81.2759456228
+        }
+      ],
+      "competitors": [
+        {
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "bing.com",
+          "icon": "https://site-images.similarcdn.com/image?url=bing.com&t=2&s=1&h=a37ae326ae78ba2da30e9c8da030e84e07d4c76c5452c239f85c9050781ffde8",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "yandex.ru",
+          "icon": "https://site-images.similarcdn.com/image?url=yandex.ru&t=2&s=1&h=f0674e5e56f12160a4f31738b3aecd42e2ebffde994db0c5ebdd214ef6dde60e",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "baidu.com",
+          "icon": "https://site-images.similarcdn.com/image?url=baidu.com&t=2&s=1&h=178228b3c52f0d8b0cb0b138670cccb41d21f5ff03551da7375a97012005daa7",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "naver.com",
+          "icon": "https://site-images.similarcdn.com/image?url=naver.com&t=2&s=1&h=d0cb2a7c7e5048fcae43abc238269736c1eaae31a8f89160c5be0080115448fc",
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "trafficSources": [
+      {
+        "source": "direct",
+        "rank": 1,
+        "percentage": 0.9211550112121217,
+        "isHigher": null
+      },
+      {
+        "source": "social_organic",
+        "rank": 2,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "referrals",
+        "rank": 3,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "mail",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "organic",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "gen_ai",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "ads",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "social_paid",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "paid",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "affiliate",
+        "rank": -1,
+        "percentage": null,
+        "isHigher": null
+      }
+    ],
+    "ranking": {
+      "globalRankCompetitors": [
+        {
+          "rank": 1,
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+        },
+        {
+          "rank": 2,
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "rank": 3,
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "rank": 4,
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "rank": 5,
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        }
+      ],
+      "globalRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 1
+        }
+      ],
+      "countryRankCompetitors": [
+        {
+          "rank": 1,
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+        },
+        {
+          "rank": 2,
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "rank": 3,
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "rank": 4,
+          "domain": "amazon.com",
+          "icon": "https://site-images.similarcdn.com/image?url=amazon.com&t=2&s=1&h=43a07f575342a8fbb74cd3ca3ebf33760f2fbfbff603546fb4f7208244147dcc"
+        },
+        {
+          "rank": 5,
+          "domain": "reddit.com",
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        }
+      ],
+      "countryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 1
+        }
+      ],
+      "categoryRankCompetitors": [
+        {
+          "rank": 1,
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+        },
+        {
+          "rank": 2,
+          "domain": "bing.com",
+          "icon": "https://site-images.similarcdn.com/image?url=bing.com&t=2&s=1&h=a37ae326ae78ba2da30e9c8da030e84e07d4c76c5452c239f85c9050781ffde8"
+        },
+        {
+          "rank": 3,
+          "domain": "duckduckgo.com",
+          "icon": "https://site-images.similarcdn.com/image?url=duckduckgo.com&t=2&s=1&h=dff2821cfcef1d36cdbbf5a78aa7eac7d5da8ef335fa460cfd2cc6180c60aa2a"
+        },
+        {
+          "rank": 4,
+          "domain": "music.youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=music.youtube.com&t=2&s=1&h=2b6234fec8575131c22af778d4f9836c1b57000a267d715cc110dc5ed51cc309"
+        },
+        {
+          "rank": 5,
+          "domain": "ecosia.org",
+          "icon": "https://site-images.similarcdn.com/image?url=ecosia.org&t=2&s=1&h=5278c0cf0866a10d3c7cfaae91dc127367e2268750ac13451bda62d7b78abde2"
+        }
+      ],
+      "categoryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 1
+        }
+      ],
+      "globalRank": 1,
+      "globalRankPrev": 1,
+      "globalRankChange": 0,
+      "categoryRank": 1,
+      "categoryRankPrev": 1,
+      "categoryRankChange": 0,
+      "countryRank": 1,
+      "countryRankPrev": 1,
+      "countryRankChange": 0,
+      "countryAlpha2Code": "US",
+      "countryUrlCode": "united-states"
+    },
+    "demographics": {
+      "ageDistribution": [
+        {
+          "minAge": 25,
+          "maxAge": 34,
+          "value": 0.2680091293753333
+        },
+        {
+          "minAge": 18,
+          "maxAge": 24,
+          "value": 0.2109255473857935
+        },
+        {
+          "minAge": 35,
+          "maxAge": 44,
+          "value": 0.19045289988767666
+        },
+        {
+          "minAge": 45,
+          "maxAge": 54,
+          "value": 0.1470017360416554
+        },
+        {
+          "minAge": 55,
+          "maxAge": 64,
+          "value": 0.10923847957696646
+        },
+        {
+          "minAge": 65,
+          "maxAge": null,
+          "value": 0.07437220773257472
+        }
+      ],
+      "genderDistribution": {
+        "male": 0.5711255455782326,
+        "female": 0.4288744544217674
+      }
+    },
+    "geography": {
+      "countriesTotalCount": 120,
+      "topCountriesTraffics": [
+        {
+          "countryAlpha2Code": "US",
+          "countryAlpha2CodeRaw": "US",
+          "countryUrlCode": "united-states",
+          "visitsShare": 0.24391016519631686,
+          "visitsShareChange": -0.023458748300935195
+        },
+        {
+          "countryAlpha2Code": "IN",
+          "countryAlpha2CodeRaw": "IN",
+          "countryUrlCode": "india",
+          "visitsShare": 0.056580669208154855,
+          "visitsShareChange": -0.0040451643863472775
+        },
+        {
+          "countryAlpha2Code": "JP",
+          "countryAlpha2CodeRaw": "JP",
+          "countryUrlCode": "japan",
+          "visitsShare": 0.05575972000101411,
+          "visitsShareChange": -0.027226910309177232
+        },
+        {
+          "countryAlpha2Code": "BR",
+          "countryAlpha2CodeRaw": "BR",
+          "countryUrlCode": "brazil",
+          "visitsShare": 0.049276715467544724,
+          "visitsShareChange": -0.01635491895300978
+        },
+        {
+          "countryAlpha2Code": "GB",
+          "countryAlpha2CodeRaw": "GB",
+          "countryUrlCode": "united-kingdom",
+          "visitsShare": 0.03527936400873431,
+          "visitsShareChange": -0.01173642787739304
+        }
+      ]
+    }
+  },
+  {
+    "interests": {
+      "interestedWebsitesTotalCount": 10,
+      "topInterestedWebsites": [
+        {
+          "domain": "api.x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=api.x.com&t=2&s=1&h=2b8eec82ddb5772b85a5760ce6c7828196085ef4884fed7d72dbf37332039d22"
+        },
+        {
+          "domain": "t.co",
+          "icon": "https://site-images.similarcdn.com/image?url=t.co&t=2&s=1&h=468df83b203c647410a90affa0b8f59f793ef8e10f0fa03978562d331e4bdcf6"
+        },
+        {
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "domain": "help.x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=help.x.com&t=2&s=1&h=52a8cad60651c45a01eae75459108eb5a2c532a5d085482bd32e9520e9f45f99"
+        },
+        {
+          "domain": "pixiv.net",
+          "icon": "https://site-images.similarcdn.com/image?url=pixiv.net&t=2&s=1&h=fb002711fec47eeef20199211e9b84a8add55513dfa4a3299c8e812cd16b4034"
+        }
+      ],
+      "topInterestedTopics": [
+        "japan",
+        "news",
+        "ニュース",
+        "shopping",
+        "search"
+      ],
+      "topInterestedCategories": [
+        "adult",
+        "games/video_games_consoles_and_accessories",
+        "arts_and_entertainment/animation_and_comics",
+        "computers_electronics_and_technology/computers_electronics_and_technology",
+        "news_and_media"
+      ]
+    },
+    "competitors": {
+      "topSimilarityCompetitors": [
+        {
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 2,
+          "affinity": 1,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "bsky.app",
+          "icon": "https://site-images.similarcdn.com/image?url=bsky.app&t=2&s=1&h=e73b483bc12ddfe94378f9166f49476e86cbb67022240fae512143f05325123f",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 20,
+          "affinity": 0.9565217391304347,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "threads.net",
+          "icon": "https://site-images.similarcdn.com/image?url=threads.net&t=2&s=1&h=066425f7ee936dfe9f32ca124e48e4da4abac374d700470b86ba139169702963",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 367,
+          "affinity": 0.9239130434782608,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "pixiv.net",
+          "icon": "https://site-images.similarcdn.com/image?url=pixiv.net&t=2&s=1&h=fb002711fec47eeef20199211e9b84a8add55513dfa4a3299c8e812cd16b4034",
+          "categoryId": "arts_and_entertainment/visual_arts_and_design",
+          "categoryRank": 1,
+          "affinity": 0.8478260869565217,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "t.co",
+          "icon": "https://site-images.similarcdn.com/image?url=t.co&t=2&s=1&h=468df83b203c647410a90affa0b8f59f793ef8e10f0fa03978562d331e4bdcf6",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": null,
+          "affinity": 0.8152173913043478,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "linkedin.com",
+          "icon": "https://site-images.similarcdn.com/image?url=linkedin.com&t=2&s=1&h=64a0e043fc8ff74ac308e3f0e136ae7d1b6544be4e9e704ad7fd062070be48a1",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 7,
+          "affinity": 0.7826086956521738,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "twitch.tv",
+          "icon": "https://site-images.similarcdn.com/image?url=twitch.tv&t=2&s=1&h=355e363b41e14a959cda6ccf0989ff8444402dd8844820c31b74a89bf3ed2792",
+          "categoryId": "games/video_games_consoles_and_accessories",
+          "categoryRank": 1,
+          "affinity": 0.7499999999999999,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "snapchat.com",
+          "icon": "https://site-images.similarcdn.com/image?url=snapchat.com&t=2&s=1&h=85f6080a53bf35b040e6ad6aa360d7d88a92b0c6360c634ae565cf97d09b700a",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 18,
+          "affinity": 0.7282608695652174,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 1,
+          "affinity": 0.7065217391304348,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "weibo.com",
+          "icon": "https://site-images.similarcdn.com/image?url=weibo.com&t=2&s=1&h=58d29c07ca70e52383902819af57e01b6b60b59e69a6401cd7bc49fc4552de7b",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 23,
+          "affinity": 0.6739130434782609,
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "searchesSource": {
+      "organicSearchShare": 0.9999819978655902,
+      "paidSearchShare": 0.00001800213440983356,
+      "keywordsTotalCount": 207377,
+      "topKeywords": [
+        {
+          "name": "twitter",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.81
+        },
+        {
+          "name": "x",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.72
+        },
+        {
+          "name": "x.com",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": null
+        },
+        {
+          "name": "tw",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.75
+        },
+        {
+          "name": "x twitter",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.57
+        }
+      ]
+    },
+    "incomingReferrals": {
+      "referralSitesTotalCount": 904,
+      "topReferralSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.06751886156376329,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.06365405892315411,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.038137998096143294,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "fantia.jp",
+          "icon": "https://site-images.similarcdn.com/image?url=fantia.jp&t=2&s=1&h=1eaa281bfc90e80bde329d7817588549da4500afa2b176f733c2f226ae43c211",
+          "visitsShare": 0.036075985537104324,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "privatter.net",
+          "icon": "https://site-images.similarcdn.com/image?url=privatter.net&t=2&s=1&h=c02bcd4b0237618bc4c4521f8b84c3f8d6209f3b32906885f3dc9df5abb15b76",
+          "visitsShare": 0.03295763936402886,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "myfans.jp",
+          "icon": "https://site-images.similarcdn.com/image?url=myfans.jp&t=2&s=1&h=2d9bf55a55421b692110e64a86c1307bf719174f40bac37b36a3862c3e5135d0",
+          "visitsShare": 0.03270458674298428,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ],
+      "topIncomingCategories": [
+        {
+          "category": "Adult",
+          "visitsShare": 0.18405175016975592
+        },
+        {
+          "category": "Food_and_Drink/Food_and_Drink",
+          "visitsShare": 0.14471847972653876
+        },
+        {
+          "category": "Arts_and_Entertainment/Animation_and_Comics",
+          "visitsShare": 0.11909023398386723
+        },
+        {
+          "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
+          "visitsShare": 0.09162692717258672
+        },
+        {
+          "category": "News_and_Media",
+          "visitsShare": 0.07277798647004986
+        }
+      ]
+    },
+    "adsSource": {
+      "adsSitesTotalCount": 63,
+      "adsNetworksTotalCount": 1,
+      "topAdsSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.4584490451277592,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.048279927721970144,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "neteasegames.com",
+          "icon": "https://site-images.similarcdn.com/image?url=neteasegames.com&t=2&s=1&h=e8ea9f354253e19c4220a39732bab887bc9b820444b45113e6ce158ee41725f7",
+          "visitsShare": 0.045548388237083154,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "kurogames.com",
+          "icon": "https://site-images.similarcdn.com/image?url=kurogames.com&t=2&s=1&h=473206e775476ae9c55e249a9a729ee175e5b41aaff94e03910916f0dff9756f",
+          "visitsShare": 0.043113610591956494,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "booth.pm",
+          "icon": "https://site-images.similarcdn.com/image?url=booth.pm&t=2&s=1&h=37a637b4533d971950d9b17f0af2e19b49dce6941a15d49d7b29319796589262",
+          "visitsShare": 0.0422351114166814,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    "socialNetworksSource": {
+      "topSocialNetworks": [
+        {
+          "name": "X-twitter",
+          "visitsShare": 0.8851829433181762,
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "name": "Pixiv",
+          "visitsShare": 0.06717930542602303,
+          "icon": "https://site-images.similarcdn.com/image?url=pixiv.net&t=2&s=1&h=fb002711fec47eeef20199211e9b84a8add55513dfa4a3299c8e812cd16b4034"
+        },
+        {
+          "name": "Youtube",
+          "visitsShare": 0.0197492031983966,
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "name": "Facebook",
+          "visitsShare": 0.008169299125250017,
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "name": "Discord",
+          "visitsShare": 0.004513824375276363,
+          "icon": "https://site-images.similarcdn.com/image?url=discord.com&t=2&s=1&h=133c0aed0b1b6c3760db4875f51accd42ff1157854dd0ee0eabab700af80a348"
+        }
+      ],
+      "socialNetworksTotalCount": 27
+    },
+    "outgoingReferrals": {
+      "outgoingSitesTotalCount": 0,
+      "topOutgoingSites": [],
+      "topOutgoingCategories": []
+    },
+    "compareCompetitor": null,
+    "technologies": {
+      "categories": [
+        {
+          "categoryId": "payment_and_currencies",
+          "topTechName": "PayPal",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1146",
+          "technologiesTotalCount": 33
+        },
+        {
+          "categoryId": "advertising",
+          "topTechName": "DoubleClick",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=239",
+          "technologiesTotalCount": 9
+        },
+        {
+          "categoryId": "audio_video_media",
+          "topTechName": "YouTube",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1209",
+          "technologiesTotalCount": 6
+        },
+        {
+          "categoryId": "conversion_and_analytics",
+          "topTechName": "Google Analytics",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1",
+          "technologiesTotalCount": 5
+        }
+      ],
+      "categoriesTotalCount": 19,
+      "technologiesTotalCount": 89
+    },
+    "recentAds": {
+      "recentAds": [
+        {
+          "creativeId": "f80ff0f007d07c44f0fff801821b8d8017f8_342fc7f7",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/f80ff0f007d07c44f0fff801821b8d8017f8_342fc7f7.jpeg?REDACTED",
+          "height": 600,
+          "width": 300,
+          "activeDays": 488
+        },
+        {
+          "creativeId": "03f07f0630630f703f07f01f06e00e2fe26e_342fc7f7",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/03f07f0630630f703f07f01f06e00e2fe26e_342fc7f7.jpeg?REDACTED",
+          "height": 250,
+          "width": 300,
+          "activeDays": 1
+        }
+      ],
+      "isMoreAds": false
+    },
+    "snapshotDate": "2026-04-01T00:00:00+00:00",
+    "domain": "twitter.com",
+    "icon": "https://site-images.similarcdn.com/image?url=twitter.com&t=2&s=1&h=05438debe431144d9c727828570d1754a25bd9286bc14f3aa65a4f05b9057e25",
+    "previewDesktop": "https://site-images.similarcdn.com/image?url=twitter.com&t=1&s=1&h=05438debe431144d9c727828570d1754a25bd9286bc14f3aa65a4f05b9057e25",
+    "previewMobile": "https://site-images.similarcdn.com/image?url=twitter.com&t=4&s=1&h=05438debe431144d9c727828570d1754a25bd9286bc14f3aa65a4f05b9057e25",
+    "isInvalidTrafficData": false,
+    "domainGaStatus": 0,
+    "isDataFromGaHighlyDiscrepant": false,
+    "isDataFromGa": false,
+    "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+    "overview": {
+      "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+      "globalRank": null,
+      "globalRankChange": 0,
+      "countryAlpha2Code": "XX",
+      "countryUrlCode": "",
+      "countryRank": null,
+      "countryRankChange": 0,
+      "categoryRank": null,
+      "categoryRankChange": 0,
+      "visitsTotalCount": 43760582,
+      "bounceRate": 0.5796216945071264,
+      "pagesPerVisit": 4.744388280869177,
+      "visitsAvgDurationFormatted": "00:02:22",
+      "companyFeedbackRecaptcha": "6LfEq1gUAAAAACEE4w7Zek8GEmBooXMMWDpBjI6r",
+      "companyName": "Twitter",
+      "companyYearFounded": 2006,
+      "companyHeadquarterCountryCode": "US",
+      "companyHeadquarterStateCode": 8406,
+      "companyHeadquarterCity": "San Francisco",
+      "companyEmployeesMin": 5001,
+      "companyEmployeesMax": 10000,
+      "companyRevenueMin": 1000000000,
+      "companyRevenueMax": null,
+      "companyCategoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+      "companyRevenueCurrency": null,
+      "companyParentDomain": "twitter.com"
+    },
+    "traffic": {
+      "graphVisitsGrade": "<100M",
+      "visitsTotalCount": 43760582,
+      "visitsTotalCountChange": -0.09367693566471762,
+      "bounceRate": 0.5796216945071264,
+      "pagesPerVisit": 4.744388280869177,
+      "visitsAvgDurationFormatted": "00:02:22",
+      "history": [
+        {
+          "date": "2026-02-01T00:00:00",
+          "percentageChange": -23.23897672835624,
+          "percentageValue": 44.8220759
+        },
+        {
+          "date": "2026-03-01T00:00:00",
+          "percentageChange": 9.123596442143288,
+          "percentageValue": 48.455281400000004
+        },
+        {
+          "date": "2026-04-01T00:00:00",
+          "percentageChange": -9.367693566471761,
+          "percentageValue": 44.3845238
+        }
+      ],
+      "competitors": [
+        {
+          "domain": "twitter.com",
+          "icon": "https://site-images.similarcdn.com/image?url=twitter.com&t=2&s=1&h=05438debe431144d9c727828570d1754a25bd9286bc14f3aa65a4f05b9057e25",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "bsky.app",
+          "icon": "https://site-images.similarcdn.com/image?url=bsky.app&t=2&s=1&h=e73b483bc12ddfe94378f9166f49476e86cbb67022240fae512143f05325123f",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "threads.net",
+          "icon": "https://site-images.similarcdn.com/image?url=threads.net&t=2&s=1&h=066425f7ee936dfe9f32ca124e48e4da4abac374d700470b86ba139169702963",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "pixiv.net",
+          "icon": "https://site-images.similarcdn.com/image?url=pixiv.net&t=2&s=1&h=fb002711fec47eeef20199211e9b84a8add55513dfa4a3299c8e812cd16b4034",
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "trafficSources": [
+      {
+        "source": "social_organic",
+        "rank": 1,
+        "percentage": 0.3641514831827446,
+        "isHigher": null
+      },
+      {
+        "source": "referrals",
+        "rank": 2,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "direct",
+        "rank": 3,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "organic",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "mail",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "ads",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "gen_ai",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "affiliate",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "social_paid",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "paid",
+        "rank": -1,
+        "percentage": null,
+        "isHigher": null
+      }
+    ],
+    "ranking": {
+      "globalRankCompetitors": [],
+      "globalRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 0
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 0
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 0
+        }
+      ],
+      "countryRankCompetitors": [],
+      "countryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 0
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 0
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 0
+        }
+      ],
+      "categoryRankCompetitors": [],
+      "categoryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 0
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 0
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 0
+        }
+      ],
+      "globalRank": null,
+      "globalRankPrev": null,
+      "globalRankChange": 0,
+      "categoryRank": null,
+      "categoryRankPrev": null,
+      "categoryRankChange": 0,
+      "countryRank": null,
+      "countryRankPrev": null,
+      "countryRankChange": 0,
+      "countryAlpha2Code": null,
+      "countryUrlCode": null
+    },
+    "demographics": {
+      "ageDistribution": [
+        {
+          "minAge": 25,
+          "maxAge": 34,
+          "value": 0.27735445859069685
+        },
+        {
+          "minAge": 18,
+          "maxAge": 24,
+          "value": 0.23276118506236815
+        },
+        {
+          "minAge": 35,
+          "maxAge": 44,
+          "value": 0.19145440453486157
+        },
+        {
+          "minAge": 45,
+          "maxAge": 54,
+          "value": 0.1397645764133602
+        },
+        {
+          "minAge": 55,
+          "maxAge": 64,
+          "value": 0.0939455076215582
+        },
+        {
+          "minAge": 65,
+          "maxAge": null,
+          "value": 0.0647198677771549
+        }
+      ],
+      "genderDistribution": {
+        "male": 0.6318390092533135,
+        "female": 0.3681609907466865
+      }
+    },
+    "geography": {
+      "countriesTotalCount": 120,
+      "topCountriesTraffics": [
+        {
+          "countryAlpha2Code": "JP",
+          "countryAlpha2CodeRaw": "JP",
+          "countryUrlCode": "japan",
+          "visitsShare": 0.4707205213279927,
+          "visitsShareChange": -0.1587941577255021
+        },
+        {
+          "countryAlpha2Code": "US",
+          "countryAlpha2CodeRaw": "US",
+          "countryUrlCode": "united-states",
+          "visitsShare": 0.11317030288312264,
+          "visitsShareChange": -0.05056884947829632
+        },
+        {
+          "countryAlpha2Code": "CN",
+          "countryAlpha2CodeRaw": "CN",
+          "countryUrlCode": "",
+          "visitsShare": 0.02942969505484609,
+          "visitsShareChange": -0.005207639169950595
+        },
+        {
+          "countryAlpha2Code": "ID",
+          "countryAlpha2CodeRaw": "ID",
+          "countryUrlCode": "indonesia",
+          "visitsShare": 0.02940585259241401,
+          "visitsShareChange": 0.046931592616780815
+        },
+        {
+          "countryAlpha2Code": "IN",
+          "countryAlpha2CodeRaw": "IN",
+          "countryUrlCode": "india",
+          "visitsShare": 0.02666156705274645,
+          "visitsShareChange": -0.0663773647425615
+        }
+      ]
+    }
+  },
+  {
+    "interests": {
+      "interestedWebsitesTotalCount": 10,
+      "topInterestedWebsites": [
+        {
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+        },
+        {
+          "domain": "mail.google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=mail.google.com&t=2&s=1&h=bdc21d597156a9f81824c32b3ddedb24272ba7f1441f554aac2544fd8b723aec"
+        },
+        {
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "domain": "reddit.com",
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        },
+        {
+          "domain": "chatgpt.com",
+          "icon": "https://site-images.similarcdn.com/image?url=chatgpt.com&t=2&s=1&h=a31616ae3cdef12fcfc664127563e6092e7531e7b4c3cde7e0c8c5fd3310dfc0"
+        }
+      ],
+      "topInterestedTopics": [
+        "news",
+        "search",
+        "internet",
+        "community",
+        "social"
+      ],
+      "topInterestedCategories": [
+        "games/video_games_consoles_and_accessories",
+        "adult",
+        "computers_electronics_and_technology/computers_electronics_and_technology",
+        "computers_electronics_and_technology/programming_and_developer_software",
+        "arts_and_entertainment/tv_movies_and_streaming"
+      ]
+    },
+    "competitors": {
+      "topSimilarityCompetitors": [
+        {
+          "domain": "tiktok.com",
+          "icon": "https://site-images.similarcdn.com/image?url=tiktok.com&t=2&s=1&h=398f47f8e1724c54f9f760f76988b2f9cf0c4111523f9d3f26e03d62731b0c17",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 4,
+          "affinity": 1,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "dailymotion.com",
+          "icon": "https://site-images.similarcdn.com/image?url=dailymotion.com&t=2&s=1&h=8feac7e009e83ab596db97e670f446933ffb6f8c152ac87f6eb753472b6ce3c0",
+          "categoryId": "arts_and_entertainment/tv_movies_and_streaming",
+          "categoryRank": 10,
+          "affinity": 0.9239130434782608,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "bilibili.com",
+          "icon": "https://site-images.similarcdn.com/image?url=bilibili.com&t=2&s=1&h=1a9d57d94f62bc96ce60b3f2440e9cfe1431dd4c1aeca128d063298eedea3382",
+          "categoryId": "arts_and_entertainment/animation_and_comics",
+          "categoryRank": 1,
+          "affinity": 0.9021739130434782,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "twitch.tv",
+          "icon": "https://site-images.similarcdn.com/image?url=twitch.tv&t=2&s=1&h=355e363b41e14a959cda6ccf0989ff8444402dd8844820c31b74a89bf3ed2792",
+          "categoryId": "games/video_games_consoles_and_accessories",
+          "categoryRank": 1,
+          "affinity": 0.8804347826086957,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "v.qq.com",
+          "icon": "https://site-images.similarcdn.com/image?url=v.qq.com&t=2&s=1&h=c77bbdcb13464226de8f7c1a4481f2f016cd42e1617178006810b2f0dd996dcd",
+          "categoryId": "arts_and_entertainment/tv_movies_and_streaming",
+          "categoryRank": null,
+          "affinity": 0.8478260869565217,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "nicovideo.jp",
+          "icon": "https://site-images.similarcdn.com/image?url=nicovideo.jp&t=2&s=1&h=b2b3189f13907d16f31693170cac5e8407389282a63e1608d251f3684c3b7606",
+          "categoryId": "arts_and_entertainment/tv_movies_and_streaming",
+          "categoryRank": 17,
+          "affinity": 0.8260869565217391,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "rumble.com",
+          "icon": "https://site-images.similarcdn.com/image?url=rumble.com&t=2&s=1&h=ab4e9eef8a892f77c2dea4786c175844c81d8e1990bf7164424dac6d0f5c1ddf",
+          "categoryId": "arts_and_entertainment",
+          "categoryRank": 119,
+          "affinity": 0.8043478260869564,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "rutube.ru",
+          "icon": "https://site-images.similarcdn.com/image?url=rutube.ru&t=2&s=1&h=7c97e688638f5d25317861fc9de094b5fcbfe1e9b299cebd1b5f351b6f05f1a5",
+          "categoryId": "arts_and_entertainment/tv_movies_and_streaming",
+          "categoryRank": 7,
+          "affinity": 0.7826086956521738,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "vkvideo.ru",
+          "icon": "https://site-images.similarcdn.com/image?url=vkvideo.ru&t=2&s=1&h=535e7245a064aea0e994ee0ca83d172a27f7d7c94350fd8641da93d883ed5fc7",
+          "categoryId": "computers_electronics_and_technology/computer_hardware",
+          "categoryRank": 1,
+          "affinity": 0.7499999999999999,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "douyu.com",
+          "icon": "https://site-images.similarcdn.com/image?url=douyu.com&t=2&s=1&h=36d142fd3e72d644351818bf244d3bf21459f7f30785d4def23269c04fa63afc",
+          "categoryId": "games/games",
+          "categoryRank": 3,
+          "affinity": 0.7282608695652174,
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "searchesSource": {
+      "organicSearchShare": 0.9981109620004446,
+      "paidSearchShare": 0.0018890379995554207,
+      "keywordsTotalCount": 92451695,
+      "topKeywords": [
+        {
+          "name": "youtube",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.18
+        },
+        {
+          "name": "yt",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.16
+        },
+        {
+          "name": "ютуб",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.12
+        },
+        {
+          "name": "ユーチューブ",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.2
+        },
+        {
+          "name": "youtube music",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.3
+        }
+      ]
+    },
+    "incomingReferrals": {
+      "referralSitesTotalCount": 910,
+      "topReferralSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.19000285696181146,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.03198363977998758,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.020997474354858766,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "bit.ly",
+          "icon": "https://site-images.similarcdn.com/image?url=bit.ly&t=2&s=1&h=1b0043db45cbea5941cec1b946c399c43f7b2dc7291a7900f9359a04b4d576a8",
+          "visitsShare": 0.020217326604503656,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "namu.wiki",
+          "icon": "https://site-images.similarcdn.com/image?url=namu.wiki&t=2&s=1&h=48841617f703a6ce22e7b5f64c080b5eef4f5ea5d2e069704156b25292303c29",
+          "visitsShare": 0.01818318459061054,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "yandex.ru",
+          "icon": "https://site-images.similarcdn.com/image?url=yandex.ru&t=2&s=1&h=f0674e5e56f12160a4f31738b3aecd42e2ebffde994db0c5ebdd214ef6dde60e",
+          "visitsShare": 0.015789994419692137,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ],
+      "topIncomingCategories": [
+        {
+          "category": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+          "visitsShare": 0.20892655147706868
+        },
+        {
+          "category": "News_and_Media",
+          "visitsShare": 0.1358970070387136
+        },
+        {
+          "category": "Games/Video_Games_Consoles_and_Accessories",
+          "visitsShare": 0.09467207132593752
+        },
+        {
+          "category": "Computers_Electronics_and_Technology/Search_Engines",
+          "visitsShare": 0.05249386351506895
+        },
+        {
+          "category": "Computers_Electronics_and_Technology/Social_Networks_and_Online_Communities",
+          "visitsShare": 0.047024477382259344
+        }
+      ]
+    },
+    "adsSource": {
+      "adsSitesTotalCount": 921,
+      "adsNetworksTotalCount": 28,
+      "topAdsSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.0708008847832893,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.040071314181357294,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "ssstik.io",
+          "icon": "https://site-images.similarcdn.com/image?url=ssstik.io&t=2&s=1&h=31d3ca17049b9be6c5ffae1e69d697c36930bdf468697cac2a5178d87d58a54d",
+          "visitsShare": 0.028656887242747668,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "techradar.com",
+          "icon": "https://site-images.similarcdn.com/image?url=techradar.com&t=2&s=1&h=d7452248b30cd922e4e8f8b1ddb17122f9ec05aedbe23628017438c957198d7e",
+          "visitsShare": 0.027678920315175045,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "foxnews.com",
+          "icon": "https://site-images.similarcdn.com/image?url=foxnews.com&t=2&s=1&h=38cb679f6039f10f4437be7a64a136200a3d7361c2c18537258d48e26fd7285f",
+          "visitsShare": 0.02751407848950662,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    "socialNetworksSource": {
+      "topSocialNetworks": [
+        {
+          "name": "Facebook",
+          "visitsShare": 0.2689362153908712,
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "name": "X-twitter",
+          "visitsShare": 0.2279002934623298,
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "name": "Reddit",
+          "visitsShare": 0.21158663097018654,
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        },
+        {
+          "name": "Instagram",
+          "visitsShare": 0.08608869323664156,
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "name": "WhatsApp Webapp",
+          "visitsShare": 0.052383818806440746,
+          "icon": "https://site-images.similarcdn.com/image?url=web.whatsapp.com&t=2&s=1&h=451e82ca011741d37d72edee1d8fdc272155924d894fe937e292066acb713bc8"
+        }
+      ],
+      "socialNetworksTotalCount": 88
+    },
+    "outgoingReferrals": {
+      "outgoingSitesTotalCount": 0,
+      "topOutgoingSites": [],
+      "topOutgoingCategories": []
+    },
+    "compareCompetitor": null,
+    "technologies": {
+      "categories": [
+        {
+          "categoryId": "payment_and_currencies",
+          "topTechName": "Cart Functionality",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=2901",
+          "technologiesTotalCount": 30
+        },
+        {
+          "categoryId": "advertising",
+          "topTechName": "Google Adsense",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=237",
+          "technologiesTotalCount": 24
+        },
+        {
+          "categoryId": "conversion_and_analytics",
+          "topTechName": "Google Analytics",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1",
+          "technologiesTotalCount": 15
+        },
+        {
+          "categoryId": "ecommerce",
+          "topTechName": "USPS",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=3767",
+          "technologiesTotalCount": 8
+        }
+      ],
+      "categoriesTotalCount": 21,
+      "technologiesTotalCount": 134
+    },
+    "recentAds": {
+      "recentAds": [
+        {
+          "creativeId": "fff06084116819c3fc1f8a8fc03e0fc07c07_02387b0f",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/fff06084116819c3fc1f8a8fc03e0fc07c07_02387b0f.jpeg?REDACTED",
+          "height": 250,
+          "width": 300,
+          "activeDays": 1985
+        },
+        {
+          "creativeId": "0008fe1ff2ce3fe802c027fe03cfd8f80f00_02387b0f",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/0008fe1ff2ce3fe802c027fe03cfd8f80f00_02387b0f.jpeg?REDACTED",
+          "height": 600,
+          "width": 300,
+          "activeDays": 1153
+        },
+        {
+          "creativeId": "0018ccfef0df98f80300039f3bf1bf09e107_02387b0f",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/0018ccfef0df98f80300039f3bf1bf09e107_02387b0f.jpeg?REDACTED",
+          "height": 250,
+          "width": 300,
+          "activeDays": 1153
+        }
+      ],
+      "isMoreAds": true
+    },
+    "snapshotDate": "2026-04-01T00:00:00+00:00",
+    "domain": "youtube.com",
+    "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+    "previewDesktop": "https://site-images.similarcdn.com/image?url=youtube.com&t=1&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+    "previewMobile": "https://site-images.similarcdn.com/image?url=youtube.com&t=4&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+    "isInvalidTrafficData": false,
+    "domainGaStatus": 0,
+    "isDataFromGaHighlyDiscrepant": false,
+    "isDataFromGa": false,
+    "categoryId": "arts_and_entertainment/tv_movies_and_streaming",
+    "overview": {
+      "description": "YouTube is home to unique voices and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voices globally.",
+      "globalRank": 2,
+      "globalRankChange": 0,
+      "countryAlpha2Code": "US",
+      "countryUrlCode": "united-states",
+      "countryRank": 2,
+      "countryRankChange": 0,
+      "categoryRank": 1,
+      "categoryRankChange": 0,
+      "visitsTotalCount": 28396279569,
+      "bounceRate": 0.2336282215698375,
+      "pagesPerVisit": 11.65467738243366,
+      "visitsAvgDurationFormatted": "00:18:48",
+      "companyFeedbackRecaptcha": "6LfEq1gUAAAAACEE4w7Zek8GEmBooXMMWDpBjI6r",
+      "companyName": "YouTube",
+      "companyYearFounded": 2005,
+      "companyHeadquarterCountryCode": "US",
+      "companyHeadquarterStateCode": 8406,
+      "companyHeadquarterCity": "San Bruno",
+      "companyEmployeesMin": 10001,
+      "companyEmployeesMax": null,
+      "companyRevenueMin": 1000000000,
+      "companyRevenueMax": null,
+      "companyCategoryId": "arts_and_entertainment/tv_movies_and_streaming",
+      "companyRevenueCurrency": "USD",
+      "companyParentDomain": "youtube.com"
+    },
+    "traffic": {
+      "graphVisitsGrade": "<50B",
+      "visitsTotalCount": 28396279569,
+      "visitsTotalCountChange": -0.031219501913752685,
+      "bounceRate": 0.2336282215698375,
+      "pagesPerVisit": 11.65467738243366,
+      "visitsAvgDurationFormatted": "00:18:48",
+      "history": [
+        {
+          "date": "2026-02-01T00:00:00",
+          "percentageChange": -11.030874349781879,
+          "percentageValue": 53.64185951659999
+        },
+        {
+          "date": "2026-03-01T00:00:00",
+          "percentageChange": 8.467190568638614,
+          "percentageValue": 57.760458458
+        },
+        {
+          "date": "2026-04-01T00:00:00",
+          "percentageChange": -3.1219501913752685,
+          "percentageValue": 56.1133032242
+        }
+      ],
+      "competitors": [
+        {
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "tiktok.com",
+          "icon": "https://site-images.similarcdn.com/image?url=tiktok.com&t=2&s=1&h=398f47f8e1724c54f9f760f76988b2f9cf0c4111523f9d3f26e03d62731b0c17",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "dailymotion.com",
+          "icon": "https://site-images.similarcdn.com/image?url=dailymotion.com&t=2&s=1&h=8feac7e009e83ab596db97e670f446933ffb6f8c152ac87f6eb753472b6ce3c0",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "bilibili.com",
+          "icon": "https://site-images.similarcdn.com/image?url=bilibili.com&t=2&s=1&h=1a9d57d94f62bc96ce60b3f2440e9cfe1431dd4c1aeca128d063298eedea3382",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "twitch.tv",
+          "icon": "https://site-images.similarcdn.com/image?url=twitch.tv&t=2&s=1&h=355e363b41e14a959cda6ccf0989ff8444402dd8844820c31b74a89bf3ed2792",
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "trafficSources": [
+      {
+        "source": "direct",
+        "rank": 1,
+        "percentage": 0.8069007158209995,
+        "isHigher": null
+      },
+      {
+        "source": "organic",
+        "rank": 2,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "social_organic",
+        "rank": 3,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "referrals",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "mail",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "gen_ai",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "ads",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "social_paid",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "paid",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "affiliate",
+        "rank": -1,
+        "percentage": null,
+        "isHigher": null
+      }
+    ],
+    "ranking": {
+      "globalRankCompetitors": [
+        {
+          "rank": 1,
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+        },
+        {
+          "rank": 2,
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "rank": 3,
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "rank": 4,
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "rank": 5,
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        }
+      ],
+      "globalRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 2
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 2
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 2
+        }
+      ],
+      "countryRankCompetitors": [
+        {
+          "rank": 1,
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+        },
+        {
+          "rank": 2,
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "rank": 3,
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "rank": 4,
+          "domain": "amazon.com",
+          "icon": "https://site-images.similarcdn.com/image?url=amazon.com&t=2&s=1&h=43a07f575342a8fbb74cd3ca3ebf33760f2fbfbff603546fb4f7208244147dcc"
+        },
+        {
+          "rank": 5,
+          "domain": "reddit.com",
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        }
+      ],
+      "countryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 2
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 2
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 2
+        }
+      ],
+      "categoryRankCompetitors": [
+        {
+          "rank": 1,
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "rank": 2,
+          "domain": "netflix.com",
+          "icon": "https://site-images.similarcdn.com/image?url=netflix.com&t=2&s=1&h=68a2885c7960ece3b1d7dd9b592e7ad1b35ddeb89fc89650435c1507f3f1c0b3"
+        },
+        {
+          "rank": 3,
+          "domain": "imdb.com",
+          "icon": "https://site-images.similarcdn.com/image?url=imdb.com&t=2&s=1&h=678a62224cd21e08f46ddef929ff72ae022d1025a427237155a87041bdcd3960"
+        },
+        {
+          "rank": 4,
+          "domain": "hulu.com",
+          "icon": "https://site-images.similarcdn.com/image?url=hulu.com&t=2&s=1&h=a7e1959613ec40448b34f4446efc4fd5442f150686995704b295cb09b4d0d99a"
+        },
+        {
+          "rank": 5,
+          "domain": "xfinity.com",
+          "icon": "https://site-images.similarcdn.com/image?url=xfinity.com&t=2&s=1&h=604f50ac19961ab0e54670531bad581d715cf6ef04b28e2815947fa8238b74d4"
+        }
+      ],
+      "categoryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 1
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 1
+        }
+      ],
+      "globalRank": 2,
+      "globalRankPrev": 2,
+      "globalRankChange": 0,
+      "categoryRank": 1,
+      "categoryRankPrev": 1,
+      "categoryRankChange": 0,
+      "countryRank": 2,
+      "countryRankPrev": 2,
+      "countryRankChange": 0,
+      "countryAlpha2Code": "US",
+      "countryUrlCode": "united-states"
+    },
+    "demographics": {
+      "ageDistribution": [
+        {
+          "minAge": 25,
+          "maxAge": 34,
+          "value": 0.2831349928360325
+        },
+        {
+          "minAge": 18,
+          "maxAge": 24,
+          "value": 0.2497173608537241
+        },
+        {
+          "minAge": 35,
+          "maxAge": 44,
+          "value": 0.18464738084873267
+        },
+        {
+          "minAge": 45,
+          "maxAge": 54,
+          "value": 0.13062293385429463
+        },
+        {
+          "minAge": 55,
+          "maxAge": 64,
+          "value": 0.0914211282982619
+        },
+        {
+          "minAge": 65,
+          "maxAge": null,
+          "value": 0.06045620330895428
+        }
+      ],
+      "genderDistribution": {
+        "male": 0.6087979299456574,
+        "female": 0.3912020700543426
+      }
+    },
+    "geography": {
+      "countriesTotalCount": 120,
+      "topCountriesTraffics": [
+        {
+          "countryAlpha2Code": "US",
+          "countryAlpha2CodeRaw": "US",
+          "countryUrlCode": "united-states",
+          "visitsShare": 0.21071464833045625,
+          "visitsShareChange": -0.03870586879606297
+        },
+        {
+          "countryAlpha2Code": "IN",
+          "countryAlpha2CodeRaw": "IN",
+          "countryUrlCode": "india",
+          "visitsShare": 0.0539044329340792,
+          "visitsShareChange": -0.05704020330414983
+        },
+        {
+          "countryAlpha2Code": "BR",
+          "countryAlpha2CodeRaw": "BR",
+          "countryUrlCode": "brazil",
+          "visitsShare": 0.046769350828409835,
+          "visitsShareChange": 0.0033170583120074593
+        },
+        {
+          "countryAlpha2Code": "JP",
+          "countryAlpha2CodeRaw": "JP",
+          "countryUrlCode": "japan",
+          "visitsShare": 0.04353854492575767,
+          "visitsShareChange": -0.05134896943890832
+        },
+        {
+          "countryAlpha2Code": "DE",
+          "countryAlpha2CodeRaw": "DE",
+          "countryUrlCode": "germany",
+          "visitsShare": 0.03438445276564998,
+          "visitsShareChange": -0.0322151071546547
+        }
+      ]
+    }
+  },
+  {
+    "interests": {
+      "interestedWebsitesTotalCount": 10,
+      "topInterestedWebsites": [
+        {
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "domain": "google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=google.com&t=2&s=1&h=eb35e0fbafa3eb290132ffdfe47187d950d68daaa659ec1bd4b4e834b8f16461"
+        },
+        {
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "domain": "mail.google.com",
+          "icon": "https://site-images.similarcdn.com/image?url=mail.google.com&t=2&s=1&h=bdc21d597156a9f81824c32b3ddedb24272ba7f1441f554aac2544fd8b723aec"
+        }
+      ],
+      "topInterestedTopics": [
+        "news",
+        "search",
+        "games",
+        "online",
+        "shopping"
+      ],
+      "topInterestedCategories": [
+        "games/video_games_consoles_and_accessories",
+        "adult",
+        "computers_electronics_and_technology/programming_and_developer_software",
+        "computers_electronics_and_technology/computers_electronics_and_technology",
+        "arts_and_entertainment/tv_movies_and_streaming"
+      ]
+    },
+    "competitors": {
+      "topSimilarityCompetitors": [
+        {
+          "domain": "tiktok.com",
+          "icon": "https://site-images.similarcdn.com/image?url=tiktok.com&t=2&s=1&h=398f47f8e1724c54f9f760f76988b2f9cf0c4111523f9d3f26e03d62731b0c17",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 4,
+          "affinity": 1,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 1,
+          "affinity": 0.967391304347826,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 3,
+          "affinity": 0.9565217391304347,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "threads.com",
+          "icon": "https://site-images.similarcdn.com/image?url=threads.com&t=2&s=1&h=298bfa5503eca215bb475c848ab433c80484bba9f02ad707c72f9059803e3ce3",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 13,
+          "affinity": 0.9239130434782608,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+          "categoryId": "arts_and_entertainment/tv_movies_and_streaming",
+          "categoryRank": 1,
+          "affinity": 0.9021739130434782,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "snapchat.com",
+          "icon": "https://site-images.similarcdn.com/image?url=snapchat.com&t=2&s=1&h=85f6080a53bf35b040e6ad6aa360d7d88a92b0c6360c634ae565cf97d09b700a",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 18,
+          "affinity": 0.8586956521739131,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "reddit.com",
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 5,
+          "affinity": 0.8478260869565217,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "linkedin.com",
+          "icon": "https://site-images.similarcdn.com/image?url=linkedin.com&t=2&s=1&h=64a0e043fc8ff74ac308e3f0e136ae7d1b6544be4e9e704ad7fd062070be48a1",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 7,
+          "affinity": 0.8152173913043478,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "pinterest.com",
+          "icon": "https://site-images.similarcdn.com/image?url=pinterest.com&t=2&s=1&h=ec976160ca16242c6ab9ed7bc48e7b0f04c4100ceac5bcb6d3ea55450aa12210",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 8,
+          "affinity": 0.7934782608695652,
+          "isDataFromGa": false
+        },
+        {
+          "domain": "vk.com",
+          "icon": "https://site-images.similarcdn.com/image?url=vk.com&t=2&s=1&h=96c7d9c0167ed93f1aba87c7ec931f6e76e122c08d08cbf046db42369bac906e",
+          "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+          "categoryRank": 9,
+          "affinity": 0.7826086956521738,
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "searchesSource": {
+      "organicSearchShare": 0.9993960144806364,
+      "paidSearchShare": 0.0006039855193635812,
+      "keywordsTotalCount": 59776815,
+      "topKeywords": [
+        {
+          "name": "instagram",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.31
+        },
+        {
+          "name": "ig",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.31
+        },
+        {
+          "name": "ipl",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": null
+        },
+        {
+          "name": "instagram login",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.16
+        },
+        {
+          "name": "in",
+          "estimatedValue": null,
+          "volume": null,
+          "cpc": 0.32
+        }
+      ]
+    },
+    "incomingReferrals": {
+      "referralSitesTotalCount": 891,
+      "topReferralSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.1040133570858628,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.1032981897759206,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.06406041264317855,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "simpcity.cr",
+          "icon": "https://site-images.similarcdn.com/image?url=simpcity.cr&t=2&s=1&h=304da0fcd64bb26c0ca402ae9c0b71382f8239e47ee90aeca3f0e200bcd13bb1",
+          "visitsShare": 0.036334023166757295,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "msn.com",
+          "icon": "https://site-images.similarcdn.com/image?url=msn.com&t=2&s=1&h=0e9d9ff92e58e52339a7efacceaa06a7e68aa6a51e59b91207ae666108368a10",
+          "visitsShare": 0.03595209050565282,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "pornhub.com",
+          "icon": "https://site-images.similarcdn.com/image?url=pornhub.com&t=2&s=1&h=a7cd82dfb7084774816cabbe511a6b4b7a4f6b6bb484a76d3a4b7c63e66cdebb",
+          "visitsShare": 0.02779214976465477,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ],
+      "topIncomingCategories": [
+        {
+          "category": "Adult",
+          "visitsShare": 0.14764836531964812
+        },
+        {
+          "category": "Computers_Electronics_and_Technology/Social_Networks_and_Online_Communities",
+          "visitsShare": 0.13427782094447763
+        },
+        {
+          "category": "Computers_Electronics_and_Technology/Search_Engines",
+          "visitsShare": 0.1285472493855385
+        },
+        {
+          "category": "News_and_Media",
+          "visitsShare": 0.09536879365055029
+        },
+        {
+          "category": "Finance/Investing",
+          "visitsShare": 0.05097316041160301
+        }
+      ]
+    },
+    "adsSource": {
+      "adsSitesTotalCount": 840,
+      "adsNetworksTotalCount": 16,
+      "topAdsSites": [
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.048119931694946216,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "",
+          "icon": "",
+          "visitsShare": 0.03547144572211498,
+          "isLocked": true,
+          "isAvailable": true
+        },
+        {
+          "domain": "irctc.co.in",
+          "icon": "https://site-images.similarcdn.com/image?url=irctc.co.in&t=2&s=1&h=1e3edbc2de18cd8950373212370405d9c7e8756abc0e62036b82932abe772a7c",
+          "visitsShare": 0.025757862929731697,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "coinpan.com",
+          "icon": "https://site-images.similarcdn.com/image?url=coinpan.com&t=2&s=1&h=9ce306baf5b79280a436d813dce0e9c97a62c1818e93ced52fced3c85d4e56ef",
+          "visitsShare": 0.021882171938705182,
+          "isLocked": false,
+          "isAvailable": true
+        },
+        {
+          "domain": "corearoadbike.com",
+          "icon": "https://site-images.similarcdn.com/image?url=corearoadbike.com&t=2&s=1&h=ae81b7ef6822dbdf7a6c6dabf902eb95b6dbb70e36a1e8e60b1dc6872beba138",
+          "visitsShare": 0.021882171938705182,
+          "isLocked": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    "socialNetworksSource": {
+      "topSocialNetworks": [
+        {
+          "name": "Youtube",
+          "visitsShare": 0.4368274414572091,
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "name": "Facebook",
+          "visitsShare": 0.3097109334804645,
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "name": "X-twitter",
+          "visitsShare": 0.09878840944750578,
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "name": "Reddit",
+          "visitsShare": 0.052346084754200994,
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        },
+        {
+          "name": "Pinterest",
+          "visitsShare": 0.051475579467814156,
+          "icon": "https://site-images.similarcdn.com/image?url=pinterest.com&t=2&s=1&h=ec976160ca16242c6ab9ed7bc48e7b0f04c4100ceac5bcb6d3ea55450aa12210"
+        }
+      ],
+      "socialNetworksTotalCount": 64
+    },
+    "outgoingReferrals": {
+      "outgoingSitesTotalCount": 0,
+      "topOutgoingSites": [],
+      "topOutgoingCategories": []
+    },
+    "compareCompetitor": null,
+    "technologies": {
+      "categories": [
+        {
+          "categoryId": "advertising",
+          "topTechName": "DoubleClick",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=239",
+          "technologiesTotalCount": 9
+        },
+        {
+          "categoryId": "payment_and_currencies",
+          "topTechName": "PayPal",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1146",
+          "technologiesTotalCount": 5
+        },
+        {
+          "categoryId": "mobile",
+          "topTechName": "Apple Mobile Tags",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1324",
+          "technologiesTotalCount": 4
+        },
+        {
+          "categoryId": "conversion_and_analytics",
+          "topTechName": "Google Analytics",
+          "topTechIconUrl": "https://s3.amazonaws.com/s3-static-us-east-1.similarweb.com/technographics/id=1",
+          "technologiesTotalCount": 3
+        }
+      ],
+      "categoriesTotalCount": 13,
+      "technologiesTotalCount": 36
+    },
+    "recentAds": {
+      "recentAds": [
+        {
+          "creativeId": "00077e3ee3fe20e087623d3099ec8fc07e03_10d040f2",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/00077e3ee3fe20e087623d3099ec8fc07e03_10d040f2.jpeg?REDACTED",
+          "height": 250,
+          "width": 300,
+          "activeDays": 2073
+        },
+        {
+          "creativeId": "0407fe61e070cbecb40fc0f807be7f0eb001_10d040f2",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/0407fe61e070cbecb40fc0f807be7f0eb001_10d040f2.jpeg?REDACTED",
+          "height": 600,
+          "width": 300,
+          "activeDays": 2044
+        },
+        {
+          "creativeId": "3e0fd01780f80f8cf8c8829a79e7fe398018_10d040f2",
+          "preview": "https://sw-df-ads-scraping-creatives-production.s3.us-east-1.amazonaws.com/creatives/3e0fd01780f80f8cf8c8829a79e7fe398018_10d040f2.jpeg?REDACTED",
+          "height": 145,
+          "width": 145,
+          "activeDays": 1837
+        }
+      ],
+      "isMoreAds": true
+    },
+    "snapshotDate": "2026-04-01T00:00:00+00:00",
+    "domain": "instagram.com",
+    "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49",
+    "previewDesktop": "https://site-images.similarcdn.com/image?url=instagram.com&t=1&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49",
+    "previewMobile": "https://site-images.similarcdn.com/image?url=instagram.com&t=4&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49",
+    "isInvalidTrafficData": false,
+    "domainGaStatus": 0,
+    "isDataFromGaHighlyDiscrepant": false,
+    "isDataFromGa": false,
+    "categoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+    "overview": {
+      "description": "create an account or log in to instagram - share what you're into with the people who get you.",
+      "globalRank": 4,
+      "globalRankChange": 0,
+      "countryAlpha2Code": "US",
+      "countryUrlCode": "united-states",
+      "countryRank": 6,
+      "countryRankChange": 0,
+      "categoryRank": 3,
+      "categoryRankChange": 0,
+      "visitsTotalCount": 7044305724,
+      "bounceRate": 0.33443701697949973,
+      "pagesPerVisit": 12.796357313681291,
+      "visitsAvgDurationFormatted": "00:08:22",
+      "companyFeedbackRecaptcha": "6LfEq1gUAAAAACEE4w7Zek8GEmBooXMMWDpBjI6r",
+      "companyName": "Instagram",
+      "companyYearFounded": 2010,
+      "companyHeadquarterCountryCode": "US",
+      "companyHeadquarterStateCode": 8406,
+      "companyHeadquarterCity": "Menlo Park",
+      "companyEmployeesMin": 10001,
+      "companyEmployeesMax": null,
+      "companyRevenueMin": 1000000000,
+      "companyRevenueMax": null,
+      "companyCategoryId": "computers_electronics_and_technology/social_networks_and_online_communities",
+      "companyRevenueCurrency": null,
+      "companyParentDomain": "instagram.com"
+    },
+    "traffic": {
+      "graphVisitsGrade": "<10B",
+      "visitsTotalCount": 7044305724,
+      "visitsTotalCountChange": -0.012102141978791864,
+      "bounceRate": 0.33443701697949973,
+      "pagesPerVisit": 12.796357313681291,
+      "visitsAvgDurationFormatted": "00:08:22",
+      "history": [
+        {
+          "date": "2026-02-01T00:00:00",
+          "percentageChange": -9.248021949614097,
+          "percentageValue": 62.802867631999995
+        },
+        {
+          "date": "2026-03-01T00:00:00",
+          "percentageChange": 11.02461536263319,
+          "percentageValue": 69.175411457
+        },
+        {
+          "date": "2026-04-01T00:00:00",
+          "percentageChange": -1.2102141978791865,
+          "percentageValue": 68.398751516
+        }
+      ],
+      "competitors": [
+        {
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "tiktok.com",
+          "icon": "https://site-images.similarcdn.com/image?url=tiktok.com&t=2&s=1&h=398f47f8e1724c54f9f760f76988b2f9cf0c4111523f9d3f26e03d62731b0c17",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f",
+          "isDataFromGa": false
+        },
+        {
+          "domain": "threads.com",
+          "icon": "https://site-images.similarcdn.com/image?url=threads.com&t=2&s=1&h=298bfa5503eca215bb475c848ab433c80484bba9f02ad707c72f9059803e3ce3",
+          "isDataFromGa": false
+        }
+      ]
+    },
+    "trafficSources": [
+      {
+        "source": "direct",
+        "rank": 1,
+        "percentage": 0.6559332195347078,
+        "isHigher": null
+      },
+      {
+        "source": "organic",
+        "rank": 2,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "social_organic",
+        "rank": 3,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "referrals",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "mail",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "social_paid",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "ads",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "gen_ai",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "paid",
+        "rank": null,
+        "percentage": null,
+        "isHigher": null
+      },
+      {
+        "source": "affiliate",
+        "rank": -1,
+        "percentage": null,
+        "isHigher": null
+      }
+    ],
+    "ranking": {
+      "globalRankCompetitors": [
+        {
+          "rank": 2,
+          "domain": "youtube.com",
+          "icon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=1&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20"
+        },
+        {
+          "rank": 3,
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "rank": 4,
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "rank": 5,
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "rank": 6,
+          "domain": "tiktok.com",
+          "icon": "https://site-images.similarcdn.com/image?url=tiktok.com&t=2&s=1&h=398f47f8e1724c54f9f760f76988b2f9cf0c4111523f9d3f26e03d62731b0c17"
+        }
+      ],
+      "globalRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 4
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 4
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 4
+        }
+      ],
+      "countryRankCompetitors": [
+        {
+          "rank": 4,
+          "domain": "amazon.com",
+          "icon": "https://site-images.similarcdn.com/image?url=amazon.com&t=2&s=1&h=43a07f575342a8fbb74cd3ca3ebf33760f2fbfbff603546fb4f7208244147dcc"
+        },
+        {
+          "rank": 5,
+          "domain": "reddit.com",
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        },
+        {
+          "rank": 6,
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "rank": 7,
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "rank": 8,
+          "domain": "yahoo.com",
+          "icon": "https://site-images.similarcdn.com/image?url=yahoo.com&t=2&s=1&h=a135e030f99f8070348f49e9e1879c9093cdb33ad6b658fa2593fed09fa6060e"
+        }
+      ],
+      "countryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 6
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 6
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 6
+        }
+      ],
+      "categoryRankCompetitors": [
+        {
+          "rank": 1,
+          "domain": "facebook.com",
+          "icon": "https://site-images.similarcdn.com/image?url=facebook.com&t=2&s=1&h=be773d6b77aa3d59b6a671c5c27ad729b1ae77400e89776e2f749cce6b926c4b"
+        },
+        {
+          "rank": 2,
+          "domain": "reddit.com",
+          "icon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=1&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906"
+        },
+        {
+          "rank": 3,
+          "domain": "instagram.com",
+          "icon": "https://site-images.similarcdn.com/image?url=instagram.com&t=2&s=1&h=acbe9ff09f263f0114ce8473b3d3e401bfdc360d5aff845e04182e8d2335ba49"
+        },
+        {
+          "rank": 4,
+          "domain": "x.com",
+          "icon": "https://site-images.similarcdn.com/image?url=x.com&t=2&s=1&h=181f9f2250b958cc0ca20fb16f33049b6e13425f038a279637ce1da9dc20d56f"
+        },
+        {
+          "rank": 5,
+          "domain": "tiktok.com",
+          "icon": "https://site-images.similarcdn.com/image?url=tiktok.com&t=2&s=1&h=398f47f8e1724c54f9f760f76988b2f9cf0c4111523f9d3f26e03d62731b0c17"
+        }
+      ],
+      "categoryRankHistory": [
+        {
+          "date": "2026-02-01T00:00:00+00:00",
+          "rank": 3
+        },
+        {
+          "date": "2026-03-01T00:00:00+00:00",
+          "rank": 3
+        },
+        {
+          "date": "2026-04-01T00:00:00+00:00",
+          "rank": 3
+        }
+      ],
+      "globalRank": 4,
+      "globalRankPrev": 4,
+      "globalRankChange": 0,
+      "categoryRank": 3,
+      "categoryRankPrev": 3,
+      "categoryRankChange": 0,
+      "countryRank": 6,
+      "countryRankPrev": 6,
+      "countryRankChange": 0,
+      "countryAlpha2Code": "US",
+      "countryUrlCode": "united-states"
+    },
+    "demographics": {
+      "ageDistribution": [
+        {
+          "minAge": 25,
+          "maxAge": 34,
+          "value": 0.2858199025715869
+        },
+        {
+          "minAge": 18,
+          "maxAge": 24,
+          "value": 0.22482776167304516
+        },
+        {
+          "minAge": 35,
+          "maxAge": 44,
+          "value": 0.18408559155560256
+        },
+        {
+          "minAge": 45,
+          "maxAge": 54,
+          "value": 0.13925253525858333
+        },
+        {
+          "minAge": 55,
+          "maxAge": 64,
+          "value": 0.10138423138075148
+        },
+        {
+          "minAge": 65,
+          "maxAge": null,
+          "value": 0.06462997756043061
+        }
+      ],
+      "genderDistribution": {
+        "male": 0.5583209508779319,
+        "female": 0.4416790491220681
+      }
+    },
+    "geography": {
+      "countriesTotalCount": 120,
+      "topCountriesTraffics": [
+        {
+          "countryAlpha2Code": "US",
+          "countryAlpha2CodeRaw": "US",
+          "countryUrlCode": "united-states",
+          "visitsShare": 0.19804578604211187,
+          "visitsShareChange": 0.0002867936675143845
+        },
+        {
+          "countryAlpha2Code": "BR",
+          "countryAlpha2CodeRaw": "BR",
+          "countryUrlCode": "brazil",
+          "visitsShare": 0.09688697842778375,
+          "visitsShareChange": 0.0006316329892084305
+        },
+        {
+          "countryAlpha2Code": "IN",
+          "countryAlpha2CodeRaw": "IN",
+          "countryUrlCode": "india",
+          "visitsShare": 0.06177191614261066,
+          "visitsShareChange": -0.034901364531281565
+        },
+        {
+          "countryAlpha2Code": "GB",
+          "countryAlpha2CodeRaw": "GB",
+          "countryUrlCode": "united-kingdom",
+          "visitsShare": 0.03457866639986298,
+          "visitsShareChange": -0.014128808173901941
+        },
+        {
+          "countryAlpha2Code": "CA",
+          "countryAlpha2CodeRaw": "CA",
+          "countryUrlCode": "canada",
+          "visitsShare": 0.032203622369083224,
+          "visitsShareChange": -0.022494645045779138
+        }
+      ]
+    }
+  }
+]

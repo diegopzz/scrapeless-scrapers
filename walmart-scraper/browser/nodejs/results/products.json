@@ -1,0 +1,2026 @@
+[
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": 4.8,
+      "brand": "PlayStation",
+      "id": "4S6KN6TWU0A0",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "028D1C667CF9481482B7081F08C29D1C",
+            "url": "https://i5.walmartimages.com/seo/Sony-PlayStation-5-Video-Game-Console_9333b8cd-773e-49d4-8e85-51c4114fcd56.bbf5c4e4f3746ddc28ac982117cdbf9a.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "8B95F80972FA48FAA0413FA936155691",
+            "url": "https://i5.walmartimages.com/asr/985f6fea-1255-44f9-a4b1-d26e62ebc6f9.08c17391d3df289f6842e270f7180eec.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "01620E466D3E41A188B92B45D6F48FDA",
+            "url": "https://i5.walmartimages.com/asr/69c08bf8-207b-4669-81f2-acfa950c4a94.d51028ed9404147f4050401047a6279f.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "EEEAAE2BF6914589BC79D558F081EBC2",
+            "url": "https://i5.walmartimages.com/asr/b3a883cc-c414-4818-a687-de74d04f5349.ad369bba070eb7d13a262d55b1a3980d.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/Sony-PlayStation-5-Video-Game-Console_9333b8cd-773e-49d4-8e85-51c4114fcd56.bbf5c4e4f3746ddc28ac982117cdbf9a.jpeg",
+        "thumbnailAspectRatio": "3:2"
+      },
+      "name": "Sony PlayStation 5 Video Game Console",
+      "orderLimit": 5,
+      "orderMinLimit": 1,
+      "priceInfo": {
+        "dropPrice": false,
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": null,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null,
+          "isB2BPrice": false,
+          "pricePerUnitUom": "CA",
+          "priceDisplayType": "UNKNOWN"
+        },
+        "currentPrice": {
+          "price": 649.95,
+          "priceString": "$649.95",
+          "variantPriceString": "$649.95",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "supportText": null,
+          "priceDisplay": "$649.95"
+        },
+        "basePrice": null,
+        "wasPrice": null,
+        "comparisonPrice": null,
+        "unitPrice": {
+          "price": 649.95,
+          "priceString": "$649.95/ca",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "supportText": null
+        },
+        "savings": null,
+        "savingsAmount": null,
+        "secondaryOfferBoost": "$285.99",
+        "shipPrice": null,
+        "isPriceReduced": false,
+        "priceReducedDisplay": null,
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "volumePriceTiers": [],
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": 0,
+            "priceString": "$0.00"
+          },
+          "shippingAndImportFee": {
+            "price": 0,
+            "priceString": "$0.00"
+          },
+          "giftCardMarginAndFee": null,
+          "estimatedTotalPrice": {
+            "price": 649.95,
+            "priceString": "$649.95"
+          },
+          "countryName": "United States"
+        },
+        "taxInfo": null
+      },
+      "shortDescription": "Sony offers the PlayStation 5, a next-generation gaming console delivering ultra-fast performance, stunning graphics, and immersive gameplay. Equipped with a high-speed SSD, it minimizes load times and supports breath taking 4K visuals with ray tracing. The innovative dual sense controller adds tactile feedback and adaptive triggers for a more engaging experience. Compatible with a wide range of games, it also supports backward compatibility for select PlayStation 4 titles. Ideal for gamers seeking cutting-edge technology, it combines power, speed, and entertainment in a sleek, modern design.",
+      "type": "Video Game Consoles"
+    },
+    "reviews": {
+      "averageOverallRating": 4.8,
+      "aspects": [
+        {
+          "id": "48",
+          "name": "Value For Money",
+          "score": null,
+          "snippetCount": 61
+        },
+        {
+          "id": "2920",
+          "name": "Graphics Quality",
+          "score": null,
+          "snippetCount": 38
+        },
+        {
+          "id": "155",
+          "name": "Product Quality",
+          "score": null,
+          "snippetCount": 17
+        },
+        {
+          "id": "26",
+          "name": "Experience",
+          "score": null,
+          "snippetCount": 17
+        },
+        {
+          "id": "435",
+          "name": "For Gifting",
+          "score": null,
+          "snippetCount": 16
+        },
+        {
+          "id": "208",
+          "name": "Packaging",
+          "score": null,
+          "snippetCount": 10
+        },
+        {
+          "id": "582",
+          "name": "Design",
+          "score": null,
+          "snippetCount": 10
+        },
+        {
+          "id": "81",
+          "name": "Ease Of Setup",
+          "score": null,
+          "snippetCount": 7
+        },
+        {
+          "id": "117",
+          "name": "Upgrade From Older Consoles",
+          "score": null,
+          "snippetCount": 5
+        },
+        {
+          "id": "184",
+          "name": "System Speed",
+          "score": null,
+          "snippetCount": 5
+        },
+        {
+          "id": "1738",
+          "name": "Online Gameplay",
+          "score": null,
+          "snippetCount": 5
+        },
+        {
+          "id": "1209",
+          "name": "Condition",
+          "score": null,
+          "snippetCount": 5
+        },
+        {
+          "id": "3",
+          "name": "Features",
+          "score": null,
+          "snippetCount": 4
+        },
+        {
+          "id": "679",
+          "name": "Ease Of Pickup",
+          "score": null,
+          "snippetCount": 3
+        },
+        {
+          "id": "2208",
+          "name": "Video Capabilities",
+          "score": null,
+          "snippetCount": 3
+        },
+        {
+          "id": "13266",
+          "name": "Connectivity",
+          "score": null,
+          "snippetCount": 3
+        }
+      ],
+      "reviewSummary": {
+        "summary": "Customers praise the console's stunning appearance, exceptional graphics, and smooth play, resulting in an impressive gaming experience. While some find the price competitive, others consider it expensive. Despite some issues with defective products and occasional play disruptions, the console is highly recommended as a gift, offering great value and a seamless experience. Overall, customers are satisfied with their purchase, citing its powerful features and beautiful design.",
+        "summaryTitle": "Console offers impressive gaming experience with stunning graphics",
+        "summaryAspects": [
+          {
+            "aspectId": 582,
+            "aspectStart": 31,
+            "aspectEnd": 49,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 26,
+            "aspectStart": 125,
+            "aspectEnd": 134,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 2920,
+            "aspectStart": 52,
+            "aspectEnd": 71,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 435,
+            "aspectStart": 317,
+            "aspectEnd": 325,
+            "aspectSentiment": "positive"
+          }
+        ]
+      },
+      "bulletReviewSummary": {
+        "bulletSummaryAspects": [
+          {
+            "aspectId": "2920",
+            "aspectName": "graphics quality",
+            "aspectPillText": "Crisp graphics",
+            "aspectRank": 1,
+            "aspectPolarity": "Positive",
+            "aspectSummary": "Visuals are clean and smooth with fast loading times."
+          },
+          {
+            "aspectId": "155",
+            "aspectName": "product quality",
+            "aspectPillText": "High-quality craftsmanship",
+            "aspectRank": 2,
+            "aspectPolarity": "Positive",
+            "aspectSummary": "Made with premium materials and exceptional build standards."
+          },
+          {
+            "aspectId": "48",
+            "aspectName": "value for money",
+            "aspectPillText": "Competitive price",
+            "aspectRank": 3,
+            "aspectPolarity": "Positive",
+            "aspectSummary": "Offers reasonable quality and features at this price point."
+          }
+        ],
+        "thumbsUpCount": 0,
+        "thumbsDownCount": 0
+      },
+      "lookupId": "4S6KN6TWU0A0",
+      "customerReviews": [
+        {
+          "reviewId": "396282776",
+          "rating": 5,
+          "reviewSubmissionTime": "8/24/2025",
+          "reviewText": "cam in a timely manner my son love it the only rging i would suggest is the box the playstation 5 comes in they should have something to let people know the other end of the box opens and thats where the cords and controller is located we thought they forgot to put the accessories.",
+          "reviewTitle": null,
+          "reviewReferenceId": "c941d7fa-1e61-520c-9302-49f660814186",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "Teresa",
+          "fulfilledBy": "Seller",
+          "status": "APPROVED",
+          "sellerName": "Pro-Distributing",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Size",
+              "value": "667.2GB"
+            },
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ]
+        },
+        {
+          "reviewId": "301666329",
+          "rating": 5,
+          "reviewSubmissionTime": "3/3/2023",
+          "reviewText": "I have owned and loved every PlayStation since the PS1. I ordered this on February 17 2023 with a copy of the Dead Space remake and I absolutely love it. It comes with a game called Astro's Playroom pre-installed which is great because it shows you all the stuuf the DualSense 5 controller can do. It's also just a fun game to play to pass the time. You could easily spend a couple of hours at a time playing Astro's Playroom. I highly recommend buying the PS5 disc edition.",
+          "reviewTitle": "Absolutely love it 😍😍😍",
+          "reviewReferenceId": "de1af2cd-e48f-50e2-bb12-47d55814f832",
+          "originalLanguage": "English",
+          "originalLocale": null,
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 1,
+          "positiveFeedback": 14,
+          "userNickname": "Chris",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "d005dfe7-e0c1-4a3c-815b-1536ad23202f",
+              "reviewId": "de1af2cd-e48f-50e2-bb12-47d55814f832",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-d0de/k2-_203b9dd5-d17c-474b-bcb4-6545b4e10c39.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-d0de/k2-_203b9dd5-d17c-474b-bcb4-6545b4e10c39.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": []
+        },
+        {
+          "reviewId": "300369795",
+          "rating": 5,
+          "reviewSubmissionTime": "2/12/2023",
+          "reviewText": "After waiting years of it being out of stock I finally got mine with my Tax return. The console itself is large but yet its light, threw me off but it works so well as I expected. I have being playing playstion snice PS1 so this was definitely a great buy and I al ready to see what games are coming in the future!!!!!",
+          "reviewTitle": "Love my ps5!",
+          "reviewReferenceId": "a74d4bae-c133-5352-bc18-c14161213845",
+          "originalLanguage": "English",
+          "originalLocale": null,
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 4,
+          "positiveFeedback": 26,
+          "userNickname": "Aerogoth",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "92b39d8a-ef73-445f-b478-abccea60608d",
+              "reviewId": "a74d4bae-c133-5352-bc18-c14161213845",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-1f42/k2-_46a1cbb7-b25e-4136-b60c-003fe90f3772.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-1f42/k2-_46a1cbb7-b25e-4136-b60c-003fe90f3772.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            },
+            {
+              "id": "b4af9704-1226-4039-bf82-856d2880e4eb",
+              "reviewId": "a74d4bae-c133-5352-bc18-c14161213845",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-e6d4/k2-_16ce919c-427b-4a48-810e-d8c5ab329a04.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-e6d4/k2-_16ce919c-427b-4a48-810e-d8c5ab329a04.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Affiliation",
+              "id": "Staff",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "WalmartAssociate",
+                "text": "Walmart Associate"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": []
+        },
+        {
+          "reviewId": "300523008",
+          "rating": 5,
+          "reviewSubmissionTime": "2/15/2023",
+          "reviewText": "Im so happy with my ps5. After the release of Hogwarts Legacy, I just couldn’t wait any longer to get my ps5. I was able to get one shipped and sold by Walmart directly while they were in stock for $499. I paired my purchase with a starlight blue cover and matching controller. I couldn’t be happier, especially because the scalpers didn’t get my money. The ps5 itself is in perfect condition. Box undamaged and unopened. Extremely happy to finally got my hands on one.",
+          "reviewTitle": "Ps5 Disc Edition",
+          "reviewReferenceId": "cee1092b-945e-50c1-82c3-9503970bf8e8",
+          "originalLanguage": "English",
+          "originalLocale": null,
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 2,
+          "positiveFeedback": 13,
+          "userNickname": "Kyle",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "dc566bd9-f14e-44b4-ad25-9ac8f1684ec6",
+              "reviewId": "cee1092b-945e-50c1-82c3-9503970bf8e8",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-ba51/k2-_a8aa748e-9538-491e-82a2-67ea4dc136b6.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-ba51/k2-_a8aa748e-9538-491e-82a2-67ea4dc136b6.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            },
+            {
+              "id": "1273f577-3ecc-472a-938c-fb96232d5e7d",
+              "reviewId": "cee1092b-945e-50c1-82c3-9503970bf8e8",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-9f0a/k2-_a84f418e-830d-4d4f-b107-c817278c41ea.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-9f0a/k2-_a84f418e-830d-4d4f-b107-c817278c41ea.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": []
+        },
+        {
+          "reviewId": "296013686",
+          "rating": 5,
+          "reviewSubmissionTime": "12/20/2022",
+          "reviewText": "The PS5 is awesome! I have had a ps4 for over 4 years and it was time to upgrade. And we’ll it’s totally worth it. Graphics are amazing, the speed on the console is crazy!",
+          "reviewTitle": "PlayStation did it again! Two thumbs up!",
+          "reviewReferenceId": "720f19d3-257e-5594-bdaa-321bbeaf33dc",
+          "originalLanguage": "English",
+          "originalLocale": null,
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 3,
+          "positiveFeedback": 10,
+          "userNickname": "JohnPaul",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "91b9ae29-dfa7-4761-abb0-e971b27bc231",
+              "reviewId": "720f19d3-257e-5594-bdaa-321bbeaf33dc",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-f0ec/k2-_a376d82b-2c7a-4158-ab44-c6699feae00f.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-f0ec/k2-_a376d82b-2c7a-4158-ab44-c6699feae00f.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": []
+        },
+        {
+          "reviewId": "412870509",
+          "rating": 5,
+          "reviewSubmissionTime": "1/13/2026",
+          "reviewText": "It arrived faster than expected and i was very satisfied eith the console itself",
+          "reviewTitle": null,
+          "reviewReferenceId": "4cae7b8b-f0ba-5ea3-b16f-2d835254c3fd",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "WalmartCustomer",
+          "fulfilledBy": null,
+          "status": "APPROVED",
+          "sellerName": "Alliance Gaming",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Custom",
+              "id": "PrizeIncentive",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "IncentivizedReview",
+                "text": "Incentivized Review"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Size",
+              "value": "667.2GB"
+            },
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ]
+        },
+        {
+          "reviewId": "411425879",
+          "rating": 4,
+          "reviewSubmissionTime": "1/3/2026",
+          "reviewText": "This is very expensive amd it came with no games and 1 controller. The price was good but with the bundle and others were very expensive.  I got this black Friday and now is 75 cheaper. This isbthe unit to buy according to all kids I asked because it uses discs as well as the internet. These units are very expensive but graphics are good and sound. My teenage son loves it and the realistic games of the sports games are excellent.",
+          "reviewTitle": null,
+          "reviewReferenceId": "ec523daf-7ece-59be-87f2-a9e2e1e63761",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": "earl",
+          "fulfilledBy": "Seller",
+          "status": "APPROVED",
+          "sellerName": "Alliance Gaming",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Size",
+              "value": "667.2GB"
+            },
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ]
+        },
+        {
+          "reviewId": "292262228",
+          "rating": 3,
+          "reviewSubmissionTime": "11/18/2022",
+          "reviewText": "The box that Walmart ships the PS5 in is absolutely asinine. It has 2 decent size cutouts over the barcodes, which are literal holes in the shipping box itself. These holes expose nearby wording which identify the contents as a PlayStation. Luckily, mine was not stolen, but I was also home to receive it. \n\nFurthermore, either my courier thought the holes made great handles or the holes allowed the package to become snagged on something. Either way, not only was the shipping box torn open, but this also completely ripped up the bottom of the PS5 packaging.\n\nI've never made a stink before, no matter how poor the packaging. However, when I spend $550 on a single item, I expect it to arrive protected....or, at the very least, in a box with all its sides. It's just common sense.",
+          "reviewTitle": "Roll the Dice With the Swiss Cheese Box",
+          "reviewReferenceId": "3b1488c2-1ab0-50ff-b33b-22da25c861e0",
+          "originalLanguage": "English",
+          "originalLocale": null,
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 3,
+          "positiveFeedback": 10,
+          "userNickname": "Brandy",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "018a9595-b8de-4d0a-9a2d-4d370d3cab86",
+              "reviewId": "3b1488c2-1ab0-50ff-b33b-22da25c861e0",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-3103/k2-_92dcb6d9-341f-44dc-9cb4-fa201481ffd5.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-3103/k2-_92dcb6d9-341f-44dc-9cb4-fa201481ffd5.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 3
+            },
+            {
+              "id": "c56342d0-8195-4dc6-a7b1-c90311cebe02",
+              "reviewId": "3b1488c2-1ab0-50ff-b33b-22da25c861e0",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-33c8/k2-_0846f221-923f-4354-9e27-5a28a1558420.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-33c8/k2-_0846f221-923f-4354-9e27-5a28a1558420.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 3
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": []
+        },
+        {
+          "reviewId": "405294983",
+          "rating": 1,
+          "reviewSubmissionTime": "11/19/2025",
+          "reviewText": "i never received my system someone else in my complex did and now walmart is giving me the run around about my system i would not recommend ordering anything big from Walmart",
+          "reviewTitle": null,
+          "reviewReferenceId": "61b3d8f9-ad95-583d-aa8c-c629e04401d0",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 0,
+          "userNickname": null,
+          "fulfilledBy": null,
+          "status": "APPROVED",
+          "sellerName": "Alliance Gaming",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Size",
+              "value": "667.2GB"
+            },
+            {
+              "name": "Color",
+              "value": "White"
+            }
+          ]
+        },
+        {
+          "reviewId": "292944678",
+          "rating": 1,
+          "reviewSubmissionTime": "11/24/2022",
+          "reviewText": "Well I was suppose to receive this by November 15th, here it is November 24th and no PS5! When I look at the tracking of it all it says is placed! I call Walmart and they tell me to cancel it and buy another one! Are you serious?! So I have to pay atleast $60 more?! I want the PS5 that I originally bought! My mother gave me money toward this on October 16th, she passed on October 18th very unexpectedly. This PlayStation means a lot to my son, plus he works at Walmart! I can't believe I'm have this goose chase like this when I should be mourning my mother, not worried about if my son is going to get his PlayStation or not! I'll gladly change my review when I get the console!",
+          "reviewTitle": "Where is PlayStation?!",
+          "reviewReferenceId": "5e4b0aa7-627c-5394-8cef-e07f1dcdcd30",
+          "originalLanguage": "English",
+          "originalLocale": null,
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 9,
+          "positiveFeedback": 13,
+          "userNickname": "Krystal",
+          "fulfilledBy": null,
+          "status": null,
+          "sellerName": null,
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": null,
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": []
+        }
+      ],
+      "condition": null,
+      "selectedFilters": {
+        "conditionTypeCodes": null
+      },
+      "ratingValueFiveCount": 4096,
+      "ratingValueFourCount": 134,
+      "ratingValueOneCount": 204,
+      "ratingValueThreeCount": 50,
+      "ratingValueTwoCount": 23,
+      "roundedAverageOverallRating": 4.8,
+      "topNegativeReview": {
+        "reviewId": "405294983",
+        "rating": 1,
+        "reviewSubmissionTime": "11/19/2025",
+        "userNickname": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "i never received my system someone else in my complex did and now walmart is giving me the run around about my system i would not recommend ordering anything big from Walmart",
+        "reviewTitle": null,
+        "reviewReferenceId": "61b3d8f9-ad95-583d-aa8c-c629e04401d0",
+        "originalLanguage": "English",
+        "originalLocale": "en_US",
+        "translatedLanguage": "English",
+        "translatedLocale": "en",
+        "showTranslationCTA": false,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "media": null
+      },
+      "topPositiveReview": {
+        "reviewId": "411425879",
+        "rating": 4,
+        "reviewSubmissionTime": "1/3/2026",
+        "userNickname": "earl",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "reviewText": "This is very expensive amd it came with no games and 1 controller. The price was good but with the bundle and others were very expensive.  I got this black Friday and now is 75 cheaper. This isbthe unit to buy according to all kids I asked because it uses discs as well as the internet. These units are very expensive but graphics are good and sound. My teenage son loves it and the realistic games of the sports games are excellent.",
+        "reviewTitle": null,
+        "reviewReferenceId": "ec523daf-7ece-59be-87f2-a9e2e1e63761",
+        "originalLanguage": "English",
+        "originalLocale": "en_US",
+        "translatedLanguage": "English",
+        "translatedLocale": "en",
+        "showTranslationCTA": false,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "clientResponses": null,
+        "media": null
+      },
+      "topProductMedia": [
+        {
+          "id": "d005dfe7-e0c1-4a3c-815b-1536ad23202f",
+          "reviewId": "de1af2cd-e48f-50e2-bb12-47d55814f832",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-d0de/k2-_203b9dd5-d17c-474b-bcb4-6545b4e10c39.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-d0de/k2-_203b9dd5-d17c-474b-bcb4-6545b4e10c39.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "92b39d8a-ef73-445f-b478-abccea60608d",
+          "reviewId": "a74d4bae-c133-5352-bc18-c14161213845",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-1f42/k2-_46a1cbb7-b25e-4136-b60c-003fe90f3772.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-1f42/k2-_46a1cbb7-b25e-4136-b60c-003fe90f3772.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "b4af9704-1226-4039-bf82-856d2880e4eb",
+          "reviewId": "a74d4bae-c133-5352-bc18-c14161213845",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-e6d4/k2-_16ce919c-427b-4a48-810e-d8c5ab329a04.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-e6d4/k2-_16ce919c-427b-4a48-810e-d8c5ab329a04.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "dc566bd9-f14e-44b4-ad25-9ac8f1684ec6",
+          "reviewId": "cee1092b-945e-50c1-82c3-9503970bf8e8",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-ba51/k2-_a8aa748e-9538-491e-82a2-67ea4dc136b6.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-ba51/k2-_a8aa748e-9538-491e-82a2-67ea4dc136b6.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "1273f577-3ecc-472a-938c-fb96232d5e7d",
+          "reviewId": "cee1092b-945e-50c1-82c3-9503970bf8e8",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-9f0a/k2-_a84f418e-830d-4d4f-b107-c817278c41ea.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-9f0a/k2-_a84f418e-830d-4d4f-b107-c817278c41ea.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "91b9ae29-dfa7-4761-abb0-e971b27bc231",
+          "reviewId": "720f19d3-257e-5594-bdaa-321bbeaf33dc",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-f0ec/k2-_a376d82b-2c7a-4158-ab44-c6699feae00f.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-f0ec/k2-_a376d82b-2c7a-4158-ab44-c6699feae00f.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "64f6d75c-5747-4136-9233-faf41922982f",
+          "reviewId": "f0fda844-6e27-5183-98e5-e559c88b0f89",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-6a34/k2-_2f3c245a-3c7b-4471-8032-8ec6f0496216.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-6a34/k2-_2f3c245a-3c7b-4471-8032-8ec6f0496216.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "f75d8124-7823-49fb-824d-878d60bc851b",
+          "reviewId": "785b8477-2b4f-5d4e-b528-839083ed2484",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-7ab4/k2-_f4015f7a-4356-4e19-85b9-412c1034d664.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-7ab4/k2-_f4015f7a-4356-4e19-85b9-412c1034d664.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "21c18ba5-e599-419a-8368-995d70de4809",
+          "reviewId": "1bacc140-002a-5239-9fdb-99017b72dd2a",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-1ad2/k2-_60045aff-818c-4cbe-91f9-8e728a9121de.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-1ad2/k2-_60045aff-818c-4cbe-91f9-8e728a9121de.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "8a76c64f-a287-49e4-870c-d6d894c9c383",
+          "reviewId": "9d5bb5e9-f12f-5606-bbfd-941a333fd615",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-dce9/k2-_291f9ebc-2b88-40c8-af5b-00b496d6eff3.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-dce9/k2-_291f9ebc-2b88-40c8-af5b-00b496d6eff3.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "16139596-5b18-4cc6-9fb2-a58e58a99115",
+          "reviewId": "d10b4882-8f56-5cb1-92b4-c3e28ab18a7d",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-4d57/k2-_d25214ed-d766-410d-a39a-363e1d8b2d9c.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-4d57/k2-_d25214ed-d766-410d-a39a-363e1d8b2d9c.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        }
+      ],
+      "totalMediaCount": 62,
+      "totalReviewCount": 4507,
+      "reviewsWithTextCount": 1079,
+      "percentageFiveCount": 91,
+      "percentageFourCount": 3,
+      "percentageThreeCount": 1,
+      "percentageTwoCount": 1,
+      "percentageOneCount": 5,
+      "recommendedPercentage": 1,
+      "showRecommendedModule": false,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "4,507",
+        "reviewsWithTextCountAsString": "1,079",
+        "ratingValueOneCountAsString": "204",
+        "ratingValueTwoCountAsString": "23",
+        "ratingValueThreeCountAsString": "50",
+        "ratingValueFourCountAsString": "134",
+        "ratingValueFiveCountAsString": "4,096"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  },
+  {
+    "product": {
+      "availabilityStatus": "IN_STOCK",
+      "averageRating": 4.5,
+      "brand": "Apple",
+      "id": "4S6W6R1EX5D1",
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "375BBFAA114146A2999B5FDBB5955D83",
+            "url": "https://i5.walmartimages.com/asr/c9b5c6ac-685d-4446-864f-3a4c151e41fd.60c8e47b860f24a79e540fba682fa63d.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "07FA68A29C264D3DB8FA36FD9D28F6A7",
+            "url": "https://i5.walmartimages.com/asr/32dc670d-af10-4730-af6d-4625e899d2fb.88ccdf993379a992f784f109277ecf8c.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "1D48E518A46E4AF2B5867BBDB0616256",
+            "url": "https://i5.walmartimages.com/asr/23d13886-aba8-43a1-9eea-5eca705a149f.e23fa968f22612f76b9512265356953a.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "6BD970A2788D4761A2DA4A7C03B66085",
+            "url": "https://i5.walmartimages.com/asr/1afe09b6-379d-4311-894a-6cc6d47fc429.156d78b78c12c3ef936e480f83615dfa.jpeg",
+            "zoomable": false
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/asr/c9b5c6ac-685d-4446-864f-3a4c151e41fd.60c8e47b860f24a79e540fba682fa63d.jpeg",
+        "thumbnailAspectRatio": null
+      },
+      "name": "Restored Apple MacBook Air 13.3 inch Laptop - Silver, M1 Chip, Built for Apple Intelligence, 8GB RAM, 256GB storage",
+      "orderLimit": 12,
+      "orderMinLimit": 1,
+      "priceInfo": {
+        "dropPrice": false,
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": null,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null,
+          "isB2BPrice": false,
+          "pricePerUnitUom": "EA",
+          "priceDisplayType": "UNKNOWN"
+        },
+        "currentPrice": {
+          "price": 449.99,
+          "priceString": "$449.99",
+          "variantPriceString": "$449.99",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "supportText": null,
+          "priceDisplay": "$449.99"
+        },
+        "basePrice": null,
+        "wasPrice": null,
+        "comparisonPrice": null,
+        "unitPrice": null,
+        "savings": null,
+        "savingsAmount": null,
+        "secondaryOfferBoost": null,
+        "shipPrice": null,
+        "isPriceReduced": false,
+        "priceReducedDisplay": null,
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "volumePriceTiers": [],
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null,
+        "additionalFees": {
+          "dutyFee": {
+            "price": 0,
+            "priceString": "$0.00"
+          },
+          "shippingAndImportFee": {
+            "price": 0,
+            "priceString": "$0.00"
+          },
+          "giftCardMarginAndFee": null,
+          "estimatedTotalPrice": {
+            "price": 449.99,
+            "priceString": "$449.99"
+          },
+          "countryName": "United States"
+        },
+        "taxInfo": null
+      },
+      "shortDescription": "Introducing The 13-inch MacBook Air with the Apple M1 chip is incredibly thin and light with a silent fanless design. It delivers remarkable performance and up to 18 hours of battery life. And it has a beautiful Retina display for super sharp text and vibrant colors. Amazing performance, Unbeatable price. It's a laptop you’re going to love!",
+      "type": "Laptop Computers"
+    },
+    "reviews": {
+      "averageOverallRating": 4.5,
+      "aspects": [
+        {
+          "id": "48",
+          "name": "Value For Money",
+          "score": null,
+          "snippetCount": 294
+        },
+        {
+          "id": "6049",
+          "name": "Battery Life",
+          "score": null,
+          "snippetCount": 74
+        },
+        {
+          "id": "6051",
+          "name": "Charging Reliability",
+          "score": null,
+          "snippetCount": 25
+        },
+        {
+          "id": "155",
+          "name": "Quality",
+          "score": null,
+          "snippetCount": 39
+        },
+        {
+          "id": "12",
+          "name": "Ease Of Use",
+          "score": null,
+          "snippetCount": 28
+        },
+        {
+          "id": "407",
+          "name": "For Kids",
+          "score": null,
+          "snippetCount": 22
+        },
+        {
+          "id": "178",
+          "name": "Color",
+          "score": null,
+          "snippetCount": 34
+        },
+        {
+          "id": "658",
+          "name": "Screen",
+          "score": null,
+          "snippetCount": 18
+        },
+        {
+          "id": "582",
+          "name": "Design",
+          "score": null,
+          "snippetCount": 26
+        },
+        {
+          "id": "208",
+          "name": "Packaging",
+          "score": null,
+          "snippetCount": 22
+        },
+        {
+          "id": "11460",
+          "name": "Lightweight",
+          "score": null,
+          "snippetCount": 19
+        },
+        {
+          "id": "21",
+          "name": "Size",
+          "score": null,
+          "snippetCount": 15
+        },
+        {
+          "id": "395",
+          "name": "Reliability",
+          "score": null,
+          "snippetCount": 16
+        },
+        {
+          "id": "6",
+          "name": "Performance",
+          "score": null,
+          "snippetCount": 18
+        },
+        {
+          "id": "6061",
+          "name": "School Use",
+          "score": null,
+          "snippetCount": 15
+        },
+        {
+          "id": "994",
+          "name": "For College",
+          "score": null,
+          "snippetCount": 12
+        },
+        {
+          "id": "184",
+          "name": "System Speed",
+          "score": null,
+          "snippetCount": 9
+        },
+        {
+          "id": "145449",
+          "name": "Iphone Connectivity",
+          "score": null,
+          "snippetCount": 10
+        },
+        {
+          "id": "435",
+          "name": "Gift",
+          "score": null,
+          "snippetCount": 8
+        },
+        {
+          "id": "16040",
+          "name": "Scratches",
+          "score": null,
+          "snippetCount": 3
+        },
+        {
+          "id": "2793",
+          "name": "Picture Clarity",
+          "score": null,
+          "snippetCount": 7
+        }
+      ],
+      "reviewSummary": {
+        "summary": "Customers highly praise this MacBook for its exceptional value, competitive price, and high-quality features, making it a great deal. The battery life is also a strong point, lasting all day or multiple days with moderate usage. While some experience issues with charging and screen quality, the overall sentiment is positive, with many considering it a reliable and well-made product that provides fantastic value for the money.",
+        "summaryTitle": "Exceptional value and performance at a competitive price point",
+        "summaryAspects": [
+          {
+            "aspectId": 284,
+            "aspectStart": 399,
+            "aspectEnd": 413,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 48,
+            "aspectStart": 64,
+            "aspectEnd": 80,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 6049,
+            "aspectStart": 138,
+            "aspectEnd": 149,
+            "aspectSentiment": "positive"
+          },
+          {
+            "aspectId": 658,
+            "aspectStart": 276,
+            "aspectEnd": 289,
+            "aspectSentiment": "neutral"
+          }
+        ]
+      },
+      "bulletReviewSummary": {
+        "bulletSummaryAspects": [
+          {
+            "aspectId": "48",
+            "aspectName": "value for money",
+            "aspectPillText": "Affordable price",
+            "aspectRank": 1,
+            "aspectPolarity": "Positive",
+            "aspectSummary": "Offers great value at a low cost."
+          },
+          {
+            "aspectId": "155",
+            "aspectName": "quality",
+            "aspectPillText": "High-quality materials",
+            "aspectRank": 2,
+            "aspectPolarity": "Positive",
+            "aspectSummary": "Made with durable and sturdy components."
+          }
+        ],
+        "thumbsUpCount": 0,
+        "thumbsDownCount": 0
+      },
+      "lookupId": "7I16EOCS77VM",
+      "customerReviews": [
+        {
+          "reviewId": "396103178",
+          "rating": 5,
+          "reviewSubmissionTime": "8/22/2025",
+          "reviewText": "I absolutely LOVE this MacBook! This is my first MacBook and it’s the best decision I could have made to make the switch from a regular PC. I love that I’m able to view my data from all my Apple devices on my MacBook and I also really like that I can mirror my iPhone onto my MacBook and use my phone that way. I also like the fact that if I ever lose or break my phone, I have the option of still being able to contact my phone contacts through my MacBook. The colors are vivid and crystal clear which is absolutely amazing! Another feature it has that I am obsessed with is the fingerprint unlock feature. Just like the iPad and/or iPhone, this MacBook has a button that stores your fingerprint to be able to use it to unlock your MacBook without typing your password. The one downside I have seen is that there aren’t any USB-A ports, so you wouldn’t be able to plug in a USB or a normal wireless mouse. You wouldn’t have to get something that plugs in to a type-C port. Other than that, this is the perfect size, weight, and price for a first MacBook user!",
+          "reviewTitle": "Obsessed!",
+          "reviewReferenceId": "e575e686-b37b-5f51-92b2-cbedea707136",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 6,
+          "userNickname": "Victoria",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "396377644",
+          "rating": 5,
+          "reviewSubmissionTime": "8/24/2025",
+          "reviewText": "In 2025 this, in my opinion, is by far the best laptop option for anybody who doesn't need a huge amount of power, and if you're ok with the smaller screen size. The M1 is still more than enough power for MOST people. The fanless design is great for working on your lap, it's quiet, the screen is great, and all of that for $600 (as of August 2025)? Absolute no brainer.",
+          "reviewTitle": "Incredible Value",
+          "reviewReferenceId": "effb4e25-a96e-51c8-bfc4-c2bd8087b0bf",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 5,
+          "positiveFeedback": 31,
+          "userNickname": "Tyler",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "395213507",
+          "rating": 5,
+          "reviewSubmissionTime": "8/13/2025",
+          "reviewText": "My previous 2020 MacBook was damaged so I took it to the Apple Store.  One of the techs recommended Walmart for the price and I agreed. Fantastic deal!! Set up was easy and I love my new MacBook. Delivery was the next day AND before Noon!  Thank you Walmart!",
+          "reviewTitle": "Luv my MacBook",
+          "reviewReferenceId": "692d7a89-66a6-55e7-b930-3e64784063a6",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 7,
+          "userNickname": "Valerie",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "reviewId": "397384889",
+          "rating": 5,
+          "reviewSubmissionTime": "9/3/2025",
+          "reviewText": "This is my first Apple product! I'm usually a Windows user, but I got this pink MacBook because of the price. So happy with my purchase! It's fast, reliable, lightweight, and fits perfectly in my backpack. The battery lasts 10 hours and it's super easy to use. Highly recommend! No issues with the packaging or the device itself. Picked it up at the store.",
+          "reviewTitle": "long lasting battery",
+          "reviewReferenceId": "0bcf6847-efbb-5d86-b438-3eed72648df4",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 4,
+          "userNickname": "Gladys",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "f5b78936-1d97-4e44-8f19-7f8bf3871421",
+              "reviewId": "0bcf6847-efbb-5d86-b438-3eed72648df4",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-79c0/k2-_7e356dcc-8f44-4ed2-b29a-0c28ecf281a9.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-79c0/k2-_7e356dcc-8f44-4ed2-b29a-0c28ecf281a9.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            },
+            {
+              "id": "a9397acd-fc88-4d12-9e11-870bf2344d2b",
+              "reviewId": "0bcf6847-efbb-5d86-b438-3eed72648df4",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-5153/k2-_b7cb6220-efbc-4cdc-95da-5a83c921c70b.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-5153/k2-_b7cb6220-efbc-4cdc-95da-5a83c921c70b.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            },
+            {
+              "id": "9f180f2e-19a4-403d-a9e4-512ca8edc68e",
+              "reviewId": "0bcf6847-efbb-5d86-b438-3eed72648df4",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd30/k2-_9d80a4a5-52f8-476f-873f-70551cbc7f86.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd30/k2-_9d80a4a5-52f8-476f-873f-70551cbc7f86.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "396685588",
+          "rating": 5,
+          "reviewSubmissionTime": "8/27/2025",
+          "reviewText": "I did a lot of research on which laptop would be the best one for me to use for college, and after looking at a sea of Windows laptops I settled on this M1 MacBook Air. Most Windows laptops that I looked at had pretty bad specs or were just too expensive for the hardware that they give you. I wanted a light laptop with good build quality and great battery life. This MacBook delivers on all fronts and at a decent price-point to boot. The battery life on this laptop is second to none, I have never had a windows laptop that could even come close. Also since this laptop is passively cooled it is light and completely silent.  It may not be the best choice for intensive workloads but for my purposes of doing research and typing papers for school it's perfect. I also think that the screen quality on this MacBook is very good as well, it cannot compare to that of the MacBook Pro, but it is still far better than most other laptops and good enough for the average consumer. Overall, if you are looking for a laptop with amazing build quality, a good screen, and insane battery life then look no further than the M1 MacBook Air.",
+          "reviewTitle": "Best College Laptop",
+          "reviewReferenceId": "8c856084-7894-50cb-84f7-ac34429f72fa",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 8,
+          "userNickname": "EM",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "4f0f0aea-349f-4b37-8c07-839e954f0fa5",
+              "reviewId": "8c856084-7894-50cb-84f7-ac34429f72fa",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-7a2f/k2-_4c7b6b93-048d-4e7f-9ccb-004630924d00.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-7a2f/k2-_4c7b6b93-048d-4e7f-9ccb-004630924d00.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            },
+            {
+              "id": "bec0dc43-5515-4253-bf6d-f0ac08cc9df9",
+              "reviewId": "8c856084-7894-50cb-84f7-ac34429f72fa",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-6225/k2-_464cbb6f-0b57-43be-862d-af77310eb091.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-6225/k2-_464cbb6f-0b57-43be-862d-af77310eb091.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            },
+            {
+              "id": "03e40288-a065-4647-ba71-dc7b39cb7f23",
+              "reviewId": "8c856084-7894-50cb-84f7-ac34429f72fa",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-95dd/k2-_b1463ebc-1c4b-4105-8412-c506d367a4ba.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-95dd/k2-_b1463ebc-1c4b-4105-8412-c506d367a4ba.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 5
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Affiliation",
+              "id": "Staff",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "WalmartAssociate",
+                "text": "Walmart Associate"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "404961866",
+          "rating": 1,
+          "reviewSubmissionTime": "11/17/2025",
+          "reviewText": "We JUST purchased this laptop for our daugher and it arrived yesterday. We presented it to her this morning and set it up. We used the charger that came with the laptop and the laptop wasn't charging. I used my own MacBook Air charger on her new laptop, and it still didn't work. We know it's not the charger because I tried her new laptop charger on MY MacBook Air, and it charged my laptop. Then I saw a message on her NEW laptop: \"Important Battery Message: The battery isn't functioning normally and requires service. Please check your service options.\" I contacted Walmart via their online customer service chat window and they were useless! DO NOT PURCHASE THIS ITEM FROM WALMART! Save you money, your time and a massive headache!!",
+          "reviewTitle": "DEFECTIVE BATTERY - DO NOT BUY!",
+          "reviewReferenceId": "ab39532e-c88d-5fca-8c0b-f096e73d93a5",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 6,
+          "userNickname": "Dee",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [
+            {
+              "id": "c2cfd6c5-9613-406a-9c4a-0762d3892241",
+              "reviewId": "ab39532e-c88d-5fca-8c0b-f096e73d93a5",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-5de3/k2-_4f6462e0-6acb-4491-b3c6-71c0a3c07053.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-5de3/k2-_4f6462e0-6acb-4491-b3c6-71c0a3c07053.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 1
+            },
+            {
+              "id": "f73e427c-b02a-4702-961d-854ceef861a6",
+              "reviewId": "ab39532e-c88d-5fca-8c0b-f096e73d93a5",
+              "mediaType": "IMAGE",
+              "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-d9b5/k2-_b5e14ee5-998a-49d7-b5f5-2dfa39b14f01.v1.jpg",
+              "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-d9b5/k2-_b5e14ee5-998a-49d7-b5f5-2dfa39b14f01.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+              "caption": null,
+              "rating": 1
+            }
+          ],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "reviewId": "399656021",
+          "rating": 1,
+          "reviewSubmissionTime": "9/27/2025",
+          "reviewText": "I would honestly give it 0 stars because it came defected it didn’t charge and then they sent me the wrong computer that doesn’t line up with what I ordered so when I tried to return it they told me that I couldn’t because the serial number didn’t line up with the order so now I’m out 600 dollars. It has been a pain trying to return it, I have been trying for a week now to find ways and even calling everything nobody is able to help me. They’re giving me false solutions. Awful makes me sad because I’ve been going to Walmart forever!",
+          "reviewTitle": "Awful straight up lost money",
+          "reviewReferenceId": "908b467e-f896-548b-a673-29522649d956",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 5,
+          "userNickname": "Rhilynn",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "reviewId": "389439727",
+          "rating": 1,
+          "reviewSubmissionTime": "6/22/2025",
+          "reviewText": "I never received this item Walmart still made me pay for it after being told that I would be issued a refund. This item required a signature upon delivery I was in the hospital at the time so no one was at my residence to give a signature again no item and still being charged",
+          "reviewTitle": "Scam",
+          "reviewReferenceId": "52ffa664-b4bf-585f-929a-289935604264",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 1,
+          "positiveFeedback": 10,
+          "userNickname": "anonymous",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "398034029",
+          "rating": 1,
+          "reviewSubmissionTime": "9/10/2025",
+          "reviewText": "I received the package but the actual computer was not in the box.  I talked to several people within Walmart and was told I’d get a refund 3x and then wasn’t issued one. I get as if Walmart was calling me a liar. I am stopping my membership and never shopping here again",
+          "reviewTitle": null,
+          "reviewReferenceId": "abcaefed-1f8f-5008-8155-17117a1b3f27",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 5,
+          "userNickname": "Christopher",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        },
+        {
+          "reviewId": "393507437",
+          "rating": 1,
+          "reviewSubmissionTime": "7/27/2025",
+          "reviewText": "Never got my computer. The company they use, Ontrac stole my package and marked it as delivered. The company they use have multiple complaints about stealing customers packages.",
+          "reviewTitle": null,
+          "reviewReferenceId": "b9ebe5a3-bd9b-590d-8ec2-9bacd454e3e0",
+          "originalLanguage": "English",
+          "originalLocale": "en_US",
+          "translatedLanguage": "English",
+          "translatedLocale": "en",
+          "showTranslationCTA": false,
+          "negativeFeedback": 0,
+          "positiveFeedback": 5,
+          "userNickname": "Myria",
+          "fulfilledBy": "Walmart",
+          "status": null,
+          "sellerName": "Walmart.com",
+          "conditionGroupCode": null,
+          "condition": null,
+          "userBadges": [],
+          "media": [],
+          "photos": [],
+          "badges": [
+            {
+              "badgeType": "Custom",
+              "id": "VerifiedPurchaser",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "VerifiedPurchaser",
+                "text": "Verified Purchase"
+              }
+            },
+            {
+              "badgeType": "Affiliation",
+              "id": "Staff",
+              "contentType": "REVIEW",
+              "glassBadge": {
+                "id": "WalmartAssociate",
+                "text": "Walmart Associate"
+              }
+            }
+          ],
+          "clientResponses": null,
+          "syndicationSource": null,
+          "snippetFromTitle": null,
+          "features": [
+            {
+              "name": "Color",
+              "value": "Gold"
+            }
+          ]
+        }
+      ],
+      "condition": null,
+      "selectedFilters": {
+        "conditionTypeCodes": null
+      },
+      "ratingValueFiveCount": 4119,
+      "ratingValueFourCount": 266,
+      "ratingValueOneCount": 379,
+      "ratingValueThreeCount": 116,
+      "ratingValueTwoCount": 88,
+      "roundedAverageOverallRating": 4.5,
+      "topNegativeReview": {
+        "reviewId": "404961866",
+        "rating": 1,
+        "reviewSubmissionTime": "11/17/2025",
+        "userNickname": "Dee",
+        "negativeFeedback": 0,
+        "positiveFeedback": 6,
+        "reviewText": "We JUST purchased this laptop for our daugher and it arrived yesterday. We presented it to her this morning and set it up. We used the charger that came with the laptop and the laptop wasn't charging. I used my own MacBook Air charger on her new laptop, and it still didn't work. We know it's not the charger because I tried her new laptop charger on MY MacBook Air, and it charged my laptop. Then I saw a message on her NEW laptop: \"Important Battery Message: The battery isn't functioning normally and requires service. Please check your service options.\" I contacted Walmart via their online customer service chat window and they were useless! DO NOT PURCHASE THIS ITEM FROM WALMART! Save you money, your time and a massive headache!!",
+        "reviewTitle": "DEFECTIVE BATTERY - DO NOT BUY!",
+        "reviewReferenceId": "ab39532e-c88d-5fca-8c0b-f096e73d93a5",
+        "originalLanguage": "English",
+        "originalLocale": "en_US",
+        "translatedLanguage": "English",
+        "translatedLocale": "en",
+        "showTranslationCTA": false,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "media": [
+          {
+            "id": "c2cfd6c5-9613-406a-9c4a-0762d3892241",
+            "reviewId": "ab39532e-c88d-5fca-8c0b-f096e73d93a5",
+            "mediaType": "IMAGE",
+            "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-5de3/k2-_4f6462e0-6acb-4491-b3c6-71c0a3c07053.v1.jpg",
+            "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-5de3/k2-_4f6462e0-6acb-4491-b3c6-71c0a3c07053.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+            "caption": null,
+            "rating": 1
+          },
+          {
+            "id": "f73e427c-b02a-4702-961d-854ceef861a6",
+            "reviewId": "ab39532e-c88d-5fca-8c0b-f096e73d93a5",
+            "mediaType": "IMAGE",
+            "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-d9b5/k2-_b5e14ee5-998a-49d7-b5f5-2dfa39b14f01.v1.jpg",
+            "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-d9b5/k2-_b5e14ee5-998a-49d7-b5f5-2dfa39b14f01.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+            "caption": null,
+            "rating": 1
+          }
+        ]
+      },
+      "topPositiveReview": {
+        "reviewId": "396103178",
+        "rating": 5,
+        "reviewSubmissionTime": "8/22/2025",
+        "userNickname": "Victoria",
+        "negativeFeedback": 0,
+        "positiveFeedback": 6,
+        "reviewText": "I absolutely LOVE this MacBook! This is my first MacBook and it’s the best decision I could have made to make the switch from a regular PC. I love that I’m able to view my data from all my Apple devices on my MacBook and I also really like that I can mirror my iPhone onto my MacBook and use my phone that way. I also like the fact that if I ever lose or break my phone, I have the option of still being able to contact my phone contacts through my MacBook. The colors are vivid and crystal clear which is absolutely amazing! Another feature it has that I am obsessed with is the fingerprint unlock feature. Just like the iPad and/or iPhone, this MacBook has a button that stores your fingerprint to be able to use it to unlock your MacBook without typing your password. The one downside I have seen is that there aren’t any USB-A ports, so you wouldn’t be able to plug in a USB or a normal wireless mouse. You wouldn’t have to get something that plugs in to a type-C port. Other than that, this is the perfect size, weight, and price for a first MacBook user!",
+        "reviewTitle": "Obsessed!",
+        "reviewReferenceId": "e575e686-b37b-5f51-92b2-cbedea707136",
+        "originalLanguage": "English",
+        "originalLocale": "en_US",
+        "translatedLanguage": "English",
+        "translatedLocale": "en",
+        "showTranslationCTA": false,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchase"
+            }
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null,
+        "clientResponses": null,
+        "media": []
+      },
+      "topProductMedia": [
+        {
+          "id": "f5b78936-1d97-4e44-8f19-7f8bf3871421",
+          "reviewId": "0bcf6847-efbb-5d86-b438-3eed72648df4",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-79c0/k2-_7e356dcc-8f44-4ed2-b29a-0c28ecf281a9.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-79c0/k2-_7e356dcc-8f44-4ed2-b29a-0c28ecf281a9.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "a9397acd-fc88-4d12-9e11-870bf2344d2b",
+          "reviewId": "0bcf6847-efbb-5d86-b438-3eed72648df4",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-5153/k2-_b7cb6220-efbc-4cdc-95da-5a83c921c70b.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-5153/k2-_b7cb6220-efbc-4cdc-95da-5a83c921c70b.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "9f180f2e-19a4-403d-a9e4-512ca8edc68e",
+          "reviewId": "0bcf6847-efbb-5d86-b438-3eed72648df4",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd30/k2-_9d80a4a5-52f8-476f-873f-70551cbc7f86.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-fd30/k2-_9d80a4a5-52f8-476f-873f-70551cbc7f86.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "4f0f0aea-349f-4b37-8c07-839e954f0fa5",
+          "reviewId": "8c856084-7894-50cb-84f7-ac34429f72fa",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-7a2f/k2-_4c7b6b93-048d-4e7f-9ccb-004630924d00.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-7a2f/k2-_4c7b6b93-048d-4e7f-9ccb-004630924d00.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "bec0dc43-5515-4253-bf6d-f0ac08cc9df9",
+          "reviewId": "8c856084-7894-50cb-84f7-ac34429f72fa",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-6225/k2-_464cbb6f-0b57-43be-862d-af77310eb091.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-6225/k2-_464cbb6f-0b57-43be-862d-af77310eb091.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "03e40288-a065-4647-ba71-dc7b39cb7f23",
+          "reviewId": "8c856084-7894-50cb-84f7-ac34429f72fa",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-95dd/k2-_b1463ebc-1c4b-4105-8412-c506d367a4ba.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-95dd/k2-_b1463ebc-1c4b-4105-8412-c506d367a4ba.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "f33d7fe8-ea22-4bdc-9e0d-9ab80b12eb84",
+          "reviewId": "9fb88aab-b6ca-551e-b8f3-f97227b8d7f5",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-6082/k2-_6ae7c243-f2b4-4c5d-b139-b50463eff984.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-6082/k2-_6ae7c243-f2b4-4c5d-b139-b50463eff984.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "11402b45-6355-4b53-b8aa-a28470b3604e",
+          "reviewId": "374dfcbf-08ab-541a-aa88-1b479b53b5c1",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-6551/k2-_1a932a76-c3dc-4591-8b9d-8824a79cdb38.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-6551/k2-_1a932a76-c3dc-4591-8b9d-8824a79cdb38.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "75b0a676-511b-4519-998b-694f7c1c6199",
+          "reviewId": "374dfcbf-08ab-541a-aa88-1b479b53b5c1",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-bfae/k2-_8d7f4f82-cdb8-422e-ab67-f03fea75e1fe.v1.jpg",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-bfae/k2-_8d7f4f82-cdb8-422e-ab67-f03fea75e1fe.v1.jpg?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "b342d768-b944-4bdf-8dfd-cb28e85bd538",
+          "reviewId": "1b5c721b-7138-5341-8a56-aaac6e82b7b1",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-ffd8/k2-_eacc34e9-c061-44da-a31d-6a2fd3eb064c.v1.bin",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-ffd8/k2-_eacc34e9-c061-44da-a31d-6a2fd3eb064c.v1.bin?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        },
+        {
+          "id": "7b3714f9-9292-4f9c-b342-a63aa30b154d",
+          "reviewId": "1b5c721b-7138-5341-8a56-aaac6e82b7b1",
+          "mediaType": "IMAGE",
+          "normalUrl": "https://i5.walmartimages.com/dfw/6e29e393-b8c2/k2-_d7b47703-75a2-4a47-be07-76db2f9c35b8.v1.bin",
+          "thumbnailUrl": "https://i5.walmartimages.com/dfw/6e29e393-b8c2/k2-_d7b47703-75a2-4a47-be07-76db2f9c35b8.v1.bin?odnWidth=150&odnHeight=150&odnBg=ffffff",
+          "caption": null,
+          "rating": 5
+        }
+      ],
+      "totalMediaCount": 113,
+      "totalReviewCount": 4968,
+      "reviewsWithTextCount": 1169,
+      "percentageFiveCount": 83,
+      "percentageFourCount": 5,
+      "percentageThreeCount": 2,
+      "percentageTwoCount": 2,
+      "percentageOneCount": 8,
+      "recommendedPercentage": 83,
+      "showRecommendedModule": false,
+      "reviewAndRatingCountAsString": {
+        "totalReviewsCountAsString": "4,968",
+        "reviewsWithTextCountAsString": "1,169",
+        "ratingValueOneCountAsString": "379",
+        "ratingValueTwoCountAsString": "88",
+        "ratingValueThreeCountAsString": "116",
+        "ratingValueFourCountAsString": "266",
+        "ratingValueFiveCountAsString": "4,119"
+      },
+      "reviewFeatures": null,
+      "itemVariantInfo": null
+    }
+  }
+]

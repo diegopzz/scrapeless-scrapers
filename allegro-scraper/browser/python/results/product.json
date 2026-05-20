@@ -1,0 +1,383 @@
+[
+  {
+    "title": "Telefon Apple iPhone 17 8 GB / 256 GB 5G Czarny",
+    "price": {
+      "formattedPrice": "3520,00 zł",
+      "formattedPriceParts": {
+        "main": "3520,",
+        "fraction": "00 zł"
+      },
+      "formattedPriceLabel": null,
+      "formattedSecondaryPrice": null,
+      "secondaryPriceLabel": null,
+      "originalPrice": null,
+      "beforeExchange": null,
+      "currency": "PLN",
+      "badge": {
+        "background": null,
+        "text": null,
+        "displayOriginalPrice": false,
+        "additionalText": null,
+        "hash": null,
+        "labels": null
+      },
+      "installments": {
+        "badge": {
+          "label": {
+            "text": "raty zero",
+            "backgroundColor": "#00aeef"
+          },
+          "additionalInfo": null,
+          "icon": null,
+          "url": null,
+          "labels": [
+            {
+              "style": null,
+              "labelParts": [
+                {
+                  "text": "234,67 zł",
+                  "style": {
+                    "themes": {
+                      "light": {
+                        "textColor": "text.secondary",
+                        "backgroundColor": null
+                      },
+                      "dark": {
+                        "textColor": "text.secondary",
+                        "backgroundColor": null
+                      }
+                    },
+                    "textAttributes": {
+                      "bold": true,
+                      "strikethrough": false
+                    },
+                    "badge": false
+                  },
+                  "url": null,
+                  "icon": null,
+                  "skippable": false,
+                  "contextInfo": null
+                },
+                {
+                  "text": " x 15 rat",
+                  "style": {
+                    "themes": {
+                      "light": {
+                        "textColor": "text.secondary",
+                        "backgroundColor": null
+                      },
+                      "dark": {
+                        "textColor": "text.secondary",
+                        "backgroundColor": null
+                      }
+                    },
+                    "textAttributes": {
+                      "bold": false,
+                      "strikethrough": false
+                    },
+                    "badge": false
+                  },
+                  "url": null,
+                  "icon": null,
+                  "skippable": false,
+                  "contextInfo": null
+                }
+              ]
+            },
+            {
+              "style": {
+                "themes": {
+                  "light": {
+                    "textColor": null,
+                    "backgroundColor": null
+                  },
+                  "dark": {
+                    "textColor": null,
+                    "backgroundColor": null
+                  }
+                },
+                "textAttributes": null,
+                "badge": false
+              },
+              "labelParts": [
+                {
+                  "text": null,
+                  "style": null,
+                  "url": "https://allegro.pl/produkt/telefon-apple-iphone-17-8-256gb-5g-czarny-ffd22d9a-7e19-4bc3-98ce-d968b0669f01?offerId=18557621289#payment-methods-installments-example",
+                  "icon": {
+                    "id": "ZERO_INSTALLMENTS_BADGE",
+                    "sources": {
+                      "png": {
+                        "url": "https://a.allegroimg.com/original/12c698/16b7621d408c8282ab05e9e94eb8",
+                        "darkModeUrl": "https://a.allegroimg.com/original/12c698/16b7621d408c8282ab05e9e94eb8"
+                      },
+                      "svg": {
+                        "url": "https://a.allegroimg.com/original/122b83/285c1df140548d12c1a3bbb4c79a",
+                        "darkModeUrl": "https://a.allegroimg.com/original/122b83/285c1df140548d12c1a3bbb4c79a"
+                      }
+                    },
+                    "alt": "Raty zero"
+                  },
+                  "skippable": false,
+                  "contextInfo": null
+                }
+              ]
+            },
+            {
+              "style": null,
+              "labelParts": [
+                {
+                  "text": "sprawdź",
+                  "style": {
+                    "themes": {
+                      "light": {
+                        "textColor": "text.secondary",
+                        "backgroundColor": null
+                      },
+                      "dark": {
+                        "textColor": "text.secondary",
+                        "backgroundColor": null
+                      }
+                    },
+                    "textAttributes": {
+                      "bold": false,
+                      "strikethrough": false
+                    },
+                    "badge": false
+                  },
+                  "url": "https://allegro.pl/produkt/telefon-apple-iphone-17-8-256gb-5g-czarny-ffd22d9a-7e19-4bc3-98ce-d968b0669f01?offerId=18557621289#payment-methods-installments-example",
+                  "icon": null,
+                  "skippable": false,
+                  "contextInfo": null
+                }
+              ]
+            }
+          ],
+          "campaign": {
+            "id": "INSTALLMENTS_PROMO_15x0_202410"
+          }
+        },
+        "analyticTag": "installmentZero",
+        "isB2b": false
+      },
+      "freebox": {
+        "icon": {
+          "url": "https://a.allegroimg.com/original/343b4d/ed3f5c04412ab7bd70dd0a34f0cd/brand-subbrand-smart-d8bfa93f10",
+          "urlDark": ""
+        },
+        "description": "Allegro Smart! to <b>darmowe dostawy i zwroty</b>: Kurierem, do Automatów paczkowych i Punktów odbioru.",
+        "freeboxUrl": "https://allegro.pl/smart?bi_s=allegro_smart&bi_m=strona_oferty_dymek"
+      },
+      "pricePerUnit": null,
+      "bestPriceGuaranteeBadge": null,
+      "futureBadge": null,
+      "isPricePerUnitUnderGuarantee": false,
+      "withBottomMargin": true,
+      "b2bNetPricePrimary": false,
+      "deposit": null,
+      "isBPGWithBackground": false,
+      "isBPGWithFullBackground": false
+    },
+    "images": [
+      "https://a.allegroimg.com/original/291c68/56f8b5e140f3ba387735ce697ca8/Telefon-Apple-iPhone-17-8-GB-256-GB-5G-Czarny",
+      "https://a.allegroimg.com/original/2923e2/59bdfc9b45d2867feddcf13f876d/Telefon-Apple-iPhone-17-8-GB-256-GB-5G-Czarny-Ladowarka-w-komplecie-nie",
+      "https://a.allegroimg.com/original/29b29f/a1a5b499435da25a9c7dd5c52427/Telefon-Apple-iPhone-17-8-GB-256-GB-5G-Czarny-Sluchawki-w-komplecie-nie",
+      "https://a.allegroimg.com/original/05f24a/b62e7f9d4d688049776000c7778f/Telefon-Apple-iPhone-17-8-GB-256-GB-5G-Czarny-Stan-opakowania-oryginalne"
+    ],
+    "shipping_info": {
+      "entries": [
+        {
+          "action": null,
+          "name": null,
+          "value": null,
+          "icon": {
+            "light": "https://a.allegroimg.com/original/344e4e/6fc35f55460d8b5db0b8c343575e/illustration-small-clock-d8f944683e",
+            "dark": "https://a.allegroimg.com/original/34843a/851c0e7a4309881ad4ac5943c0c4/dark-illustration-small-clock-c77a4b2500"
+          },
+          "analyticTag": "DeliveryTime",
+          "labels": [
+            {
+              "labelParts": [
+                {
+                  "text": "Przewidywana dostawa ",
+                  "style": {
+                    "themes": {
+                      "light": {
+                        "textColor": "text.primary",
+                        "backgroundColor": null
+                      },
+                      "dark": {
+                        "textColor": "text.primary",
+                        "backgroundColor": null
+                      }
+                    },
+                    "textAttributes": {
+                      "bold": false,
+                      "strikethrough": false
+                    },
+                    "badge": false
+                  },
+                  "url": null,
+                  "icon": null,
+                  "skippable": false,
+                  "contextInfo": null
+                },
+                {
+                  "text": null,
+                  "style": {},
+                  "url": null,
+                  "icon": {
+                    "id": "info",
+                    "sources": {
+                      "png": {
+                        "url": "https://a.allegroimg.com/original/124286/6d082da74c21926b613c07eb4ea2",
+                        "darkModeUrl": "https://a.allegroimg.com/original/129d30/2624da764f3a8e6fd1ef522c63fd"
+                      },
+                      "svg": {
+                        "url": "https://a.allegroimg.com/original/12617a/bf85793745ed92b1dcc4cc810d14",
+                        "darkModeUrl": "https://a.allegroimg.com/original/128f28/790bd0854801808f002cf55fce15"
+                      }
+                    },
+                    "alt": "Informacja",
+                    "size": {
+                      "width": 16,
+                      "height": 18
+                    }
+                  },
+                  "skippable": false,
+                  "contextInfo": {
+                    "text": "Przewidywany przez Allegro czas dostawy na podstawie wcześniejszych dostaw sprzedającego."
+                  }
+                }
+              ]
+            },
+            {
+              "labelParts": [
+                {
+                  "text": "wt. 19 maj.",
+                  "style": {
+                    "themes": {
+                      "light": {
+                        "textColor": "text.primary",
+                        "backgroundColor": null
+                      },
+                      "dark": {
+                        "textColor": "text.primary",
+                        "backgroundColor": null
+                      }
+                    },
+                    "textAttributes": {
+                      "bold": true,
+                      "strikethrough": false
+                    },
+                    "badge": false
+                  },
+                  "url": null,
+                  "icon": null,
+                  "skippable": false,
+                  "contextInfo": null
+                }
+              ]
+            }
+          ],
+          "accessibilityLabel": "Przewidywana dostawa (Przewidywany przez Allegro czas dostawy na podstawie wcześniejszych dostaw sprzedającego.) wt. 19 maj."
+        },
+        {
+          "action": {
+            "url": "#shipping-info",
+            "webViewUrl": "/oferta/webview/delivery/18557621289"
+          },
+          "name": null,
+          "value": null,
+          "icon": {
+            "light": "https://a.allegroimg.com/original/349854/a7744f7a4065bc5f1aec7a2e7e7b/illustration-small-delivery-ddbc9d3c73",
+            "dark": "https://a.allegroimg.com/original/34ef11/d29d8d374351b7a87560cf678cd0/dark-illustration-small-delivery-d29eec0584"
+          },
+          "analyticTag": "ShippingInfo",
+          "labels": [
+            {
+              "labelParts": [
+                {
+                  "text": "Dostawa od 11,99 zł",
+                  "style": {
+                    "themes": {
+                      "light": {
+                        "textColor": "text.primary",
+                        "backgroundColor": null
+                      },
+                      "dark": {
+                        "textColor": "text.primary",
+                        "backgroundColor": null
+                      }
+                    },
+                    "textAttributes": {
+                      "bold": false,
+                      "strikethrough": false
+                    }
+                  },
+                  "url": null,
+                  "icon": null,
+                  "skippable": false,
+                  "contextInfo": null
+                }
+              ]
+            }
+          ],
+          "accessibilityLabel": "Dostawa od 11,99 zł"
+        },
+        {
+          "action": {
+            "url": "#trust-info",
+            "webViewUrl": "/oferta/webview/trust-info/18557621289"
+          },
+          "name": "Zwrot za darmo – 14 dni",
+          "value": "Allegro Ochrona Kupujących | Reklamacja",
+          "icon": {
+            "light": "https://a.allegroimg.com/original/125f1a/f802b6114f759503d0c5de253db3",
+            "dark": "https://a.allegroimg.com/original/120781/fa838c0d47f6a352e3df49651a2a"
+          },
+          "analyticTag": "TrustInfo",
+          "labels": [],
+          "accessibilityLabel": "Zwrot za darmo – 14 dni, Allegro Ochrona Kupujących | Reklamacja"
+        },
+        {
+          "action": {
+            "url": "#payment-methods",
+            "webViewUrl": "/oferta/webview/payment-methods/18557621289"
+          },
+          "name": "Metody płatności",
+          "value": "Płać tak, jak lubisz",
+          "icon": {
+            "light": "https://a.allegroimg.com/original/341ba4/cb3e84504cacb8b50a0f2c505a62/illustration-small-wallet-d2280e232b",
+            "dark": "https://a.allegroimg.com/original/34b0db/b74ce315493ca68fc6c17f0fd41a/dark-illustration-small-wallet-c2848575bc"
+          },
+          "analyticTag": "PaymentInfo",
+          "labels": [],
+          "accessibilityLabel": "Metody płatności, Płać tak, jak lubisz"
+        }
+      ],
+      "isDarkModeSupported": false,
+      "isPaddingDisabled": false
+    },
+    "rating": "4.97",
+    "specifications": [],
+    "seller": {
+      "sellerName": "quikset",
+      "sellerRepresentation": null,
+      "sellerRating": "88,1%",
+      "sellerListingUrl": "https://allegro.pl/uzytkownik/quikset",
+      "logotypeUrl": null,
+      "logotypeAlt": "logo quikset",
+      "hash": "#aboutSeller",
+      "isPrivateSeller": false,
+      "isSuperSeller": false,
+      "isPharmacy": false,
+      "isAdvert": false,
+      "withDivider": true,
+      "allegroWareHouseInfo": null,
+      "withoutMarginBottom": false
+    },
+    "reviews": [],
+    "allegro_smart_badge": true
+  }
+]

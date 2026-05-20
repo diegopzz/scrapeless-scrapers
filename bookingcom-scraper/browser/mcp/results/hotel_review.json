@@ -1,0 +1,499 @@
+[
+  {
+    "reviewUrl": "abbe6fba2a22f3b4",
+    "photos": null,
+    "helpfulVotesCount": 0,
+    "reviewedDate": 1778475181,
+    "guestDetails": {
+      "username": "Theresa",
+      "avatarColor": null,
+      "guestTypeTranslation": "Solo traveller",
+      "showCountryFlag": true,
+      "countryName": "Australia",
+      "__typename": "GuestDetails",
+      "anonymous": false,
+      "countryCode": "au",
+      "avatarUrl": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png"
+    },
+    "__typename": "ReviewCard",
+    "bookingDetails": {
+      "customerType": "SOLO_TRAVELLERS",
+      "roomId": 60181,
+      "__typename": "BookingDetails",
+      "stayStatus": "stayed",
+      "checkinDate": "2026-05-06",
+      "numNights": 4,
+      "checkoutDate": "2026-05-10",
+      "roomType": {
+        "id": "60181",
+        "name": "Double Room",
+        "__typename": "RoomTranslation"
+      }
+    },
+    "isApproved": true,
+    "textDetails": {
+      "positiveText": "Location was great. Close to transport, dining and supermarket.",
+      "title": null,
+      "lang": "en",
+      "__typename": "TextDetails",
+      "negativeText": null,
+      "textTrivialFlag": 0
+    },
+    "negativeHighlights": null,
+    "partnerReply": {
+      "reply": "Dear Theresa, Thank you for your lovely review! We’re so pleased you enjoyed our convenient location, with easy access to transport, restaurants, and supermarkets nearby. We hope to welcome you back again soon! Thank you. Best Regards, Anuja",
+      "__typename": "PropertyReplyData"
+    },
+    "isTranslatable": false,
+    "reviewScore": 8,
+    "editUrl": null,
+    "positiveHighlights": null
+  },
+  {
+    "helpfulVotesCount": 0,
+    "reviewedDate": 1777638324,
+    "reviewUrl": "009a32686b357118",
+    "photos": null,
+    "editUrl": null,
+    "isTranslatable": false,
+    "reviewScore": 7,
+    "partnerReply": {
+      "reply": "Dear Koreli,\n\nThank you for sharing your detailed feedback.\n\nWe are pleased that you appreciated the location in a peaceful area with easy access to transport and nearby neighbourhoods. It is also good to know that the option to leave luggage and the kindness of the receptionist on your last day made a positive impression.\n\nWe sincerely apologise for the experience at check in. It is not acceptable that you were not acknowledged promptly, and this will be addressed with our reception team. We also regret the issues you encountered with cleanliness, especially in the bathroom, as well as the limited space in the room and breakfast area. These are important concerns, and we will review them carefully with our housekeeping and management teams to ensure improvements.\n\nYour feedback is very valuable and helps us improve. We hope to have the chance to provide a better experience in the future.\n\nKind regards,\nHotel Management",
+      "__typename": "PropertyReplyData"
+    },
+    "positiveHighlights": null,
+    "guestDetails": {
+      "countryName": "Greece",
+      "__typename": "GuestDetails",
+      "guestTypeTranslation": "Couple",
+      "showCountryFlag": true,
+      "username": "Koreli",
+      "avatarColor": null,
+      "countryCode": "gr",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/AAcHTtdsAbu4TBHTTp74AUKPqZcK14Fbk9midxGkXoRwRDfmkw=s96-c",
+      "anonymous": false
+    },
+    "negativeHighlights": null,
+    "isApproved": true,
+    "textDetails": {
+      "positiveText": "The location was great, in a peaceful area and near to bus station and near to cute neighbourhoods to explore. Another positive point is that we can also leave our luggage. The last day the receptionist was kind.",
+      "title": "It was okey, they have extra point because of the location",
+      "lang": "en",
+      "negativeText": "The receptionist the day we came, for the fist 2-3 minutes they just talk to each other without give us attention besides the fact that we talk to them. The other days the receptionist was okey! The space at the breakfast was not enough for the people and as a result we didn’t have space to sit and eat the second day. Also the room was not clean enough and we found women hair to bathroom. Also the room was extremely tiny for two people.",
+      "__typename": "TextDetails",
+      "textTrivialFlag": 0
+    },
+    "__typename": "ReviewCard",
+    "bookingDetails": {
+      "roomId": 60181,
+      "__typename": "BookingDetails",
+      "stayStatus": "stayed",
+      "checkinDate": "2026-04-23",
+      "customerType": "COUPLES",
+      "roomType": {
+        "__typename": "RoomTranslation",
+        "id": "60181",
+        "name": "Double Room"
+      },
+      "numNights": 3,
+      "checkoutDate": "2026-04-26"
+    }
+  },
+  {
+    "guestDetails": {
+      "countryCode": "rs",
+      "avatarUrl": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+      "anonymous": false,
+      "countryName": "Serbia",
+      "__typename": "GuestDetails",
+      "showCountryFlag": true,
+      "guestTypeTranslation": "Solo traveller",
+      "username": "Srdjan",
+      "avatarColor": null
+    },
+    "isApproved": true,
+    "textDetails": {
+      "title": "Nice location, pleasant people on reception, nice room",
+      "positiveText": "Location, receptionist was pleasant, rooms were nice",
+      "textTrivialFlag": 0,
+      "lang": "en",
+      "negativeText": "Breakfast was a bit poor…it could be a bit better, ladies were asked to make some scrambled eggs, but they refused.",
+      "__typename": "TextDetails"
+    },
+    "negativeHighlights": null,
+    "__typename": "ReviewCard",
+    "bookingDetails": {
+      "customerType": "SOLO_TRAVELLERS",
+      "__typename": "BookingDetails",
+      "stayStatus": "stayed",
+      "roomId": 60186,
+      "checkinDate": "2026-04-22",
+      "checkoutDate": "2026-04-23",
+      "numNights": 1,
+      "roomType": {
+        "__typename": "RoomTranslation",
+        "id": "60186",
+        "name": "Family Room"
+      }
+    },
+    "isTranslatable": false,
+    "reviewScore": 8,
+    "editUrl": null,
+    "partnerReply": null,
+    "positiveHighlights": null,
+    "reviewUrl": "fb74a0aea8d1e7ab",
+    "photos": null,
+    "reviewedDate": 1776980168,
+    "helpfulVotesCount": 0
+  },
+  {
+    "helpfulVotesCount": 0,
+    "reviewedDate": 1776762704,
+    "reviewUrl": "d60a10d2a6b8efcb",
+    "photos": null,
+    "isTranslatable": false,
+    "reviewScore": 9,
+    "editUrl": null,
+    "partnerReply": {
+      "__typename": "PropertyReplyData",
+      "reply": "Dear Paula,\n\nThank you for sharing your feedback following your recent stay with us. We are pleased to know you found good value for money, enjoyed the comfort of your room, and appreciated our location close to Portobello Market, Bayswater and Queensway.\n\nWe also appreciate your comments regarding the acoustics. As you mentioned, this can be a characteristic of older buildings, but we will certainly keep your feedback in mind as we continue to look for ways to improve our guests’ comfort.\n\nWe hope to have the opportunity to welcome you back again in the future.\n\nWarm Regards,\nJessica"
+    },
+    "positiveHighlights": null,
+    "guestDetails": {
+      "anonymous": false,
+      "avatarUrl": "https://graph.facebook.com/v2.9/10231479796514353/picture?type=square&height=64&width=64",
+      "countryCode": "fi",
+      "showCountryFlag": true,
+      "guestTypeTranslation": "Couple",
+      "avatarColor": null,
+      "username": "Paula",
+      "__typename": "GuestDetails",
+      "countryName": "Finland"
+    },
+    "textDetails": {
+      "positiveText": "Location was very good. Portobello market, Bayswater and Queensway was very close. Room was comftable.",
+      "title": "Good price - quality balance.",
+      "lang": "en",
+      "__typename": "TextDetails",
+      "negativeText": "Acoustic was bad. It’s always like that in a old buildings.",
+      "textTrivialFlag": 0
+    },
+    "isApproved": true,
+    "negativeHighlights": null,
+    "bookingDetails": {
+      "__typename": "BookingDetails",
+      "stayStatus": "stayed",
+      "roomId": 60182,
+      "checkinDate": "2026-04-17",
+      "customerType": "COUPLES",
+      "roomType": {
+        "__typename": "RoomTranslation",
+        "id": "60182",
+        "name": "Twin Room"
+      },
+      "numNights": 3,
+      "checkoutDate": "2026-04-20"
+    },
+    "__typename": "ReviewCard"
+  },
+  {
+    "photos": null,
+    "reviewUrl": "e1db0417a17e26d4",
+    "helpfulVotesCount": 1,
+    "reviewedDate": 1776561008,
+    "negativeHighlights": null,
+    "isApproved": true,
+    "textDetails": {
+      "title": null,
+      "positiveText": "They have very good breakfast, nice location, cozy and nice atmosphere, clean environment etc. Worth staying because of the fair price.",
+      "textTrivialFlag": 0,
+      "lang": "en",
+      "negativeText": "Extremely small (I should say narrow maybe) rooms, smallest I've ever seen in my life :) The windows are difficult to open and close, very old. Considering the price performance balance, a good place to stay.",
+      "__typename": "TextDetails"
+    },
+    "bookingDetails": {
+      "numNights": 1,
+      "checkoutDate": "2026-01-31",
+      "roomType": {
+        "id": "60179",
+        "name": "Single Room with Private External Bathroom",
+        "__typename": "RoomTranslation"
+      },
+      "customerType": "SOLO_TRAVELLERS",
+      "checkinDate": "2026-01-30",
+      "stayStatus": "stayed",
+      "__typename": "BookingDetails",
+      "roomId": 60179
+    },
+    "__typename": "ReviewCard",
+    "guestDetails": {
+      "anonymous": false,
+      "countryCode": "us",
+      "avatarUrl": "https://lh3.googleusercontent.com/a-/AAuE7mATWawryZ9gntcb1drErSSPuOT-KTCl1RXAcUINhw",
+      "guestTypeTranslation": "Solo traveller",
+      "showCountryFlag": true,
+      "username": "Yener",
+      "avatarColor": null,
+      "countryName": "United States",
+      "__typename": "GuestDetails"
+    },
+    "positiveHighlights": null,
+    "isTranslatable": false,
+    "editUrl": null,
+    "reviewScore": 7,
+    "partnerReply": {
+      "__typename": "PropertyReplyData",
+      "reply": "Dear Yener,\n\nThank you for sharing your detailed feedback following your recent stay with us. We are delighted to know you enjoyed our breakfast, found the atmosphere cozy, and appreciated the cleanliness and value for money.\n\nWe also appreciate your comments regarding the room size and windows. Your feedback is important to us, and we will take it into consideration as we continue to improve our guest experience.\n\nWe are pleased you felt your stay was worthwhile overall, and we hope to welcome you back again in the future.\n\nWarm Regards,\nJessica"
+    }
+  },
+  {
+    "guestDetails": {
+      "countryName": "United Kingdom",
+      "__typename": "GuestDetails",
+      "username": "Stefano",
+      "avatarColor": null,
+      "guestTypeTranslation": "Couple",
+      "showCountryFlag": true,
+      "countryCode": "gb",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJjuiH09zp8-jPnlUGb7fKIqmcT4ldgVOIeSEN9AJb6nSHgIQ=s96-c",
+      "anonymous": false
+    },
+    "bookingDetails": {
+      "checkinDate": "2026-04-11",
+      "__typename": "BookingDetails",
+      "roomId": 60181,
+      "stayStatus": "stayed",
+      "customerType": "COUPLES",
+      "roomType": {
+        "__typename": "RoomTranslation",
+        "name": "Double Room",
+        "id": "60181"
+      },
+      "numNights": 1,
+      "checkoutDate": "2026-04-12"
+    },
+    "__typename": "ReviewCard",
+    "isApproved": true,
+    "textDetails": {
+      "title": "A pleasant, and recommended hotel.",
+      "positiveText": "Good location for what I was doing that night, just a pity that the local underground line was closed for engineering works.",
+      "textTrivialFlag": 0,
+      "lang": "en",
+      "negativeText": "Pleasant staff, clean room and very comfy bed with a lovely shower.",
+      "__typename": "TextDetails"
+    },
+    "negativeHighlights": null,
+    "partnerReply": {
+      "__typename": "PropertyReplyData",
+      "reply": "Dear Stefano,\n\nThank you for sharing your kind feedback following your recent stay with us. We are very pleased to read that you found our team welcoming, the room clean, and the bed comfortable, as well as enjoying the shower and overall facilities.\n\nWe appreciate your note regarding the underground works. While this is unfortunately outside of our control, we are glad our location still suited your plans for the evening.\n\nIt is wonderful to know you would recommend us, and we hope to have the opportunity to welcome you back again soon.\n\nWarm Regards,\nJessica"
+    },
+    "isTranslatable": false,
+    "reviewScore": 8,
+    "editUrl": null,
+    "positiveHighlights": null,
+    "reviewUrl": "35d5a724c6e777ad",
+    "photos": null,
+    "reviewedDate": 1776418279,
+    "helpfulVotesCount": 0
+  },
+  {
+    "isApproved": true,
+    "textDetails": {
+      "textTrivialFlag": 0,
+      "__typename": "TextDetails",
+      "negativeText": "Wifi, bathroom too small",
+      "lang": "en",
+      "title": null,
+      "positiveText": "Location, check in, clean"
+    },
+    "negativeHighlights": null,
+    "__typename": "ReviewCard",
+    "bookingDetails": {
+      "checkoutDate": "2026-04-14",
+      "numNights": 3,
+      "roomType": {
+        "__typename": "RoomTranslation",
+        "id": "60179",
+        "name": "Single Room with Private External Bathroom"
+      },
+      "customerType": "SOLO_TRAVELLERS",
+      "checkinDate": "2026-04-11",
+      "__typename": "BookingDetails",
+      "roomId": 60179,
+      "stayStatus": "stayed"
+    },
+    "guestDetails": {
+      "countryName": "Denmark",
+      "__typename": "GuestDetails",
+      "username": "Florian",
+      "avatarColor": null,
+      "showCountryFlag": true,
+      "guestTypeTranslation": "Solo traveller",
+      "countryCode": "dk",
+      "avatarUrl": "https://xx.bstatic.com/static/img/review/avatars/ava-f.png",
+      "anonymous": false
+    },
+    "positiveHighlights": null,
+    "editUrl": null,
+    "isTranslatable": false,
+    "reviewScore": 7,
+    "partnerReply": {
+      "__typename": "PropertyReplyData",
+      "reply": "Dear Florian,\n\nThank you for taking the time to share your feedback with us. We are pleased to hear that you appreciated our location, check-in process, and cleanliness during your stay.\n\nAt the same time, we are sorry to learn that the comfort level, bathroom size, and WiFi did not fully meet your expectations. Your comments are important to us and have been shared with the relevant teams as we continue to review areas where improvements can be made.\n\nWe truly appreciate your balanced feedback and hope we may have the opportunity to welcome you again in the future for a more comfortable stay.\n\nKind regards,\nJessica"
+    },
+    "photos": null,
+    "reviewUrl": "1b93f5666ec260ab",
+    "helpfulVotesCount": 0,
+    "reviewedDate": 1776198520
+  },
+  {
+    "photos": null,
+    "reviewUrl": "aae08e3fe75059f0",
+    "helpfulVotesCount": 0,
+    "reviewedDate": 1775651238,
+    "negativeHighlights": null,
+    "isApproved": true,
+    "textDetails": {
+      "lang": "xu",
+      "__typename": "TextDetails",
+      "negativeText": "Breakfast was not good for the price. Too limited food.",
+      "textTrivialFlag": 0,
+      "positiveText": "Location is perfect to walk through Hyde park towards London centre",
+      "title": "Good for the price"
+    },
+    "__typename": "ReviewCard",
+    "bookingDetails": {
+      "roomType": {
+        "id": "10276403",
+        "name": "Deluxe Double Room",
+        "__typename": "RoomTranslation"
+      },
+      "checkoutDate": "2026-03-30",
+      "numNights": 3,
+      "checkinDate": "2026-03-27",
+      "stayStatus": "stayed",
+      "__typename": "BookingDetails",
+      "roomId": 10276403,
+      "customerType": "COUPLES"
+    },
+    "guestDetails": {
+      "avatarUrl": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+      "countryCode": "cl",
+      "anonymous": false,
+      "__typename": "GuestDetails",
+      "countryName": "Chile",
+      "avatarColor": null,
+      "username": "Hugo",
+      "guestTypeTranslation": "Couple",
+      "showCountryFlag": true
+    },
+    "positiveHighlights": null,
+    "reviewScore": 8,
+    "isTranslatable": false,
+    "editUrl": null,
+    "partnerReply": {
+      "__typename": "PropertyReplyData",
+      "reply": "Dear Hugo, Thank you for your feedback. We are pleased you enjoyed the location and the easy walk through Hyde Park into central London.\n\nWe are sorry to hear that the breakfast did not meet your expectations in terms of value and variety, and we will share your comments with the team.\n\nWe hope to welcome you again.\n\nBest Regards,\nJessica"
+    }
+  },
+  {
+    "photos": null,
+    "reviewUrl": "a19fc459458dd794",
+    "helpfulVotesCount": 0,
+    "reviewedDate": 1775599826,
+    "bookingDetails": {
+      "roomType": {
+        "id": "60177",
+        "name": "Single Room",
+        "__typename": "RoomTranslation"
+      },
+      "checkoutDate": "2026-04-07",
+      "numNights": 2,
+      "stayStatus": "stayed",
+      "__typename": "BookingDetails",
+      "roomId": 60177,
+      "checkinDate": "2026-04-05",
+      "customerType": "SOLO_TRAVELLERS"
+    },
+    "__typename": "ReviewCard",
+    "negativeHighlights": null,
+    "isApproved": true,
+    "textDetails": {
+      "positiveText": "Location amd view are beautiful.",
+      "title": "Good, but with a few downsides.",
+      "lang": "en",
+      "__typename": "TextDetails",
+      "negativeText": "Breakfast is very poor, anyone looking to really enjoy a healthy breakfast will not be satisfied. Service at breakfast was rather unavailable, so it was tricky get het access to a tea refill. The bathrooms are just tiny plastic boxes which make it nearly impossible to do any kind of routine - it is literally just a box with a toilette built in a shower.",
+      "textTrivialFlag": 0
+    },
+    "guestDetails": {
+      "anonymous": false,
+      "avatarUrl": "https://xx.bstatic.com/static/img/review/avatars/ava-f.png",
+      "countryCode": "de",
+      "guestTypeTranslation": "Solo traveller",
+      "showCountryFlag": true,
+      "avatarColor": null,
+      "username": "Friederike",
+      "__typename": "GuestDetails",
+      "countryName": "Germany"
+    },
+    "positiveHighlights": null,
+    "partnerReply": {
+      "reply": "Dear Friederike, Thank you for your feedback. We are glad you enjoyed the location and views.\n\nWe are sorry to hear the breakfast and service did not meet expectations, and we will share your comments with the team. We also appreciate your note about the bathroom design and understand it may not suit everyone.\n\nWe value your feedback and hope to welcome you again.\n\nKind Regards,\nJessica",
+      "__typename": "PropertyReplyData"
+    },
+    "reviewScore": 7,
+    "isTranslatable": false,
+    "editUrl": null
+  },
+  {
+    "reviewedDate": 1774929889,
+    "helpfulVotesCount": 0,
+    "photos": null,
+    "reviewUrl": "01ef33254d5013c7",
+    "positiveHighlights": null,
+    "partnerReply": {
+      "__typename": "PropertyReplyData",
+      "reply": "Dear Maximiliano,\nThank you for sharing your feedback. We’re glad to hear that our staff was helpful and that you enjoyed the breakfast and convenient nearby options. We appreciate your suggestion regarding the music or news during breakfast—we’ll take that into consideration.\n\nWe’re sorry to hear that the bathroom in room 603 was uncomfortable for you. Your comments about the layout are very helpful, and we will review them to see how we can improve the experience for taller guests.\n\nThank you again for taking the time to share your experience—we hope to welcome you back under better circumstances.\nKind regards\nCrinela"
+    },
+    "isTranslatable": false,
+    "editUrl": null,
+    "reviewScore": 7,
+    "bookingDetails": {
+      "numNights": 4,
+      "checkoutDate": "2026-03-18",
+      "roomType": {
+        "id": "60177",
+        "name": "Single Room",
+        "__typename": "RoomTranslation"
+      },
+      "customerType": "SOLO_TRAVELLERS",
+      "__typename": "BookingDetails",
+      "stayStatus": "stayed",
+      "roomId": 60177,
+      "checkinDate": "2026-03-14"
+    },
+    "__typename": "ReviewCard",
+    "negativeHighlights": null,
+    "isApproved": true,
+    "textDetails": {
+      "textTrivialFlag": 0,
+      "__typename": "TextDetails",
+      "negativeText": "Talking about room 603 (just one person, 1.90m). The private bathroom is so tiny that you cannot stand in front of the mirror because there is the toilet!! And if you sit on the toilet, then you will need to open the door to fit inside the bathroom. It is super unconfortable.",
+      "lang": "xu",
+      "title": null,
+      "positiveText": "The staff was helpful. The breakfast was a simple buffet but more than enough for me (I just recommend to turn off the music or news during breakfast time). Plenty of options for restaurants and stores."
+    },
+    "guestDetails": {
+      "anonymous": false,
+      "avatarUrl": "https://lh5.googleusercontent.com/-mse6Ag3O4nE/AAAAAAAAAAI/AAAAAAAAAac/ZYvQAFv5btU/s96-c/photo.jpg",
+      "countryCode": "br",
+      "avatarColor": null,
+      "username": "Maximiliano",
+      "showCountryFlag": true,
+      "guestTypeTranslation": "Solo traveller",
+      "__typename": "GuestDetails",
+      "countryName": "Brazil"
+    }
+  }
+]

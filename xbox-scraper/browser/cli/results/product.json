@@ -1,0 +1,78 @@
+{
+  "id": "9N8PMW7QMD3D",
+  "name": "Marvel Rivals",
+  "description": "Marvel Rivals is a Super Hero Team-Based PVP Shooter!\nAssemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+  "url": "https://www.xbox.com/en-US/games/store/marvel-rivals/9N8PMW7QMD3D",
+  "image": "https://store-images.s-microsoft.com/image/apps.7315.14045436403630681.cc134f5b-7f34-4454-9dd2-59d72eb158eb.391e674d-19cf-442b-9ed2-a74954062f2c",
+  "publisher": "NetEase Games",
+  "developer": "NetEase Games",
+  "brand": "Xbox",
+  "genre": [
+    "Multi-Player Online Battle Arena",
+    "Shooter"
+  ],
+  "platforms": [
+    "Xbox Series X|S"
+  ],
+  "contentRating": "ESRB TEEN",
+  "releaseDate": "2024-12-06",
+  "ratingValue": 3.9,
+  "ratingCount": 13270,
+  "price": "0",
+  "priceCurrency": "USD",
+  "availability": "https://schema.org/InStock",
+  "isFree": true,
+  "featureList": "Online multiplayer  (2-12), Xbox cross-platform multiplayer, 4K Ultra HD, Variable Refresh Rate, Ray Tracing, 60 fps+, 120 fps, Spatial Sound, Optimized for Xbox Series X|S, Xbox achievements",
+  "videos": [
+    {
+      "name": "No One Rivals Doom | Cinematic Trailer | Marvel Rivals",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.54103.14045436403630681.cfd6e63a-b055-431f-9b0c-6a86826391fe.394cf10e-4701-4579-80bc-e342d0d75fc1",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/b4e50a39-a970-416a-ab3c-f811d5640efe-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Stars Aligned | Official Launch Date Announcement Trailer",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.5972.14045436403630681.94180c30-845d-41b4-b310-f38db0051bcb.33172a52-59bc-4098-a836-84a03c8c7d74",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/afc56eb8-a0b7-4ed8-b730-7b050c2ad2ab-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Marvel Rivals | Rivals 'Til the End | Official Launch Trailer",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.7948.14045436403630681.e7529d47-3d9e-4340-a5d2-dd25b775b9e2.93c01658-2cfa-457e-84a3-ac5d7299660e",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/b88fac20-ee01-4a85-93b3-09fe8d2149d3-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Marvel Rivals Season 2 Trailer",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.9427.14045436403630681.b1a1fc3d-a3d7-4c49-a4ec-c7eb8875094b.bfeaf9e9-b3b5-4e9b-935c-3e3335216fad",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/b04bcb82-5872-4e96-9b4a-048b0c7aee11-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Season 3|The Abyss awakens:Phoenix and Blade have officially joined marvel rivals",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.55426.14045436403630681.ddbe7011-253a-4400-8dcd-7db3302fb476.de10db92-41cd-4181-a4ed-2a0806e41f79",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/0b6447a9-c19e-437e-8197-d87c506edc60-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Marvel Rivals Season 4: Heart of the Dragon",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.22347.14045436403630681.e5cc55da-0090-4f29-bf5a-fd586b6d6e8d.c195f1f1-1cf6-4b48-98e7-9218672a6cd0",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/9c33d104-5539-467f-bfcf-4f11d5b32d50-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Love is a Battlefield | Marvel Rivals Season 5 Trailer",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.19580.14045436403630681.f9177450-c0ca-4d79-b800-c9fe64b9084c.006929c5-f167-4469-b9d7-a57ff8809895",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/7f48e612-0313-41b6-aa78-f80ca622dc03-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Gambit: Le Diable Blanc | Character Reveal ",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.60658.14045436403630681.f9177450-c0ca-4d79-b800-c9fe64b9084c.5350785f-d8e3-470b-b829-0089b9c36405",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/1fab7cbd-5aed-4e7e-93f8-d280ed05162c-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Season 6: Night At The Museum",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.44037.14045436403630681.112c9a8a-b05f-4087-a6f8-47d205768d13.a50576f1-75f4-47a2-9f4a-fc582d4661b7",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/c44f3dc6-159d-42d1-9f6c-1236158053c8-AVS.m3u8?packagedStreaming=true"
+    },
+    {
+      "name": "Marvel Rivals Season 7 | The Hunt Is On",
+      "thumbnailUrl": "https://store-images.s-microsoft.com/image/apps.18330.14045436403630681.cc134f5b-7f34-4454-9dd2-59d72eb158eb.7b8fe752-22d1-46c6-8958-2db64f4f6a60",
+      "contentUrl": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/77fec855-85b6-4a07-bafb-c7dd66029366-AVS.m3u8?packagedStreaming=true"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "url": null,
+    "title": "Just a moment...",
+    "address": null,
+    "price": {
+      "amount": null,
+      "currency": "£"
+    },
+    "gallery": [],
+    "epcRating": null,
+    "floorArea": null,
+    "numOfReceptions": null,
+    "numOfBathrooms": null,
+    "numOfBedrooms": null,
+    "propertyTags": [],
+    "propertyInfo": [],
+    "propertyDescription": [],
+    "coordinates": {
+      "googleMapeSource": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "nearby": [],
+    "agent": {
+      "name": null,
+      "logo": null,
+      "url": null
+    }
+  }
+]

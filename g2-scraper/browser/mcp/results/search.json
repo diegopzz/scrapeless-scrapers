@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Nutanix Cloud Infrastructure (NCI)",
+    "link": "https://www.g2.com/products/nutanix-cloud-infrastructure-nci/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/546b8765f5b21b7fe0c28b00145d0eff/nutanix-cloud-infrastructure-nci.png",
+    "rate": "4.5/5",
+    "reviewsNumber": "324",
+    "description": "Nutanix Cloud Infrastructure (NCI) combines feature-rich software-defined storage with built-in virtualization in a turnkey hyperconverged infrastructure solution that can run any application at any scale.",
+    "categories": []
+  },
+  {
+    "name": "Splunk Infrastructure Monitoring",
+    "link": "https://www.g2.com/products/splunk-infrastructure-monitoring/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/06b2fadd2dfbac7ff19390722a4d199e/splunk-infrastructure-monitoring.jpg",
+    "rate": "4.3/5",
+    "reviewsNumber": "48",
+    "description": "Splunk Infrastructure Monitoring proactively finds and fixes problems before it impacts business performance through high resolution, full fidelity metrics monitoring that automatically detects and accurately alerts on critical patterns in seconds using real-time, AI-driven streaming analytics.",
+    "categories": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Compute",
+    "link": "https://www.g2.com/products/oracle-cloud-infrastructure-compute/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/aca40b5464fcf97310dbc332c2296b5c/oracle-cloud-infrastructure-compute.png",
+    "rate": "4.1/5",
+    "reviewsNumber": "67",
+    "description": "Compute options range from VMs to GPUs to bare metal servers, and includes options for dense I/O workloads, high performance computing (HPC), and AMD EPYC processors.",
+    "categories": []
+  },
+  {
+    "name": "Google Cloud AI Infrastructure",
+    "link": "https://www.g2.com/products/google-cloud-ai-infrastructure/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/9bffa359ebdf62613b74920d787d784b/google-cloud-ai-infrastructure.jpg",
+    "rate": "4.5/5",
+    "reviewsNumber": "45",
+    "description": "Google Cloud AI Infrastructure offers a scalable, high-performance, and cost-effective platform tailored for diverse AI workloads, encompassing both training and inference tasks.",
+    "categories": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Logging",
+    "link": "https://www.g2.com/products/oracle-cloud-infrastructure-logging/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/3a65ea54e875f0cf94ac6c8230968ac2/oracle-cloud-infrastructure-logging.jpeg",
+    "rate": "4.7/5",
+    "reviewsNumber": "50",
+    "description": "Oracle Cloud Infrastructure Logging is a fully managed, scalable service that centralizes the collection, management, and analysis of log data from various sources.",
+    "categories": []
+  },
+  {
+    "name": "Icinga Infrastructure Monitoring",
+    "link": "https://www.g2.com/products/icinga-infrastructure-monitoring/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/ee27f5d17ec50d38f25ec8e48b91be1e/icinga-infrastructure-monitoring.png",
+    "rate": "4.4/5",
+    "reviewsNumber": "22",
+    "description": "Icinga is a monitoring software project that began as a fork of Nagios.",
+    "categories": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Vault",
+    "link": "https://www.g2.com/products/oracle-cloud-infrastructure-vault/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/ebc397a24911cc79962c8898752c5359/oracle-cloud-infrastructure-vault.png",
+    "rate": "4.3/5",
+    "reviewsNumber": "36",
+    "description": "Oracle Cloud Infrastructure Key Management is a managed service that enables you to encrypt your data using keys that you control.",
+    "categories": []
+  },
+  {
+    "name": "Google Cloud Infrastructure",
+    "link": "https://www.g2.com/products/google-cloud-infrastructure/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/e6d9cd7838e449b6079531d9feae9788/google-cloud-infrastructure.png",
+    "rate": "4.3/5",
+    "reviewsNumber": "15",
+    "description": "Our planet-scale infrastructure delivers the highest level of performance and availability in a secure, sustainable way.",
+    "categories": []
+  },
+  {
+    "name": "Huawei FusionCube Hyper-converged Infrastructure",
+    "link": "https://www.g2.com/products/huawei-fusioncube-hyper-converged-infrastructure/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/369c40a79df25676a207b8b5dd3b1c89/huawei-fusioncube-hyper-converged-infrastructure.jpg",
+    "rate": "4.3/5",
+    "reviewsNumber": "39",
+    "description": "The Huawei FusionCube hyper-converged infrastructure (HCI) brings compute, storage, network, virtualization, and management into one tightly integrated package.",
+    "categories": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Networking",
+    "link": "https://www.g2.com/products/oracle-cloud-infrastructure-networking/reviews",
+    "image": "https://images.g2crowd.com/uploads/product/image/aca40b5464fcf97310dbc332c2296b5c/oracle-cloud-infrastructure-networking.png",
+    "rate": "4.2/5",
+    "reviewsNumber": "17",
+    "description": "Extend your IT infrastructure with highly customizable Virtual Cloud Networks (VCN) and connectivity services.",
+    "categories": []
+  }
+]

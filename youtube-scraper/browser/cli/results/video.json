@@ -1,0 +1,28 @@
+[
+  {
+    "video": {
+      "videoId": null,
+      "title": null,
+      "publishingDate": null,
+      "lengthSeconds": null,
+      "keywords": null,
+      "description": null,
+      "thumbnail": null,
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": null
+      }
+    },
+    "channel": {
+      "name": null,
+      "identifierId": null,
+      "id": null,
+      "verified": false,
+      "channelUrl": null,
+      "subscriberCount": null,
+      "thumbnails": null
+    },
+    "commentContinuationToken": null
+  }
+]

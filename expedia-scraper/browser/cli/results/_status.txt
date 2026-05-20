@@ -1,0 +1,2 @@
+partial after 2 attempts (fix-and-retry pass) at Sun, May 17, 2026 10:42:48 PM
+Hotel.json from prior run (real); search.json still empty arrays. Patched run.sh did not help with search.

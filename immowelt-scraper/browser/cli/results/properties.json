@@ -1,0 +1,465 @@
+{
+  "sections": {
+    "location": {
+      "address": {
+        "country": "DE",
+        "city": "München",
+        "zipCode": "81475",
+        "street": "Oberbrunner Straße 20",
+        "district": "Thalk.Obersendl.-Forsten-Fürstenr.-Solln"
+      },
+      "isAddressPublished": true,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.480436086236445,
+          48.08196539268476
+        ]
+      }
+    },
+    "description": {
+      "description": "Nur noch ZWEI WOHNUNGEN verfügbar !\\n\\nHochwertig und mit viel Feingefühl haben wir zwei attraktive Mehrfamilienhäuser mit Aufzug in einem sehr ruhigen Wohngebiet in Forstenried-Maxhof, der Oberbrunner Straße 20 errichtet. Die beiden Häuser wurden nach dem energiesparenden Standard Effizienzhaus 55 gebaut und gliedern sich in Haus A mit 6 Parteien und in Haus B mit 5 Parteien auf. Die Wohneinheiten sind auf alle individuellen Bedürfnisse und Wünsche abgestimmt – für Singles, Paare und Familien - von ca. 69 m² bis zur Wohnung mit ca. 110 m² Wohnfläche. Sie bestechen durch ihre gut durchdachte Raumaufteilung und anspruchsvolle Ausstattung, damit ein besonderes Ambiente und Wohlfühlen geschaffen wird. Die offen gestalteten Wohn-Ess-Küchenbereiche rufen eine entsprechende Großzügigkeit hervor. Der Einbau der bodentiefen Fenstertür-Elemente und großen Dachflächenfenster gewährleisten ein Maximum an Lichteinfall. Unsere Gartenwohnungen erhielten jeweils eigene Gartenanteile. Drei der EG-Wohnungen umfassen zusätzliche Souterrainbereiche, die taghell und in Wohnraumqualität ausgebaut sind. Die Terrassen und Balkone sind südwestlich ausgerichtet und laden zum schönen Ausklang des Tages ein. Eine Tiefgarage komplettiert unser überaus ansprechendes Neubauobjekt. Die verwendeten Materialien wurden sogfältig ausgewählt und die Haustechnik entspricht modernsten Standards. Handwerklich erstklassig ausgeführte Arbeiten garantieren Ihnen eine besondere Wohnqualität und eine hohe Wertbeständigkeit der Immobilie. Zur Erreichung dieser Ziele pflegt die RS-Wohnbau Jahrzehnte währende Beziehungen mit Handwerkern und Lieferanten aus der Region. \n\nWeitere Informationen\nVORANKÜNDIGUNG\nNur einen \"Steinwurf\" vom Forstenrieder Wald entfernt haben wir in der Unterbrunner Strasse 7 ein wunderschönes, sehr sonniges Grundstück gekauft und planen dort elf attraktive Wohnungen (mit Tiefgarage).\n\nGerne können Sie sich bei uns für dieses schöne Neubauvorhaben vormerken lassen unter https://rs-wohnbau.de/kontakt. \n\nOder Sie rufen uns direkt an unter 0 89 / 290 37 10.",
+      "texts": [
+        {
+          "text": "Nur noch ZWEI WOHNUNGEN verfügbar !\\n\\nHochwertig und mit viel Feingefühl haben wir zwei attraktive Mehrfamilienhäuser mit Aufzug in einem sehr ruhigen Wohngebiet in Forstenried-Maxhof, der Oberbrunner Straße 20 errichtet. Die beiden Häuser wurden nach dem energiesparenden Standard Effizienzhaus 55 gebaut und gliedern sich in Haus A mit 6 Parteien und in Haus B mit 5 Parteien auf. Die Wohneinheiten sind auf alle individuellen Bedürfnisse und Wünsche abgestimmt – für Singles, Paare und Familien - von ca. 69 m² bis zur Wohnung mit ca. 110 m² Wohnfläche. Sie bestechen durch ihre gut durchdachte Raumaufteilung und anspruchsvolle Ausstattung, damit ein besonderes Ambiente und Wohlfühlen geschaffen wird. Die offen gestalteten Wohn-Ess-Küchenbereiche rufen eine entsprechende Großzügigkeit hervor. Der Einbau der bodentiefen Fenstertür-Elemente und großen Dachflächenfenster gewährleisten ein Maximum an Lichteinfall. Unsere Gartenwohnungen erhielten jeweils eigene Gartenanteile. Drei der EG-Wohnungen umfassen zusätzliche Souterrainbereiche, die taghell und in Wohnraumqualität ausgebaut sind. Die Terrassen und Balkone sind südwestlich ausgerichtet und laden zum schönen Ausklang des Tages ein. Eine Tiefgarage komplettiert unser überaus ansprechendes Neubauobjekt. Die verwendeten Materialien wurden sogfältig ausgewählt und die Haustechnik entspricht modernsten Standards. Handwerklich erstklassig ausgeführte Arbeiten garantieren Ihnen eine besondere Wohnqualität und eine hohe Wertbeständigkeit der Immobilie. Zur Erreichung dieser Ziele pflegt die RS-Wohnbau Jahrzehnte währende Beziehungen mit Handwerkern und Lieferanten aus der Region."
+        },
+        {
+          "headline": "Weitere Informationen",
+          "text": "VORANKÜNDIGUNG\nNur einen \"Steinwurf\" vom Forstenrieder Wald entfernt haben wir in der Unterbrunner Strasse 7 ein wunderschönes, sehr sonniges Grundstück gekauft und planen dort elf attraktive Wohnungen (mit Tiefgarage).\n\nGerne können Sie sich bei uns für dieses schöne Neubauvorhaben vormerken lassen unter https://rs-wohnbau.de/kontakt. \n\nOder Sie rufen uns direkt an unter 0 89 / 290 37 10."
+        }
+      ],
+      "headline": "O20 L|I|V|I|N|G - Oberbrunner Straße 20 - WOHNKOMFORT + QUALITÄT . Hochwertige Neubauwohnungen in ruhiger Wohnlage in München-Forstenried (Maxhof)"
+    },
+    "hardFacts": {
+      "title": "O20 L|I|V|I|N|G - Oberbrunner Straße 20 - WOHNKOMFORT + QUALITÄT . Hochwertige Neubauwohnungen in ruhiger Wohnlage in München-Forstenried (Maxhof)",
+      "keyfacts": [
+        "Bezugsbereit ab sofort",
+        "3 Zimmer",
+        "85 bis 88 m²"
+      ],
+      "facts": [
+        {
+          "type": "deliveryDate",
+          "value": "Bezugsbereit ab sofort",
+          "splitValue": "Bezugsbereit",
+          "label": "ab sofort"
+        },
+        {
+          "type": "numberOfRooms",
+          "value": "3 Zimmer",
+          "splitValue": "3",
+          "label": "Zimmer"
+        },
+        {
+          "type": "livingSpace",
+          "value": "85 bis 88 m²",
+          "splitValue": "85",
+          "label": "bis 88 m²"
+        }
+      ],
+      "price": {
+        "value": "ab 999.000 €"
+      }
+    },
+    "energy": {
+      "features": [
+        {
+          "type": "energySource",
+          "label": "Energieträger",
+          "value": "Luft-/Wasser-Wärmepumpe"
+        }
+      ],
+      "hasScales": false
+    },
+    "key": {
+      "keys": [
+        {
+          "label": "Online-ID",
+          "value": "246V2P5Z527M"
+        }
+      ]
+    },
+    "price": {
+      "base": {
+        "main": {
+          "key": "67635d12-5262-4fa5-816c-fb3f1c92831c",
+          "label": {
+            "main": "Kaufpreis"
+          },
+          "value": {
+            "main": {
+              "value": "auf Anfrage"
+            }
+          }
+        },
+        "type": "SALE"
+      },
+      "components": [
+        {
+          "key": "3f8683e8-3773-4259-92f3-47d1dabf04a7",
+          "type": "PRIMARY",
+          "units": [
+            {
+              "key": "6dfdd042-e9ee-4757-abde-9a13a09e9550",
+              "main": {
+                "price": {
+                  "key": "ef992caf-b321-44b8-8edc-13903c274452",
+                  "value": {
+                    "main": {
+                      "value": "Preis auf Anfrage"
+                    }
+                  },
+                  "highlighted": true
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "layout": "GERMAN_SALE"
+    },
+    "features": {
+      "preview": [
+        {
+          "icon": "estateType",
+          "value": "Wohnung"
+        },
+        {
+          "icon": "entrance-hall",
+          "value": "2 Einheiten"
+        },
+        {
+          "icon": "parking-lots",
+          "value": "Stellplatz"
+        },
+        {
+          "icon": "outside",
+          "value": "Balkon, Garten"
+        },
+        {
+          "icon": "furnishingLevel",
+          "value": "Gehoben"
+        },
+        {
+          "icon": "floor-covering",
+          "value": "Fliesen, Parkett"
+        }
+      ],
+      "details": {
+        "additionalText": "Energiesparendes Effizienzhaus 55 in bewährter RS-Wohnbau-Qualität Um natürliche Ressourcen zu schonen, ist das Objekt mit modernster Wärmepumpentechnologie ausgestattet. Damit wird seinen Bewohnern gleichzeitig eine hohe Energieeffizienz (Energieeffizienzklasse A+) gewährleistet. Für ein gesundes Wohnklima errichteten wir das Projekt in massiver Ziegelbauweise mit innenliegender Wärmedämmung. Ganz in unserem Sinne: Modern - Nachhaltig – Wirtschaftlich - Zuverlässig Objekthighlights: • energiesparendes Effizienzhaus 55 mit Energieeffizienzklasse A+ • hochwärmedämmende Massiv-Ziegelbauweise • aufwändige Putzarbeiten an der Fassade • umweltschonende und modernste Wärmepumpentechnologie • Fußbodenheizung mit Einzelraumsteuerung • Treppenlauf mit ausgewähltem Granitbelag und Edelstahlhandlauf • Kunststofffenster mit erstklassiger Alu-Vorsatzschale, 3-fach Wärmeschutzverglasung (Sicherheitsfenster im EG) • elektrische Rollläden an allen Fenstern • hochwertige Elektroausstattung mit CAT7 Verkabelung • Videosprechanlage • elegante Porzellan-Serie und formschöne Armaturen von namhaften Herstellern • komfortable, bodengleiche Duschen (sofern technisch realisierbar) • exklusive Bodenbeläge z.B. edles Parkett oder großformatige Fliesen Die vollständige Baubeschreibung lassen wir Ihnen gerne auf Anfrage zukommen."
+      }
+    },
+    "gallery": {
+      "images": [
+        {
+          "key": "88c25f7d-2bc2-4070-b16f-b01fcdd7e7bc",
+          "url": "https://mms.immowelt.de/8/8/c/2/88c25f7d-2bc2-4070-b16f-b01fcdd7e7bc.jpg?ci_seal=1bec1942530db7864ea034cda310f81601945d47",
+          "description": "Haus A / 2 Wohnungen verfügbar",
+          "alt": "Neubauprojekt zum Kauf Oberbrunner Straße 20 Thalk.Obersendl.-Forsten-Fürstenr.-Solln München 81475",
+          "title": "Haus A / 2 Wohnungen verfügbar",
+          "ariaLabel": "Haus A / 2 Wohnungen verfügbar",
+          "classification": {
+            "name": "YARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "50b533ac-0ab6-4fbd-87f1-2665aabb4a9f",
+          "url": "https://mms.immowelt.de/5/0/b/5/50b533ac-0ab6-4fbd-87f1-2665aabb4a9f.jpg?ci_seal=832b8f5cdc962a6a2f250ce3567ed8e5b8ba97ca",
+          "description": "Haus B / Alle Wohnungen verkauft !",
+          "title": "Haus B / Alle Wohnungen verkauft !",
+          "ariaLabel": "Haus B / Alle Wohnungen verkauft !",
+          "classification": {
+            "name": "HOUSE_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "fd59d0bb-f0c4-474e-a59d-8787fc59055f",
+          "url": "https://mms.immowelt.de/f/d/5/9/fd59d0bb-f0c4-474e-a59d-8787fc59055f.jpg?ci_seal=3a1e447cfa53451bca1a01f1274e5b93dd8e835b",
+          "description": "3-Zi.-WHG_EG_ Haus A",
+          "title": "3-Zi.-WHG_EG_ Haus A",
+          "ariaLabel": "3-Zi.-WHG_EG_ Haus A",
+          "classification": {
+            "name": "LIVING_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "76f09dc7-4897-4265-831b-372219d8c67b",
+          "url": "https://mms.immowelt.de/7/6/f/0/76f09dc7-4897-4265-831b-372219d8c67b.jpg?ci_seal=5986a34bff427e6089972f8465eb6f9fae8c3c39",
+          "description": "3-Zi.-EG-WHG A-01_Schlafzimmer",
+          "title": "3-Zi.-EG-WHG A-01_Schlafzimmer",
+          "ariaLabel": "3-Zi.-EG-WHG A-01_Schlafzimmer",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b736758f-df4f-4c7c-ad53-f1f131736307",
+          "url": "https://mms.immowelt.de/b/7/3/6/b736758f-df4f-4c7c-ad53-f1f131736307.jpg?ci_seal=448c497c64ee784d56f77854ccac3e471234aa91",
+          "description": "WHG A-01 Bad (mit Wanne und bodengleicher Dusche)",
+          "title": "WHG A-01 Bad (mit Wanne und bodengleicher Dusche)",
+          "ariaLabel": "WHG A-01 Bad (mit Wanne und bodengleicher Dusche)",
+          "classification": {
+            "name": "BATHROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "3524faa4-80b5-49a8-9c63-34194e1f1431",
+          "url": "https://mms.immowelt.de/3/5/2/4/3524faa4-80b5-49a8-9c63-34194e1f1431.jpg?ci_seal=26c19845d6ee8634f188aefb466f26760cb48776",
+          "description": "Gäste-/Kinder-/Arbeitszimmer",
+          "title": "Gäste-/Kinder-/Arbeitszimmer",
+          "ariaLabel": "Gäste-/Kinder-/Arbeitszimmer",
+          "classification": {
+            "name": "BEDROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "2c6564b8-f1cb-43d4-92a1-e09c12a71997",
+          "url": "https://mms.immowelt.de/2/c/6/5/2c6564b8-f1cb-43d4-92a1-e09c12a71997.jpg?ci_seal=536831331778720fd1f036f3f514b55cb2982b51",
+          "description": "3-ZIMMER-WHG A-04 (verfügbar)",
+          "title": "3-ZIMMER-WHG A-04 (verfügbar)",
+          "ariaLabel": "3-ZIMMER-WHG A-04 (verfügbar)",
+          "classification": {
+            "name": "TERRACE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "85722fac-283c-4ee8-b0f4-3e5bf9427faf",
+          "url": "https://mms.immowelt.de/8/5/7/2/85722fac-283c-4ee8-b0f4-3e5bf9427faf.jpg?ci_seal=34b6d1ca81b51e7a22e093ab43bb19acdf04e63f",
+          "description": "3-ZIMMER-WHG A-03 (verfügbar)",
+          "title": "3-ZIMMER-WHG A-03 (verfügbar)",
+          "ariaLabel": "3-ZIMMER-WHG A-03 (verfügbar)",
+          "classification": {
+            "name": "BALCONY",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "66749cb0-021b-4908-82f2-8ed14442c237",
+          "url": "https://mms.immowelt.de/6/6/7/4/66749cb0-021b-4908-82f2-8ed14442c237.jpg?ci_seal=952efd8217dd3082b628ae42202f3697bcaeb861",
+          "description": "Ansicht Haus A (Nord-West)",
+          "title": "Ansicht Haus A (Nord-West)",
+          "ariaLabel": "Ansicht Haus A (Nord-West)",
+          "classification": {
+            "name": "HOUSE_FACADE",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "b9c5aca7-36d8-4084-9a2a-587a1cb0a1e9",
+          "url": "https://mms.immowelt.de/b/9/c/5/b9c5aca7-36d8-4084-9a2a-587a1cb0a1e9.jpg?ci_seal=10693dc420e80d1e54dca75d9ea3f1a39ff53f6e",
+          "description": "EG-Gartenwhg. / Haus B ",
+          "title": "EG-Gartenwhg. / Haus B ",
+          "ariaLabel": "EG-Gartenwhg. / Haus B ",
+          "classification": {
+            "name": "EMPTY_ROOM",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "8d42d8a7-1529-471d-b3d7-08c9a0b8f145",
+          "url": "https://mms.immowelt.de/8/d/4/2/8d42d8a7-1529-471d-b3d7-08c9a0b8f145.jpg?ci_seal=96b6f13387332f101e4121492ef69ebfce07e10e",
+          "description": "Gartenwohnung / Haus B",
+          "title": "Gartenwohnung / Haus B",
+          "ariaLabel": "Gartenwohnung / Haus B",
+          "classification": {
+            "name": "YARD",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "6860dfd6-a5c8-4066-ad88-5c7084f66fb2",
+          "url": "https://mms.immowelt.de/6/8/6/0/6860dfd6-a5c8-4066-ad88-5c7084f66fb2.jpg?ci_seal=25fb3b341b7c5a6ed8968ab2219d5e42d308fd83",
+          "description": "Lagekarte (Oberbrunner Str. 20 - Forstenried/Maxhof)",
+          "title": "Lagekarte (Oberbrunner Str. 20 - Forstenried/Maxhof)",
+          "ariaLabel": "Lagekarte (Oberbrunner Str. 20 - Forstenried/Maxhof)",
+          "classification": {
+            "name": "GMAP",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        },
+        {
+          "key": "f4421b4e-4676-4c57-85b6-434a45a7003e",
+          "url": "https://mms.immowelt.de/f/4/4/2/f4421b4e-4676-4c57-85b6-434a45a7003e.png?ci_seal=6882b5b2d76f6831526c05ae8445c9b5a8096a92",
+          "description": "Auszug Referenzen RS Wohnbau",
+          "title": "Auszug Referenzen RS Wohnbau",
+          "ariaLabel": "Auszug Referenzen RS Wohnbau",
+          "classification": {
+            "name": "LOGO",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ],
+      "floorplans": [
+        {
+          "key": "2adb18cc-ed39-4c80-acd9-ac0e7ff4d3ce",
+          "url": "https://mms.immowelt.de/2/a/d/b/2adb18cc-ed39-4c80-acd9-ac0e7ff4d3ce.jpg?ci_seal=8d3953f0e6c77f0335e9af30ba321e8e12a59991",
+          "description": "Grundstücksüberblick (Lage der Häuser A und B)",
+          "alt": "Neubauprojekt zum Kauf Oberbrunner Straße 20 Thalk.Obersendl.-Forsten-Fürstenr.-Solln München 81475",
+          "title": "Grundstücksüberblick (Lage der Häuser A und B)",
+          "ariaLabel": "Grundstücksüberblick (Lage der Häuser A und B)",
+          "classification": {
+            "name": "FLOORPLAN",
+            "version": "scene-classification-sagemaker-endpoint-live-1-3-10"
+          }
+        }
+      ]
+    },
+    "documents": {
+      "display": false,
+      "files": []
+    },
+    "enrichedMedia": {
+      "medias": []
+    },
+    "mortgage": {
+      "brand": "immowelt",
+      "id": "4553",
+      "federalStateGeoId": "AD04DE9",
+      "zip": "81475",
+      "city": "München",
+      "country": "DE",
+      "subType": "NEW_BUILD_PROJECT",
+      "region": "Bayern",
+      "showRentLabel": false,
+      "showMonthlyRateLabel": false,
+      "price": 0,
+      "prov": 0,
+      "monthlyAmount": 0,
+      "formattedMonthlyAmount": "0"
+    },
+    "partnerAd": {
+      "showPartnerAd": false
+    },
+    "sellerLeadLink": {},
+    "mainDescription": {
+      "headline": "Über dieses Projekt",
+      "description": "Nur noch ZWEI WOHNUNGEN verfügbar !\\n\\nHochwertig und mit viel Feingefühl haben wir zwei attraktive Mehrfamilienhäuser mit Aufzug in einem sehr ruhigen Wohngebiet in Forstenried-Maxhof, der Oberbrunner Straße 20 errichtet. Die beiden Häuser wurden nach dem energiesparenden Standard Effizienzhaus 55 gebaut und gliedern sich in Haus A mit 6 Parteien und in Haus B mit 5 Parteien auf. Die Wohneinheiten sind auf alle individuellen Bedürfnisse und Wünsche abgestimmt – für Singles, Paare und Familien - von ca. 69 m² bis zur Wohnung mit ca. 110 m² Wohnfläche. Sie bestechen durch ihre gut durchdachte Raumaufteilung und anspruchsvolle Ausstattung, damit ein besonderes Ambiente und Wohlfühlen geschaffen wird. Die offen gestalteten Wohn-Ess-Küchenbereiche rufen eine entsprechende Großzügigkeit hervor. Der Einbau der bodentiefen Fenstertür-Elemente und großen Dachflächenfenster gewährleisten ein Maximum an Lichteinfall. Unsere Gartenwohnungen erhielten jeweils eigene Gartenanteile. Drei der EG-Wohnungen umfassen zusätzliche Souterrainbereiche, die taghell und in Wohnraumqualität ausgebaut sind. Die Terrassen und Balkone sind südwestlich ausgerichtet und laden zum schönen Ausklang des Tages ein. Eine Tiefgarage komplettiert unser überaus ansprechendes Neubauobjekt. Die verwendeten Materialien wurden sogfältig ausgewählt und die Haustechnik entspricht modernsten Standards. Handwerklich erstklassig ausgeführte Arbeiten garantieren Ihnen eine besondere Wohnqualität und eine hohe Wertbeständigkeit der Immobilie. Zur Erreichung dieser Ziele pflegt die RS-Wohnbau Jahrzehnte währende Beziehungen mit Handwerkern und Lieferanten aus der Region.",
+      "metadata": {
+        "language": "de"
+      }
+    },
+    "areaDescription": {
+      "headline": "Lage"
+    },
+    "extendedInfoDescription": {
+      "headline": "Weitere Informationen",
+      "description": "VORANKÜNDIGUNG\nNur einen \"Steinwurf\" vom Forstenrieder Wald entfernt haben wir in der Unterbrunner Strasse 7 ein wunderschönes, sehr sonniges Grundstück gekauft und planen dort elf attraktive Wohnungen (mit Tiefgarage).\n\nGerne können Sie sich bei uns für dieses schöne Neubauvorhaben vormerken lassen unter https://rs-wohnbau.de/kontakt. \n\nOder Sie rufen uns direkt an unter 0 89 / 290 37 10.",
+      "metadata": {
+        "language": "de"
+      }
+    }
+  },
+  "id": "246V2P5Z527M",
+  "brand": "immowelt",
+  "tags": {
+    "isExclusive": false,
+    "has3DVisit": false,
+    "hasBrokerageFee": false,
+    "isNew": false
+  },
+  "contactSections": {
+    "id": "246V2P5Z527M",
+    "legacyId": "4553",
+    "brand": "immowelt",
+    "agencyId": "2607276",
+    "static": {
+      "phoneNumbers": [
+        "+49 / 89 / 2903710"
+      ]
+    },
+    "sticky": {
+      "phoneNumbers": [
+        "+49 / 89 / 2903710"
+      ]
+    },
+    "contactCard": {
+      "title": "RS-Wohnbau GmbH",
+      "subtitle": "Gewerblicher Anbieter",
+      "phoneNumbers": [
+        "+49 / 89 / 2903710"
+      ],
+      "isPrivateOwner": false,
+      "agencyLogo": {
+        "logoUrl": "https://mms.immowelt.de/7/9/3/0/79309636-3ccc-41a6-bc07-f03d83caadfd.jpg?ci_seal=ce06ed5f9d448c48890256d9b6bbc85680ba3582",
+        "display": true
+      },
+      "contactLogo": {
+        "logoUrl": "//filestore.immowelt.de/ProfilBilder/150_62e9407b4e764b7ba872d7c9c1d2d4f7.jpg",
+        "display": false
+      },
+      "rating": 4
+    },
+    "contactForm": {
+      "contactCard": {
+        "title": "RS-Wohnbau GmbH",
+        "subtitle": "Gewerblicher Anbieter",
+        "phoneNumbers": [
+          "+49 / 89 / 2903710"
+        ],
+        "isPrivateOwner": false,
+        "logoUrl": "https://mms.immowelt.de/7/9/3/0/79309636-3ccc-41a6-bc07-f03d83caadfd.jpg?ci_seal=ce06ed5f9d448c48890256d9b6bbc85680ba3582"
+      },
+      "displayOwnerFlag": false,
+      "subjectLabel": "Meine Nachricht",
+      "shouldSendLeadValue": false
+    },
+    "mobilePhones": {
+      "title": "RS-Wohnbau GmbH",
+      "subtitle": "Gewerblicher Anbieter",
+      "phoneNumbers": [
+        "+49 / 89 / 2903710"
+      ],
+      "logoUrl": "https://mms.immowelt.de/7/9/3/0/79309636-3ccc-41a6-bc07-f03d83caadfd.jpg?ci_seal=ce06ed5f9d448c48890256d9b6bbc85680ba3582",
+      "isPrivateOwner": false
+    },
+    "provider": {
+      "intermediaryCard": {
+        "title": "RS-Wohnbau GmbH",
+        "subtitle": "Gewerblicher Anbieter",
+        "display": true,
+        "logoUrl": "https://mms.immowelt.de/7/9/3/0/79309636-3ccc-41a6-bc07-f03d83caadfd.jpg?ci_seal=ce06ed5f9d448c48890256d9b6bbc85680ba3582",
+        "logoHref": "https://www.immowelt.de/profil/c0d4e6150e0e43b5a0398e5bb19be1cf"
+      },
+      "contactCard": {
+        "title": null,
+        "subtitle": "Dein Kontakt",
+        "display": false,
+        "logoUrl": "//filestore.immowelt.de/ProfilBilder/150_62e9407b4e764b7ba872d7c9c1d2d4f7.jpg"
+      },
+      "website": "http://www.rs-wohnbau.de/",
+      "isPrivateOwner": false,
+      "profileUrl": "https://www.immowelt.de/profil/c0d4e6150e0e43b5a0398e5bb19be1cf",
+      "imprintUrl": "https://www.immowelt.de/profil/c0d4e6150e0e43b5a0398e5bb19be1cf#impressum",
+      "agencyLegalInformations": [],
+      "publisherType": "AGENCY",
+      "rating": {
+        "rating": 4,
+        "reviews": 1,
+        "link": "https://www.immowelt.de/profil/c0d4e6150e0e43b5a0398e5bb19be1cf#rating"
+      },
+      "displayLinks": true,
+      "badges": [
+        {
+          "title": "immowelt Partner",
+          "description": "immowelt Partner vermarkten ihre Objekte professionell über immowelt.de und über die Portale des immowelt Digital Networks.",
+          "imageUrl": "https://s.immowelt.org/shared/images/partner-badges/partner.svg",
+          "duration": "Partnerschaft"
+        }
+      ],
+      "address": "Steinsdorfstr. 13, 80538 München",
+      "phoneNumbers": [
+        "+49 / 89 / 2903710"
+      ]
+    },
+    "confirmationPage": {
+      "isFinanceOfferButtonEnabled": true
+    }
+  }
+}

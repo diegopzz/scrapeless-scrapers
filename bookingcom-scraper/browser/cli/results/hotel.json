@@ -1,0 +1,84 @@
+{
+  "url": "https://www.booking.com/hotel/gb/gardencourthotel.en-gb.html",
+  "id": "102764",
+  "title": "Garden Court Hotel",
+  "description": "The 19th-century Garden Court Hotel is superbly situated in Kensington Gardens Square. It offers stylish, family-run accommodation, a short walk from Bayswater Underground Station.\n\nEach comfortable room is individually designed, with an LCD Freeview cable TV. All rooms have their own private internal en-suite bathrooms, except for a few cosy single rooms which have their own exclusive private external bathrooms.\n\nFree Wi-Fi internet access is available throughout the hotel, and there is also free luggage storage and a safe for guests to use at the 24-hour reception.\n\nThe hotel is located in fashionable Notting Hill, close to Portobello Antiques Markets and the Royal Parks. Kings Cross Station is 3 miles away.Couples particularly like the location — they rated it 9.1 for a two-person trip.Distance in property description is calculated using © OpenStreetMap",
+  "address": "30-31 Kensington Gardens Square, Notting Hill, Westminster Borough, London, W2 4BG, United KingdomExcellent location — rated 9.1/10!(score from 2530 reviews)Real guests • Real stays • Real opinions",
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11922647.jpg?k=c11df490408b75cd097e2fee1e2cc7e0e70af8df72b8cbea965348a1b238ca70&o=",
+    "https://cf.bstatic.com/xdata/images/hotel/max500/116051489.jpg?k=d8a3a96ab8be88edf03d198b50f10739f0624d415cc2fb617785de4b2aab088a&o=",
+    "https://cf.bstatic.com/xdata/images/hotel/max500/116051386.jpg?k=ec9a8f6a757c832e626027c7d69d8843b709b72d44a98eb5e06ff8244a92e5b8&o=",
+    "https://cf.bstatic.com/xdata/images/hotel/max300/116051267.jpg?k=ceac1914bc7b396750236618918e82c14fb37ed86d59477fb27bbc7738b5c822&o=",
+    "https://cf.bstatic.com/xdata/images/hotel/max300/116051288.jpg?k=ccea1c6e1facf578b78afcf1f4859dbbc87a24e691cd74be3352b51c91b05cc2&o=",
+    "https://cf.bstatic.com/xdata/images/hotel/max300/116051527.jpg?k=ea848bb54beeb73a94be01c97330bc1b79f2f020a0a82af15255b87dc1faf03d&o=",
+    "https://cf.bstatic.com/xdata/images/hotel/max300/116051270.jpg?k=84c17eda2254622a58cead2dbc7aab05f489b77785c5387ec96f563f23ae8236&o=",
+    "https://cf.bstatic.com/xdata/images/hotel/max300/116051396.jpg?k=39e0320e870e29501e450b97841289df66e518d7f88a48dc71aecc860823c676&o="
+  ],
+  "lat": "51.514317059181394",
+  "lng": "-0.19066348671913147",
+  "features": {
+    "Most popular facilities": [
+      "Free WiFi",
+      "Parking",
+      "Family rooms",
+      "Non-smoking rooms",
+      "24-hour front desk",
+      "Lift",
+      "Heating",
+      "Daily housekeeping",
+      "Tea/coffee maker in all rooms",
+      "Good breakfast"
+    ]
+  },
+  "price": [
+    {
+      "checkin": "2026-05-24",
+      "minLengthOfStay": 1,
+      "__typename": "AvailabilityCalendarDay",
+      "avgPriceFormatted": "£162",
+      "available": true
+    },
+    {
+      "checkin": "2026-05-23",
+      "minLengthOfStay": 1,
+      "avgPriceFormatted": "£240",
+      "__typename": "AvailabilityCalendarDay",
+      "available": true
+    },
+    {
+      "__typename": "AvailabilityCalendarDay",
+      "avgPriceFormatted": "£233",
+      "available": true,
+      "minLengthOfStay": 1,
+      "checkin": "2026-05-22"
+    },
+    {
+      "checkin": "2026-05-21",
+      "minLengthOfStay": 1,
+      "available": true,
+      "__typename": "AvailabilityCalendarDay",
+      "avgPriceFormatted": "£194"
+    },
+    {
+      "available": true,
+      "__typename": "AvailabilityCalendarDay",
+      "avgPriceFormatted": "£200",
+      "minLengthOfStay": 1,
+      "checkin": "2026-05-20"
+    },
+    {
+      "avgPriceFormatted": "£167",
+      "__typename": "AvailabilityCalendarDay",
+      "available": true,
+      "checkin": "2026-05-26",
+      "minLengthOfStay": 1
+    },
+    {
+      "minLengthOfStay": 1,
+      "checkin": "2026-05-25",
+      "__typename": "AvailabilityCalendarDay",
+      "available": true,
+      "avgPriceFormatted": "£143"
+    }
+  ]
+}

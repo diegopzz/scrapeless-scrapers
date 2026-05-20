@@ -1,0 +1,1424 @@
+[
+  {
+    "__typename": "Startup",
+    "id": "943259",
+    "highConcept": "Discovering and enacting the path to safe artificial general intelligence",
+    "productDescription": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.\n \nTo achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.\n \nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+    "currentUserCanRecruitForStartup": false,
+    "pageMeta({\"page\":1})": {
+      "__typename": "StartupPageMeta",
+      "overview": {
+        "__typename": "MetaTags",
+        "canonicalUrl": "https://wellfound.com/company/openai",
+        "description": "Find out if OpenAI is the right fit for your future career! Explore jobs, salary, equity, and funding information. Read about work-life balance, perks, benefits, and the company culture!",
+        "image": "https://photos.wellfound.com/startups/i/943259-074dbb6a7ea691170f361aeee379dd57-thumb_jpg.jpg?buster=1589652796",
+        "ogUrl": "https://wellfound.com/company/openai",
+        "robots": "",
+        "structuredData": null,
+        "title": "OpenAI Careers - Insights and Opportunities",
+        "type": null
+      },
+      "people": {
+        "__typename": "MetaTags",
+        "canonicalUrl": "https://wellfound.com/company/openai/people",
+        "description": "View founders and team members of OpenAI on AngelList. Explore jobs, salary, equity, and funding information. Read about work-life balance, perks, benefits, and the company culture!",
+        "image": "https://photos.wellfound.com/startups/i/943259-074dbb6a7ea691170f361aeee379dd57-thumb_jpg.jpg?buster=1589652796",
+        "ogUrl": "https://wellfound.com/company/openai/people",
+        "robots": "",
+        "structuredData": null,
+        "title": "OpenAI: Founder, Leadership & Team",
+        "type": null
+      },
+      "culture": {
+        "__typename": "MetaTags",
+        "canonicalUrl": "https://wellfound.com/company/openai/culture_and_benefits",
+        "description": "View information about the OpenAI company culture at Wellfound! Read about work-life balance, perks, employee benefits, and other options from OpenAI.",
+        "image": "https://photos.wellfound.com/startups/i/943259-074dbb6a7ea691170f361aeee379dd57-thumb_jpg.jpg?buster=1589652796",
+        "ogUrl": "https://wellfound.com/company/openai/culture_and_benefits",
+        "robots": "",
+        "structuredData": null,
+        "title": "Culture & Employee Benefits at OpenAI",
+        "type": null
+      },
+      "funding": {
+        "__typename": "MetaTags",
+        "canonicalUrl": "https://wellfound.com/company/openai/funding",
+        "description": "View information about the OpenAI funding at Wellfound! Find out about the total amount raised, the number of rounds, and other funding information from OpenAI.",
+        "image": "https://photos.wellfound.com/startups/i/943259-074dbb6a7ea691170f361aeee379dd57-thumb_jpg.jpg?buster=1589652796",
+        "ogUrl": "https://wellfound.com/company/openai/funding",
+        "robots": "",
+        "structuredData": null,
+        "title": "OpenAI Funding Rounds, Valuation & Investors",
+        "type": null
+      },
+      "jobs": {
+        "__typename": "MetaTags",
+        "canonicalUrl": "https://wellfound.com/company/openai/jobs",
+        "description": "Get notified when OpenAI posts jobs. We’re building safe Artificial General Intelligence (AGI), and ensuring it leads to a good outcome for humans. We believe that unreasonably great results are best delivered by a highly creative group working in concert.\n\nWe're hiring software engineers and deep learning researchers to join our team in San Francisco. Many of our top contributors had no deep learning experience prior to OpenAI — people learn the skills they need while also performing useful work along the way.\n\nDeep learning is a team sport, and we value people who are exceptionally thoughtful and nice. Our goal is to build safe AGI which benefits the world, which means we want our team to be maximally representative of the world. Our team includes women, men, parents, and people of a variety of races, nationalities, ages, and socio-economic backgrounds. We sponsor visas including cap-exempt H1Bs.\n\nWe value potential as much as experience. People are expected to pick up whatever skills are required for the project they're working on, and are not constrained to either research or engineering work.",
+        "image": "https://photos.wellfound.com/startups/i/943259-074dbb6a7ea691170f361aeee379dd57-thumb_jpg.jpg?buster=1589652796",
+        "ogUrl": "https://wellfound.com/company/openai/jobs",
+        "robots": "",
+        "structuredData": null,
+        "title": "Jobs at OpenAI: Explore current Opportunities",
+        "type": null
+      }
+    },
+    "mediaUploads:{\"section\":\"overview\"}": [],
+    "name": "OpenAI",
+    "jobListingsConnection({\"first\":10})": {
+      "__typename": "JobListingConnection",
+      "totalCount": 0,
+      "edges": []
+    },
+    "slug": "openai",
+    "talentBanned": false,
+    "isShell": false,
+    "isIncubator": false,
+    "currentUserHasJobAlert": false,
+    "totalRaisedAmount": 11000120000,
+    "startupRounds": {
+      "__typename": "StartupRoundConnection",
+      "totalCount": 3,
+      "edges": [
+        {
+          "__typename": "StartupRoundEdge",
+          "node": {
+            "__typename": "StartupRound",
+            "id": "199267",
+            "roundType": "Series Corporate Round",
+            "closedAt": 1675900800,
+            "valuation": "0"
+          }
+        },
+        {
+          "__typename": "StartupRoundEdge",
+          "node": {
+            "__typename": "StartupRound",
+            "id": "175730",
+            "roundType": null,
+            "closedAt": 1563840000,
+            "valuation": null
+          }
+        },
+        {
+          "__typename": "StartupRoundEdge",
+          "node": {
+            "__typename": "StartupRound",
+            "id": "175731",
+            "roundType": "Seed",
+            "closedAt": 1471824000,
+            "valuation": null
+          }
+        }
+      ]
+    },
+    "hiddenSections": [
+      "SALARIES"
+    ],
+    "currentFounderRoles": [
+      {
+        "__typename": "StartupRole",
+        "id": "3428921",
+        "user": {
+          "__typename": "User",
+          "id": "474574",
+          "name": "Greg Brockman",
+          "slug": "greg-brockman",
+          "avatarUrl": "https://photos.wellfound.com/users/474574-medium_jpg?1405689115",
+          "pathName": "/p/greg-brockman",
+          "proUrlEnabled": true,
+          "primaryLocation": {
+            "__typename": "NewTag",
+            "id": "1692",
+            "displayName": "San Francisco",
+            "name": "san francisco",
+            "slug": "san-francisco",
+            "locationTagNoindex": false
+          },
+          "htmlBio": "Co-Founder &amp; CTO <a href=\"https://wellfound.com/company/openai\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">OpenAI</span></a>, ex-CTO <a href=\"https://wellfound.com/company/stripe\" class=\"at_link\"><span class=\"at_symbol\">@</span><span class=\"at_name\">Stripe</span></a>"
+        },
+        "hiredViaTalent": false,
+        "title": "CTO",
+        "role": "FOUNDER",
+        "roleDisplayName": "Founder",
+        "tenureSeconds": 329756745
+      }
+    ],
+    "pastFounderRoles": [],
+    "currentTeamMemberRoles({\"first\":3})": {
+      "__typename": "StartupRoleConnection",
+      "totalCount": 0,
+      "edges": []
+    },
+    "mediaUploads:{\"section\":\"culture\"}": [
+      {
+        "__typename": "StartupMediaUpload",
+        "id": "562776",
+        "imageUrl": "https://d2gn4xht817m0g.cloudfront.net/p/media_uploads/images/original/000/562/776/562776-73f483f760eeccdc20229e778d198b879a8412fc.jpg?1581027703",
+        "videoUrl": null,
+        "videoThumbnailUrl": null,
+        "mime": "image/jpeg",
+        "section": "culture",
+        "order": 0
+      },
+      {
+        "__typename": "StartupMediaUpload",
+        "id": "562777",
+        "imageUrl": "https://d2gn4xht817m0g.cloudfront.net/p/media_uploads/images/original/000/562/777/562777-72b872b48a600425619096c4089bd369fb0e47e9.jpg?1581027740",
+        "videoUrl": null,
+        "videoThumbnailUrl": null,
+        "mime": "image/jpeg",
+        "section": "culture",
+        "order": 0
+      },
+      {
+        "__typename": "StartupMediaUpload",
+        "id": "562778",
+        "imageUrl": "https://d2gn4xht817m0g.cloudfront.net/p/media_uploads/images/original/000/562/778/562778-52fc2ad881ce02faefe3f58f4866fbf20789a15c.jpg?1581027759",
+        "videoUrl": null,
+        "videoThumbnailUrl": null,
+        "mime": "image/jpeg",
+        "section": "culture",
+        "order": 0
+      }
+    ],
+    "culturePerks": [
+      {
+        "__typename": "CulturePerk",
+        "id": "24076",
+        "category": "healthcare",
+        "title": "Comprehensive health, dental, and vision coverage for you and your family",
+        "description": ""
+      },
+      {
+        "__typename": "CulturePerk",
+        "id": "24077",
+        "category": "generous_vacation",
+        "title": "Unlimited time off (we encourage 4+ weeks of vacation)",
+        "description": ""
+      },
+      {
+        "__typename": "CulturePerk",
+        "id": "24078",
+        "category": "parental_leave",
+        "title": "Competitive leave for new parents",
+        "description": ""
+      },
+      {
+        "__typename": "CulturePerk",
+        "id": "24079",
+        "category": "company_meals",
+        "title": "Lunch and dinner each day",
+        "description": ""
+      },
+      {
+        "__typename": "CulturePerk",
+        "id": "24080",
+        "category": "work_from_home",
+        "title": "Flexible work hours",
+        "description": ""
+      },
+      {
+        "__typename": "CulturePerk",
+        "id": "24081",
+        "category": "retirement",
+        "title": "401(k) plan",
+        "description": ""
+      }
+    ],
+    "completenessScore": 88,
+    "currentUserCanEditProfile": false,
+    "completeness": null,
+    "jobListingCounts": {
+      "__typename": "Counts",
+      "roles": [],
+      "locations": [],
+      "acceptedRemoteLocations": [],
+      "jobTypes": [],
+      "jobSources": []
+    },
+    "logoUrl": "https://photos.wellfound.com/startups/i/943259-074dbb6a7ea691170f361aeee379dd57-medium_jpg.jpg?buster=1589652796",
+    "hiring": false,
+    "isOperating": null,
+    "badges": [
+      {
+        "__typename": "Badge",
+        "id": "COMPANY_STAGE-943259",
+        "name": "COMPANY_STAGE_BADGE",
+        "label": "Scale Stage",
+        "tooltip": "Rapidly increasing operations",
+        "avatarUrl": null,
+        "rating": null,
+        "data": "scale_stage"
+      },
+      {
+        "__typename": "Badge",
+        "id": "TOP_INVESTORS-943259",
+        "name": "TOP_INVESTORS_BADGE",
+        "label": "Top Investors",
+        "tooltip": "This company has received a significant amount of investment from top investors",
+        "avatarUrl": null,
+        "rating": null,
+        "data": null
+      },
+      {
+        "__typename": "Badge",
+        "id": "YC-943259",
+        "name": "YC_BADGE",
+        "label": "YC Funded",
+        "tooltip": "Startup funded by Y Combinator",
+        "avatarUrl": null,
+        "rating": null,
+        "data": null
+      },
+      {
+        "__typename": "Badge",
+        "id": "VALUATION_1B-943259",
+        "name": "VALUATION1B_BADGE",
+        "label": "Valuation $1B+",
+        "tooltip": "This company has a valuation of $1B or more",
+        "avatarUrl": null,
+        "rating": null,
+        "data": null
+      }
+    ],
+    "companySize": "SIZE_201_500",
+    "companyUrl": "https://www.openai.com/",
+    "twitterUrl": "http://twitter.com/openai",
+    "blogUrl": "https://blog.openai.com/",
+    "facebookUrl": "",
+    "linkedInUrl": "https://www.linkedin.com/company/openai/",
+    "productHuntUrl": "",
+    "marketTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "200",
+        "name": "artificial intelligence",
+        "slug": "artificial-intelligence",
+        "displayName": "Artificial Intelligence",
+        "marketTagNoindex": false
+      },
+      {
+        "__typename": "NewTag",
+        "id": "3094",
+        "name": "online gaming",
+        "slug": "online-gaming",
+        "displayName": "Online Gaming",
+        "marketTagNoindex": false
+      },
+      {
+        "__typename": "NewTag",
+        "id": "12817",
+        "name": "non profit",
+        "slug": "non-profit",
+        "displayName": "Non Profit",
+        "marketTagNoindex": false
+      }
+    ],
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ],
+    "companyTypeTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "140691",
+        "name": "artificial intelligence",
+        "slug": "artificial-intelligence-4",
+        "displayName": "Artificial Intelligence"
+      }
+    ],
+    "currentUserFollowsStartup": false,
+    "jobListingsConnection": {
+      "__typename": "JobListingConnection",
+      "totalCount": 0
+    },
+    "currentUserCanRecruit": false,
+    "hasPremiumJobs": false,
+    "recommendedStartups({\"first\":20})": {
+      "__typename": "StartupConnection",
+      "totalCount": 20,
+      "edges": [
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "5556369",
+            "name": "Secured (YC W18)",
+            "slug": "secured-",
+            "logoUrl": "https://photos.wellfound.com/startups/i/5556369-89226fbac3e434cda6b09fc709611481-medium_jpg.jpg?buster=1620119825",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1642",
+                "displayName": "Europe"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1688",
+                "displayName": "United States"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1695",
+                "displayName": "London"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "653460",
+            "name": "Brain Technologies",
+            "slug": "brain",
+            "logoUrl": "https://photos.wellfound.com/startups/i/653460-4ab69a0a18d194dcc7ec5c81a61e7152-medium_jpg.jpg?buster=1536739847",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1677",
+                "displayName": "Russia"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1847",
+                "displayName": "San Mateo"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "24471",
+                "displayName": "Beijing"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "5510482",
+            "name": "Humu",
+            "slug": "humu",
+            "logoUrl": "https://photos.wellfound.com/startups/i/5510482-8b4650e7ede7e094761545dd3de10fab-medium_jpg.jpg?buster=1589306128",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1701",
+                "displayName": "Mountain View"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "6343",
+            "name": "Leap Motion",
+            "slug": "leap-motion",
+            "logoUrl": "https://photos.wellfound.com/startups/i/6343-3704fb09e9b74996b5826f5cc1ab5a00-medium_jpg.jpg?buster=1369156838",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "6702",
+            "name": "AngelList",
+            "slug": "angellist",
+            "logoUrl": "https://photos.wellfound.com/startups/i/6702-766d1ce00c99ce9a5cbc19d0c87a436e-medium_jpg.jpg?buster=1668525121",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1664",
+                "displayName": "New York City"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1680",
+                "displayName": "Seattle"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "4753955",
+            "name": "VeriSIM Life",
+            "slug": "verisim-life",
+            "logoUrl": "https://photos.wellfound.com/startups/i/4753955-95c1f1b36e52519c74c9799e07826129-medium_jpg.jpg?buster=1518419457",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "37940",
+            "name": "GV",
+            "slug": "googleventures",
+            "logoUrl": "https://photos.wellfound.com/startups/i/37940-f7b01b64b6cc801e095863fb043e5f53-medium_jpg.jpg?buster=1589460196",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1701",
+                "displayName": "Mountain View"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "14940",
+            "name": "EAT Club",
+            "slug": "eat-club",
+            "logoUrl": "https://photos.wellfound.com/startups/i/14940-a7b719b920b3a89d4eb4e2ba0097ba90-medium_jpg.jpg?buster=1358810823",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1681",
+                "displayName": "Silicon Valley"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "110844",
+            "name": "Upstart",
+            "slug": "upstart",
+            "logoUrl": "https://photos.wellfound.com/startups/i/110844-606040708c80bab270514a574def4f0e-medium_jpg.jpg?buster=1589647510",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1847",
+                "displayName": "San Mateo"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "8862",
+                "displayName": "San Carlos"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "585912",
+            "name": "Consensys",
+            "slug": "consensys",
+            "logoUrl": "https://photos.wellfound.com/startups/i/585912-301eec4556a2226fe4023ec0cec0a70e-medium_jpg.jpg?buster=1688377101",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "2178",
+                "displayName": "Fort Worth"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "831131",
+            "name": "Vise",
+            "slug": "vise-ai",
+            "logoUrl": "https://photos.wellfound.com/startups/i/831131-45756e8041a27446e89f408b524b4e87-medium_jpg.jpg?buster=1653325004",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1664",
+                "displayName": "New York City"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "1181839",
+            "name": "Zero",
+            "slug": "zero-8",
+            "logoUrl": "https://photos.wellfound.com/startups/i/1181839-89c09282cd8e3921587119763d8d25c2-medium_jpg.jpg?buster=1589598615",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1681",
+                "displayName": "Silicon Valley"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "594897",
+            "name": "Cruise",
+            "slug": "cruise-automation",
+            "logoUrl": "https://photos.wellfound.com/startups/i/594897-57c4fe41d06876fba41b46ad6821c583-medium_jpg.jpg?buster=1589650799",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "371359",
+            "name": "Grammarly",
+            "slug": "grammarly-1",
+            "logoUrl": "https://photos.wellfound.com/startups/i/371359-68e3afbb35a7faea6d4e61f9e7df9445-medium_jpg.jpg?buster=1736359184",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1664",
+                "displayName": "New York City"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1680",
+                "displayName": "Seattle"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1698",
+                "displayName": "Vancouver"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1914",
+                "displayName": "Berlin"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "406342",
+                "displayName": "Kyiv city"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "326222",
+            "name": "Front",
+            "slug": "front",
+            "logoUrl": "https://photos.wellfound.com/startups/i/326222-0c48465e9f2d2017a2646fd4320271e2-medium_jpg.jpg?buster=1618600735",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1842",
+                "displayName": "Paris"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "360044",
+            "name": "Thistle",
+            "slug": "thistle-1",
+            "logoUrl": "https://photos.wellfound.com/startups/i/360044-ee7d4b704fc5edad5f2fb8082a897cc1-medium_jpg.jpg?buster=1711433907",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1653",
+                "displayName": "Los Angeles"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              },
+              {
+                "__typename": "NewTag",
+                "id": "151282",
+                "displayName": "San Francisco Bay Area"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "3217396",
+            "name": "Chorus.ai",
+            "slug": "chorus-ai-1",
+            "logoUrl": "https://photos.wellfound.com/startups/i/3217396-3adcb561d5a88bdfc803be86cef8bb23-medium_jpg.jpg?buster=1480552473",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "121228",
+            "name": "Big Health",
+            "slug": "big-health",
+            "logoUrl": "https://photos.wellfound.com/startups/i/121228-0084cd602964ba1533f798587e5fdc14-medium_jpg.jpg?buster=1589659513",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1688",
+                "displayName": "United States"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1695",
+                "displayName": "London"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "616175",
+                "displayName": "Remote"
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "1102528",
+            "name": "Kite.com",
+            "slug": "kiteco",
+            "logoUrl": "https://photos.wellfound.com/startups/i/1102528-bbc7d54e6d95e27a07e8be7d8ca5b438-medium_jpg.jpg?buster=1589645215",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "StartupEdge",
+          "node": {
+            "__typename": "Startup",
+            "id": "184903",
+            "name": "Iterable",
+            "slug": "iterable",
+            "logoUrl": "https://photos.wellfound.com/startups/i/184903-09148f8861eef2db99acde1514178b94-medium_jpg.jpg?buster=1589613068",
+            "locationTaggings": [
+              {
+                "__typename": "NewTag",
+                "id": "1635",
+                "displayName": "Denver"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1692",
+                "displayName": "San Francisco",
+                "name": "san francisco",
+                "slug": "san-francisco",
+                "locationTagNoindex": false
+              },
+              {
+                "__typename": "NewTag",
+                "id": "1695",
+                "displayName": "London"
+              },
+              {
+                "__typename": "NewTag",
+                "id": "2071",
+                "displayName": "New York"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "public": true,
+    "published": true,
+    "quarantined": false,
+    "currentUserCanUpdateInvestors": false,
+    "relatedJobListings({\"limit\":5})": [
+      {
+        "__typename": "JobListing",
+        "id": "4192044",
+        "slug": "senior-software-engineer-full-stack",
+        "title": "Senior Software Engineer (Full Stack)",
+        "compensation": "$130k – $160k CAD",
+        "locationNames": [
+          "Toronto"
+        ],
+        "liveStartAt": 1778279191,
+        "remote": false,
+        "primaryRole": {
+          "__typename": "Role",
+          "slug": "developer"
+        },
+        "startup": {
+          "__typename": "Startup",
+          "id": "28200",
+          "name": "Citylitics",
+          "logoUrl": "https://photos.wellfound.com/startups/i/28200-2fe93e8b4831f93b7c0aa16d63153e28-medium_jpg.jpg?buster=1643297632",
+          "slug": "cityliticsinc"
+        },
+        "isBookmarked": false
+      },
+      {
+        "__typename": "JobListing",
+        "id": "4166284",
+        "slug": "senior-solution-architect",
+        "title": "Senior Solution Architect",
+        "compensation": "$158k – $160k",
+        "locationNames": [
+          "United States"
+        ],
+        "liveStartAt": 1777593600,
+        "remote": false,
+        "primaryRole": {
+          "__typename": "Role",
+          "slug": "sales-2"
+        },
+        "startup": {
+          "__typename": "Startup",
+          "id": "37844",
+          "name": "Sony Innovation Fund",
+          "logoUrl": "https://photos.wellfound.com/startups/i/37844-396c1a2f9259ab5789f8586b7729ccb9-medium_jpg.jpg?buster=1589439155",
+          "slug": "sony-innovation-fund"
+        },
+        "isBookmarked": false
+      },
+      {
+        "__typename": "JobListing",
+        "id": "4147341",
+        "slug": "founding-account-executive",
+        "title": "Founding - Account Executive",
+        "compensation": "£55k – £65k • No equity",
+        "locationNames": [
+          "London"
+        ],
+        "liveStartAt": 1777378227,
+        "remote": true,
+        "primaryRole": {
+          "__typename": "Role",
+          "slug": "sales-manager-3"
+        },
+        "startup": {
+          "__typename": "Startup",
+          "id": "138760",
+          "name": "Fynd",
+          "logoUrl": "https://photos.wellfound.com/startups/i/138760-094c87a9f18958a289a74936b35a9b1b-medium_jpg.jpg?buster=1738151917",
+          "slug": "gofynd"
+        },
+        "isBookmarked": false
+      },
+      {
+        "__typename": "JobListing",
+        "id": "4129724",
+        "slug": "machine-learning-engineer-iv-biometrics",
+        "title": "Machine Learning Engineer - IV (Biometrics)",
+        "compensation": "",
+        "locationNames": [
+          "Montreal"
+        ],
+        "liveStartAt": 1776876089,
+        "remote": false,
+        "primaryRole": {
+          "__typename": "Role",
+          "slug": "data-scientist-1"
+        },
+        "startup": {
+          "__typename": "Startup",
+          "id": "33593",
+          "name": "Jumio",
+          "logoUrl": "https://photos.wellfound.com/startups/i/33593-b6039e8042e46b9cab57c62873971f61-medium_jpg.jpg?buster=1688121182",
+          "slug": "jumio"
+        },
+        "isBookmarked": false
+      },
+      {
+        "__typename": "JobListing",
+        "id": "4121830",
+        "slug": "senior-lead-applied-data-scientist",
+        "title": " Senior / Lead Applied Data Scientist",
+        "compensation": "$160k – $195k",
+        "locationNames": [
+          "100 Mile House"
+        ],
+        "liveStartAt": 1776801996,
+        "remote": true,
+        "primaryRole": {
+          "__typename": "Role",
+          "slug": "data-scientist-1"
+        },
+        "startup": {
+          "__typename": "Startup",
+          "id": "312",
+          "name": "StyleSeat",
+          "logoUrl": "https://photos.wellfound.com/startups/i/312-1387954138544b98c1c629996e2cc60a-medium_jpg.jpg?buster=1578420750",
+          "slug": "styleseat"
+        },
+        "isBookmarked": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "5556369",
+    "name": "Secured (YC W18)",
+    "slug": "secured-",
+    "logoUrl": "https://photos.wellfound.com/startups/i/5556369-89226fbac3e434cda6b09fc709611481-medium_jpg.jpg?buster=1620119825",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1642",
+        "displayName": "Europe"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1688",
+        "displayName": "United States"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1695",
+        "displayName": "London"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "653460",
+    "name": "Brain Technologies",
+    "slug": "brain",
+    "logoUrl": "https://photos.wellfound.com/startups/i/653460-4ab69a0a18d194dcc7ec5c81a61e7152-medium_jpg.jpg?buster=1536739847",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1677",
+        "displayName": "Russia"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1847",
+        "displayName": "San Mateo"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "24471",
+        "displayName": "Beijing"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "5510482",
+    "name": "Humu",
+    "slug": "humu",
+    "logoUrl": "https://photos.wellfound.com/startups/i/5510482-8b4650e7ede7e094761545dd3de10fab-medium_jpg.jpg?buster=1589306128",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1701",
+        "displayName": "Mountain View"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "6343",
+    "name": "Leap Motion",
+    "slug": "leap-motion",
+    "logoUrl": "https://photos.wellfound.com/startups/i/6343-3704fb09e9b74996b5826f5cc1ab5a00-medium_jpg.jpg?buster=1369156838",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "6702",
+    "name": "AngelList",
+    "slug": "angellist",
+    "logoUrl": "https://photos.wellfound.com/startups/i/6702-766d1ce00c99ce9a5cbc19d0c87a436e-medium_jpg.jpg?buster=1668525121",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1664",
+        "displayName": "New York City"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1680",
+        "displayName": "Seattle"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "4753955",
+    "name": "VeriSIM Life",
+    "slug": "verisim-life",
+    "logoUrl": "https://photos.wellfound.com/startups/i/4753955-95c1f1b36e52519c74c9799e07826129-medium_jpg.jpg?buster=1518419457",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "37940",
+    "name": "GV",
+    "slug": "googleventures",
+    "logoUrl": "https://photos.wellfound.com/startups/i/37940-f7b01b64b6cc801e095863fb043e5f53-medium_jpg.jpg?buster=1589460196",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1701",
+        "displayName": "Mountain View"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "14940",
+    "name": "EAT Club",
+    "slug": "eat-club",
+    "logoUrl": "https://photos.wellfound.com/startups/i/14940-a7b719b920b3a89d4eb4e2ba0097ba90-medium_jpg.jpg?buster=1358810823",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1681",
+        "displayName": "Silicon Valley"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "110844",
+    "name": "Upstart",
+    "slug": "upstart",
+    "logoUrl": "https://photos.wellfound.com/startups/i/110844-606040708c80bab270514a574def4f0e-medium_jpg.jpg?buster=1589647510",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1847",
+        "displayName": "San Mateo"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "8862",
+        "displayName": "San Carlos"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "585912",
+    "name": "Consensys",
+    "slug": "consensys",
+    "logoUrl": "https://photos.wellfound.com/startups/i/585912-301eec4556a2226fe4023ec0cec0a70e-medium_jpg.jpg?buster=1688377101",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "2178",
+        "displayName": "Fort Worth"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "831131",
+    "name": "Vise",
+    "slug": "vise-ai",
+    "logoUrl": "https://photos.wellfound.com/startups/i/831131-45756e8041a27446e89f408b524b4e87-medium_jpg.jpg?buster=1653325004",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1664",
+        "displayName": "New York City"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "1181839",
+    "name": "Zero",
+    "slug": "zero-8",
+    "logoUrl": "https://photos.wellfound.com/startups/i/1181839-89c09282cd8e3921587119763d8d25c2-medium_jpg.jpg?buster=1589598615",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1681",
+        "displayName": "Silicon Valley"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "594897",
+    "name": "Cruise",
+    "slug": "cruise-automation",
+    "logoUrl": "https://photos.wellfound.com/startups/i/594897-57c4fe41d06876fba41b46ad6821c583-medium_jpg.jpg?buster=1589650799",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "371359",
+    "name": "Grammarly",
+    "slug": "grammarly-1",
+    "logoUrl": "https://photos.wellfound.com/startups/i/371359-68e3afbb35a7faea6d4e61f9e7df9445-medium_jpg.jpg?buster=1736359184",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1664",
+        "displayName": "New York City"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1680",
+        "displayName": "Seattle"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1698",
+        "displayName": "Vancouver"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1914",
+        "displayName": "Berlin"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "406342",
+        "displayName": "Kyiv city"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "326222",
+    "name": "Front",
+    "slug": "front",
+    "logoUrl": "https://photos.wellfound.com/startups/i/326222-0c48465e9f2d2017a2646fd4320271e2-medium_jpg.jpg?buster=1618600735",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1842",
+        "displayName": "Paris"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "360044",
+    "name": "Thistle",
+    "slug": "thistle-1",
+    "logoUrl": "https://photos.wellfound.com/startups/i/360044-ee7d4b704fc5edad5f2fb8082a897cc1-medium_jpg.jpg?buster=1711433907",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1653",
+        "displayName": "Los Angeles"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      },
+      {
+        "__typename": "NewTag",
+        "id": "151282",
+        "displayName": "San Francisco Bay Area"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "3217396",
+    "name": "Chorus.ai",
+    "slug": "chorus-ai-1",
+    "logoUrl": "https://photos.wellfound.com/startups/i/3217396-3adcb561d5a88bdfc803be86cef8bb23-medium_jpg.jpg?buster=1480552473",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "121228",
+    "name": "Big Health",
+    "slug": "big-health",
+    "logoUrl": "https://photos.wellfound.com/startups/i/121228-0084cd602964ba1533f798587e5fdc14-medium_jpg.jpg?buster=1589659513",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1688",
+        "displayName": "United States"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1695",
+        "displayName": "London"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "616175",
+        "displayName": "Remote"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "1102528",
+    "name": "Kite.com",
+    "slug": "kiteco",
+    "logoUrl": "https://photos.wellfound.com/startups/i/1102528-bbc7d54e6d95e27a07e8be7d8ca5b438-medium_jpg.jpg?buster=1589645215",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "184903",
+    "name": "Iterable",
+    "slug": "iterable",
+    "logoUrl": "https://photos.wellfound.com/startups/i/184903-09148f8861eef2db99acde1514178b94-medium_jpg.jpg?buster=1589613068",
+    "locationTaggings": [
+      {
+        "__typename": "NewTag",
+        "id": "1635",
+        "displayName": "Denver"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1692",
+        "displayName": "San Francisco",
+        "name": "san francisco",
+        "slug": "san-francisco",
+        "locationTagNoindex": false
+      },
+      {
+        "__typename": "NewTag",
+        "id": "1695",
+        "displayName": "London"
+      },
+      {
+        "__typename": "NewTag",
+        "id": "2071",
+        "displayName": "New York"
+      }
+    ]
+  },
+  {
+    "__typename": "Startup",
+    "id": "28200",
+    "name": "Citylitics",
+    "logoUrl": "https://photos.wellfound.com/startups/i/28200-2fe93e8b4831f93b7c0aa16d63153e28-medium_jpg.jpg?buster=1643297632",
+    "slug": "cityliticsinc"
+  },
+  {
+    "__typename": "Startup",
+    "id": "37844",
+    "name": "Sony Innovation Fund",
+    "logoUrl": "https://photos.wellfound.com/startups/i/37844-396c1a2f9259ab5789f8586b7729ccb9-medium_jpg.jpg?buster=1589439155",
+    "slug": "sony-innovation-fund"
+  },
+  {
+    "__typename": "Startup",
+    "id": "138760",
+    "name": "Fynd",
+    "logoUrl": "https://photos.wellfound.com/startups/i/138760-094c87a9f18958a289a74936b35a9b1b-medium_jpg.jpg?buster=1738151917",
+    "slug": "gofynd"
+  },
+  {
+    "__typename": "Startup",
+    "id": "33593",
+    "name": "Jumio",
+    "logoUrl": "https://photos.wellfound.com/startups/i/33593-b6039e8042e46b9cab57c62873971f61-medium_jpg.jpg?buster=1688121182",
+    "slug": "jumio"
+  },
+  {
+    "__typename": "Startup",
+    "id": "312",
+    "name": "StyleSeat",
+    "logoUrl": "https://photos.wellfound.com/startups/i/312-1387954138544b98c1c629996e2cc60a-medium_jpg.jpg?buster=1578420750",
+    "slug": "styleseat"
+  }
+]

@@ -1,0 +1,2 @@
+partial: keywords.json has real data (10 suggestions); search.json empty (Bing SERP likely blocked/CAPTCHA)
+2 attempts (rate-limit-aware run)

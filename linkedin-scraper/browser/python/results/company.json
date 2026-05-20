@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Microsoft",
+    "url": "https://www.linkedin.com/company/microsoft",
+    "mainAddress": {
+      "type": "PostalAddress",
+      "streetAddress": "1 Microsoft Way",
+      "addressLocality": "Redmond",
+      "addressRegion": "Washington",
+      "postalCode": "98052",
+      "addressCountry": "US"
+    },
+    "description": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+    "numberOfEmployees": {
+      "value": 230833,
+      "@type": "QuantitativeValue"
+    },
+    "logo": {
+      "contentUrl": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=ts9MGrTk7Lz3R1bmAfzCL8euuuuPWPCoXfdiLA2_IzM",
+      "description": "Microsoft",
+      "@type": "ImageObject"
+    },
+    "Website": "https://news.microsoft.com/\n      \n    \n  \n                  External link for Microsoft",
+    "Industry": "Software Development",
+    "Company size": "10,001+ employees",
+    "Headquarters": "Redmond, Washington",
+    "Type": "Public Company",
+    "Specialties": "Business Software, Developer Tools, Home & Educational Software, Tablets, Search, Advertising, Servers, Windows Operating System, Windows Applications & Platforms, Smartphones, Cloud Computing, Quantum Computing, Future of Work, Productivity, AI, Artificial Intelligence, Machine Learning, Laptops, Mixed Reality, Virtual Reality, Gaming, Developers, and IT Professional",
+    "affiliatedPages": [
+      {
+        "name": "GitHub",
+        "industry": "Software Development",
+        "address": "San Francisco, CA",
+        "linkeinUrl": "https://www.linkedin.com/company/github?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Learn",
+        "industry": "IT Services and IT Consulting",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoftlearn/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Azure",
+        "industry": "Technology, Information and Internet",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-azure/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft 365",
+        "industry": "IT Services and IT Consulting",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-365/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Cloud",
+        "industry": "Software Development",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-cloud-platform/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Security",
+        "industry": "Computer and Network Security",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-security/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Developer",
+        "industry": "Software Development",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-developers/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Research",
+        "industry": "Think Tanks",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoftresearch/?trk=affiliated-pages"
+      },
+      {
+        "name": "Visual Studio Code",
+        "industry": "Software Development",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/vs-code/?trk=affiliated-pages"
+      },
+      {
+        "name": "Windows Developer",
+        "industry": "",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/windows-developers/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft AI Cloud Partner Program",
+        "industry": "Information Technology & Services",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-cloud-partner-program/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Dynamics 365",
+        "industry": "Software Development",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-dynamics/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Visual Studio",
+        "industry": "Software Development",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-visual-studio/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Copilot",
+        "industry": "Software Development",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoftcopilot/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Power Platform",
+        "industry": "Software Development",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-power-platform/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Threat Intelligence",
+        "industry": "Computer and Network Security",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-threat-intelligence/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Fabric",
+        "industry": "Data Infrastructure and Analytics",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoftfabric/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft SQL",
+        "industry": "Software Development",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/msft-sql-server/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft On the Issues",
+        "industry": "Technology, Information and Internet",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-on-the-issues/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Events",
+        "industry": "Technology, Information and Internet",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-events/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft AI",
+        "industry": "Software Development",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://mx.linkedin.com/company/microsoft-ai?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Security Response Center",
+        "industry": "Computer and Network Security",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-security-response-center/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Surface",
+        "industry": "Computer Hardware",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-surface/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Advertising",
+        "industry": "Advertising Services",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-advertising/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft for Healthcare",
+        "industry": "Software Development",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-health/?trk=affiliated-pages"
+      },
+      {
+        "name": "Halo Studios",
+        "industry": "Computer Games",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/company/halostudios?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft 365 Insider Program",
+        "industry": "Software Development",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-365-insider/?trk=affiliated-pages"
+      },
+      {
+        "name": "M12, Microsoft's Venture Fund",
+        "industry": "Venture Capital and Private Equity Principals",
+        "address": "San Francisco, California",
+        "linkeinUrl": "https://www.linkedin.com/company/m12vc?trk=affiliated-pages"
+      },
+      {
+        "name": "Xbox",
+        "industry": "Entertainment Providers",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/xbox/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft in Government",
+        "industry": "Software Development",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-in-government/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Reactor",
+        "industry": "Technology, Information and Internet",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-reactor/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Student Ambassadors – Imagine Cup",
+        "industry": "Technology, Information and Internet",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-imagine-cup/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Viva",
+        "industry": "Software Development",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-viva/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Military Affairs",
+        "industry": "Information Technology & Services",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-military-affairs/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft News and Stories",
+        "industry": "Technology, Information and Internet",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-news-and-stories/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft for Nonprofits",
+        "industry": "Software Development",
+        "address": "Redmond, Washington",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-for-nonprofits/?trk=affiliated-pages"
+      },
+      {
+        "name": "Flip",
+        "industry": "E-Learning Providers",
+        "address": "Minneapolis, MN",
+        "linkeinUrl": "https://www.linkedin.com/company/microsoftflip?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Windows",
+        "industry": "Software Development",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-windows/?trk=affiliated-pages"
+      },
+      {
+        "name": "M",
+        "industry": "Software Development",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/covid19-business-resource-center/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft 365 Developer",
+        "industry": "Technology, Information and Internet",
+        "address": "Remond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft365dev/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft's Entrepreneurship for Positive Impact",
+        "industry": "Software Development",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/entrepreneurshipforpositiveimpact/?trk=affiliated-pages"
+      },
+      {
+        "name": "Studios Quality - Xbox Game Studios",
+        "industry": "Computer Games",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/company/studios-quality?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Design",
+        "industry": "Technology, Information and Internet",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-design/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft in Business",
+        "industry": "Technology, Information and Media",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoftinbusiness/?trk=affiliated-pages"
+      },
+      {
+        "name": "Go China Connection",
+        "industry": "IT Services and IT Consulting",
+        "address": "Beijing, Beijing",
+        "linkeinUrl": "https://cn.linkedin.com/showcase/go-china-connection/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Accessibility",
+        "industry": "Technology, Information and Internet",
+        "address": "Redmond, WA",
+        "linkeinUrl": "https://www.linkedin.com/showcase/msft-accessibility/?trk=affiliated-pages"
+      },
+      {
+        "name": "Microsoft Developers 365",
+        "industry": "",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/showcase/microsoft-developers-365/?trk=affiliated-pages"
+      }
+    ],
+    "similarPages": [
+      {
+        "name": "Google",
+        "industry": "Software Development",
+        "address": "Mountain View, CA",
+        "linkeinUrl": "https://www.linkedin.com/company/google?trk=similar-pages"
+      },
+      {
+        "name": "Amazon",
+        "industry": "Software Development",
+        "address": "Seattle, WA",
+        "linkeinUrl": "https://www.linkedin.com/company/amazon?trk=similar-pages"
+      },
+      {
+        "name": "Apple",
+        "industry": "Computers and Electronics Manufacturing",
+        "address": "Cupertino, California",
+        "linkeinUrl": "https://www.linkedin.com/company/apple?trk=similar-pages"
+      },
+      {
+        "name": "Meta",
+        "industry": "Software Development",
+        "address": "Menlo Park, CA",
+        "linkeinUrl": "https://www.linkedin.com/company/meta?trk=similar-pages"
+      },
+      {
+        "name": "IBM",
+        "industry": "IT Services and IT Consulting",
+        "address": "Armonk, New York, NY",
+        "linkeinUrl": "https://www.linkedin.com/company/ibm?trk=similar-pages"
+      },
+      {
+        "name": "Deloitte",
+        "industry": "Business Consulting and Services",
+        "address": "",
+        "linkeinUrl": "https://www.linkedin.com/company/deloitte?trk=similar-pages"
+      },
+      {
+        "name": "Netflix",
+        "industry": "Entertainment Providers",
+        "address": "Los Gatos, CA",
+        "linkeinUrl": "https://www.linkedin.com/company/netflix?trk=similar-pages"
+      },
+      {
+        "name": "Oracle",
+        "industry": "IT Services and IT Consulting",
+        "address": "Austin, Texas",
+        "linkeinUrl": "https://www.linkedin.com/company/oracle?trk=similar-pages"
+      },
+      {
+        "name": "NVIDIA",
+        "industry": "Computer Hardware Manufacturing",
+        "address": "Santa Clara, CA",
+        "linkeinUrl": "https://www.linkedin.com/company/nvidia?trk=similar-pages"
+      },
+      {
+        "name": "LinkedIn",
+        "industry": "Software Development",
+        "address": "Sunnyvale, CA",
+        "linkeinUrl": "https://www.linkedin.com/company/linkedin?trk=similar-pages"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+Phase-2B live CLI run (2026-05-17)
+Scraper: google-scraper
+Result: deferred (CLI surface not viable for this site)
+
+Notes:
+- Google.com serves the "unusual traffic" / sorry-page CAPTCHA wall to
+  fresh CLI cloud-browser sessions regardless of proxy country. The wall
+  appears on the first /search hit and on Google Maps queries alike, so
+  the eval extractors find no matching DOM and emit empty payloads:
+    serp.json = "[]"
+    keywords.json = empty arrays
+    google_map_places.json = empty strings
+- 4 attempts via C:/tmp/p2b_run.sh all hit the same wall.
+- A bare open + wait + eval cannot warm the session past Google's bot
+  signals; Google specifically penalises sessions with no prior browsing
+  history, no Google account, and freshly-rotated IPs.
+- Use the python/ or nodejs/ surface (longer warmup, established profile)
+  for live SERPs, or use Scrapeless SerpAPI which handles the bot wall
+  upstream and returns parsed JSON directly. CLI deferred.
+- run.sh and eval/*.js intentionally not modified per agent constraints.

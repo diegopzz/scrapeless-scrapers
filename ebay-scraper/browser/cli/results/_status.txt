@@ -1,0 +1,1 @@
+default product URL is stale — set EBAY_SAMPLE_PRODUCT_URL env var to a current listing.

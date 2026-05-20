@@ -1,0 +1,192 @@
+{
+  "id": 10641393582383,
+  "title": "Nappa Twisted Padded Intrecciato Curve Slide Sandals 36 Black",
+  "body_html": "This is an authentic pair of BOTTEGA VENETA Nappa Intrecciato Padded BV Curve Sandals size 36 in Black. These stylish strappy sandals are crafted of padded and twisted Intrecciato leather in black. These heels feature interwoven strap detailing and a 4-inch heel.",
+  "vendor": "Bottega Veneta",
+  "product_type": "Accessories",
+  "created_at": "2025-06-13T16:37:53-07:00",
+  "handle": "bottega-veneta-nappa-twisted-padded-intrecciato-curve-slide-sandals-36-black-1048096",
+  "updated_at": "2026-05-19T09:45:08-07:00",
+  "published_at": "2025-06-13T16:37:55-07:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "",
+  "variants": [
+    {
+      "id": 51473136943407,
+      "product_id": 10641393582383,
+      "title": "Default Title",
+      "price": "450.00",
+      "sku": "253613",
+      "position": 1,
+      "compare_at_price": "450.00",
+      "fulfillment_service": "manual",
+      "inventory_management": "shopify",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2026-05-19T09:45:08-07:00",
+      "taxable": true,
+      "barcode": "000010480960",
+      "grams": 0,
+      "image_id": null,
+      "weight": 0,
+      "weight_unit": "lb",
+      "requires_shipping": true,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "price_currency": "USD",
+      "compare_at_price_currency": "USD",
+      "quantity_price_breaks": []
+    }
+  ],
+  "options": [
+    {
+      "id": 13148457861423,
+      "product_id": 10641393582383,
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 51003888337199,
+      "product_id": 10641393582383,
+      "position": 1,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/eaa3a63349a686dadb8198c8cdabc386.jpg?v=1749857877",
+      "variant_ids": []
+    },
+    {
+      "id": 51003889320239,
+      "product_id": 10641393582383,
+      "position": 2,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/609f080b0b90e1d9a8e6d2b4b164ac91.jpg?v=1749857877",
+      "variant_ids": []
+    },
+    {
+      "id": 51003885814063,
+      "product_id": 10641393582383,
+      "position": 3,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:56-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/7babd761c2efc32c7949579820f7e732.jpg?v=1749857876",
+      "variant_ids": []
+    },
+    {
+      "id": 51003888402735,
+      "product_id": 10641393582383,
+      "position": 4,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/8e3bf43e3fcc1202db72c3693eace5d0.jpg?v=1749857877",
+      "variant_ids": []
+    },
+    {
+      "id": 51003889058095,
+      "product_id": 10641393582383,
+      "position": 5,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/e144283f721ab625d5d10980d2782f8d.jpg?v=1749857877",
+      "variant_ids": []
+    },
+    {
+      "id": 51003887976751,
+      "product_id": 10641393582383,
+      "position": 6,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/902794b1806144a205924db1f4f74bd3.jpg?v=1749857877",
+      "variant_ids": []
+    },
+    {
+      "id": 51003888271663,
+      "product_id": 10641393582383,
+      "position": 7,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/768cda285b970f0f1e1e997698bb8bfa.jpg?v=1749857877",
+      "variant_ids": []
+    },
+    {
+      "id": 51003890663727,
+      "product_id": 10641393582383,
+      "position": 8,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/dd1dca41b0823810c484c91535b7ca4c.jpg?v=1749857877",
+      "variant_ids": []
+    },
+    {
+      "id": 51003886600495,
+      "product_id": 10641393582383,
+      "position": 9,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:56-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/b9d9625bfdde85cdd0f679a62d507971.jpg?v=1749857876",
+      "variant_ids": []
+    },
+    {
+      "id": 51003890270511,
+      "product_id": 10641393582383,
+      "position": 10,
+      "created_at": "2025-06-13T16:37:54-07:00",
+      "updated_at": "2025-06-13T16:37:57-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/718d97bb4e4f6c3d68b74856430378de.jpg?v=1749857877",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 51003888337199,
+    "product_id": 10641393582383,
+    "position": 1,
+    "created_at": "2025-06-13T16:37:54-07:00",
+    "updated_at": "2025-06-13T16:37:57-07:00",
+    "alt": null,
+    "width": 1500,
+    "height": 1500,
+    "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/eaa3a63349a686dadb8198c8cdabc386.jpg?v=1749857877",
+    "variant_ids": []
+  }
+}

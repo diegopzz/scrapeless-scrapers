@@ -1,0 +1,9 @@
+Scraper: amazon-scraper
+Date: Sun, May 17, 2026  5:41:12 PM
+
+Per-file diagnostic:
+  [REAL-fromHEAD] product.json size=1208 head=[  {    "name": "PlayStation 5 Console (PS5)",    "asin": "B0BCNKKZ91",    "style": "Disc",    "description": "The PS5 console unleashes new gaming possibi
+  [REAL-fromHEAD] reviews.json size=5183 head=[  {    "text": "The good:- The new controller is awesome! I recommend playing the free Astro's Playroom tech demo game that shows off all the features. That 
+  [REAL-live] search.json size=15709 head=[  {    "url": "https://www.amazon.com/All-new-Amazon-Kindle-Paperwhite-glare-free/dp/B0CFPJYX7P/ref=sr_1_1",    "title": "Kindle Paperwhite 16GB (newest mod
+
+Overall: REAL

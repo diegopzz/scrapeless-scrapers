@@ -1,0 +1,207 @@
+[
+  {
+    "id": 10648379785519,
+    "title": "Ostrich Lizard Majestueux Tote MM Navy",
+    "body_html": "This is an authentic LOUIS VUITTON Ostrich Lizard Majestueux Tote MM in Navy. This stylish tote has a body of Louis Vuitton monogram-coated canvas. The bag features rolled lizard top handles with grained burgundy calfskin leather sides. There is a rear zipper pocket and an ostrich front flap with a brass press lock. The top zipper opens to a spacious burgundy leather interior with zipper and patch pockets.",
+    "vendor": "Louis Vuitton",
+    "product_type": "Bags",
+    "created_at": "2025-06-15T00:03:01-07:00",
+    "handle": "louis-vuitton-ostrich-lizard-majestueux-tote-mm-navy-1247825",
+    "updated_at": "2026-05-19T10:59:29-07:00",
+    "published_at": "2025-06-15T00:03:03-07:00",
+    "template_suffix": null,
+    "published_scope": "global",
+    "tags": "",
+    "variants": [
+      {
+        "id": 51507605537071,
+        "product_id": 10648379785519,
+        "title": "Default Title",
+        "price": "2095.00",
+        "sku": "10487",
+        "position": 1,
+        "compare_at_price": "2095.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-06-15T00:03:02-07:00",
+        "updated_at": "2026-05-19T10:59:29-07:00",
+        "taxable": true,
+        "barcode": "000012478255",
+        "grams": 0,
+        "image_id": null,
+        "weight": 0.0,
+        "weight_unit": "lb",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "USD",
+        "compare_at_price_currency": "USD",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 13156040311087,
+        "product_id": 10648379785519,
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 52220417245487,
+        "product_id": 10648379785519,
+        "position": 1,
+        "created_at": "2025-07-23T15:59:11-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/de41db0ad0dc939d94f11553aa222f6e.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220416590127,
+        "product_id": 10648379785519,
+        "position": 2,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/d303a20a7c7ea3f6ab5520dddcc2eac1.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220416426287,
+        "product_id": 10648379785519,
+        "position": 3,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/179c6ec816f6fcf11f1308e0073e5fe9.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220417376559,
+        "product_id": 10648379785519,
+        "position": 4,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/b6997a41a9b519d1ca2f7d986de9aca2.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220419408175,
+        "product_id": 10648379785519,
+        "position": 5,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/e95fcf20786525f54dde08943a90a972.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220416655663,
+        "product_id": 10648379785519,
+        "position": 6,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/814d71e9c27321d4d762ef136611bb92.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220416688431,
+        "product_id": 10648379785519,
+        "position": 7,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/3fab6c388106f3258737e730a8469830.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220416524591,
+        "product_id": 10648379785519,
+        "position": 8,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/d3f327d679663be60fc69434ef63d062.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220418654511,
+        "product_id": 10648379785519,
+        "position": 9,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/7f1f1e8595a3a1001c892894fa0c28fb.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220417278255,
+        "product_id": 10648379785519,
+        "position": 10,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/861b1e1dc6bc3c2e52456a01f4d8077a.jpg?v=1753311555",
+        "variant_ids": []
+      },
+      {
+        "id": 52220417999151,
+        "product_id": 10648379785519,
+        "position": 11,
+        "created_at": "2025-07-23T15:59:12-07:00",
+        "updated_at": "2025-07-23T15:59:15-07:00",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/307801e9538bde6e4c2c6ce317841b62.jpg?v=1753311555",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 52220417245487,
+      "product_id": 10648379785519,
+      "position": 1,
+      "created_at": "2025-07-23T15:59:11-07:00",
+      "updated_at": "2025-07-23T15:59:15-07:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0894/3186/7695/files/de41db0ad0dc939d94f11553aa222f6e.jpg?v=1753311555",
+      "variant_ids": []
+    },
+    "brand": "Louis Vuitton"
+  }
+]

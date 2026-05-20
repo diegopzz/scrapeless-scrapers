@@ -1,0 +1,40 @@
+{
+  "sku": "0299323",
+  "name": "Ozito PXC 18V Cordless Drill Driver Kit PXDDK-250C",
+  "brand": "Ozito PXC",
+  "brandLogo": "https://media.bunnings.com.au/api/public/content/b70a8e81d8a849279fee48ceb00677af?v=73f15953",
+  "description": "This cordless 18V Drill Driver from Ozito’s PXC range is the perfect companion for DIY jobs around the home and workshop. Whether it’s installing shelves in the living room, putting together furniture or installing a deck in the backyard, this tool will drill through timber, plastic and metal with ease. Get started right out of the box with the included 2.5Ah Battery and Compact Fast Charger.\n\nWith 21 settings and 40Nm of torque, you can fasten screws to the perfect depth. A variable speed trigger and 2 speed gearbox makes driving screws and drilling holes a breeze. The compact design and sure grip handle ensures the drill remains comfortable in hand while you work. Dark workspaces are also readily illuminated by the inbuilt LED worklight.",
+  "category": "tools",
+  "image": "https://media.bunnings.com.au/api/public/content/b3125e5eff6140d089e27ddd1efdee0b?v=d40838f4",
+  "price": "89.98",
+  "priceCurrency": "AUD",
+  "url": "https://www.bunnings.com.au/ozito-pxc-18v-cordless-drill-driver-kit-pxddk-250c_p0299323",
+  "warranty": "Tool - 5 Year Replacement Warranty; Battery and Charger - 3 Year Replacement Warranty",
+  "breadcrumb": [
+    {
+      "name": "Products",
+      "url": "https://www.bunnings.com.au/products",
+      "position": 1
+    },
+    {
+      "name": "Tools",
+      "url": "https://www.bunnings.com.au/products/tools",
+      "position": 2
+    },
+    {
+      "name": "Power Tools",
+      "url": "https://www.bunnings.com.au/products/tools/power-tools",
+      "position": 3
+    },
+    {
+      "name": "Drills",
+      "url": "https://www.bunnings.com.au/products/tools/power-tools/drills",
+      "position": 4
+    },
+    {
+      "name": "Cordless Power Tool & Drill Kits",
+      "url": "https://www.bunnings.com.au/products/tools/power-tools/drills/cordless-drill-kits",
+      "position": 5
+    }
+  ]
+}

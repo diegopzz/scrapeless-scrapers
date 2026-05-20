@@ -1,0 +1,21 @@
+{
+  "info": {
+    "name": null,
+    "productId": "",
+    "link": "chrome://new-tab-page/",
+    "media": [],
+    "rate": null,
+    "reviews": null,
+    "soldCount": 0,
+    "availableCount": 0
+  },
+  "pricing": {
+    "priceCurrency": "USD $",
+    "price": null,
+    "originalPrice": "No discount",
+    "discount": "No discount"
+  },
+  "specifications": [],
+  "delivery": null,
+  "faqs": []
+}

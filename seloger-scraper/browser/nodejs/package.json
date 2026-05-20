@@ -1,0 +1,20 @@
+{
+  "name": "scrapeless-seloger",
+  "version": "0.1.0",
+  "description": "Example Seloger scraper using the official Scrapeless Node SDK + puppeteer-core over CDP",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node run.mjs",
+    "test": "node --test test.mjs"
+  },
+  "dependencies": {
+    "@scrapeless-ai/sdk": "^1.11.0",
+    "puppeteer-core": "^23.0.0",
+    "cheerio": "^1.0.0",
+    "zod": "^3.23.0"
+  }
+}

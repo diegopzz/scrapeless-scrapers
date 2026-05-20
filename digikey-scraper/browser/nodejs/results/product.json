@@ -1,0 +1,178 @@
+{
+  "digikeyPartNumber": "296-1395-5-ND",
+  "manufacturerPartNumber": "LM358P",
+  "manufacturer": "Texas Instruments",
+  "title": "LM358P",
+  "description": "IC OPAMP GP 2 CIRCUIT 8DIP",
+  "detailedDescription": "Standard (General Purpose) Amplifier 2 Circuit 8-PDIP",
+  "datasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm358",
+  "productUrl": "https://www.digikey.com/en/products/detail/texas-instruments/LM358N/277042",
+  "imageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6222/296%7E4040082%7EP%7E8.jpg?hidebanner=true",
+  "media": [
+    "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/6222/296%7E4040082%7EP%7E8.jpg?hidebanner=true"
+  ],
+  "breadcrumb": [
+    {
+      "label": "Product Index",
+      "url": "/en/products"
+    },
+    {
+      "label": "Integrated Circuits (ICs)",
+      "url": "/en/products/category/integrated-circuits-ics/32"
+    },
+    {
+      "label": "Linear",
+      "url": "/en/products/category/linear/2018"
+    },
+    {
+      "label": "Amplifiers",
+      "url": "/en/products/category/linear/amplifiers/2034"
+    },
+    {
+      "label": "Instrumentation, Op Amps, Buffer Amps",
+      "url": "/en/products/filter/linear/amplifiers/instrumentation-op-amps-buffer-amps/687"
+    },
+    {
+      "label": "Texas Instruments LM358P",
+      "url": "/en/products/detail/texas-instruments/LM358P/277042"
+    }
+  ],
+  "attributes": [
+    {
+      "label": "Mfr",
+      "value": "Texas Instruments"
+    },
+    {
+      "label": "Series",
+      "value": "-"
+    },
+    {
+      "label": "Packaging",
+      "value": "Tube"
+    },
+    {
+      "label": "Part Status",
+      "value": "Active"
+    },
+    {
+      "label": "Amplifier Type",
+      "value": "Standard (General Purpose)"
+    },
+    {
+      "label": "Number of Circuits",
+      "value": "2"
+    },
+    {
+      "label": "Output Type",
+      "value": "-"
+    },
+    {
+      "label": "Slew Rate",
+      "value": "0.3V/µs"
+    },
+    {
+      "label": "Gain Bandwidth Product",
+      "value": "700 kHz"
+    },
+    {
+      "label": "Current - Input Bias",
+      "value": "20 nA"
+    },
+    {
+      "label": "Voltage - Input Offset",
+      "value": "3 mV"
+    },
+    {
+      "label": "Current - Supply",
+      "value": "500µA (x2 Channels)"
+    },
+    {
+      "label": "Current - Output / Channel",
+      "value": "40 mA"
+    },
+    {
+      "label": "Voltage - Supply Span (Min)",
+      "value": "3 V"
+    },
+    {
+      "label": "Voltage - Supply Span (Max)",
+      "value": "30 V"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "0°C ~ 70°C (TA)"
+    },
+    {
+      "label": "Mounting Type",
+      "value": "Through Hole"
+    },
+    {
+      "label": "Package / Case",
+      "value": "8-DIP (0.300\", 7.62mm)"
+    },
+    {
+      "label": "Supplier Device Package",
+      "value": "8-PDIP"
+    },
+    {
+      "label": "Base Product Number",
+      "value": "LM358"
+    }
+  ],
+  "pricing": [
+    {
+      "breakQuantity": "1",
+      "unitPrice": "$0.27000",
+      "extendedPrice": "$0.27"
+    },
+    {
+      "breakQuantity": "10",
+      "unitPrice": "$0.18700",
+      "extendedPrice": "$1.87"
+    },
+    {
+      "breakQuantity": "50",
+      "unitPrice": "$0.15300",
+      "extendedPrice": "$7.65"
+    },
+    {
+      "breakQuantity": "100",
+      "unitPrice": "$0.14230",
+      "extendedPrice": "$14.23"
+    },
+    {
+      "breakQuantity": "250",
+      "unitPrice": "$0.13104",
+      "extendedPrice": "$32.76"
+    },
+    {
+      "breakQuantity": "500",
+      "unitPrice": "$0.12426",
+      "extendedPrice": "$62.13"
+    },
+    {
+      "breakQuantity": "1,000",
+      "unitPrice": "$0.11868",
+      "extendedPrice": "$118.68"
+    },
+    {
+      "breakQuantity": "2,500",
+      "unitPrice": "$0.11278",
+      "extendedPrice": "$281.95"
+    },
+    {
+      "breakQuantity": "5,000",
+      "unitPrice": "$0.11020",
+      "extendedPrice": "$551.00"
+    }
+  ],
+  "stock": {
+    "quantityAvailable": "69,930",
+    "hasLeadTime": false,
+    "leadTime": "12 Weeks",
+    "minimumOrderQuantity": 1,
+    "packaging": "Tube"
+  },
+  "isActive": true,
+  "isUnavailable": false
+}

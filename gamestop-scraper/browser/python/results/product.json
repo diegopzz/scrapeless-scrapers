@@ -1,0 +1,62 @@
+{
+  "id": "440814",
+  "name": "Tomodachi Life: Living the Dream - Nintendo Switch",
+  "brand": "Nintendo",
+  "description": "Populate your island with Mii characters—and find out what happens when they all live there together!",
+  "platform": "Nintendo Switch",
+  "category": "Nintendo Switch",
+  "genre": "",
+  "contentRating": "Everyone",
+  "producer": "Nintendo",
+  "publisher": "",
+  "image": "https://media.gamestop.com/i/gamestop/20032506?$thumb$",
+  "url": "https://www.gamestop.com/video-games/nintendo-switch/products/tomodachi-life-living-the-dream---nintendo-switch/440814.html",
+  "price": "59.99",
+  "priceCurrency": "USD",
+  "availability": "https://schema.org/InStock",
+  "offers": [
+    {
+      "name": "Digital",
+      "sku": "441383",
+      "price": "59.99",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },
+    {
+      "name": "New",
+      "sku": "440814",
+      "price": "59.99",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },
+    {
+      "name": "Pre-Owned",
+      "sku": "443581",
+      "price": "54.99",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/OutOfStock"
+    }
+  ],
+  "breadcrumb": [
+    {
+      "name": "Home",
+      "url": "https://www.gamestop.com/",
+      "position": 1
+    },
+    {
+      "name": "Video Games",
+      "url": "https://www.gamestop.com/video-games",
+      "position": 2
+    },
+    {
+      "name": "Nintendo Switch",
+      "url": "https://www.gamestop.com/video-games/nintendo-switch",
+      "position": 3
+    },
+    {
+      "name": "Tomodachi Life: Living the Dream - Nintendo Switch",
+      "url": "https://www.gamestop.com/video-games/nintendo-switch/products/tomodachi-life-living-the-dream/20032506.html",
+      "position": 4
+    }
+  ]
+}

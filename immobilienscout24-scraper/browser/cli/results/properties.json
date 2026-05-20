@@ -1,0 +1,42 @@
+{
+  "id": "",
+  "title": "",
+  "description": null,
+  "address": null,
+  "propertyLlink": "https://www.idealista.com/en/venta-viviendas/marbella-malaga/con-chalets/",
+  "propertySepcs": {
+    "floorsNumber": null,
+    "livingSpace": null,
+    "livingSpaceUnit": null,
+    "vacantFrom": null,
+    "numberOfRooms": null,
+    "Garage/parking space": null,
+    "additionalSpecs": [],
+    "internetAvailable": false
+  },
+  "price": {
+    "priceWithoutHeadting": null,
+    "priceperMeter": null,
+    "additionalCosts": null,
+    "heatingCosts": null,
+    "totalRent": null,
+    "basisRent": null,
+    "deposit": null,
+    "garage/parkingRent": null,
+    "priceCurrency": null
+  },
+  "building": {
+    "constructionYear": null,
+    "energySources": null,
+    "energyCertificate": null,
+    "energyCertificateType": null,
+    "energyCertificateDate": null,
+    "finalEnergyRrequirement": null
+  },
+  "attachments": {
+    "propertyImages": [],
+    "videoAvailable": false
+  },
+  "agencyName": null,
+  "agencyAddress": null
+}

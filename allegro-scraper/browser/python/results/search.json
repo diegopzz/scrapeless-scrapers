@@ -1,0 +1,1936 @@
+{
+  "products": [
+    {
+      "product_id": "bf6d4ad1-0195-4455-93a2-f80d5d648b54",
+      "offer_id": "17854601441",
+      "title": "Szkło hartowane Bizon do Apple iPhone 17 2 szt.",
+      "price": {
+        "amount": "46.55",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/szklo-hartowane-do-iphone-17-bizon-szybka-z-aplikatorem-2-sztuki-17854601441?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=OGYyNzBlYmEtZjJlYi00ZGVmLWEwYzctZGJhNzY4Y2NjZTQ3AA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/1169e6/8c05fedb4148a971bb486ac39f90/Szklo-hartowane-do-iPhone-17-Bizon-szybka-z-aplikatorem-2-sztuki",
+      "seller": {
+        "id": "114468684",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-9c/logotype_114468684_50344f9d-73e6-4fe9-ba65-ac36706db9f5",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep Bizon",
+        "userListingUrl": "https://allegro.pl/uzytkownik/sma_bizon",
+        "positiveFeedbackPercent": 99.6,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "85d6c8df-dc7e-484b-b2f6-064d2af8f6fd",
+      "offer_id": "18210369974",
+      "title": "Szkło hartowane Spigen AGL07928 do Apple iPhone 16 Pro 2 szt. + Aplikator",
+      "price": {
+        "amount": "60.97",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/szklo-do-iphone-17-16-pro-spigen-ez-fit-ac-2p-do-etui-aplikator-szybka-18210369974?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=NWM0ZjRmOTctYWUwNC00N2E1LTg3NDQtZWQyYTcxOGQ1MGEyAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/11593e/afa93c3f4bbc85a6f233a01ac289/Szklo-do-iPhone-17-16-Pro-Spigen-EZ-Fit-AC-2P-do-etui-Aplikator-szybka",
+      "seller": {
+        "id": "24310415",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-68/logotype_24310415_070cc5d8-2b71-4414-bc1d-cc01ebb9dc9e"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "sklep-pancernik",
+        "userListingUrl": "https://allegro.pl/uzytkownik/sklep-pancernik",
+        "positiveFeedbackPercent": 99.6,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "22402d16-c94f-419c-a9d7-6f5aa02ed9a5",
+      "offer_id": "18570603590",
+      "title": "Smartfon Apple iPhone 13 4 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "1869.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-4-gb-128-gb-5g-czarny-22402d16-c94f-419c-a9d7-6f5aa02ed9a5?offerId=18570603590",
+      "image": "https://a.allegroimg.com/s360/11fb5b/cdbcea124273b0c3487a0c9a0ee1/Smartfon-APPLE-IPHONE-13-128GB-PELNY-KOMPLET",
+      "seller": {
+        "id": "90535759",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "No1Phone",
+        "userListingUrl": "https://allegro.pl/uzytkownik/No1Phone",
+        "positiveFeedbackPercent": 97.4,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1879,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "BEST_PRICE_GUARANTEE_BANNER",
+      "offer_id": "",
+      "title": "Gwarancja najniższej ceny",
+      "price": null,
+      "currency": null,
+      "url": "",
+      "image": null,
+      "seller": null,
+      "delivery_info": null
+    },
+    {
+      "product_id": "53c5318c-b194-479a-b286-881250ef1829",
+      "offer_id": "17767910685",
+      "title": "Smartfon Apple iPhone 14 6 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "2099.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-14-6-gb-128-gb-5g-czarny-53c5318c-b194-479a-b286-881250ef1829?offerId=17767910685",
+      "image": "https://a.allegroimg.com/s360/115a9d/2293c45c4c398add5a0058253047/IPHONE-14-6GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "ffd22d9a-7e19-4bc3-98ce-d968b0669f01",
+      "offer_id": "18223245398",
+      "title": "Telefon Apple iPhone 17 8/256GB 5G Czarny",
+      "price": {
+        "amount": "3999.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/telefon-apple-iphone-17-8-256gb-5g-czarny-ffd22d9a-7e19-4bc3-98ce-d968b0669f01?offerId=18223245398",
+      "image": "https://a.allegroimg.com/s360/11be3f/c411de0a47c2ac3ba4b5a08f7b3a/Smartfon-APPLE-iPhone-17-256-GB-Czarny-MG6J4HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "621acf36-8ee5-4a0d-a728-4e1a3732b7db",
+      "offer_id": "18344309817",
+      "title": "Smartfon Apple iPhone 13 4 GB / 128 GB 5G biały",
+      "price": {
+        "amount": "1969.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-4-gb-128-gb-5g-bialy-621acf36-8ee5-4a0d-a728-4e1a3732b7db?offerId=18344309817",
+      "image": "https://a.allegroimg.com/s360/11c5fc/fed287724f45998310c6490fe0c7/IPHONE-13-4GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "9d14489e-a3a7-4dcc-b39e-d09c543a1baa",
+      "offer_id": "17767929291",
+      "title": "Smartfon Apple iPhone 14 Pro 6 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "2995.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-14-pro-6-gb-128-gb-5g-czarny-9d14489e-a3a7-4dcc-b39e-d09c543a1baa?offerId=17767929291",
+      "image": "https://a.allegroimg.com/s360/11d493/d0d37b96496c97060e898e197de7/IPHONE-14-PRO-6GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "7720e137-fb82-4463-b85e-2b9390ec6df4",
+      "offer_id": "18408470007",
+      "title": "Smartfon Apple iPhone 13 Pro 6 GB / 128 GB 5G kolor szary / Graphite",
+      "price": {
+        "amount": "2399.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-pro-6-gb-128-gb-5g-kolor-szary-graphite-7720e137-fb82-4463-b85e-2b9390ec6df4?offerId=18408470007",
+      "image": "https://a.allegroimg.com/s360/1111e8/fc83b95c4505a4b4cab7e78b2d12/IPHONE-13-PRO-6GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "9ef86160-5b5f-42ad-ab99-afd1a5bb41cb",
+      "offer_id": "17722004970",
+      "title": "Smartfon Apple iPhone 11 4 GB / 128 GB 4G (LTE) czarny",
+      "price": {
+        "amount": "1315.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-11-4-gb-128-gb-4g-lte-czarny-9ef86160-5b5f-42ad-ab99-afd1a5bb41cb?offerId=17722004970",
+      "image": "https://a.allegroimg.com/s360/119bc1/d0d443d0461aa36b2d2cd2ef6474/IPHONE-11-4GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "12d59703-924e-4052-abc3-89257693abc1",
+      "offer_id": "18292063007",
+      "title": "Smartfon Apple iPhone 13 mini 4 GB / 128 GB 5G biały",
+      "price": {
+        "amount": "1845.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-mini-4-gb-128-gb-5g-bialy-12d59703-924e-4052-abc3-89257693abc1?offerId=18292063007",
+      "image": "https://a.allegroimg.com/s360/11ce17/5b949d424675a9027c034bd5af12/IPHONE-13-MINI-4GB-128GB-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "8907539c-c4c4-4527-8962-ade21356ad5c",
+      "offer_id": "18383427650",
+      "title": "Smartfon Apple iPhone 17e 8 GB / 256 GB 5G czarny",
+      "price": {
+        "amount": "2999.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17e-8-gb-256-gb-5g-czarny-8907539c-c4c4-4527-8962-ade21356ad5c?offerId=18383427650",
+      "image": "https://a.allegroimg.com/s360/11c869/40ca79764bcd9d927bf49beb1699/Smartfon-APPLE-iPhone-17e-5G-256-GB-Czarny",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "416b01a0-5f6c-4115-86dd-01fab92ec778",
+      "offer_id": "17567504607",
+      "title": "Smartfon Apple iPhone SE (2020) 3 GB / 64 GB 4G (LTE) czarny",
+      "price": {
+        "amount": "799.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-se-2020-3-gb-64-gb-4g-lte-czarny-416b01a0-5f6c-4115-86dd-01fab92ec778?offerId=17567504607",
+      "image": "https://a.allegroimg.com/s360/11c30b/b6ab3e5d492abc83b1e62bfcd283/Smartfon-APPLE-IPHONE-SE-2020-64GB-OCHRONA-EKRANU-PELNY-KOMPLET",
+      "seller": {
+        "id": "90535759",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "No1Phone",
+        "userListingUrl": "https://allegro.pl/uzytkownik/No1Phone",
+        "positiveFeedbackPercent": 97.4,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "809,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "610ec252-c70c-4691-a86e-7d153827129d",
+      "offer_id": "17941947764",
+      "title": "Smartfon Apple iPhone 12 4 GB / 64 GB 5G czarny",
+      "price": {
+        "amount": "1375.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-12-4-gb-64-gb-5g-czarny-610ec252-c70c-4691-a86e-7d153827129d?offerId=17941947764",
+      "image": "https://a.allegroimg.com/s360/110125/b592a6924271bd432b2305d93f0a/IPHONE-12-4GB-64GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "8545fc80-1031-4db5-b539-dd4c5380108a",
+      "offer_id": "18224933389",
+      "title": "Smartfon Apple iPhone 17 8 GB / 256 GB 5G niebieski",
+      "price": {
+        "amount": "3851.64",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-8-gb-256-gb-5g-niebieski-8545fc80-1031-4db5-b539-dd4c5380108a?offerId=18224933389",
+      "image": "https://a.allegroimg.com/s360/117b55/ecd465b94ecfbc78677af36bf05a/Apple-iPhone-17-256GB-Golebi",
+      "seller": {
+        "id": "11339433",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-c6/logotype_11339433_dc0bd90a-fddf-4037-85d3-904c37a70e74"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "Komputronik",
+        "userListingUrl": "https://allegro.pl/uzytkownik/Komputronik",
+        "positiveFeedbackPercent": 98.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "22c55211-2cb6-4ecd-9628-a63fcf4c8c22",
+      "offer_id": "18319601492",
+      "title": "Smartfon Apple iPhone 17 8 GB / 256 GB 5G biały",
+      "price": {
+        "amount": "3999.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-8-gb-256-gb-5g-bialy-22c55211-2cb6-4ecd-9628-a63fcf4c8c22?offerId=18319601492",
+      "image": "https://a.allegroimg.com/s360/117d8a/b5c706a3431cacbf139c840de65d/Smartfon-APPLE-iPhone-17-256-GB-Bialy-MG6K4HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "dc094619-4ee5-4dea-aa0c-58a63730dc20",
+      "offer_id": "18223245948",
+      "title": "Smartfon Apple iPhone 17 8 GB / 256 GB 5G zielony",
+      "price": {
+        "amount": "3999.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-8-gb-256-gb-5g-zielony-dc094619-4ee5-4dea-aa0c-58a63730dc20?offerId=18223245948",
+      "image": "https://a.allegroimg.com/s360/119baa/9613e7b84910b108898422f1aedd/Smartfon-APPLE-iPhone-17-256-GB-Szalwia-MG6N4HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "02623afa-eede-46b4-9b83-022e7ee10420",
+      "offer_id": "18223245443",
+      "title": "Smartfon Apple iPhone 17 8 GB / 256 GB 5G fioletowy",
+      "price": {
+        "amount": "3999.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-8-gb-256-gb-5g-fioletowy-02623afa-eede-46b4-9b83-022e7ee10420?offerId=18223245443",
+      "image": "https://a.allegroimg.com/s360/11116d/e69dd1a341109d6fe5df76a1f652/Smartfon-APPLE-iPhone-17-256-GB-Lawenda-MG6M4HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "ec7ae715-e5c4-4246-8dd8-5ad37e307174",
+      "offer_id": "16592885471",
+      "title": "Smartfon Apple iPhone 12 mini 4 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "1295.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-12-mini-4-gb-128-gb-5g-czarny-ec7ae715-e5c4-4246-8dd8-5ad37e307174?offerId=16592885471",
+      "image": "https://a.allegroimg.com/s360/11ce08/6cf254454c11a1bd4f3648411b14/IPHONE-12-MINI-4GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "a544cc8b-8512-44bb-b8f9-9b125c9eb61c",
+      "offer_id": "18344315652",
+      "title": "Smartfon Apple iPhone 13 4 GB / 256 GB 5G czarny",
+      "price": {
+        "amount": "2045.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-4-gb-256-gb-5g-czarny-a544cc8b-8512-44bb-b8f9-9b125c9eb61c?offerId=18344315652",
+      "image": "https://a.allegroimg.com/s360/11bdef/b3a8b7ff4edfac3a7a9b8cee3d71/IPHONE-13-4GB-256GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "ba89e617-a529-4fd0-9c49-ca2ccffa0236",
+      "offer_id": "17697834386",
+      "title": "Smartfon Apple iPhone SE (2020) 3 GB / 128 GB 4G (LTE) czarny",
+      "price": {
+        "amount": "950.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-se-2020-3-gb-128-gb-4g-lte-czarny-ba89e617-a529-4fd0-9c49-ca2ccffa0236?offerId=17697834386",
+      "image": "https://a.allegroimg.com/s360/111f6c/7ff0dfcd45e4b5e9457a7b4f63ea/IPHONE-SE-2020-3GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "22ec19d4-1350-4b56-8493-fd247e8f017b",
+      "offer_id": "17546479596",
+      "title": "Smartfon Apple iPhone 12 mini 4 GB / 64 GB 5G niebieski",
+      "price": {
+        "amount": "1195.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-12-mini-4-gb-64-gb-5g-niebieski-22ec19d4-1350-4b56-8493-fd247e8f017b?offerId=17546479596",
+      "image": "https://a.allegroimg.com/s360/11db9a/1c30b0c94ee98e5a79cb4fdd7a90/IPHONE-12-MINI-4GB-64GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "65452d47-a9b9-471a-baff-ad452eeb475d",
+      "offer_id": "17333086311",
+      "title": "Smartfon Apple iPhone 11 4 GB / 64 GB 4G (LTE) czarny",
+      "price": {
+        "amount": "1215.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-11-4-gb-64-gb-4g-lte-czarny-65452d47-a9b9-471a-baff-ad452eeb475d?offerId=17333086311",
+      "image": "https://a.allegroimg.com/s360/119bc1/d0d443d0461aa36b2d2cd2ef6474/IPHONE-11-4GB-64GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "c4920379-0f9c-4cfb-b58b-172354f83bce",
+      "offer_id": "18172007407",
+      "title": "Smartfon Apple iPhone 17 Pro 12 GB / 256 GB 5G srebrny",
+      "price": {
+        "amount": "5799.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-pro-12-gb-256-gb-5g-srebrny-c4920379-0f9c-4cfb-b58b-172354f83bce?offerId=18172007407",
+      "image": "https://a.allegroimg.com/s360/11160b/84abaf394600a8e5e40aedf4996d/Apple-iPhone-17-Pro-256GB-Silver",
+      "seller": {
+        "id": "48179485",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2f/logotype_48179485_2660dadb-5cc8-471a-aafb-2b15f75571da"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "iDream_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/iDream_pl",
+        "positiveFeedbackPercent": 99.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "b8b09b19-bb1f-4eb3-910c-3dde3145cd25",
+      "offer_id": "13672309666",
+      "title": "Kabel McDodo USB typ C - Apple Lightning 1,8 m czarny w oplocie",
+      "price": {
+        "amount": "23.73",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/mcdodo-kabel-usb-c-lightning-szybkiego-ladowania-36w-2m-do-iphone-12-13-14-13672309666?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=NmNiZDBjNzUtZTEyZi00MDFmLTg5NzEtNzM3ODlhY2Y3YjZhAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/11b01d/da978e8d4c418fde09942f69cc4f/MCDODO-KABEL-USB-C-LIGHTNING-SZYBKIEGO-LADOWANIA-36W-2M-DO-IPHONE-12-13-14",
+      "seller": {
+        "id": "101913691",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-12/logotype_101913691_ae89c6b6-201e-45d5-a35b-f03a5e770693",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep Mcdodo",
+        "userListingUrl": "https://allegro.pl/uzytkownik/-Mcdodo-",
+        "positiveFeedbackPercent": 99.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "31,72 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "04e0444c-a072-417a-9558-a3d8df6342f4",
+      "offer_id": "17619409593",
+      "title": "Smartfon Apple iPhone 13 mini 4 GB / 128 GB 5G niebieski",
+      "price": {
+        "amount": "1835.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-mini-4-gb-128-gb-5g-niebieski-04e0444c-a072-417a-9558-a3d8df6342f4?offerId=17619409593",
+      "image": "https://a.allegroimg.com/s360/114c83/33b5a5dc4ce4a3d96822cabe6e46/IPHONE-13-MINI-4GB-128GB-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "dcc27d4f-8903-48ec-8e89-07cd1282ab60",
+      "offer_id": "18056742857",
+      "title": "Smartfon Apple iPhone 14 Plus 6 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "2375.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-14-plus-6-gb-128-gb-5g-czarny-dcc27d4f-8903-48ec-8e89-07cd1282ab60?offerId=18056742857",
+      "image": "https://a.allegroimg.com/s360/1139d5/249e72f848688ae7f3457b73715a/IPHONE-14-PLUS-6GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "fcf5358d-c00c-4fae-b671-3094020a09b6",
+      "offer_id": "16677066071",
+      "title": "Szkło hartowane Spigen do iPhone 15 / 16, do etui, z aplikatorem, 2 sztuki",
+      "price": {
+        "amount": "64.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/szklo-hartowane-do-iphone-15-16-spigen-glas-tr-ez-fit-2p-ochrona-ekranu-16677066071?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=MTg0NTk4NDgtN2NlZS00NjJiLThhMzUtM2ZkZjExYmY3YmNiAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/115ccf/d21d43354f8a81a1ab22baecc2e5/Szklo-hartowane-do-iPhone-15-16-Spigen-Glas-tR-EZ-Fit-2P-ochrona-ekranu",
+      "seller": {
+        "id": "111319692",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-b4/logotype_111319692_5d5f52d8-9f0a-40d2-87f4-7f868649ad62",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep Spigen",
+        "userListingUrl": "https://allegro.pl/uzytkownik/sma_spigen",
+        "positiveFeedbackPercent": 99.6,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "2ce560c5-def6-4277-b157-b429d40cd1ee",
+      "offer_id": "18436492389",
+      "title": "Smartfon Apple iPhone 17e 8 GB / 256 GB 5G różowy",
+      "price": {
+        "amount": "2841.31",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17e-8-gb-256-gb-5g-rozowy-2ce560c5-def6-4277-b157-b429d40cd1ee?offerId=18436492389",
+      "image": "https://a.allegroimg.com/s360/11932d/b8eaff59490782347b2176cf15af/Apple-iPhone-17e-256GB-Jasnorozowy",
+      "seller": {
+        "id": "11339433",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-c6/logotype_11339433_dc0bd90a-fddf-4037-85d3-904c37a70e74"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "Komputronik",
+        "userListingUrl": "https://allegro.pl/uzytkownik/Komputronik",
+        "positiveFeedbackPercent": 98.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "e3a52896-8bee-4a4a-ac3c-ce1fa6c19ada",
+      "offer_id": "18172006969",
+      "title": "Smartfon Apple iPhone 17 Pro 256GB głębinowy błękit",
+      "price": {
+        "amount": "5799.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-pro-256gb-glebinowy-blekit-e3a52896-8bee-4a4a-ac3c-ce1fa6c19ada?offerId=18172006969",
+      "image": "https://a.allegroimg.com/s360/11d4a9/fc3ce24949099d0b6393f3b3a2ae/Apple-iPhone-17-Pro-256GB-Deep-Blue",
+      "seller": {
+        "id": "48179485",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2f/logotype_48179485_2660dadb-5cc8-471a-aafb-2b15f75571da"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "iDream_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/iDream_pl",
+        "positiveFeedbackPercent": 99.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "0d6d03c2-66b6-424e-9123-cc8298917fb0",
+      "offer_id": "18039965413",
+      "title": "Smartfon Apple iPhone 4 512 MB / 16 GB 3G czarny",
+      "price": {
+        "amount": "399.99",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-4-512-mb-16-gb-3g-czarny-0d6d03c2-66b6-424e-9123-cc8298917fb0?offerId=18039965413",
+      "image": "https://a.allegroimg.com/s360/11d94e/c18417d24debbb3e4826211ed9bf/Smarfon-Apple-iPhone-4-16-GB-czarny-NOWY",
+      "seller": {
+        "id": "123909290",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "martel-sklep",
+        "userListingUrl": "https://allegro.pl/uzytkownik/martel-sklep",
+        "positiveFeedbackPercent": 98.8,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "410,48 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "8ad18a89-7c0e-496c-a8ba-d2c981d7399c",
+      "offer_id": "17264418226",
+      "title": "Smartfon Apple iPhone 5 1 GB / 16 GB 4G (LTE) srebrny",
+      "price": {
+        "amount": "379.99",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-5-1-gb-16-gb-4g-lte-srebrny-8ad18a89-7c0e-496c-a8ba-d2c981d7399c?offerId=17264418226",
+      "image": "https://a.allegroimg.com/s360/113846/4af9887044da9b4cf99509297223/APPLE-IPHONE-5-1-16-GB-BIALY-FABRYCZNIE-NOWY",
+      "seller": {
+        "id": "36790633",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "adjotel",
+        "userListingUrl": "https://allegro.pl/uzytkownik/adjotel",
+        "positiveFeedbackPercent": 98.3,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "390,48 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "a6569afe-6fe8-4622-95c4-c77b56419867",
+      "offer_id": "18344296982",
+      "title": "Smartfon Apple iPhone 13 Pro Max 6 GB / 128 GB 5G szary",
+      "price": {
+        "amount": "2599.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-pro-max-6-gb-128-gb-5g-szary-a6569afe-6fe8-4622-95c4-c77b56419867?offerId=18344296982",
+      "image": "https://a.allegroimg.com/s360/117d0e/a4f3dd354594bbd37251c3afacda/IPHONE-13-PRO-MAX-6GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "14c7f1a3-4910-4270-8657-6997d86b4318",
+      "offer_id": "17546575563",
+      "title": "Smartfon Apple iPhone 12 mini 4 GB / 128 GB 5G niebieski",
+      "price": {
+        "amount": "1275.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-12-mini-4-gb-128-gb-5g-niebieski-14c7f1a3-4910-4270-8657-6997d86b4318?offerId=17546575563",
+      "image": "https://a.allegroimg.com/s360/11db9a/1c30b0c94ee98e5a79cb4fdd7a90/IPHONE-12-MINI-4GB-128GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "0844ae13-b92a-4665-955d-0402553e0f1c",
+      "offer_id": "17410079443",
+      "title": "Smartfon Apple iPhone 16 Plus 8 GB / 128 GB 5G zielony",
+      "price": {
+        "amount": "3849.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-16-plus-8-gb-128-gb-5g-zielony-0844ae13-b92a-4665-955d-0402553e0f1c?offerId=17410079443",
+      "image": "https://a.allegroimg.com/s360/114f87/b8241fca4ceba4418bb0899921be/Smartfon-APPLE-iPhone-16-Plus-128-GB-Berylowa-zielen-MXVY3HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "b28bb464-e38e-4cda-bfc5-a9f96c4d0e3a",
+      "offer_id": "17797337674",
+      "title": "2x szkło hartowane prywatyzujące 3mk Hardy Privzone 9H Apple iPhone 15 / 16",
+      "price": {
+        "amount": "84.90",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/2x-szklo-hartowane-prywatyzujace-3mk-hardy-privzone-9h-apple-iphone-15-16-17797337674?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=ODk3ZTQ5NTItMzZhNy00ZTU3LTg3ZTMtZDY5MTMxMjQ3NTFkAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/11f967/20269dfe4b08b3b75eef717710d2/2x-Szklo-hartowane-prywatyzujace-3mk-Hardy-Privzone-9H-Apple-iPhone-15-16",
+      "seller": {
+        "id": "9077147",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-0e/logotype_9077147_8f5747bf-55eb-4c7d-9048-26cad75edc08",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep 3mk",
+        "userListingUrl": "https://allegro.pl/uzytkownik/SmA-3mk",
+        "positiveFeedbackPercent": 99.3,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "84,90 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "fbfbca13-92e2-449b-9047-3f81773b7d50",
+      "offer_id": "17008915397",
+      "title": "Smartfon Apple iPhone X 3 GB / 256 GB 4G (LTE) czarny",
+      "price": {
+        "amount": "969.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-x-3-gb-256-gb-4g-lte-czarny-fbfbca13-92e2-449b-9047-3f81773b7d50?offerId=17008915397",
+      "image": "https://a.allegroimg.com/s360/1142a4/6c630739468c85179147d61c77f9/IPHONE-X-3GB-256GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "6a81a7cd-c6cd-4ba7-9a1d-f8ccdcb1602a",
+      "offer_id": "18087508425",
+      "title": "Smartfon Apple iPhone 17 Pro 12 GB / 256 GB 5G pomarańczowy",
+      "price": {
+        "amount": "5799.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-pro-12-gb-256-gb-5g-pomaranczowy-6a81a7cd-c6cd-4ba7-9a1d-f8ccdcb1602a?offerId=18087508425",
+      "image": "https://a.allegroimg.com/s360/11568b/7100f50f43c9bd76340420af6901/Smartfon-APPLE-iPhone-17-Pro-5G-256-GB-Kosmiczny-pomarancz-MG8H4HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "78ce2b43-96f5-46e8-9649-0346fb94dd3a",
+      "offer_id": "17797273058",
+      "title": "2x mocne szkło hartowane + aplikator 3mk Hardura 9H Apple iPhone 17 /16 Pro",
+      "price": {
+        "amount": "64.90",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/2x-szklo-hartowane-z-aplikatorem-3mk-hardura-9h-do-apple-iphone-16-pro-17-17797273058?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=ODQ4NWUwZDItOWYwNS00YzJkLWExNmEtZWUyMTI1Y2YxZmE1AA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/1138bd/7082773042b8a0891060d53e3ed6/2x-Szklo-hartowane-z-aplikatorem-3mk-Hardura-9H-do-Apple-iPhone-16-Pro-17",
+      "seller": {
+        "id": "9077147",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-0e/logotype_9077147_8f5747bf-55eb-4c7d-9048-26cad75edc08",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep 3mk",
+        "userListingUrl": "https://allegro.pl/uzytkownik/SmA-3mk",
+        "positiveFeedbackPercent": 99.3,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "64,90 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "e1bbc580-3048-46f1-8455-d131d804e8b3",
+      "offer_id": "18465945138",
+      "title": "Smartfon Apple iPhone 14 Pro Max 6 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "3229.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-14-pro-max-6-gb-128-gb-5g-czarny-e1bbc580-3048-46f1-8455-d131d804e8b3?offerId=18465945138",
+      "image": "https://a.allegroimg.com/s360/11030f/e16fa33043208559295a6ac3a3bb/Smartfon-Apple-iPhone-14-Pro-Max-128GB-5G-Czarny-Black",
+      "seller": {
+        "id": "96977384",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "SmartPhoneLux",
+        "userListingUrl": "https://allegro.pl/uzytkownik/SmartPhoneLux",
+        "positiveFeedbackPercent": 98.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "3239,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "7bf1f3df-2ae3-4a91-9f0b-18ffad3e4a0f",
+      "offer_id": "18344301515",
+      "title": "Smartfon Apple iPhone 12 4 GB / 256 GB 5G czarny",
+      "price": {
+        "amount": "1695.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-12-4-gb-256-gb-5g-czarny-7bf1f3df-2ae3-4a91-9f0b-18ffad3e4a0f?offerId=18344301515",
+      "image": "https://a.allegroimg.com/s360/110125/b592a6924271bd432b2305d93f0a/IPHONE-12-4GB-256GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "6bad30bd-c54d-4ba5-910a-8e2fb27b6228",
+      "offer_id": "18344312324",
+      "title": "Smartfon Apple iPhone XS 4 GB / 256 GB 4G (LTE) szary",
+      "price": {
+        "amount": "1095.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-xs-4-gb-256-gb-4g-lte-szary-6bad30bd-c54d-4ba5-910a-8e2fb27b6228?offerId=18344312324",
+      "image": "https://a.allegroimg.com/s360/11cbad/ee00addd4aa9b2d2ce014db01bb8/IPHONE-XS-4GB-256GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "71efdca2-5940-4182-bb81-3411c54bae7c",
+      "offer_id": "17367983176",
+      "title": "Smartfon Apple iPhone 16e 8 GB / 256 GB 5G biały",
+      "price": {
+        "amount": "2996.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-16e-8-gb-256-gb-5g-bialy-71efdca2-5940-4182-bb81-3411c54bae7c?offerId=17367983176",
+      "image": "https://a.allegroimg.com/s360/11d988/8d017f7c49bfb2d0f17ab441bc23/Apple-iPhone-16e-256-GB-bialy",
+      "seller": {
+        "id": "11288614",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-b3/logotype_11288614_681f3dfa-d32a-485b-a58b-542345634e26"
+        },
+        "title": "Firma",
+        "superSeller": false,
+        "login": "abfotopl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/abfotopl",
+        "positiveFeedbackPercent": 96.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "3001,00 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "250fca33-b398-4a06-9d40-1d7203d1607a",
+      "offer_id": "18220148365",
+      "title": "Smartfon Apple iPhone 15 Pro Max 8 GB / 1 TB 5G szary",
+      "price": {
+        "amount": "5499.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-15-pro-max-8-gb-1-tb-5g-szary-250fca33-b398-4a06-9d40-1d7203d1607a?offerId=18220148365",
+      "image": "https://a.allegroimg.com/s360/112a47/6991a3be4a1fb9955499d63a6e76/SMARTPHONE-APPLE-IPHONE-15-PRO-MAX-1TB-NATURAL-TITANIUM-UNIKAT",
+      "seller": {
+        "id": "40658045",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "Telefony_GSM_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/Telefony_GSM_pl",
+        "positiveFeedbackPercent": 97.2,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "5509,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "f7c28000-5d55-45b3-ab03-24adc786a69f",
+      "offer_id": "17797266951",
+      "title": "2x mocne szkło hartowane + aplikator 3mk Hardura 9H na Apple iPhone 17 Pro",
+      "price": {
+        "amount": "64.90",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/2x-mocne-szklo-hartowane-z-aplikatorem-3mk-hardura-9h-apple-iphone-17-pro-17797266951?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=ODQ4NWUwZDItOWYwNS00YzJkLWExNmEtZWUyMTI1Y2YxZmE1AA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/11f994/8e527e724e36aecc43704183ae27/2x-Mocne-szklo-hartowane-z-aplikatorem-3mk-Hardura-9H-Apple-iPhone-17-Pro",
+      "seller": {
+        "id": "9077147",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-0e/logotype_9077147_8f5747bf-55eb-4c7d-9048-26cad75edc08",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep 3mk",
+        "userListingUrl": "https://allegro.pl/uzytkownik/SmA-3mk",
+        "positiveFeedbackPercent": 99.3,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "64,90 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "69b03aae-3229-43a4-85f6-fea79492597f",
+      "offer_id": "17530389232",
+      "title": "Wyświetlacz do iPhone 13 ekran LCD Incell A2633 A2482 A2631 + uszczelka",
+      "price": {
+        "amount": "83.95",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/wyswietlacz-do-iphone-13-ekran-lcd-incell-ramka-uszczelka-17530389232?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=NDUyZjc5N2YtMTcwNi00NTc2LWJhZTYtMTQ2NzhmODk2YzZiAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/11c11b/a27d4d354e9d912803075de8611b/Wyswietlacz-do-iPhone-13-Ekran-LCD-Incell-RAMKA-Uszczelka",
+      "seller": {
+        "id": "58023177",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-f5/logotype_58023177_ddd41067-98b1-4629-8b6d-fe5b80385995"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "zila_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/zila_pl",
+        "positiveFeedbackPercent": 98.6,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "b9787892-771b-40cc-a552-f650f04ef03d",
+      "offer_id": "18566540589",
+      "title": "Smartfon Apple iPhone 11 4 GB / 64 GB 4G (LTE) biały",
+      "price": {
+        "amount": "1299.99",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-11-4-gb-64-gb-4g-lte-bialy-b9787892-771b-40cc-a552-f650f04ef03d?offerId=18566540589",
+      "image": "https://a.allegroimg.com/s360/290019/c82639f341a19c7cbc78a50608c2/SMARTFON-APPLE-IPHONE-11-4-64-GB-LTE-ZAPLOMBOWANY-ZESTAW-EU-BIALY",
+      "seller": {
+        "id": "142370633",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "NEX-TEK",
+        "userListingUrl": "https://allegro.pl/uzytkownik/NEX-TEK",
+        "positiveFeedbackPercent": 100,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1310,48 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "9e8deda3-e7e4-470e-8238-531161ff3272",
+      "offer_id": "18584314069",
+      "title": "Smartfon Apple iPhone 13 4 GB / 128 GB 5G niebieski",
+      "price": {
+        "amount": "1869.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-4-gb-128-gb-5g-niebieski-9e8deda3-e7e4-470e-8238-531161ff3272?offerId=18584314069",
+      "image": "https://a.allegroimg.com/s360/11d11b/2d0605f943c5b0287f73ca219f2f/Smartfon-APPLE-IPHONE-13-128GB-PELNY-KOMPLET",
+      "seller": {
+        "id": "90535759",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "No1Phone",
+        "userListingUrl": "https://allegro.pl/uzytkownik/No1Phone",
+        "positiveFeedbackPercent": 97.4,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1879,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "678b85a8-0d0b-465c-a5cc-92d73749d994",
+      "offer_id": "18499418600",
+      "title": "Smartfon Apple iPhone 13 mini 4 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "1799.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-mini-4-gb-128-gb-5g-czarny-678b85a8-0d0b-465c-a5cc-92d73749d994?offerId=18499418600",
+      "image": "https://a.allegroimg.com/s360/298940/fb77e7d04cf6b0da17f85240d6ae/Smartfon-Apple-iPhone-13-mini-4-GB-128-GB-5G-kolor-Czarny-Midnight",
+      "seller": {
+        "id": "142706276",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "Sygnallo",
+        "userListingUrl": "https://allegro.pl/uzytkownik/Sygnallo",
+        "positiveFeedbackPercent": 100,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1809,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "c909f215-d1d6-4cb9-9a18-a76ceffcec63",
+      "offer_id": "17493373737",
+      "title": "Smartfon Apple iPhone 12 mini 4 GB / 256 GB 5G czarny",
+      "price": {
+        "amount": "1399.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-12-mini-4-gb-256-gb-5g-czarny-c909f215-d1d6-4cb9-9a18-a76ceffcec63?offerId=17493373737",
+      "image": "https://a.allegroimg.com/s360/11ce08/6cf254454c11a1bd4f3648411b14/IPHONE-12-MINI-4GB-256GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "c09bb81a-c35e-49e9-ba51-4cca55d3943c",
+      "offer_id": "17797274100",
+      "title": "Szkło hartowane 3MK 0,33 mm z aplikatorem ProFIT do iPhone 15/16",
+      "price": {
+        "amount": "64.90",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/2x-mocne-szklo-hartowane-z-aplikatorem-3mk-hardura-9h-do-apple-iphone-15-16-17797274100?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=MDhkZjhmZTgtYjNhZi00ODQ3LWIwYWYtMjU5MmQzZTg2YTYyAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/11ae23/ede3083e4e69a85e4c250b9943d4/2x-Mocne-szklo-hartowane-z-aplikatorem-3mk-Hardura-9H-do-Apple-iPhone-15-16",
+      "seller": {
+        "id": "9077147",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-0e/logotype_9077147_8f5747bf-55eb-4c7d-9048-26cad75edc08",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep 3mk",
+        "userListingUrl": "https://allegro.pl/uzytkownik/SmA-3mk",
+        "positiveFeedbackPercent": 99.3,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "64,90 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "83c240e7-68f7-481f-9974-e816cf8b18ec",
+      "offer_id": "17036959541",
+      "title": "Szkło hartowane Spacecase do Apple iPhone 15, iPhone 16 2 szt.",
+      "price": {
+        "amount": "49.90",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/szklo-hartowane-do-iphone-15-16-szybka-z-aplikatorem-quickfit-2-sztuki-17036959541?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=YTU2OGI5OWItYTI2My00OTU2LWJiNjYtOGJmMjI4MWIyMmVhAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/11277e/9f14bb954d9fbd4c778248e09090/SZKLO-HARTOWANE-DO-IPHONE-15-16-SZYBKA-Z-APLIKATOREM-QUICKFIT-2-SZTUKI",
+      "seller": {
+        "id": "34148192",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-0c/logotype_34148192_508d4d66-9019-4fd5-9926-a28bd9af624e"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "mbrands_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/mbrands_pl",
+        "positiveFeedbackPercent": 99.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "57,89 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "2c471a7b-e083-42cc-b811-faffef64ef77",
+      "offer_id": "16565952961",
+      "title": "Smartfon Apple iPhone 15 6 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "1849.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/smartfon-apple-iphone-15-128gb-czarny-stan-bardzo-dobry-standard-sim-16565952961?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=ZTdlYzZjOWItZmMxNi00MjQ0LThlYzItYzI4NTU0ZWNjZTkxAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/1164b4/71a95b784debbbbec8f534b53974/Smartfon-Apple-iPhone-15-128GB-Czarny-Stan-bardzo-dobry-Standard-SIM",
+      "seller": {
+        "id": "46619855",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "luxtrade-pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/luxtrade-pl",
+        "positiveFeedbackPercent": 99.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1849,00 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "28e86376-2759-4504-a55d-c62060720013",
+      "offer_id": "18032282470",
+      "title": "Smartfon Apple iPhone 13 mini 4 GB / 256 GB 5G czarny",
+      "price": {
+        "amount": "2049.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-mini-4-gb-256-gb-5g-czarny-28e86376-2759-4504-a55d-c62060720013?offerId=18032282470",
+      "image": "https://a.allegroimg.com/s360/11b300/494eb3bd4f988eb523c392ba4986/Smartfon-Apple-iPhone-13-Mini-256GB-5G-Black-Czarny",
+      "seller": {
+        "id": "96977384",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "SmartPhoneLux",
+        "userListingUrl": "https://allegro.pl/uzytkownik/SmartPhoneLux",
+        "positiveFeedbackPercent": 98.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "2059,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "9d14489e-a3a7-4dcc-b39e-d09c543a1baa",
+      "offer_id": "14748499806",
+      "title": "Smartfon Apple iPhone 14 Pro 6 GB / 128 GB 5G czarny",
+      "price": {
+        "amount": "1749.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/oferta/apple-iphone-14-pro-128-gb-czarny-stan-bardzo-dobry-standard-sim-14748499806?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=ZTdlYzZjOWItZmMxNi00MjQ0LThlYzItYzI4NTU0ZWNjZTkxAA&bi_t=ape",
+      "image": "https://a.allegroimg.com/s360/1177e3/c04bfb284fdbae7c22ccad096d7f/Apple-iPhone-14-Pro-128-GB-Czarny-Stan-bardzo-dobry-Standard-SIM",
+      "seller": {
+        "id": "46619855",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "luxtrade-pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/luxtrade-pl",
+        "positiveFeedbackPercent": 99.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1749,00 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "ea0447c2-17c1-47cb-9c9e-25bf956ab114",
+      "offer_id": "18223245512",
+      "title": "Smartfon Apple iPhone 17 8 GB / 512 GB 5G czarny",
+      "price": {
+        "amount": "4749.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-8-gb-512-gb-5g-czarny-ea0447c2-17c1-47cb-9c9e-25bf956ab114?offerId=18223245512",
+      "image": "https://a.allegroimg.com/s360/119fb1/a10b296940d69c1b5c98d7eef085/Smartfon-APPLE-iPhone-17-512-GB-Czarny-MG6P4HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "63ce3575-fe1d-4357-99af-2770d4243ca0",
+      "offer_id": "18344313787",
+      "title": "Apple iPhone 14 512GB czarny",
+      "price": {
+        "amount": "2695.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/apple-iphone-14-512gb-czarny-63ce3575-fe1d-4357-99af-2770d4243ca0?offerId=18344313787",
+      "image": "https://a.allegroimg.com/s360/115a9d/2293c45c4c398add5a0058253047/IPHONE-14-6GB-512GB-Folia-fabryczna-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "add6aca0-3e98-4d6b-b61b-60b9745666dd",
+      "offer_id": "17546438636",
+      "title": "Smartfon Apple iPhone 13 mini 4 GB / 256 GB 5G biały",
+      "price": {
+        "amount": "2089.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-mini-4-gb-256-gb-5g-bialy-add6aca0-3e98-4d6b-b61b-60b9745666dd?offerId=17546438636",
+      "image": "https://a.allegroimg.com/s360/11ce17/5b949d424675a9027c034bd5af12/IPHONE-13-MINI-4GB-256GB-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "d694a277-65e6-4771-92bb-0ddfbf89c5b9",
+      "offer_id": "18570564858",
+      "title": "Smartfon Apple iPhone 13 mini 4 GB / 128 GB 5G czerwony",
+      "price": {
+        "amount": "1855.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-mini-4-gb-128-gb-5g-czerwony-d694a277-65e6-4771-92bb-0ddfbf89c5b9?offerId=18570564858",
+      "image": "https://a.allegroimg.com/s360/113715/f6b9a3f84514be38c560ef82bfb8/Smartfon-APPLE-IPHONE-13-Mini-128GB-PELNY-KOMPLET",
+      "seller": {
+        "id": "90535759",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "No1Phone",
+        "userListingUrl": "https://allegro.pl/uzytkownik/No1Phone",
+        "positiveFeedbackPercent": 97.4,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1865,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "6690346f-2a25-4cf2-ad2b-3f42b22d6b7b",
+      "offer_id": "17923206106",
+      "title": "Smartfon Apple iPhone Air 12 GB / 256 GB 5G czarny",
+      "price": {
+        "amount": "4399.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-air-12-gb-256-gb-5g-czarny-6690346f-2a25-4cf2-ad2b-3f42b22d6b7b?offerId=17923206106",
+      "image": "https://a.allegroimg.com/s360/11149c/b0e13f2f4cc89df51936fd2ef270/Apple-iPhone-Air-256GB-Space-Black",
+      "seller": {
+        "id": "48179485",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2f/logotype_48179485_2660dadb-5cc8-471a-aafb-2b15f75571da"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "iDream_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/iDream_pl",
+        "positiveFeedbackPercent": 99.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "4fe78ff6-e564-49b0-8ba0-2e3bd29ed44c",
+      "offer_id": "18361075921",
+      "title": "Smartfon Apple iPhone 17 Pro Max 12 GB / 512 GB 5G eSIM niebieski",
+      "price": {
+        "amount": "7079.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-pro-max-12-gb-512-gb-5g-esim-niebieski-4fe78ff6-e564-49b0-8ba0-2e3bd29ed44c?offerId=18361075921",
+      "image": "https://a.allegroimg.com/s360/2966fb/037687204d959ea29b297b78daf1/Smartfon-Apple-iPhone-17-Pro-Max-12-GB-512-GB-Deep-Blue",
+      "seller": {
+        "id": "1680",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-ae/logotype_1680_4a9e8591-04a2-4e35-9bcf-1aeb6afdff86",
+          "name": "Oficjalny sklep"
+        },
+        "title": "Oficjalny sklep",
+        "superSeller": true,
+        "login": "Oficjalny sklep Allegro",
+        "userListingUrl": "https://allegro.pl/uzytkownik/Allegro",
+        "positiveFeedbackPercent": 99.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "7089,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "16b498ba-efbf-4141-8848-6f08d28beb8b",
+      "offer_id": "18544583006",
+      "title": "Smartfon Apple iPhone 11 Pro 4 GB / 64 GB 4G (LTE) szary",
+      "price": {
+        "amount": "1399.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-11-pro-4-gb-64-gb-4g-lte-szary-16b498ba-efbf-4141-8848-6f08d28beb8b?offerId=18544583006",
+      "image": "https://a.allegroimg.com/s360/29f80a/58888ee54692865b31d51cf93509/Smartfon-Apple-iPhone-11-Pro-4-GB-64-GB-4G-LTE-szary-NOWY",
+      "seller": {
+        "id": "36790633",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "adjotel",
+        "userListingUrl": "https://allegro.pl/uzytkownik/adjotel",
+        "positiveFeedbackPercent": 98.3,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1409,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "1119d1fa-23e5-4e45-8038-809164d38b49",
+      "offer_id": "17619398846",
+      "title": "Smartfon Apple iPhone 13 mini 4 GB / 256 GB 5G niebieski",
+      "price": {
+        "amount": "2129.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-mini-4-gb-256-gb-5g-niebieski-1119d1fa-23e5-4e45-8038-809164d38b49?offerId=17619398846",
+      "image": "https://a.allegroimg.com/s360/114c83/33b5a5dc4ce4a3d96822cabe6e46/IPHONE-13-MINI-4GB-256GB-pelny-zestaw",
+      "seller": {
+        "id": "91810959",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "AGD_Media_Market",
+        "userListingUrl": "https://allegro.pl/uzytkownik/AGD_Media_Market",
+        "positiveFeedbackPercent": 95.9,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "eeddccfa-6e14-49a1-a3b5-e801ee36a4af",
+      "offer_id": "18223245755",
+      "title": "Smartfon Apple iPhone 17 8 GB / 512 GB 5G zielony",
+      "price": {
+        "amount": "4849.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-8-gb-512-gb-5g-zielony-eeddccfa-6e14-49a1-a3b5-e801ee36a4af?offerId=18223245755",
+      "image": "https://a.allegroimg.com/s360/118b64/f4ab948d4ea4ae9006794e0274f5/Smartfon-APPLE-iPhone-17-512-GB-Szalwia-MG6V4HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "f0f11155-ced4-407b-ae5b-3f7cd2fbb0d6",
+      "offer_id": "16503744393",
+      "title": "Smartfon Apple iPhone 16 Plus 8 GB / 256 GB 5G niebieski",
+      "price": {
+        "amount": "4349.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-16-plus-8-gb-256-gb-5g-niebieski-f0f11155-ced4-407b-ae5b-3f7cd2fbb0d6?offerId=16503744393",
+      "image": "https://a.allegroimg.com/s360/1169ae/32926c774b548e75528f4508e963/Apple-iPhone-16-Plus-256GB-Ultramaryna",
+      "seller": {
+        "id": "27342349",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-ed/logotype_27342349_cfb85316-ebb3-4719-b699-12ae6683f8cd"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "lantre_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/lantre_pl",
+        "positiveFeedbackPercent": 97.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "a840360a-76f3-4812-b927-d1f3aeb7a660",
+      "offer_id": "17167834543",
+      "title": "Smartfon Apple iPhone 16 Plus 8 GB / 512 GB 5G różowy",
+      "price": {
+        "amount": "5499.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-16-plus-8-gb-512-gb-5g-rozowy-a840360a-76f3-4812-b927-d1f3aeb7a660?offerId=17167834543",
+      "image": "https://a.allegroimg.com/s360/11e3da/4eb982dd47fbae72bbe3940d4c5b/Smartfon-APPLE-iPhone-16-Plus-512-GB-Rozowy-MY253HX-A",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "7588f688-a52f-456f-a728-8609035325e5",
+      "offer_id": "18387674466",
+      "title": "Smartfon Apple iPhone 14 Pro Max 6/256 GB 5G czarny",
+      "price": {
+        "amount": "3599.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-14-pro-max-6-256-gb-5g-czarny-7588f688-a52f-456f-a728-8609035325e5?offerId=18387674466",
+      "image": "https://a.allegroimg.com/s360/11030f/e16fa33043208559295a6ac3a3bb/Smartfon-Apple-iPhone-14-Pro-Max-256GB-5G-Czarny-Black",
+      "seller": {
+        "id": "96977384",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "SmartPhoneLux",
+        "userListingUrl": "https://allegro.pl/uzytkownik/SmartPhoneLux",
+        "positiveFeedbackPercent": 98.1,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "3609,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "64e62feb-9a91-47d9-a058-63ea5456d42f",
+      "offer_id": "18431059239",
+      "title": "Smartfon Apple iPhone 17 Pro Max 12 GB / 1 TB 5G srebrny",
+      "price": {
+        "amount": "7808.52",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-pro-max-12-gb-1-tb-5g-srebrny-64e62feb-9a91-47d9-a058-63ea5456d42f?offerId=18431059239",
+      "image": "https://a.allegroimg.com/s360/1188f3/0cbf4e2c49d5a8cba5c460f77414/Smartfon-Apple-iPhone-17-Pro-Max-1TB-Silver",
+      "seller": {
+        "id": "14321405",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "aguri_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/aguri_pl",
+        "positiveFeedbackPercent": 98.7,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "7818,51 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "f24f824d-6088-4042-8d8e-8d928f06515e",
+      "offer_id": "18238100310",
+      "title": "Smartfon Apple iPhone XS Max 4 GB / 64 GB 4G (LTE) szary",
+      "price": {
+        "amount": "1299.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-xs-max-4-gb-64-gb-4g-lte-szary-f24f824d-6088-4042-8d8e-8d928f06515e?offerId=18238100310",
+      "image": "https://a.allegroimg.com/s360/112890/768bcb9f41b19082af80090ed365/SMARTPHONE-iPHONE-XS-MAX-64GB-SPACE-GRAY-JEDYNY-W-POLSCE",
+      "seller": {
+        "id": "40658045",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "Telefony_GSM_pl",
+        "userListingUrl": "https://allegro.pl/uzytkownik/Telefony_GSM_pl",
+        "positiveFeedbackPercent": 97.2,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1309,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "8253722a-8b7a-4c67-a98b-982ab58d3b84",
+      "offer_id": "17308822225",
+      "title": "Smartfon Apple iPhone 16e 8 GB / 512 GB 5G czarny",
+      "price": {
+        "amount": "3749.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-16e-8-gb-512-gb-5g-czarny-8253722a-8b7a-4c67-a98b-982ab58d3b84?offerId=17308822225",
+      "image": "https://a.allegroimg.com/s360/114ead/28b57ff14a88be4859558596c25f/Smartfon-APPLE-iPhone-16e-5G-512-GB-Czarny",
+      "seller": {
+        "id": "77880085",
+        "brandzone": {
+          "logotypeUrl": "https://assets.allegrostatic.com/seller-extras-2d/logotype_77880085_f06ebb6d-e16f-4116-93b3-9565e3840fee"
+        },
+        "title": "Firma",
+        "superSeller": true,
+        "login": "MediaMarktPolska",
+        "userListingUrl": "https://allegro.pl/uzytkownik/MediaMarktPolska",
+        "positiveFeedbackPercent": 97.5,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "darmowa dostawa"
+      }
+    },
+    {
+      "product_id": "3cd1f3dc-32ea-435b-829a-0f667d4d9d8c",
+      "offer_id": "18542100051",
+      "title": "Smartfon Apple iPhone 11 Pro Max 4 GB / 256 GB 4G (LTE) srebrny",
+      "price": {
+        "amount": "1899.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-11-pro-max-4-gb-256-gb-4g-lte-srebrny-3cd1f3dc-32ea-435b-829a-0f667d4d9d8c?offerId=18542100051",
+      "image": "https://a.allegroimg.com/s360/11bad3/91b7e4304ed78812dc5914f553fc/Smartfon-Apple-iPhone-11-Pro-Max-4-GB-256-GB-4G-LTE-srebrny-NOWY",
+      "seller": {
+        "id": "36790633",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "adjotel",
+        "userListingUrl": "https://allegro.pl/uzytkownik/adjotel",
+        "positiveFeedbackPercent": 98.3,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "1909,49 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "5617be4d-03b5-4ba6-87ed-083f8fd1b796",
+      "offer_id": "18173844745",
+      "title": "Smartfon Apple iPhone 17 Pro 12 GB / 1 TB 5G pomarańczowy",
+      "price": {
+        "amount": "7576.77",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-17-pro-12-gb-1-tb-5g-pomaranczowy-5617be4d-03b5-4ba6-87ed-083f8fd1b796?offerId=18173844745",
+      "image": "https://a.allegroimg.com/s360/11c02f/d5018d394d37ae204057f6e36d12/Apple-iPhone-17-Pro-1TB-kosmiczna-pomarancza",
+      "seller": {
+        "id": "125230215",
+        "title": "Firma",
+        "superSeller": false,
+        "login": "TSBohemia",
+        "userListingUrl": "https://allegro.pl/uzytkownik/TSBohemia",
+        "positiveFeedbackPercent": 96.6,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "7596,76 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "3e3553a7-49d4-405b-bde6-b1e1b70547ee",
+      "offer_id": "18572525810",
+      "title": "Smartfon Apple iPhone 13 4 GB / 128 GB 5G zielony",
+      "price": {
+        "amount": "2299.99",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegro.pl/produkt/smartfon-apple-iphone-13-4-gb-128-gb-5g-zielony-3e3553a7-49d4-405b-bde6-b1e1b70547ee?offerId=18572525810",
+      "image": "https://a.allegroimg.com/s360/29cd7f/5dc1807e4981a868bfafbe53151e/SMARTFON-APPLE-IPHONE-13-4-128-GB-5G-ZAPLOMBOWANY-ZESTAW-EU-ZIELONY",
+      "seller": {
+        "id": "142370633",
+        "title": "Firma",
+        "superSeller": true,
+        "login": "NEX-TEK",
+        "userListingUrl": "https://allegro.pl/uzytkownik/NEX-TEK",
+        "positiveFeedbackPercent": 100,
+        "positiveFeedbackIcon": false,
+        "company": true
+      },
+      "delivery_info": {
+        "text": "2310,48 zł z dostawą"
+      }
+    },
+    {
+      "product_id": "1091041846",
+      "offer_id": "1091041846",
+      "title": "Etui iPhone 17 Pro MagSafe z osłoną aparatu półprzezroczyste navy blue",
+      "price": {
+        "amount": "28.00",
+        "currency": "PLN"
+      },
+      "currency": "PLN",
+      "url": "https://allegrolokalnie.pl/oferta/etui-iphone-17-pro-magsafe-z-oslona-aparatu-polprzezroczyste-navy-blue-wze?rep=1091041846",
+      "image": "https://a.allegroimg.com/s360/1e932b/816c8ebb44e4879bed6b40d209c9/Etui-iPhone-17-Pro-MagSafe-z-oslona-aparatu-polprzezroczyste-navy-blue",
+      "seller": {
+        "id": "14956223",
+        "title": "Prywatny sprzedawca",
+        "superSeller": false,
+        "login": "arel74",
+        "userListingUrl": "https://allegro.pl/uzytkownik/arel74",
+        "positiveFeedbackIcon": false,
+        "company": false
+      },
+      "delivery_info": null
+    }
+  ],
+  "scraped_pages": 1,
+  "products_count": 74,
+  "total_pages": 100,
+  "total_count": 1271754
+}

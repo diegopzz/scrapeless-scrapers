@@ -1,0 +1,3009 @@
+[
+  {
+    "zpid": 15192198,
+    "palsId": "127007_424004642",
+    "stateId": 9,
+    "countyId": 3227,
+    "cityId": 20330,
+    "country": "USA",
+    "isNonOwnerOccupied": false,
+    "photoCount": 1,
+    "hdpTypeDimension": "RecentlySold",
+    "listingTypeDimension": "Unknown Listed By",
+    "rentalMarketingTreatments": null,
+    "topNavJson": {
+      "topnav": {
+        "json": {
+          "logo": {
+            "text": "Zillow Real Estate",
+            "href": "/",
+            "gaClickEventObj": {}
+          },
+          "main": {
+            "sections": [
+              {
+                "link": {
+                  "text": "Buy",
+                  "href": "/homes/for_sale/",
+                  "classString": "noroute"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "buy",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "/homes/for_sale/",
+                      "level_one_txt": "Buy",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "buy"
+                },
+                "subsections": [
+                  {
+                    "title": "San Francisco homes for sale",
+                    "links": [
+                      [
+                        {
+                          "text": "Homes for sale",
+                          "href": "/san-francisco-ca/",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/san-francisco-ca/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "Homes for sale"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Foreclosures",
+                          "href": "/san-francisco-ca/foreclosures/",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/san-francisco-ca/foreclosures/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "Foreclosures"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "For sale by owner",
+                          "href": "/san-francisco-ca/fsbo/",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/san-francisco-ca/fsbo/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "For sale by owner"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Open houses",
+                          "href": "/san-francisco-ca/open-house/",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/san-francisco-ca/open-house/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "Open houses"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      [
+                        {
+                          "text": "New construction",
+                          "href": "/san-francisco-ca/new-homes/",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/san-francisco-ca/new-homes/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "New construction"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Coming soon",
+                          "href": "/san-francisco-ca/coming-soon/",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/san-francisco-ca/coming-soon/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "Coming soon"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Recent home sales",
+                          "href": "/san-francisco-ca/sold/",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/san-francisco-ca/sold/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "Recent home sales"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "All homes",
+                          "href": "/browse/homes/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/browse/homes/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "San Francisco homes for sale",
+                                "level_three_txt": "All homes"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  },
+                  {
+                    "title": "Resources",
+                    "links": [
+                      [
+                        {
+                          "text": "Home Buying Guide",
+                          "href": "/learn/category/buying/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/learn/category/buying/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "Resources",
+                                "level_three_txt": "Home Buying Guide"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Foreclosure center",
+                          "href": "/learn/tag/foreclosures/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/learn/tag/foreclosures/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "Resources",
+                                "level_three_txt": "Foreclosure center"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Real estate app",
+                          "href": "/buy/app-download/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/buy/app-download/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "Resources",
+                                "level_three_txt": "Real estate app"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Down payment assistance",
+                          "href": "/down-payment-assistance/",
+                          "gaClickEventObj": {
+                            "category": "TopNav",
+                            "action": "Down Payment Assistance",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/down-payment-assistance/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "Resources",
+                                "level_three_txt": "Down payment assistance"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Find a buyer's agent",
+                          "href": "/professionals/real-estate-agent-reviews/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/professionals/real-estate-agent-reviews/",
+                                "level_one_txt": "Buy",
+                                "level_two_txt": "Resources",
+                                "level_three_txt": "Find a buyer's agent"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "text": "Rent",
+                  "href": "/san-francisco-ca/rentals/",
+                  "classString": "noroute"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "rent",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "/san-francisco-ca/rentals/",
+                      "level_one_txt": "Rent",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "rent"
+                },
+                "subsections": [
+                  {
+                    "title": "San Francisco rentals",
+                    "links": [
+                      {
+                        "text": "Search apartments for rent",
+                        "href": "/san-francisco-ca/apartments/",
+                        "classString": "noroute",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/san-francisco-ca/apartments/",
+                              "level_one_txt": "Rent",
+                              "level_two_txt": "San Francisco rentals",
+                              "level_three_txt": "Search apartments for rent"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Search houses for rent",
+                        "href": "/san-francisco-ca/rent-houses/",
+                        "classString": "noroute",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/san-francisco-ca/rent-houses/",
+                              "level_one_txt": "Rent",
+                              "level_two_txt": "San Francisco rentals",
+                              "level_three_txt": "Search houses for rent"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Search all rental listings",
+                        "href": "/san-francisco-ca/rentals/",
+                        "classString": "noroute",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/san-francisco-ca/rentals/",
+                              "level_one_txt": "Rent",
+                              "level_two_txt": "San Francisco rentals",
+                              "level_three_txt": "Search all rental listings"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Browse all rental buildings",
+                        "href": "/browse/b/",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/browse/b/",
+                              "level_one_txt": "Rent",
+                              "level_two_txt": "San Francisco rentals",
+                              "level_three_txt": "Browse all rental buildings"
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Tools for renters",
+                    "links": [
+                      [
+                        {
+                          "text": "Estimate what you can afford",
+                          "href": "/rent-affordability-calculator",
+                          "gaClickEventObj": {
+                            "category": "renter_tools",
+                            "action": "click",
+                            "label": "affordability",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rent-affordability-calculator",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "Estimate what you can afford"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "See your applications",
+                          "href": "/renter-hub/applications/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/renter-hub/applications/",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "See your applications"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Manage your tours",
+                          "href": "/tours/manage?clickOrigin=main_nav",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/tours/manage?clickOrigin=main_nav",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "Manage your tours"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Pay your rent",
+                          "href": "/renter-hub/payments?fromWhere=make-a-payment",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/renter-hub/payments?fromWhere=make-a-payment",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "Pay your rent"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      [
+                        {
+                          "text": "Build your credit",
+                          "href": "/rent/rent-reporting/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rent/rent-reporting/",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "Build your credit"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Get renters insurance",
+                          "href": "/rent/renters-insurance/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rent/renters-insurance/",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "Get renters insurance"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Explore housing voucher programs",
+                          "href": "/rent/rental-vouchers/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rent/rental-vouchers/",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "Explore housing voucher programs"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Learn more about renting",
+                          "href": "/learn/category/renting/",
+                          "gaClickEventObj": {
+                            "category": "renter_tools",
+                            "action": "click",
+                            "label": "guide",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/learn/category/renting/",
+                                "level_one_txt": "Rent",
+                                "level_two_txt": "Tools for renters",
+                                "level_three_txt": "Learn more about renting"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "text": "Sell",
+                  "href": "/sell/"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "sell",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "/sell/",
+                      "level_one_txt": "Sell",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "sell"
+                },
+                "subsections": [
+                  {
+                    "title": "Resources",
+                    "links": [
+                      {
+                        "text": "Explore your options",
+                        "href": "/sell/",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/sell/",
+                              "level_one_txt": "Sell",
+                              "level_two_txt": "Resources",
+                              "level_three_txt": "Explore your options"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "See your home's Zestimate",
+                        "href": "/how-much-is-my-home-worth/",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/how-much-is-my-home-worth/",
+                              "level_one_txt": "Sell",
+                              "level_two_txt": "Resources",
+                              "level_three_txt": "See your home's Zestimate"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "San Francisco housing market",
+                        "href": "/home-values/20330/san-francisco-ca/",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/home-values/20330/san-francisco-ca/",
+                              "level_one_txt": "Sell",
+                              "level_two_txt": "Resources",
+                              "level_three_txt": "San Francisco housing market"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Sellers guide",
+                        "href": "/learn/category/selling/",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/learn/category/selling/",
+                              "level_one_txt": "Sell",
+                              "level_two_txt": "Resources",
+                              "level_three_txt": "Sellers guide"
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Selling options",
+                    "links": [
+                      {
+                        "text": "Find a seller's agent",
+                        "href": "/professionals/real-estate-agent-reviews/san-francisco-ca/?isSelling=true",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/professionals/real-estate-agent-reviews/san-francisco-ca/?isSelling=true",
+                              "level_one_txt": "Sell",
+                              "level_two_txt": "Selling options",
+                              "level_three_txt": "Find a seller's agent"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Post For Sale by Owner",
+                        "href": "/for-sale-by-owner/",
+                        "gaClickEventObj": {
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/for-sale-by-owner/",
+                              "level_one_txt": "Sell",
+                              "level_two_txt": "Selling options",
+                              "level_three_txt": "Post For Sale by Owner"
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "text": "Get a mortgage",
+                  "href": "/homeloans/"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "mortgage",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "/homeloans/",
+                      "level_one_txt": "Get a mortgage",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "mortgage"
+                },
+                "subsections": [
+                  {
+                    "title": "Started a loan application?",
+                    "links": [
+                      [
+                        {
+                          "text": "Home loans dashboard",
+                          "href": "/homeloans/mortgage/dashboard/login",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/homeloans/mortgage/dashboard/login",
+                                "level_one_txt": "Get a mortgage",
+                                "level_two_txt": "Started a loan application?",
+                                "level_three_txt": "Home loans dashboard"
+                              }
+                            }
+                          },
+                          "annotation": "Pick up where you left off on your Zillow Home Loans dashboard."
+                        }
+                      ]
+                    ]
+                  },
+                  {
+                    "title": "Your mortgage",
+                    "links": [
+                      [
+                        {
+                          "text": "Discover Zillow Home Loans",
+                          "href": "/homeloans/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/homeloans/",
+                                "level_one_txt": "Get a mortgage",
+                                "level_two_txt": "Your mortgage",
+                                "level_three_txt": "Discover Zillow Home Loans"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Calculate your BuyAbility",
+                          "href": "/homeloans/buyability/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/homeloans/buyability/",
+                                "level_one_txt": "Get a mortgage",
+                                "level_two_txt": "Your mortgage",
+                                "level_three_txt": "Calculate your BuyAbility"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Get pre-qualified",
+                          "href": "/homeloans/eligibility/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav&source=Zillow&channel=Nav",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/homeloans/eligibility/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav&source=Zillow&channel=Nav",
+                                "level_one_txt": "Get a mortgage",
+                                "level_two_txt": "Your mortgage",
+                                "level_three_txt": "Get pre-qualified"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  },
+                  {
+                    "title": "Mortgage tools",
+                    "links": [
+                      [
+                        {
+                          "text": "Estimate your mortgage payment",
+                          "href": "/mortgage-calculator/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/mortgage-calculator/",
+                                "level_one_txt": "Get a mortgage",
+                                "level_two_txt": "Mortgage tools",
+                                "level_three_txt": "Estimate your mortgage payment"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "See current mortgage rates",
+                          "href": "/mortgage-rates/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/mortgage-rates/",
+                                "level_one_txt": "Get a mortgage",
+                                "level_two_txt": "Mortgage tools",
+                                "level_three_txt": "See current mortgage rates"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Learn about financing a home",
+                          "href": "/learn/category/financing/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/learn/category/financing/",
+                                "level_one_txt": "Get a mortgage",
+                                "level_two_txt": "Mortgage tools",
+                                "level_three_txt": "Learn about financing a home"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "text": "Find an agent",
+                  "href": "/professionals/real-estate-agent-reviews/"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "agent_finder",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "/professionals/real-estate-agent-reviews/",
+                      "level_one_txt": "Find an agent",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "agent_finder"
+                },
+                "subsections": [
+                  {
+                    "title": "Looking for pros?",
+                    "links": [
+                      [
+                        {
+                          "text": "Real estate agents",
+                          "href": "/professionals/real-estate-agent-reviews/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/professionals/real-estate-agent-reviews/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "Looking for pros?",
+                                "level_three_txt": "Real estate agents"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Property managers",
+                          "href": "/professionals/property-manager-reviews/san-francisco-ca/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/professionals/property-manager-reviews/san-francisco-ca/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "Looking for pros?",
+                                "level_three_txt": "Property managers"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      [
+                        {
+                          "text": "Home builders",
+                          "href": "/home-builders/san-francisco-ca/20330/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/home-builders/san-francisco-ca/20330/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "Looking for pros?",
+                                "level_three_txt": "Home builders"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Real estate photographers",
+                          "href": "/professionals/photographer-reviews/san-francisco-ca/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/professionals/photographer-reviews/san-francisco-ca/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "Looking for pros?",
+                                "level_three_txt": "Real estate photographers"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  },
+                  {
+                    "title": "I'm a pro",
+                    "links": [
+                      [
+                        {
+                          "text": "Agent solutions",
+                          "href": "/agents/"
+                        },
+                        {
+                          "text": "Agent advertising",
+                          "href": "/premier-agent/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/premier-agent/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "I'm a pro",
+                                "level_three_txt": "Agent advertising"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Agent resource center",
+                          "href": "/agent-resources/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/agent-resources/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "I'm a pro",
+                                "level_three_txt": "Agent resource center"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Create a free agent account",
+                          "href": "/premier-agent/agent-account/?itc=paw_z_sitewide-agentfinder_subnav-createagentaccount_pa-reg_a_null",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/premier-agent/agent-account/?itc=paw_z_sitewide-agentfinder_subnav-createagentaccount_pa-reg_a_null",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "I'm a pro",
+                                "level_three_txt": "Create a free agent account"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      [
+                        {
+                          "text": "Real estate business plan",
+                          "href": "/agent-resources/agent-toolkit/real-estate-business-plan-template/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/agent-resources/agent-toolkit/real-estate-business-plan-template/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "I'm a pro",
+                                "level_three_txt": "Real estate business plan"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Real estate agent scripts",
+                          "href": "/agent-resources/agent-toolkit/real-estate-follow-up-email-templates/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/agent-resources/agent-toolkit/real-estate-follow-up-email-templates/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "I'm a pro",
+                                "level_three_txt": "Real estate agent scripts"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Listing flyer templates",
+                          "href": "/agent-resources/agent-toolkit/real-estate-listing-flyer-templates/",
+                          "gaClickEventObj": {
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/agent-resources/agent-toolkit/real-estate-listing-flyer-templates/",
+                                "level_one_txt": "Find an agent",
+                                "level_two_txt": "I'm a pro",
+                                "level_three_txt": "Listing flyer templates"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "agent": false,
+          "marketing": {
+            "sections": [
+              {
+                "link": {
+                  "text": "Manage rentals",
+                  "href": "/rental-manager/?source=topnav&itc=postbutton_sitenav",
+                  "classString": "noroute"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "manage_rentals",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "/rental-manager/?source=topnav&itc=postbutton_sitenav",
+                      "level_one_txt": "Manage rentals",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "manage_rentals"
+                },
+                "subsections": [
+                  {
+                    "title": "Management tasks",
+                    "links": [
+                      {
+                        "text": "List your property for rent",
+                        "href": "/rental-manager/post-a-listing/?itc=ltr_zw_ltr_zrm-home_tpnv_post-a-listing",
+                        "id": "list_a_rental",
+                        "classString": "noroute",
+                        "gaClickEventObj": {
+                          "category": "manage_rentals",
+                          "action": "click",
+                          "label": "list",
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/rental-manager/post-a-listing/?itc=ltr_zw_ltr_zrm-home_tpnv_post-a-listing",
+                              "level_one_txt": "Manage rentals",
+                              "level_two_txt": "Management tasks",
+                              "level_three_txt": "List your property for rent"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "View your properties",
+                        "href": "/rental-manager/properties?source=topnav&itc=postbutton_topnav",
+                        "id": "my_listings",
+                        "classString": "noroute",
+                        "gaClickEventObj": {
+                          "category": "manage_rentals",
+                          "action": "click",
+                          "label": "listing",
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/rental-manager/properties?source=topnav&itc=postbutton_topnav",
+                              "level_one_txt": "Manage rentals",
+                              "level_two_txt": "Management tasks",
+                              "level_three_txt": "View your properties"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Read your messages",
+                        "href": "/rental-manager/inbox/",
+                        "id": "messages",
+                        "classString": "noroute",
+                        "gaClickEventObj": {
+                          "category": "manage_rentals",
+                          "action": "click",
+                          "label": "messages",
+                          "newLaneEvent": {
+                            "envelope": {
+                              "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                              "event_type_id": "3781",
+                              "event_type_version_id": "1",
+                              "event_template_id": "242",
+                              "event_template_version_id": "1"
+                            },
+                            "clickstream_trigger": {
+                              "trigger_type_nm": "interaction",
+                              "trigger_location_nm": "top_navigation",
+                              "trigger_source_nm": "top_navigation",
+                              "trigger_object_nm": "no_trigger_object"
+                            },
+                            "semantic": {
+                              "semantic_event_nm": "top_nav_click"
+                            },
+                            "top_navigation": {
+                              "target_url": "/rental-manager/inbox/",
+                              "level_one_txt": "Manage rentals",
+                              "level_two_txt": "Management tasks",
+                              "level_three_txt": "Read your messages"
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Tools for rental managers",
+                    "links": [
+                      [
+                        {
+                          "text": "Check your property's rental value",
+                          "href": "/rental-manager/price-my-rental/?itc=ltr_zw_ltr_zrm-home_tpnv_price-my-rental",
+                          "id": "price_my_rental",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "category": "manage_rentals",
+                            "action": "click",
+                            "label": "price",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rental-manager/price-my-rental/?itc=ltr_zw_ltr_zrm-home_tpnv_price-my-rental",
+                                "level_one_txt": "Manage rentals",
+                                "level_two_txt": "Tools for rental managers",
+                                "level_three_txt": "Check your property's rental value"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Screen renters with applications",
+                          "href": "/rental-manager/select-property?type=applications&source=topnav&itc=postbutton_topnav",
+                          "id": "applications",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "category": "manage_rentals",
+                            "action": "click",
+                            "label": "applications",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rental-manager/select-property?type=applications&source=topnav&itc=postbutton_topnav",
+                                "level_one_txt": "Manage rentals",
+                                "level_two_txt": "Tools for rental managers",
+                                "level_three_txt": "Screen renters with applications"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Create and manage leases",
+                          "href": "/rental-manager/select-property?type=leases&source=topnav&itc=postbutton_topnav",
+                          "id": "leases",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "category": "manage_rentals",
+                            "action": "click",
+                            "label": "leases",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rental-manager/select-property?type=leases&source=topnav&itc=postbutton_topnav",
+                                "level_one_txt": "Manage rentals",
+                                "level_two_txt": "Tools for rental managers",
+                                "level_three_txt": "Create and manage leases"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Collect rent",
+                          "href": "/rental-manager/select-property?type=payments&source=topnav&itc=postbutton_topnav",
+                          "id": "payments",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "category": "manage_rentals",
+                            "action": "click",
+                            "label": "payments",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rental-manager/select-property?type=payments&source=topnav&itc=postbutton_topnav",
+                                "level_one_txt": "Manage rentals",
+                                "level_two_txt": "Tools for rental managers",
+                                "level_three_txt": "Collect rent"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      [
+                        {
+                          "text": "Learn about renting out your property",
+                          "href": "/rentals-network/resources/",
+                          "id": "resource_center",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "category": "manage_rentals",
+                            "action": "click",
+                            "label": "resource",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rentals-network/resources/",
+                                "level_one_txt": "Manage rentals",
+                                "level_two_txt": "Tools for rental managers",
+                                "level_three_txt": "Learn about renting out your property"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Search help center",
+                          "href": "https://help.zillowrentalmanager.com/hc/en-us/",
+                          "id": "help_center",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "category": "manage_rentals",
+                            "action": "click",
+                            "label": "help",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "https://help.zillowrentalmanager.com/hc/en-us/",
+                                "level_one_txt": "Manage rentals",
+                                "level_two_txt": "Tools for rental managers",
+                                "level_three_txt": "Search help center"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "text": "Explore Zillow Rental Manager",
+                          "href": "/rental-manager/",
+                          "id": "rental-manager",
+                          "classString": "noroute",
+                          "gaClickEventObj": {
+                            "category": "manage_rentals",
+                            "action": "click",
+                            "label": "rental-manager",
+                            "newLaneEvent": {
+                              "envelope": {
+                                "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                                "event_type_id": "3781",
+                                "event_type_version_id": "1",
+                                "event_template_id": "242",
+                                "event_template_version_id": "1"
+                              },
+                              "clickstream_trigger": {
+                                "trigger_type_nm": "interaction",
+                                "trigger_location_nm": "top_navigation",
+                                "trigger_source_nm": "top_navigation",
+                                "trigger_object_nm": "no_trigger_object"
+                              },
+                              "semantic": {
+                                "semantic_event_nm": "top_nav_click"
+                              },
+                              "top_navigation": {
+                                "target_url": "/rental-manager/",
+                                "level_one_txt": "Manage rentals",
+                                "level_two_txt": "Tools for rental managers",
+                                "level_three_txt": "Explore Zillow Rental Manager"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "link": {
+                  "text": "Advertise",
+                  "href": "/partners/advertise/"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "advertise",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "/partners/advertise/",
+                      "level_one_txt": "Advertise",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "advertise"
+                }
+              }
+            ]
+          },
+          "regLogin": {
+            "sections": [
+              {
+                "link": {
+                  "text": "Sign in",
+                  "href": "/auth/user/login?login_mode=redirect&entry_point=topnav"
+                }
+              },
+              {
+                "link": {
+                  "text": "Join",
+                  "href": "/auth/user/login?login_mode=redirect&entry_point=topnav"
+                }
+              }
+            ]
+          },
+          "help": {
+            "sections": [
+              {
+                "link": {
+                  "text": "Get help",
+                  "href": "https://www.zillow.help/"
+                },
+                "gaHoverEventObj": {
+                  "category": "nav_menu",
+                  "action": "mouseover",
+                  "label": "help",
+                  "newLaneEvent": {
+                    "envelope": {
+                      "event_client_start_dtm": "2026-05-13T15:49:01.722Z",
+                      "event_type_id": "3784",
+                      "event_type_version_id": "1",
+                      "event_template_id": "242",
+                      "event_template_version_id": "1"
+                    },
+                    "clickstream_trigger": {
+                      "trigger_type_nm": "interaction",
+                      "trigger_location_nm": "top_navigation",
+                      "trigger_source_nm": "top_navigation",
+                      "trigger_object_nm": "no_trigger_object"
+                    },
+                    "semantic": {
+                      "semantic_event_nm": "top_nav_hover"
+                    },
+                    "top_navigation": {
+                      "target_url": "https://www.zillow.help/",
+                      "level_one_txt": "Get help",
+                      "level_two_txt": null,
+                      "level_three_txt": null
+                    }
+                  }
+                },
+                "gaExpandoClickObj": {
+                  "category": "nav_menu",
+                  "action": "click_down",
+                  "label": "help"
+                }
+              }
+            ]
+          },
+          "common": {
+            "home": {
+              "text": "Zillow Real Estate",
+              "href": "/",
+              "gaClickEventObj": {}
+            },
+            "advertise": {
+              "text": "Advertise",
+              "href": "/partners/advertise/",
+              "gaClickEventObj": {}
+            },
+            "login": {
+              "text": "Sign in",
+              "href": "/user/acct/login/"
+            },
+            "register": {
+              "text": "Join",
+              "href": "/user/acct/register/"
+            }
+          }
+        }
+      },
+      "core": {
+        "js": "https://www.zillowstatic.com/s3/pfs/core-c6b2bde86c9de33b9629.js"
+      }
+    },
+    "city": "San Francisco",
+    "state": "CA",
+    "streetAddress": "661 Lakeview Ave",
+    "zipcode": "94112",
+    "homeStatus": "SOLD",
+    "homeType": "SINGLE_FAMILY",
+    "isCurrentSignedInAgentResponsible": false,
+    "isCurrentSignedInUserVerifiedOwner": false,
+    "isListingClaimedByCurrentSignedInUser": false,
+    "propertyUpdatePageLink": null,
+    "moveHomeMapLocationLink": null,
+    "propertyEventLogLink": null,
+    "editPropertyHistorylink": null,
+    "isVerifiedClaimedByCurrentSignedInUser": false,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "livingAreaValue": 900,
+    "livingAreaUnitsShort": "sqft",
+    "address": {
+      "streetAddress": "661 Lakeview Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipcode": "94112",
+      "neighborhood": null
+    },
+    "attributionInfo": {
+      "mlsId": "424004642",
+      "mlsName": "SFAR",
+      "providerLogo": "https://photos.zillowstatic.com/fp/dfe8af10e49656833b8f889de6d4a93b-zillow_web_95_35.jpg",
+      "trueStatus": null,
+      "attributionTitle": null,
+      "brokerName": "Remax Prestigious Properties",
+      "buyerBrokerageName": "KW Advisors",
+      "agentName": "Yue Ming Wu",
+      "agentEmail": null,
+      "agentPhoneNumber": "415-279-6833"
+    },
+    "listing_sub_type": {
+      "is_FSBA": false,
+      "is_FSBO": false,
+      "is_pending": false,
+      "is_newHome": false,
+      "is_foreclosure": false,
+      "is_comingSoon": false,
+      "is_bankOwned": false,
+      "is_forAuction": false,
+      "is_openHouse": false
+    },
+    "responsivePhotos": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-p_d.jpg",
+        "caption": "",
+        "subjectType": null,
+        "mixedSources": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_192.jpg",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_384.jpg",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_576.jpg",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_768.jpg",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_960.jpg",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_1152.jpg",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_1344.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_1536.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_192.webp",
+              "width": 192
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_384.webp",
+              "width": 384
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_576.webp",
+              "width": 576
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_768.webp",
+              "width": 768
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_960.webp",
+              "width": 960
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_1152.webp",
+              "width": 1152
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_1344.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-cc_ft_1536.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "isPremierBuilder": false,
+    "price": 1165000,
+    "yearBuilt": 1921,
+    "isShowcaseListing": false,
+    "isZillowOwned": false,
+    "hasPublicVideo": false,
+    "primaryPublicVideo": null,
+    "richMediaVideos": null,
+    "richMedia": null,
+    "lastSoldPrice": 1165000,
+    "livingArea": 900,
+    "livingAreaUnits": "Square Feet",
+    "lotSize": 3746,
+    "lotAreaValue": 3746.16,
+    "lotAreaUnits": "Square Feet",
+    "currency": "USD",
+    "contingentListingType": null,
+    "newConstructionType": null,
+    "thirdPartyVirtualTour": {
+      "lightboxUrl": null,
+      "approved": false,
+      "providerKey": null
+    },
+    "hasApprovedThirdPartyVirtualTourUrl": false,
+    "isHousingConnector": false,
+    "responsivePhotosOriginalRatio": [
+      {
+        "caption": "",
+        "key": "3b9263c9e78d88af19992f6d4deed91d",
+        "mixedSources": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "latitude": 37.718075,
+    "longitude": -122.45785,
+    "isUndisclosedAddress": false,
+    "streetViewTileImageUrlMediumLatLong": "https://maps.googleapis.com/maps/api/streetview?location=37.718075,-122.457850&size=400x250&key=AIza-REDACTED&source=outdoor&signature=bBcTdJ9eGawEugSpzEDmPEK0ZMw=",
+    "streetViewTileImageUrlMediumAddress": "https://maps.googleapis.com/maps/api/streetview?location=661+Lakeview+Ave%2C+San+Francisco%2C+CA+94112&size=400x250&key=AIza-REDACTED&source=outdoor&signature=VPR2tM8Tkn2w-J6_wjUhGduc_5g=",
+    "streetViewMetadataUrlMapLightboxAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=661+Lakeview+Ave%2C+San+Francisco%2C+CA+94112&key=AIza-REDACTED&source=outdoor&signature=lcv3Zp-wPiMjDfap99UI5pIBTpc=",
+    "thumb": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-p_a.jpg"
+      }
+    ],
+    "neighborhoodMapThumb": [
+      {
+        "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-p_c.jpg"
+      }
+    ],
+    "priceChange": null,
+    "priceChangeDate": null,
+    "priceChangeDateString": null,
+    "formattedChip": {
+      "location": [
+        {
+          "fullValue": "661 Lakeview Ave"
+        },
+        {
+          "fullValue": "San Francisco, CA 94112"
+        }
+      ]
+    },
+    "resoFacts": {
+      "bathrooms": 2,
+      "bathroomsFull": 2,
+      "bathroomsThreeQuarter": 0,
+      "bathroomsHalf": 0,
+      "bathroomsOneQuarter": 0,
+      "bedrooms": 3,
+      "homeType": "SingleFamily",
+      "lotSize": "3,746 sqft",
+      "pricePerSquareFoot": 1294,
+      "yearBuilt": 1921,
+      "propertySubType": [
+        "Single Family Residence"
+      ],
+      "carportParkingCapacity": 0,
+      "coveredParkingCapacity": 0,
+      "garageParkingCapacity": 0,
+      "hasAttachedGarage": null,
+      "hasCarport": false,
+      "hasGarage": false,
+      "hasOpenParking": false,
+      "openParkingCapacity": 0,
+      "parkingCapacity": 0,
+      "parkingFeatures": [],
+      "otherFacts": []
+    },
+    "listingFeedID": null,
+    "ssid": 127,
+    "listingProvider": null,
+    "comingSoonOnMarketDate": null,
+    "isPreforeclosureAuction": false,
+    "monthlyHoaFee": null,
+    "zestimate": 1193800,
+    "listingMetadata": {
+      "comminglingCategoryIsRulesApplicable": true,
+      "mustDisplayAttributionAboveLocalFacts": false,
+      "FlexibleLayoutAB": true,
+      "mustPreferMlsPhotos": false,
+      "FlexibleLayoutB": true,
+      "FlexibleLayoutC": true,
+      "FlexibleLayoutD": true,
+      "FlexibleLayoutE": true,
+      "FlexibleLayoutF": false,
+      "FlexibleLayoutG": false,
+      "FlexibleLayoutH": true,
+      "FlexibleLayoutI": true,
+      "FlexibleLayoutJ": false,
+      "FlexibleLayoutK": false,
+      "FlexibleLayoutL": false,
+      "FlexibleLayoutM": true,
+      "FlexibleLayoutN": true,
+      "FlexibleLayoutO": true,
+      "FlexibleLayoutP": true,
+      "FlexibleLayoutQ": false,
+      "FlexibleLayoutR": true,
+      "FlexibleLayoutS": true,
+      "FlexibleLayoutT": false,
+      "FlexibleLayoutU": false,
+      "FlexibleLayoutV": false,
+      "FlexibleLayoutW": false,
+      "FlexibleLayoutX": false,
+      "FlexibleLayoutY": false,
+      "FlexibleLayoutZ": false,
+      "FlexibleLayoutAA": true,
+      "passwordRequiredForZestimateMarketAnalysis": false,
+      "canShowAutomatedValuationDisplay": true,
+      "canShowTaxHistory": true,
+      "canShowPriceHistory": true,
+      "canShowUserGeneratedContent": true,
+      "isAdsRestricted": false,
+      "hidePriceAdjustmentFlexField": false,
+      "canCommingleComparables": true,
+      "canShowComparables": true,
+      "isSuperTrafficOptimized": false,
+      "mustDisplayDisclaimerBelowAttribution": false,
+      "mustDisplayFeedLogoInContactBox": false,
+      "canShowCroppedPhotos": true,
+      "canShowNonIDXMedia": true,
+      "canShowOnMap": true,
+      "comminglingCategory": true,
+      "mustDisplayAttributionListAgentEmail": false,
+      "mustDisplayAttributionListAgentPhone": true,
+      "mustDisplayAttributionListingOfficePhone": true,
+      "mustDisplayAuctionStatusAsSold": false,
+      "mustHighlightAgentName": null,
+      "mustHighlightMlsId": null,
+      "mustHighlightMlsStatus": false,
+      "mustHighlightListOfficeName": false,
+      "mustMakeListingAgentContactable": false,
+      "mustHighlightMarketingType": false,
+      "mustAttributeOfficeNameBeforeAgentName": false,
+      "canShowZillowLogoInHeader": true,
+      "canShowPrequalifiedLinkInChip": true
+    },
+    "rentZestimate": 4795,
+    "listedBy": [
+      {
+        "id": "LISTING_AGENT",
+        "elements": [
+          {
+            "id": "NAME",
+            "text": "Yue Ming Wu",
+            "action": null
+          },
+          {
+            "id": "LICENSE",
+            "text": "DRE #02045194",
+            "action": null
+          },
+          {
+            "id": "PHONE",
+            "text": "415-279-6833",
+            "action": null
+          }
+        ],
+        "textStyle": null
+      },
+      {
+        "id": "BROKER",
+        "elements": [
+          {
+            "id": "NAME",
+            "text": "Remax Prestigious Properties",
+            "action": null
+          },
+          {
+            "id": "PHONE",
+            "text": "415-564-3776",
+            "action": null
+          }
+        ],
+        "textStyle": null
+      }
+    ],
+    "mortgageZHLRates": {
+      "thirtyYearFixedBucket": {
+        "rate": 6.23,
+        "rateSource": "ZGMI",
+        "lastUpdated": 1778687341734
+      }
+    },
+    "propertyTaxRate": 1.17,
+    "staticMap": {
+      "sources": [
+        {
+          "width": 192,
+          "url": "https://maps.googleapis.com/maps/api/staticmap?center=37.718075,-122.45785&zoom=13&size=192x144&maptype=roadmap&key=AIza-REDACTED&signature=Hccc5RrAWAAZn1AVQppqANyZedc=",
+          "isHighResolutionStaticMap": null
+        },
+        {
+          "width": 192,
+          "url": "https://maps.googleapis.com/maps/api/staticmap?center=37.718075,-122.45785&zoom=15&size=192x144&maptype=roadmap&key=AIza-REDACTED&scale=2&signature=-sclIxtjNs9uj15cevbblxRMFzc=",
+          "isHighResolutionStaticMap": true
+        },
+        {
+          "width": 384,
+          "url": "https://maps.googleapis.com/maps/api/staticmap?center=37.718075,-122.45785&zoom=14&size=384x288&maptype=roadmap&key=AIza-REDACTED&signature=R4NKahuxIdq7n3GRPBDziAq8ufs=",
+          "isHighResolutionStaticMap": null
+        },
+        {
+          "width": 384,
+          "url": "https://maps.googleapis.com/maps/api/staticmap?center=37.718075,-122.45785&zoom=15&size=384x288&maptype=roadmap&key=AIza-REDACTED&scale=2&signature=M23peS4evs0cC_ALJQeUtytW7Gw=",
+          "isHighResolutionStaticMap": true
+        },
+        {
+          "width": 768,
+          "url": "https://maps.googleapis.com/maps/api/staticmap?center=37.718075,-122.45785&zoom=15&size=768x576&maptype=roadmap&key=AIza-REDACTED&signature=9W3nnl5WpED3ylMdn7FGaUfV8oU=",
+          "isHighResolutionStaticMap": null
+        },
+        {
+          "width": 768,
+          "url": "https://maps.googleapis.com/maps/api/staticmap?center=37.718075,-122.45785&zoom=15&size=768x576&maptype=roadmap&key=AIza-REDACTED&scale=2&signature=eXIC_12oCcIqp1i8jWizXYyR2LM=",
+          "isHighResolutionStaticMap": true
+        }
+      ]
+    },
+    "OmpV2WebOMHDPCombo": {
+      "placementGroupDecision": {
+        "eventId": "4ae55046-1654-4e87-b922-4acf8b24e543",
+        "placementGroup": "WEB_OMHDP_COMBO",
+        "experienceType": "DEFAULT",
+        "experienceName": "WEB_OMHDP_Cash_Offer_Experience",
+        "error": null,
+        "placementDecisions": [
+          {
+            "placementName": "WEB_OMHDP_TOP_SLOT",
+            "selectedMessage": {
+              "id": 0,
+              "name": "none",
+              "component": {
+                "__typename": "OmpV2None"
+              }
+            },
+            "eventMetadata": {
+              "exposureBlock": {
+                "randomizationKey": "55d85582110b412b939258bf5d912622",
+                "keyTypeCd": "guid",
+                "decisionToken": null,
+                "assignmentServiceCd": "split",
+                "treatments": [
+                  "OMP_WEB_OMHDP_PLACEMENT_GROUP.DEFAULT"
+                ],
+                "extendedInfo": null
+              },
+              "nbaBlock": null,
+              "ompV2Block": {
+                "eventId": "4ae55046-1654-4e87-b922-4acf8b24e543",
+                "placementName": "WEB_OMHDP_TOP_SLOT",
+                "placementGroup": "WEB_OMHDP_COMBO",
+                "assignedExperienceType": "DEFAULT",
+                "selectedExperienceType": "DEFAULT",
+                "selectedExperienceName": "WEB_OMHDP_Cash_Offer_Experience",
+                "selectedExperienceTrial": null,
+                "selectedExperienceTrialAssignment": null,
+                "qualifiedNbaActions": null,
+                "selectedNbaAction": null,
+                "qualifiedNbaMessages": null,
+                "selectedNbaMessage": null,
+                "selectedMessage": "none",
+                "selectedMessageAttributions": null,
+                "qualifiedExperiencesMultivariateName": null,
+                "qualifiedExperiencesDefaultName": [
+                  "WEB_OMHDP_Cash_Offer_Experience"
+                ],
+                "qualifiedExperiencesNbaName": null
+              }
+            }
+          },
+          {
+            "placementName": "WEB_OMHDP_RIGHT_RAIL",
+            "selectedMessage": {
+              "id": 486,
+              "name": "WebMisoCashOfferSpeedNarrow",
+              "component": {
+                "__typename": "OmpV2WebEmphasizedUpsellCard",
+                "variant": null,
+                "emphasizedHeader": "Get a cash offer in 3 minutes",
+                "emphasizedBody": {
+                  "beforeText": "Find out how much your home could sell for in as little as 3 minutes with a no-obligation cash offer.",
+                  "afterText": null,
+                  "tooltip": null
+                },
+                "primarySection": {
+                  "label": {
+                    "__typename": "OmpV2WebEmphasizedUpsellCardValueSectionText",
+                    "text": "Estimated market value",
+                    "subText": "",
+                    "fontColor": "",
+                    "fontType": "bold"
+                  },
+                  "value": null,
+                  "hasDivider": null
+                },
+                "secondarySection": {
+                  "label": {
+                    "__typename": "OmpV2WebEmphasizedUpsellCardValueSectionText",
+                    "text": "$1,193,800",
+                    "subText": "",
+                    "fontColor": "borderGreen",
+                    "fontType": "h4"
+                  },
+                  "value": null,
+                  "hasDivider": null
+                },
+                "tertiarySection": {
+                  "label": {
+                    "__typename": "OmpV2WebEmphasizedUpsellCardValueSectionTooltip",
+                    "trigger": "What is this number?",
+                    "title": "",
+                    "subTitle": "What is this number?",
+                    "content": "This is the Zestimate®, Zillow's estimated market value for a home. It’s computed using a proprietary formula, as well as public and user-submitted data. Updating your home facts can help make your Zestimate more accurate. A Zestimate is not an official appraisal, but is a starting point in determining a home's value.",
+                    "actionText": null,
+                    "actionUrl": null
+                  },
+                  "value": null,
+                  "hasDivider": null
+                },
+                "primaryCTA": {
+                  "ctaUrl": "/sell/options/address-verification?zpid=15192198&productSuite=OD_PL_SHC&productComponents=OPENDOOR,PARTNER_LISTING,SHOWCASE&buyboxType=OOBB&t=omhdp_right-rail_cash-offer-speed-start-now&source=homedetails%2F15192198_zpid",
+                  "ctaText": "Start now",
+                  "ctaButtonStyle": "Primary",
+                  "ctaSubText": null
+                },
+                "isNarrowContainer": true,
+                "isPrimaryCTAFluid": null
+              }
+            },
+            "eventMetadata": {
+              "exposureBlock": {
+                "randomizationKey": "55d85582110b412b939258bf5d912622",
+                "keyTypeCd": "guid",
+                "decisionToken": null,
+                "assignmentServiceCd": "split",
+                "treatments": [
+                  "OMP_WEB_OMHDP_PLACEMENT_GROUP.DEFAULT"
+                ],
+                "extendedInfo": null
+              },
+              "nbaBlock": null,
+              "ompV2Block": {
+                "eventId": "4ae55046-1654-4e87-b922-4acf8b24e543",
+                "placementName": "WEB_OMHDP_RIGHT_RAIL",
+                "placementGroup": "WEB_OMHDP_COMBO",
+                "assignedExperienceType": "DEFAULT",
+                "selectedExperienceType": "DEFAULT",
+                "selectedExperienceName": "WEB_OMHDP_Cash_Offer_Experience",
+                "selectedExperienceTrial": null,
+                "selectedExperienceTrialAssignment": null,
+                "qualifiedNbaActions": null,
+                "selectedNbaAction": null,
+                "qualifiedNbaMessages": null,
+                "selectedNbaMessage": null,
+                "selectedMessage": "WebMisoCashOfferSpeedNarrow",
+                "selectedMessageAttributions": "t=omhdp_right-rail_cash-offer-speed-start-now&source=homedetails%2F15192198_zpid",
+                "qualifiedExperiencesMultivariateName": null,
+                "qualifiedExperiencesDefaultName": [
+                  "WEB_OMHDP_Cash_Offer_Experience"
+                ],
+                "qualifiedExperiencesNbaName": null
+              }
+            }
+          },
+          {
+            "placementName": "WEB_OMHDP_MOBILE_FOOTER",
+            "selectedMessage": {
+              "id": 416,
+              "name": "WebMisoCashOfferDualCTA",
+              "component": {
+                "__typename": "OmpV2WebButtonUpsellCard",
+                "requiredCTA": {
+                  "ctaUrl": "/sell/options/address-verification?zpid=15192198&productSuite=OD_PL_SHC&productComponents=OPENDOOR,PARTNER_LISTING,SHOWCASE&buyboxType=OOBB&t=omhdp_sticky-footer_cash-offer&source=homedetails/15192198_zpid",
+                  "ctaText": "Get a cash offer",
+                  "ctaButtonStyle": "Primary",
+                  "ctaSubText": "in just 3 mins, no obligation"
+                },
+                "secondaryCTA": null
+              }
+            },
+            "eventMetadata": {
+              "exposureBlock": {
+                "randomizationKey": "55d85582110b412b939258bf5d912622",
+                "keyTypeCd": "guid",
+                "decisionToken": null,
+                "assignmentServiceCd": "split",
+                "treatments": [
+                  "OMP_WEB_OMHDP_PLACEMENT_GROUP.DEFAULT"
+                ],
+                "extendedInfo": null
+              },
+              "nbaBlock": null,
+              "ompV2Block": {
+                "eventId": "4ae55046-1654-4e87-b922-4acf8b24e543",
+                "placementName": "WEB_OMHDP_MOBILE_FOOTER",
+                "placementGroup": "WEB_OMHDP_COMBO",
+                "assignedExperienceType": "DEFAULT",
+                "selectedExperienceType": "DEFAULT",
+                "selectedExperienceName": "WEB_OMHDP_Cash_Offer_Experience",
+                "selectedExperienceTrial": null,
+                "selectedExperienceTrialAssignment": null,
+                "qualifiedNbaActions": null,
+                "selectedNbaAction": null,
+                "qualifiedNbaMessages": null,
+                "selectedNbaMessage": null,
+                "selectedMessage": "WebMisoCashOfferDualCTA",
+                "selectedMessageAttributions": "t=omhdp_sticky-footer_cash-offer&source=homedetails/15192198_zpid",
+                "qualifiedExperiencesMultivariateName": null,
+                "qualifiedExperiencesDefaultName": [
+                  "WEB_OMHDP_Cash_Offer_Experience"
+                ],
+                "qualifiedExperiencesNbaName": null
+              }
+            }
+          }
+        ]
+      }
+    },
+    "zestimateLowPercent": "7",
+    "zestimateHighPercent": "7",
+    "listingSource": null,
+    "listingAccount": null,
+    "ownerAccount": null,
+    "lfaViewPropertyPageUrl": null,
+    "listingOwnerConfigIDs": null,
+    "postingPresentationTypes": null,
+    "maloneId": "2082936566",
+    "hdpUrl": "/homedetails/661-Lakeview-Ave-San-Francisco-CA-94112/15192198_zpid/",
+    "isRecentStatusChange": false,
+    "brokerId": null,
+    "buildingId": null,
+    "county": "San Francisco County",
+    "daysOnZillow": 764,
+    "foreclosureTypes": {
+      "isBankOwned": false,
+      "wasNonRetailAuction": false,
+      "wasDefault": null
+    },
+    "isFeatured": false,
+    "postingUrl": null,
+    "providerListingID": null,
+    "rentalApplicationsAcceptedType": "REQUEST_TO_APPLY",
+    "brokerageName": "Remax Prestigious Properties",
+    "propertyTypeDimension": "Single Family",
+    "featuredListingTypeDimension": "organic",
+    "brokerIdDimension": "Unknown Listed By",
+    "keystoneHomeStatus": "RecentlySold",
+    "pageUrlFragment": "RecentlySold",
+    "isRentalsLeadCapMet": false,
+    "isPaidMultiFamilyBrokerId": false,
+    "timeZone": "America/Los_Angeles",
+    "virtualTourUrl": null,
+    "originalPhotos": [
+      {
+        "caption": "",
+        "mixedSources": {
+          "jpeg": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-d_d.jpg",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-o_a.jpg",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1344_1008.jpg",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1536_1152.jpg",
+              "width": 1536
+            }
+          ],
+          "webp": [
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-d_d.webp",
+              "width": 800
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-o_a.webp",
+              "width": 1024
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1344_1008.webp",
+              "width": 1344
+            },
+            {
+              "url": "https://photos.zillowstatic.com/fp/3b9263c9e78d88af19992f6d4deed91d-uncropped_scaled_within_1536_1152.webp",
+              "width": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "listingSubType": {
+      "isFSBA": false,
+      "isFSBO": false,
+      "isPending": false,
+      "isNewHome": false,
+      "isForeclosure": false,
+      "isBankOwned": false,
+      "isForAuction": false,
+      "isOpenHouse": false,
+      "isComingSoon": false
+    },
+    "listingAccountUserId": "X1-ZUuitr4r11cqa1_90hcs",
+    "tourViewCount": 0,
+    "boroughId": null
+  }
+]

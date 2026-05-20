@@ -1,0 +1,4 @@
+Scraper: aliexpress-scraper
+Status: deferred (anti-bot unfixable on CLI surface)
+
+AliExpress captchas every region. Use python/nodejs surface (which uses _init_data_ JSON state extraction with longer scroll/wait timing). CLI deferred.

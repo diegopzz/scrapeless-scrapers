@@ -1,0 +1,20 @@
+{
+  "slug": "boredapeyachtclub",
+  "name": "Bored Ape Yacht Club",
+  "chain": "Ethereum",
+  "total_supply": 9998,
+  "floor_price": "9.53 ETH",
+  "top_offer": "9.25 WETH",
+  "volume_24h": "128.76 ETH",
+  "total_volume": "1.6M ETH",
+  "listed_percent": "3.3%",
+  "unique_owners": 5604,
+  "unique_owners_percent": "56.1%",
+  "category": "PFPs",
+  "creator": "YugaLabs",
+  "launched": "Apr 2021",
+  "image": "https://i2c.seadn.io/collection/boredapeyachtclub/image/1a09c26b1c30427b26944c47fc7bb9/d81a09c26b1c30427b26944c47fc7bb9.png",
+  "banner": "https://i2c.seadn.io/collection/boredapeyachtclub/banner/3ddcabd06bb257af35f029b3c17163/e13ddcabd06bb257af35f029b3c17163.jpeg",
+  "website": "http://www.boredapeyachtclub.com/",
+  "twitter": "https://x.com/BoredApeYC"
+}

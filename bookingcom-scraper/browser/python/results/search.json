@@ -1,0 +1,2146 @@
+[
+  {
+    "displayName": {
+      "text": "Bayview Hotel by ST Hotels"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/bayview-apartments.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1898901_253508142_0_33_0&highlighted_blocks=1898901_253508142_0_33_0&matching_block_id=1898901_253508142_0_33_0&sr_pri_blocks=1898901_253508142_0_33_0__86350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.7",
+        "reviewCount": 7197,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/295096407.webp?k=1fe76206b9f389661b349df5e718b51d99fca95811555c3f58906baba3277d6c&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 864"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "The Howard Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/the-howard.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=727515605_416963246_0_1_0_822438&highlighted_blocks=727515605_416963246_0_1_0_822438&matching_block_id=727515605_416963246_0_1_0_822438&sr_pri_blocks=727515605_416963246_0_1_0_822438_75350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.2",
+        "reviewCount": 2309,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/633494247.webp?k=f46f85312cb0192bc11ca56fb86b84d1ece5e74783123f7eed3836ee4b9eac92&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 754"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Vegas Resort"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/vegas-resort.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1411251804_420258270_1_2_0&highlighted_blocks=1411251804_420258270_1_2_0&matching_block_id=1411251804_420258270_1_2_0&sr_pri_blocks=1411251804_420258270_1_2_0__79330&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.2",
+        "reviewCount": 810,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/736435744.webp?k=3094d6e0780c9cb49e04155d2c1f60b3af35a8ccb015fba33d0c7ad03b9831ff&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 793"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "EUROCLUB Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/euroclub.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=25182511_266008666_2_41_0&highlighted_blocks=25182511_266008666_2_41_0&matching_block_id=25182511_266008666_2_41_0&sr_pri_blocks=25182511_266008666_2_41_0__59850&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.2",
+        "reviewCount": 979,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/765608898.webp?k=ff4562536a82306ab641a16c2c4e466dd6699ab8dcbc83b410ce57d32a94d9f2&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 599"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "V86 - Charming 1BR Duplex by the Sea in Senglea"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/v86-charming-1br-duplex-by-the-sea-in-senglea.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1595892401_430615372_0_0_0&highlighted_blocks=1595892401_430615372_0_0_0&matching_block_id=1595892401_430615372_0_0_0&sr_pri_blocks=1595892401_430615372_0_0_0__55750&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.0",
+        "reviewCount": 1,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/833828956.webp?k=e54f847eca085b6663446c6baf19a0fea3bde18792f5713664e09fb9357018d5&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 558"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Sliema Chalet Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/sliema-chalet.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1755410_419920105_1_42_0&highlighted_blocks=1755410_419920105_1_42_0&matching_block_id=1755410_419920105_1_42_0&sr_pri_blocks=1755410_419920105_1_42_0__77784&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.7",
+        "reviewCount": 2607,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/61428201.webp?k=d1d7fbb574be401a85dad02604f219bfb3a9d484533864e173d48fa2f91b8938&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 778"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Vivaldi Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/gtvivaldihotel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=0_0_1_0_0&highlighted_blocks=0_0_1_0_0&matching_block_id=0_0_1_0_0&sr_pri_blocks=0_0_1_0_0__81548&from_sustainable_property_sr=1&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.8",
+        "reviewCount": 5172,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/157523094.webp?k=a20153b7da0457c7761833ec222fd582348da7d74f7b8c99167b40701e36f8c9&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 815"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "The Sliema Studio Stay by 360 Estates"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/the-sliema-studio-stay-by-360-estates.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1041585903_414012520_0_0_0&highlighted_blocks=1041585903_414012520_0_0_0&matching_block_id=1041585903_414012520_0_0_0&sr_pri_blocks=1041585903_414012520_0_0_0__59191&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.4",
+        "reviewCount": 58,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/476270105.webp?k=d0c3267d2e8cecd142738bee22c12b9d6ee9c1d0c87a1aac1886493b27c2ef3e&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 592"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Grands Suites Hotel and Spa Sliema"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/grands-suites-il-gzira.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=835562901_348984258_2_2_0_419658&highlighted_blocks=835562901_348984258_2_2_0_419658&matching_block_id=835562901_348984258_2_2_0_419658&sr_pri_blocks=835562901_348984258_2_2_0_419658_124096&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.7",
+        "reviewCount": 4067,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/475044766.webp?k=a0120661c6a25a12e693ecd4ea1146c95258478f13adbf57dd358e57111f3534&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 1,241"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Novotel Malta Sliema"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/novotel-malta-sliema.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1439365703_415428712_2_42_0&highlighted_blocks=1439365703_415428712_2_42_0&matching_block_id=1439365703_415428712_2_42_0&sr_pri_blocks=1439365703_415428712_2_42_0__116850&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.7",
+        "reviewCount": 1464,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/781599351.webp?k=7495bd18da6f8b063c62cfaf6d1fd011753696673cf4767279d4e3f34d509ba6&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 1,169"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "224 Boutique Hostel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/224-boutique-hostel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1553483406_427161930_1_0_0&highlighted_blocks=1553483406_427161930_1_0_0&matching_block_id=1553483406_427161930_1_0_0&sr_pri_blocks=1553483406_427161930_1_0_0__30012&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 9.1",
+        "reviewCount": 289,
+        "totalScoreTextTag": {
+          "translation": "Superb"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/805188958.webp?k=53f3f24547bdba9427eb8b2f842f6ac5ee0ec084649b54e397989a8380c8616d&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 300"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Marco Polo Party Hostel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/marco-polo-hostel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=188236101_95414687_1_0_0_819605&highlighted_blocks=188236101_95414687_1_0_0_819605&matching_block_id=188236101_95414687_1_0_0_819605&sr_pri_blocks=188236101_95414687_1_0_0_819605_24110&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.9",
+        "reviewCount": 3000,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/512824647.webp?k=81b2d2517bc49e1df94947c8f41000ef179a2b54374dfc99f0f3a688d68ceffa&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 241"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "AX ODYCY Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/odycy.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1757502_272039314_0_42_0&highlighted_blocks=1757502_272039314_0_42_0&matching_block_id=1757502_272039314_0_42_0&sr_pri_blocks=1757502_272039314_0_42_0__124850&from_sustainable_property_sr=1&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 9.1",
+        "reviewCount": 6613,
+        "totalScoreTextTag": {
+          "translation": "Superb"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/518819160.webp?k=c0819d67121b937761bddab1727840ef0e6e24193a6a452dd42231619e175cb2&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 1,249"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "SC Club Village"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/sprachcaffe-international.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=28387014_291371711_0_1_0&highlighted_blocks=28387014_291371711_0_1_0&matching_block_id=28387014_291371711_0_1_0&sr_pri_blocks=28387014_291371711_0_1_0__42350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.5",
+        "reviewCount": 653,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/325553262.webp?k=6635f1f41be5097d831057bc9bd37d68263b0602e03188e5142dcd1b5399d3c2&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 424"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Follow the Sun Boutique Hostel - Pool, Breakfast & Sea Views"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/inhawi-hostel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=177492421_99004648_0_1_0&highlighted_blocks=177492421_99004648_0_1_0&matching_block_id=177492421_99004648_0_1_0&sr_pri_blocks=177492421_99004648_0_1_0__42059&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.8",
+        "reviewCount": 4624,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/825157062.webp?k=3dee01792462ce5eec87b3246cde996ef664018cefb1331343430062275692f7&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 421"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Hostel On"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/hostel-on-tas-sliema3.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=864212906_354497939_1_0_0_776119&highlighted_blocks=864212906_354497939_1_0_0_776119&matching_block_id=864212906_354497939_1_0_0_776119&sr_pri_blocks=864212906_354497939_1_0_0_776119_21350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.3",
+        "reviewCount": 910,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/391690218.webp?k=0d68229e78752e301d162d3c11c72d883b6b394d643aa44c72d97fe40c11f2ec&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 214"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Stuart Rooms Gzira Promenade"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/stuart-rooms-by-zzzing.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1215879302_394126244_2_1_0_793531&highlighted_blocks=1215879302_394126244_2_1_0_793531&matching_block_id=1215879302_394126244_2_1_0_793531&sr_pri_blocks=1215879302_394126244_2_1_0_793531_91555&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.2",
+        "reviewCount": 1161,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/562856769.webp?k=1d25a31759dd64dfc0362ff380d37e8e32d7d05eb86a2899df90058b6044a5f6&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 916"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "The Siggiewi Suites"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/siggiewi-suites.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1104616403_414009769_0_0_0&highlighted_blocks=1104616403_414009769_0_0_0&matching_block_id=1104616403_414009769_0_0_0&sr_pri_blocks=1104616403_414009769_0_0_0__63216&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 9.4",
+        "reviewCount": 166,
+        "totalScoreTextTag": {
+          "translation": "Superb"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/504964234.webp?k=ede87888972bee2f8fce332b3f86b615e3e794a190a17411b248c8e126ebe2c3&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 632"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Urban Isle"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/urban-isle.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=967139801_369175003_2_1_0&highlighted_blocks=967139801_369175003_2_1_0&matching_block_id=967139801_369175003_2_1_0&sr_pri_blocks=967139801_369175003_2_1_0__92350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.3",
+        "reviewCount": 1917,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/432461116.webp?k=cd49e82feb17d4dd512e2e53bebf375d7501d419cd3ad24659e6943c601e2f69&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 924"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Roma Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/roma.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1756301_95142407_0_0_0_699272&highlighted_blocks=1756301_95142407_0_0_0_699272&matching_block_id=1756301_95142407_0_0_0_699272&sr_pri_blocks=1756301_95142407_0_0_0_699272_72498&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.2",
+        "reviewCount": 1355,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/609496.webp?k=8408bb6b0e727ecb15c9f99c3fa6f183675535b212b3c1ce4ca0b86810bc97e1&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 725"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "CA Sand Dune Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/ca-sand-dune.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1338083201_419621495_2_33_0&highlighted_blocks=1338083201_419621495_2_33_0&matching_block_id=1338083201_419621495_2_33_0&sr_pri_blocks=1338083201_419621495_2_33_0__110425&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.9",
+        "reviewCount": 1578,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/633885922.webp?k=391819e2d221c311824deba3362834063b983df5427b36ce778df12a0c3fd95d&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 1,104"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Seashells Apartments with terrace, just off the seafront in Bugibba - by Getawaysmalta"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/seashells-one-bedroom.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=147954401_201930445_2_0_0_864427&highlighted_blocks=147954401_201930445_2_0_0_864427&matching_block_id=147954401_201930445_2_0_0_864427&sr_pri_blocks=147954401_201930445_2_0_0_864427_58907&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.9",
+        "reviewCount": 123,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/622640323.webp?k=cb78624fb447d3db147d889f98e588bdda98004d8bb773c43d99c8112b9db7b8&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 589"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Hostel Malti Budget"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/hostel-malti.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=26917902_89072524_0_0_0_819609&highlighted_blocks=26917902_89072524_0_0_0_819609&matching_block_id=26917902_89072524_0_0_0_819609&sr_pri_blocks=26917902_89072524_0_0_0_819609_20804&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.4",
+        "reviewCount": 1286,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/517990908.webp?k=55a73e681865673b9d776cb4b7ca38ad00b5f61414cca1d11ca7c9b04a8f1fba&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 208"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Maritim Antonine Hotel & Spa"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/maritim-antonine-spa.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=1757905_398333225_2_2_0_456405&highlighted_blocks=1757905_398333225_2_2_0_456405&matching_block_id=1757905_398333225_2_2_0_456405&sr_pri_blocks=1757905_398333225_2_2_0_456405_126790&from_sustainable_property_sr=1&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.9",
+        "reviewCount": 4549,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/822380687.webp?k=81408e57f15b276099c3fe52eca725a0182bbc351c817629dcbe9bb1655fa666&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 1,268"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "1926 Le Soleil Hotel & Spa"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/1926-sliema.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCoMCS0AbAAgHSAiRmNjVlNWRkYi1hMjQzLTQzYzAtODQ3YS1hNjUzNTIzZjA0YWPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=b70570902ed50ec3&srepoch=1778688034&all_sr_blocks=284207228_255041093_2_2_0&highlighted_blocks=284207228_255041093_2_2_0&matching_block_id=284207228_255041093_2_2_0&sr_pri_blocks=284207228_255041093_2_2_0__146350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.7",
+        "reviewCount": 5813,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/471376729.webp?k=42a428917f709eb0d470cd086c3b6f27d0752b96555c16382d44d296e1d3cfa4&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 1,464"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Stuart Rooms Gzira Promenade"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/stuart-rooms-by-zzzing.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1215879302_394126244_2_1_0_793531&highlighted_blocks=1215879302_394126244_2_1_0_793531&matching_block_id=1215879302_394126244_2_1_0_793531&sr_pri_blocks=1215879302_394126244_2_1_0_793531_91555&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.2",
+        "reviewCount": 1161,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/562856769.webp?k=1d25a31759dd64dfc0362ff380d37e8e32d7d05eb86a2899df90058b6044a5f6&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 916"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "V86 - Charming 1BR Duplex by the Sea in Senglea"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/v86-charming-1br-duplex-by-the-sea-in-senglea.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=27&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1595892401_430615372_0_0_0&highlighted_blocks=1595892401_430615372_0_0_0&matching_block_id=1595892401_430615372_0_0_0&sr_pri_blocks=1595892401_430615372_0_0_0__55750&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.0",
+        "reviewCount": 1,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/833828956.webp?k=e54f847eca085b6663446c6baf19a0fea3bde18792f5713664e09fb9357018d5&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 558"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "The Howard Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/the-howard.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=28&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=727515605_416963246_0_1_0_822438&highlighted_blocks=727515605_416963246_0_1_0_822438&matching_block_id=727515605_416963246_0_1_0_822438&sr_pri_blocks=727515605_416963246_0_1_0_822438_75350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.2",
+        "reviewCount": 2309,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/633494247.webp?k=f46f85312cb0192bc11ca56fb86b84d1ece5e74783123f7eed3836ee4b9eac92&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 754"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Lourd Bed"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/lourd-bed.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=29&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1555711905_428198479_1_0_0&highlighted_blocks=1555711905_428198479_1_0_0&matching_block_id=1555711905_428198479_1_0_0&sr_pri_blocks=1555711905_428198479_1_0_0__21350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 9.3",
+        "reviewCount": 26,
+        "totalScoreTextTag": {
+          "translation": "Superb"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/802011892.webp?k=253c3f78c30336f5a39edd0a87576558a717c282cf1d14ff14b90689d2452fb9&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 214"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "The Rose Hostel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/the-rose-st-julians-saint-julian-39-s.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=30&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=784380901_368263619_1_0_0&highlighted_blocks=784380901_368263619_1_0_0&matching_block_id=784380901_368263619_1_0_0&sr_pri_blocks=784380901_368263619_1_0_0__20062&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.7",
+        "reviewCount": 1557,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/336217122.webp?k=45b35442c261dd36af1c3db0b79f3c60aecdd76ec321547e4975407cfa88e8cc&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 201"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Vegas Resort"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/vegas-resort.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=31&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1411251804_420258270_1_2_0&highlighted_blocks=1411251804_420258270_1_2_0&matching_block_id=1411251804_420258270_1_2_0&sr_pri_blocks=1411251804_420258270_1_2_0__79330&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.2",
+        "reviewCount": 810,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/736435744.webp?k=3094d6e0780c9cb49e04155d2c1f60b3af35a8ccb015fba33d0c7ad03b9831ff&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 793"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Bayview Hotel by ST Hotels"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/bayview-apartments.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=32&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1898901_253508142_0_33_0&highlighted_blocks=1898901_253508142_0_33_0&matching_block_id=1898901_253508142_0_33_0&sr_pri_blocks=1898901_253508142_0_33_0__86350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.7",
+        "reviewCount": 7197,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/295096407.webp?k=1fe76206b9f389661b349df5e718b51d99fca95811555c3f58906baba3277d6c&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 864"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Windmill Hostel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/windmill-hostel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=33&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1471927805_433002282_1_0_0&highlighted_blocks=1471927805_433002282_1_0_0&matching_block_id=1471927805_433002282_1_0_0&sr_pri_blocks=1471927805_433002282_1_0_0__18957&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.4",
+        "reviewCount": 124,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/769002602.webp?k=95b8d87c90a4a32cde43e48c062ebd3271e78454ab3bfb6f6c41ee877701b8cb&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 190"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Hotel Kennedy Nova"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/kennedy-nova.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=34&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1756913_402217159_0_41_0_837560&highlighted_blocks=1756913_402217159_0_41_0_837560&matching_block_id=1756913_402217159_0_41_0_837560&sr_pri_blocks=1756913_402217159_0_41_0_837560_79280&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 6.8",
+        "reviewCount": 536,
+        "totalScoreTextTag": {
+          "translation": "Review score"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/40546156.webp?k=d8251533083bb92a792fb7589e58679637f8f936b374dc3035aa399326db2c2d&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 793"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "3BR Apartment with Terrace and 1 Min to Sea"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/hera-apartment-full-apartment.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=35&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1583355704_429444623_1_0_0&highlighted_blocks=1583355704_429444623_1_0_0&matching_block_id=1583355704_429444623_1_0_0&sr_pri_blocks=1583355704_429444623_1_0_0__53500&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": null,
+        "reviewCount": null,
+        "totalScoreTextTag": {
+          "translation": null
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/847939969.webp?k=0756f9221b5014778544f2a27eea2054589543f11c1395e1af1f17c5bfa50fee&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 535"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Stay Central Malta"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/stay-central-malta.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=36&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1635557201_434104292_2_0_0&highlighted_blocks=1635557201_434104292_2_0_0&matching_block_id=1635557201_434104292_2_0_0&sr_pri_blocks=1635557201_434104292_2_0_0__30776&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": null,
+        "reviewCount": null,
+        "totalScoreTextTag": {
+          "translation": null
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/864306109.webp?k=ce395298a73e6698b7fd2b5ad37c09c0b19e0487eab7480350b6cb44996ea463&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 308"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "EUROCLUB Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/euroclub.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=37&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=25182511_266008666_2_41_0&highlighted_blocks=25182511_266008666_2_41_0&matching_block_id=25182511_266008666_2_41_0&sr_pri_blocks=25182511_266008666_2_41_0__59850&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.2",
+        "reviewCount": 979,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/765608898.webp?k=ff4562536a82306ab641a16c2c4e466dd6699ab8dcbc83b410ce57d32a94d9f2&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 599"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Lepanto Guesthouse"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/lepanto-guesthouse.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=38&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1628255602_433440085_2_1_0&highlighted_blocks=1628255602_433440085_2_1_0&matching_block_id=1628255602_433440085_2_1_0&sr_pri_blocks=1628255602_433440085_2_1_0__85250&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": null,
+        "reviewCount": null,
+        "totalScoreTextTag": {
+          "translation": null
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/860617615.webp?k=a32908dffcadfd4cb3f667985bc5b5c072d9a606dcae33a86e814da5d808ecf8&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 853"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "SC Club Village"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/sprachcaffe-international.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=39&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=28387014_291371711_0_1_0&highlighted_blocks=28387014_291371711_0_1_0&matching_block_id=28387014_291371711_0_1_0&sr_pri_blocks=28387014_291371711_0_1_0__42350&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.5",
+        "reviewCount": 653,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/325553262.webp?k=6635f1f41be5097d831057bc9bd37d68263b0602e03188e5142dcd1b5399d3c2&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 424"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Tritoni Alta suites"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/tritoni-alta-suites.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=40&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1518817102_423569764_0_0_0&highlighted_blocks=1518817102_423569764_0_0_0&matching_block_id=1518817102_423569764_0_0_0&sr_pri_blocks=1518817102_423569764_0_0_0__75917&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.5",
+        "reviewCount": 62,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/775036188.webp?k=5a9a165f06519095ea7bfb63a2474348bfeb51016e46a39c7016c688dd6e6aae&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 759"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Marina View 34"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/marina-view-34.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=41&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1154638401_388264027_1_0_0&highlighted_blocks=1154638401_388264027_1_0_0&matching_block_id=1154638401_388264027_1_0_0&sr_pri_blocks=1154638401_388264027_1_0_0__75423&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.7",
+        "reviewCount": 3,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/528407713.webp?k=4e4d3bcbe4bc4a54b25ceb273c5c09209383704750b40de0a03fb767d41babeb&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 754"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Private Rooms with Shared Kitchen in Hamrun Malta"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/private-room-with-shared-kitchen-in-hamrun-malta.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=42&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1620560202_432898158_0_0_0&highlighted_blocks=1620560202_432898158_0_0_0&matching_block_id=1620560202_432898158_0_0_0&sr_pri_blocks=1620560202_432898158_0_0_0__48363&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 5.5",
+        "reviewCount": 2,
+        "totalScoreTextTag": {
+          "translation": "Review score"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/855784851.webp?k=f5e7d2d99c70a33e0b46ec5600b58486c3700071313db00a678dd2bc153ee775&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 484"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "The Sliema Studio Stay by 360 Estates"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/the-sliema-studio-stay-by-360-estates.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=43&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1041585903_414012520_0_0_0&highlighted_blocks=1041585903_414012520_0_0_0&matching_block_id=1041585903_414012520_0_0_0&sr_pri_blocks=1041585903_414012520_0_0_0__59191&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.4",
+        "reviewCount": 58,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/476270105.webp?k=d0c3267d2e8cecd142738bee22c12b9d6ee9c1d0c87a1aac1886493b27c2ef3e&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 592"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Sliema Chalet Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/sliema-chalet.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=44&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1755410_419920105_1_42_0&highlighted_blocks=1755410_419920105_1_42_0&matching_block_id=1755410_419920105_1_42_0&sr_pri_blocks=1755410_419920105_1_42_0__77784&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.7",
+        "reviewCount": 2607,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": {
+        "value": 6
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/61428201.webp?k=d1d7fbb574be401a85dad02604f219bfb3a9d484533864e173d48fa2f91b8938&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 778"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "224 Boutique Hostel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/224-boutique-hostel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=45&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1553483406_427161930_1_0_0&highlighted_blocks=1553483406_427161930_1_0_0&matching_block_id=1553483406_427161930_1_0_0&sr_pri_blocks=1553483406_427161930_1_0_0__30012&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 9.1",
+        "reviewCount": 289,
+        "totalScoreTextTag": {
+          "translation": "Superb"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/805188958.webp?k=53f3f24547bdba9427eb8b2f842f6ac5ee0ec084649b54e397989a8380c8616d&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 300"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  },
+  {
+    "displayName": {
+      "text": "Urban Vibe 1"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/urban-vibe-1.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=46&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1579990201_429139961_1_0_0&highlighted_blocks=1579990201_429139961_1_0_0&matching_block_id=1579990201_429139961_1_0_0&sr_pri_blocks=1579990201_429139961_1_0_0__49748&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.5",
+        "reviewCount": 4,
+        "totalScoreTextTag": {
+          "translation": "Very good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/821981974.webp?k=13127d9ccbc9bd89613d2f9c7637236aa0a11f0cf10af61e55b8de403e2983a3&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 497"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Vivaldi Hotel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/gtvivaldihotel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=47&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=0_0_1_0_0&highlighted_blocks=0_0_1_0_0&matching_block_id=0_0_1_0_0&sr_pri_blocks=0_0_1_0_0__81548&from_sustainable_property_sr=1&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.8",
+        "reviewCount": 5172,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/157523094.webp?k=a20153b7da0457c7761833ec222fd582348da7d74f7b8c99167b40701e36f8c9&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 815"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Best In Town"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/karon.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=48&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1518185102_423521248_1_2_0&highlighted_blocks=1518185102_423521248_1_2_0&matching_block_id=1518185102_423521248_1_2_0&sr_pri_blocks=1518185102_423521248_1_2_0__40774&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 4.7",
+        "reviewCount": 16,
+        "totalScoreTextTag": {
+          "translation": "Review score"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/769769699.webp?k=0478ca896e18174bc3d69ee642d3254ac4a80797fb923fb2ab8ad5393c358b16&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 408"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Marco Polo Party Hostel"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/marco-polo-hostel.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=49&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=188236101_95414687_1_0_0_819605&highlighted_blocks=188236101_95414687_1_0_0_819605&matching_block_id=188236101_95414687_1_0_0_819605&sr_pri_blocks=188236101_95414687_1_0_0_819605_24110&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 7.9",
+        "reviewCount": 3000,
+        "totalScoreTextTag": {
+          "translation": "Good"
+        }
+      },
+      "starRating": null,
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/512824647.webp?k=81b2d2517bc49e1df94947c8f41000ef179a2b54374dfc99f0f3a688d68ceffa&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 241"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": false
+    }
+  },
+  {
+    "displayName": {
+      "text": "Novotel Malta Sliema"
+    },
+    "basicPropertyData": {
+      "pageName": "https://www.booking.com/hotel/mt/novotel-malta-sliema.en-gb.html?aid=304142&label=gen173nr-10CAQoggJCC3JlZ2lvbl8zOTM5SAlYBGicAYgBAZgBM7gBF8gBDNgBA-gBAfgBAYgCAagCAbgCs8CS0AbAAgHSAiQ2MGQ1YWMyNi1iYjA4LTQzNWQtODViNy1kY2Q5OTkzNzUzOTPYAgHgAgE&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-27&dest_id=3939&dest_type=region&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=50&sr_order=popularity&srpvid=89eb70998e690201&srepoch=1778688056&all_sr_blocks=1439365703_415428712_2_42_0&highlighted_blocks=1439365703_415428712_2_42_0&matching_block_id=1439365703_415428712_2_42_0&sr_pri_blocks=1439365703_415428712_2_42_0__116850&from=searchresults",
+      "location": {
+        "address": "",
+        "city": null,
+        "countryCode": null
+      },
+      "reviewScore": {
+        "score": "Scored 8.7",
+        "reviewCount": 1464,
+        "totalScoreTextTag": {
+          "translation": "Fabulous"
+        }
+      },
+      "starRating": {
+        "value": 8
+      },
+      "photos": {
+        "main": {
+          "highResUrl": {
+            "relativeUrl": "https://cf.bstatic.com/xdata/images/hotel/square240/781599351.webp?k=7495bd18da6f8b063c62cfaf6d1fd011753696673cf4767279d4e3f34d509ba6&o="
+          }
+        }
+      }
+    },
+    "location": {
+      "displayLocation": "",
+      "mainDistance": null
+    },
+    "priceDisplayInfoIrene": {
+      "displayPrice": {
+        "amountPerStay": {
+          "amount": "€ 1,169"
+        }
+      }
+    },
+    "policies": {
+      "showFreeCancellation": true
+    }
+  }
+]

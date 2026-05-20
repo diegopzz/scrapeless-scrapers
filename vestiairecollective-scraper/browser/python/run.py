@@ -1,0 +1,54 @@
+"""Run the scrape functions live and optionally write results/*.json.
+
+Usage:
+    SCRAPELESS_API_KEY=sk_... python run.py
+    SCRAPELESS_API_KEY=sk_... SAVE_TEST_RESULTS=true python run.py
+"""
+
+from __future__ import annotations
+
+import asyncio
+import json
+import os
+import sys
+from pathlib import Path
+
+from vestiairecollective import scrape_products, scrape_search
+
+
+HERE = Path(__file__).resolve().parent
+RESULTS_DIR = HERE / "results"
+
+
+def save_or_print(name: str, payload) -> None:
+    text = json.dumps(payload, indent=2, ensure_ascii=False)
+    if os.environ.get("SAVE_TEST_RESULTS", "").lower() == "true":
+        RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+        out = RESULTS_DIR / f"{name}.json"
+        out.write_text(text, encoding="utf-8")
+        print(f"wrote {out}", file=sys.stderr)
+    else:
+        print(text)
+
+
+async def main() -> None:
+    product_urls = os.environ.get(
+        "VESTIAIRE_SAMPLE_PRODUCT_URLS",
+        ",".join([
+            "https://us.vestiairecollective.com/men-clothing/jackets/louis-vuitton/camel-polyester-louis-vuitton-jacket-66935196.shtml",
+            "https://us.vestiairecollective.com/women-bags/handbags/louis-vuitton/brown-leather-pochette-accessoire-louis-vuitton-handbag-66965047.shtml",
+        ]),
+    ).split(",")
+    search_url = os.environ.get(
+        "VESTIAIRE_SAMPLE_SEARCH_URL", "https://www.vestiairecollective.com/search/?q=louis+vuitton"
+    )
+
+    print(f"== products ({len(product_urls)}) ==", file=sys.stderr)
+    save_or_print("products", await scrape_products([u.strip() for u in product_urls if u.strip()]))
+
+    print(f"== search {search_url!r} ==", file=sys.stderr)
+    save_or_print("search", await scrape_search(search_url, max_pages=2))
+
+
+if __name__ == "__main__":
+    asyncio.run(main())

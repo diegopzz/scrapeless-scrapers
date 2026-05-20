@@ -1,0 +1,3006 @@
+[
+  {
+    "pageUrl": "https://www.trustpilot.com/review/www.flashbay.com",
+    "companyDetails": {
+      "id": "4bdc9828000064000505dc60",
+      "displayName": "Flashbay",
+      "identifyingName": "www.flashbay.com",
+      "numberOfReviews": 19236,
+      "trustScore": 5,
+      "websiteUrl": "https://www.flashbay.com",
+      "websiteTitle": "www.flashbay.com",
+      "profileImageUrl": "//s3-eu-west-1.amazonaws.com/tpd/logos/4bdc9828000064000505dc60/0x0.png",
+      "customHeaderUrl": "",
+      "promotion": null,
+      "hideCompetitorModule": false,
+      "stars": 5,
+      "categories": [
+        {
+          "id": "business_to_business_service",
+          "name": "Business to Business Service",
+          "rank": "1",
+          "cardinality": "246",
+          "isPrimary": false
+        },
+        {
+          "id": "hobby_store",
+          "name": "Hobby Store",
+          "rank": "1",
+          "cardinality": "102",
+          "isPrimary": false
+        },
+        {
+          "id": "gift_shop",
+          "name": "Gift Shop",
+          "rank": "1",
+          "cardinality": "113",
+          "isPrimary": false
+        },
+        {
+          "id": "computer_accessories_store",
+          "name": "Computer Accessories Store",
+          "rank": "1",
+          "cardinality": "60",
+          "isPrimary": false
+        },
+        {
+          "id": "drives_and_storage_service",
+          "name": "Drives and Storage Service",
+          "rank": "1",
+          "cardinality": "3",
+          "isPrimary": false
+        },
+        {
+          "id": "promotional_items_store",
+          "name": "Promotional Item Store",
+          "rank": "1",
+          "cardinality": "37",
+          "isPrimary": true
+        }
+      ],
+      "breadcrumb": {
+        "topLevelId": "business_services",
+        "topLevelDisplayName": "Business Services",
+        "midLevelId": "sales_marketing",
+        "midLevelDisplayName": "Sales & Marketing",
+        "bottomLevelId": "promotional_items_store",
+        "bottomLevelDisplayName": "Promotional Item Store"
+      },
+      "isClaimed": true,
+      "isClosed": false,
+      "isTemporarilyClosed": false,
+      "locationsCount": 0,
+      "isCollectingReviews": true,
+      "verification": {
+        "verifiedByGoogle": false,
+        "verifiedPaymentMethod": true,
+        "verifiedUserIdentity": false
+      },
+      "hasCollectedIncentivisedReviews": false,
+      "consumerAlert": null,
+      "consumerAlerts": [],
+      "isMerged": false,
+      "contactInfo": {
+        "email": "contact@flashbay.us",
+        "address": "Flashbay Inc. 569 Clyde Avenue, Unit 500, Mountain View, CA 94043",
+        "city": "",
+        "country": "US",
+        "phone": "",
+        "zipCode": ""
+      },
+      "activity": {
+        "isUsingPaidFeatures": true,
+        "hasSubscription": true,
+        "isAskingForReviews": true,
+        "claimedDate": "2014-05-09T21:08:48.000Z",
+        "isClaimed": true,
+        "previouslyClaimed": true,
+        "replyBehavior": {
+          "averageDaysToReply": 19,
+          "lastReplyToNegativeReview": "2026-01-06 10:19:18 UTC",
+          "negativeReviewsWithRepliesCount": 1,
+          "replyPercentage": 50,
+          "totalNegativeReviewsCount": 2
+        },
+        "verification": {
+          "verifiedByGoogle": false,
+          "verifiedPaymentMethod": true,
+          "verifiedUserIdentity": false
+        },
+        "hasBusinessUnitMergeHistory": false,
+        "isUsingAIResponses": true
+      },
+      "hasCustomHeaderSetting": true,
+      "hasPromotionSetting": true
+    },
+    "reviews": [
+      {
+        "id": "6a039b7de152f92ef4010415",
+        "filtered": false,
+        "isPending": false,
+        "text": "Great service and quick turnaround!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T23:28:29.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great service and quick turnaround!",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T23:28:29.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a039b7d791905426929b9cd",
+          "displayName": "Lisa Woodworth",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0352639fe6d2e16165eb99",
+        "filtered": false,
+        "isPending": false,
+        "text": "Matt was great! Once I submitted our order, he immediately called to check in and make sure that our product was exactly what we were looking for. Upon arrival, he called the same day to confirm receipt. Top notch! Will definitely be ordering from FlashBay again!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T18:16:35.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Awesome Customer Service!",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-11T00:00:00.000Z",
+          "publishedDate": "2026-05-12T18:16:35.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6585fa08c359420012206127",
+          "displayName": "Molly Smith",
+          "imageUrl": "https://user-images.trustpilot.com/6585fa08c359420012206127/73x73.png",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0337e9023ba4be17d380e0",
+        "filtered": false,
+        "isPending": false,
+        "text": "Clear and fast communication - even when I asked for multiple different proofs to make sure I was getting the exact product we needed. Matt was also great at helping me confirm the image was high-quality before it was sent to production, which was so helpful. I've had experiences with other companies in the past where that has not been the case and gotten the items with a low quality logo printed on them.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T16:23:37.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Clear and fast communication",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T16:23:37.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a0337e92c172701a28cf246",
+          "displayName": "JM",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello JM,\nThis is what we love to hear!\nIt’s great to hear that Matt was able to answer all of your questions, and you are happy with the final product.\nWe truly appreciate your support and can’t wait for the opportunity to serve you again.\n-Flashbay Management",
+          "publishedDate": "2026-05-12T18:13:40.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a02a653b6a37da6d8fe5eb6",
+        "filtered": false,
+        "isPending": false,
+        "text": "very good, amazing customer service",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": false,
+            "createdDateTime": "2026-05-12T06:02:27.000Z",
+            "reviewSourceName": "Organic",
+            "verificationSource": "invitation",
+            "verificationLevel": "not-verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Good service",
+        "likes": 0,
+        "source": "Organic",
+        "dates": {
+          "experiencedDate": "2026-05-11T00:00:00.000Z",
+          "publishedDate": "2026-05-12T06:02:27.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a02a5b52c1727957d8c1b75",
+          "displayName": "Chiranjiv Mahesha",
+          "imageUrl": "https://user-images.trustpilot.com/6a02a5b52c1727957d8c1b75/73x73.png",
+          "numberOfReviews": 1,
+          "countryCode": "CA",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a02073c2604139d0e5062c7",
+        "filtered": false,
+        "isPending": false,
+        "text": "custom service",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-11T18:43:40.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "great delivery ",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-11T00:00:00.000Z",
+          "publishedDate": "2026-05-11T18:43:40.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a02073c98a7927dc248d08d",
+          "displayName": "Raphaël Ayoun",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Raphael,\nWe are glad you had an excellent experience working with us.\nWe look forward to working with you next time!\n-Flashbay Management",
+          "publishedDate": "2026-05-12T18:12:58.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a01be8195f80225cc7b57dc",
+        "filtered": false,
+        "isPending": false,
+        "text": "Ok good fffr",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": false,
+            "createdDateTime": "2026-05-11T13:33:21.000Z",
+            "reviewSourceName": "Organic",
+            "verificationSource": "invitation",
+            "verificationLevel": "not-verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Ok good fffr",
+        "likes": 0,
+        "source": "Organic",
+        "dates": {
+          "experiencedDate": "2026-05-11T00:00:00.000Z",
+          "publishedDate": "2026-05-11T13:33:21.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a01bbbe79190539c82701ca",
+          "displayName": "Сергій Воропаєв",
+          "imageUrl": "https://user-images.trustpilot.com/6a01bbbe79190539c82701ca/73x73.png",
+          "numberOfReviews": 1,
+          "countryCode": "UA",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69ff73e6fff7685748f406e1",
+        "filtered": false,
+        "isPending": false,
+        "text": "It is the great company ",
+        "rating": 4,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": false,
+            "createdDateTime": "2026-05-09T19:50:30.000Z",
+            "reviewSourceName": "Organic",
+            "verificationSource": "invitation",
+            "verificationLevel": "not-verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "It is the great company",
+        "likes": 0,
+        "source": "Organic",
+        "dates": {
+          "experiencedDate": "2026-05-09T00:00:00.000Z",
+          "publishedDate": "2026-05-09T19:50:30.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69ff734098a79201e74659e7",
+          "displayName": "Noah SINDAPHI",
+          "imageUrl": "https://user-images.trustpilot.com/69ff734098a79201e74659e7/73x73.png",
+          "numberOfReviews": 1,
+          "countryCode": "ZA",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69fedb40439a6a839f0e119e",
+        "filtered": false,
+        "isPending": false,
+        "text": "Super quick and clear communication and quick turnaround!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-09T08:59:12.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Amazing service!",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-08T00:00:00.000Z",
+          "publishedDate": "2026-05-09T08:59:12.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69fedb3f5f73f9409da8e249",
+          "displayName": "Katie B",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Katie,\nWe are glad you had an excellent experience working with us.\nWe look forward to working with you next time!\n-Flashbay Management",
+          "publishedDate": "2026-05-12T18:12:38.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69fcd3a9e9548772b0c5ac05",
+        "filtered": false,
+        "isPending": false,
+        "text": "Matt was super kind and was very quick to respond to any questions I had.  He sent samples and they arrived quickly and were great quality. He shared options to help us save on shipping- which was also super impressive.  Items came within a week in perfect condition and we are thrilled with the result!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-07T20:02:17.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great Customer Service and Great Product",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-07T00:00:00.000Z",
+          "publishedDate": "2026-05-07T20:02:17.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69fcd3a92c1727e9b9864f3e",
+          "displayName": "Kari G.",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Kari,\nWe are glad you found the samples useful in making your selection. \nIt is also great to hear that Matt was able to answer all of your questions, and you are happy with the final product.\nWe look forward to working with you next time!\n-Flashbay Management",
+          "publishedDate": "2026-05-12T18:11:45.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69fbc2c70a9bd485de3e900a",
+        "filtered": false,
+        "isPending": false,
+        "text": "I love Flashbay!  I’ve ordered USB drives twice, and pens once. I’ll order all of my business promo products through Flashbay going forward. ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-07T00:37:59.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "I love Flashbay",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-06T00:00:00.000Z",
+          "publishedDate": "2026-05-07T00:37:59.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69fbc2c5621914644e5d7a24",
+          "displayName": "John Upshaw",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello John,\nWe are glad you had an excellent experience working with us.\nWe look forward to working with you next time!\n-Flashbay Management",
+          "publishedDate": "2026-05-12T18:10:26.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f8e42b7b8b1abc26630308",
+        "filtered": false,
+        "isPending": false,
+        "text": "Olivia was such a dream to work with in looking for a promotional item that fit our needs.  She gave me several options and was very proactive in offering alternatives and price points that fit our budget.  The order was produced and delivered in a matter of days. The pens we ordered looked great and the quality was amazing.  I highly recommend Flashbay and Olivia!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-04T20:23:39.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "100% Positive Experience!  Olivia rocks!",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-04T00:00:00.000Z",
+          "publishedDate": "2026-05-04T20:23:39.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f8e42b98a7920d323e7b67",
+          "displayName": "Amy Batson",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Amy,\nThis is what we love to hear!\nIt’s great to hear that Olivia was able to answer all of your questions, and you are happy with the final product.\nWe truly appreciate your support and can’t wait for the opportunity to serve you again.\n-Flashbay Management",
+          "publishedDate": "2026-05-12T18:09:22.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f8540abba6e68636f90757",
+        "filtered": false,
+        "isPending": false,
+        "text": "Its just the best",
+        "rating": 4,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": false,
+            "createdDateTime": "2026-05-04T10:08:42.000Z",
+            "reviewSourceName": "Organic",
+            "verificationSource": "invitation",
+            "verificationLevel": "not-verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Its just the best",
+        "likes": 0,
+        "source": "Organic",
+        "dates": {
+          "experiencedDate": "2026-05-04T00:00:00.000Z",
+          "publishedDate": "2026-05-04T10:08:42.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f851b77919056a3f1c526f",
+          "displayName": "Ken Evans",
+          "imageUrl": "https://user-images.trustpilot.com/69f851b77919056a3f1c526f/73x73.png",
+          "numberOfReviews": 1,
+          "countryCode": "KE",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f7e57105a8838ed9469465",
+        "filtered": false,
+        "isPending": false,
+        "text": "Nice company ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": false,
+            "createdDateTime": "2026-05-04T02:16:49.000Z",
+            "reviewSourceName": "Organic",
+            "verificationSource": "invitation",
+            "verificationLevel": "not-verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Nice company",
+        "likes": 0,
+        "source": "Organic",
+        "dates": {
+          "experiencedDate": "2026-05-04T00:00:00.000Z",
+          "publishedDate": "2026-05-04T02:16:49.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f7e52f5f73f9306da06c04",
+          "displayName": "Yousef Al julum",
+          "imageUrl": "https://user-images.trustpilot.com/69f7e52f5f73f9306da06c04/73x73.png",
+          "numberOfReviews": 2,
+          "countryCode": "GB",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f50b55e2d2834f3097adbe",
+        "filtered": false,
+        "isPending": false,
+        "text": "The design process was seamless and the results look great. The sales team was equally impressive. The Flashbay team provided detailed comparisons and tailored options that made it easy to find the perfect solution for our needs.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-01T22:21:41.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Seamless Process, Perfect Solution",
+        "likes": 1,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-04-30T00:00:00.000Z",
+          "publishedDate": "2026-05-01T22:21:41.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f50b54791905240719ea10",
+          "displayName": "Amy Asevedo",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Amy,\nWe are glad you had an excellent experience working with us.\nWe look forward to working with you next time!\n-Flashbay Management",
+          "publishedDate": "2026-05-04T18:50:44.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f48ed3e4e93245d09dbd0c",
+        "filtered": false,
+        "isPending": false,
+        "text": "Sierra was very attentive and responsive and made the transaction very easy.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-01T13:30:27.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Good experience",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-04-30T00:00:00.000Z",
+          "publishedDate": "2026-05-01T13:30:27.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f48ed2621914159355980b",
+          "displayName": "Courtney Murphy",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Courtney,\nWe are glad you had an excellent experience working with Sierra.\nWe look forward to working with you next time!\n-Flashbay Management",
+          "publishedDate": "2026-05-04T18:49:39.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f429392c60e1bbd2941113",
+        "filtered": false,
+        "isPending": false,
+        "text": "Great designs to choose from and high quality services provided. Satisfied with everything. Thumbs 👍🏻",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": false,
+            "createdDateTime": "2026-05-01T06:16:57.000Z",
+            "reviewSourceName": "Organic",
+            "verificationSource": "invitation",
+            "verificationLevel": "not-verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great designs to choose from and high…",
+        "likes": 0,
+        "source": "Organic",
+        "dates": {
+          "experiencedDate": "2026-05-01T00:00:00.000Z",
+          "publishedDate": "2026-05-01T06:16:57.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f4270698a792b50a39fb9e",
+          "displayName": "-BalachiS-",
+          "imageUrl": "https://user-images.trustpilot.com/69f4270698a792b50a39fb9e/73x73.png",
+          "numberOfReviews": 1,
+          "countryCode": "MY",
+          "hasImage": true,
+          "isVerified": true
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f3aa674970aa2dc5e6c0b5",
+        "filtered": false,
+        "isPending": false,
+        "text": "Flashbay was amazing from start to finish! The customer service was very quick to communicate, and the product looked exactly as expected. We will definitely do business with them again and strongly recommend this company!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-04-30T21:15:51.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Flashbay was amazing from start to…",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-04-30T00:00:00.000Z",
+          "publishedDate": "2026-04-30T21:15:51.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f3aa6698a792573e399a64",
+          "displayName": "Rancho Santa Fe Golf Club",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Rancho Santa Fe Golf Club,\nWe are glad you had an excellent experience working with us.\nWe look forward to working with you next time!\n-Flashbay Management",
+          "publishedDate": "2026-05-04T18:49:02.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f38e57a3766de4c52ccd7e",
+        "filtered": false,
+        "isPending": false,
+        "text": "Olivia was super helpful. She was responsive and answered any questions I had. The product we ordered was perfect. We are super pleased and ended up ordering more. ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-04-30T19:16:07.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Olivia was super helpful",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-04-30T00:00:00.000Z",
+          "publishedDate": "2026-04-30T19:16:07.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f38e565f73f948599ca0a8",
+          "displayName": "Monica",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Monica,\nIt’s great to hear that Olivia was able to answer all of your questions, and you are happy with the final product.\nWe truly appreciate your support and can’t wait for the opportunity to serve you again.\n-Flashbay Management",
+          "publishedDate": "2026-05-04T18:41:08.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f2fb4a0364dbea311d884b",
+        "filtered": false,
+        "isPending": false,
+        "text": "Good experience so far.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": false,
+            "createdDateTime": "2026-04-30T08:48:42.000Z",
+            "reviewSourceName": "Organic",
+            "verificationSource": "invitation",
+            "verificationLevel": "not-verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Good experience so far.",
+        "likes": 0,
+        "source": "Organic",
+        "dates": {
+          "experiencedDate": "2026-04-30T00:00:00.000Z",
+          "publishedDate": "2026-04-30T08:48:42.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "65755e2251045c0012c06bf0",
+          "displayName": "Muhammad Shoaib",
+          "imageUrl": "https://user-images.trustpilot.com/65755e2251045c0012c06bf0/73x73.png",
+          "numberOfReviews": 5,
+          "countryCode": "US",
+          "hasImage": true,
+          "isVerified": true
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "69f27ef4c4d1679c7957dd50",
+        "filtered": false,
+        "isPending": false,
+        "text": "Olivia G. was a wonderful representative for the company and the product.  She gave me constant updates on the product and her follow through was greatly appreciated and not often found today.  The company logo on Rubik's type cube was a BIG hit! Thank you 😊",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-04-29T23:58:12.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great Job!",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-04-29T00:00:00.000Z",
+          "publishedDate": "2026-04-29T23:58:12.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69f27ef398a7920d5a382f90",
+          "displayName": "Terry Turner",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello Terry,\nIt’s great to hear that Olivia was able to answer all of your questions, and you are happy with the final product.\nWe truly appreciate your support and can’t wait for the opportunity to serve you again.\n-Flashbay Management",
+          "publishedDate": "2026-05-04T18:38:59.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      }
+    ]
+  },
+  {
+    "pageUrl": "https://www.trustpilot.com/review/iggm.com",
+    "companyDetails": {
+      "id": "5daac6198b173d0001fbdd53",
+      "displayName": "IGGM",
+      "identifyingName": "iggm.com",
+      "numberOfReviews": 172912,
+      "trustScore": 4.8,
+      "websiteUrl": "https://www.iggm.com/",
+      "websiteTitle": "iggm.com",
+      "profileImageUrl": "//s3-eu-west-1.amazonaws.com/tpd/logos/5daac6198b173d0001fbdd53/0x0.png",
+      "customHeaderUrl": "//s3-eu-west-1.amazonaws.com/tpd/headers/5daac6198b173d0001fbdd53/0x0.png",
+      "promotion": null,
+      "hideCompetitorModule": false,
+      "stars": 5,
+      "categories": [
+        {
+          "id": "video_game_store",
+          "name": "Video Game Store",
+          "rank": "18",
+          "cardinality": "66",
+          "isPrimary": false
+        },
+        {
+          "id": "game_store",
+          "name": "Game Store",
+          "rank": "13",
+          "cardinality": "49",
+          "isPrimary": false
+        },
+        {
+          "id": "internet_shop",
+          "name": "Internet Shop",
+          "rank": "3",
+          "cardinality": "20",
+          "isPrimary": false
+        },
+        {
+          "id": "gaming_service_provider",
+          "name": "Gaming service Provider",
+          "rank": "14",
+          "cardinality": "104",
+          "isPrimary": true
+        },
+        {
+          "id": "computer_accessories_store",
+          "name": "Computer Accessories Store",
+          "rank": "9",
+          "cardinality": "60",
+          "isPrimary": false
+        }
+      ],
+      "breadcrumb": {
+        "topLevelId": "events_entertainment",
+        "topLevelDisplayName": "Events & Entertainment",
+        "midLevelId": "gaming",
+        "midLevelDisplayName": "Gaming",
+        "bottomLevelId": "gaming_service_provider",
+        "bottomLevelDisplayName": "Gaming service Provider"
+      },
+      "isClaimed": true,
+      "isClosed": false,
+      "isTemporarilyClosed": false,
+      "locationsCount": 0,
+      "isCollectingReviews": true,
+      "verification": {
+        "verifiedByGoogle": false,
+        "verifiedPaymentMethod": true,
+        "verifiedUserIdentity": false
+      },
+      "hasCollectedIncentivisedReviews": false,
+      "consumerAlert": null,
+      "consumerAlerts": [],
+      "isMerged": false,
+      "contactInfo": {
+        "email": "support@iggm.com",
+        "address": "",
+        "city": "",
+        "country": "US",
+        "phone": "",
+        "zipCode": ""
+      },
+      "activity": {
+        "isUsingPaidFeatures": true,
+        "hasSubscription": true,
+        "isAskingForReviews": true,
+        "claimedDate": "2019-10-19T08:17:02.000Z",
+        "isClaimed": true,
+        "previouslyClaimed": true,
+        "replyBehavior": {
+          "averageDaysToReply": 0.01,
+          "lastReplyToNegativeReview": "2026-05-12 23:11:35 UTC",
+          "negativeReviewsWithRepliesCount": 2285,
+          "replyPercentage": 99.95625546806649,
+          "totalNegativeReviewsCount": 2286
+        },
+        "verification": {
+          "verifiedByGoogle": false,
+          "verifiedPaymentMethod": true,
+          "verifiedUserIdentity": false
+        },
+        "hasBusinessUnitMergeHistory": false,
+        "isUsingAIResponses": true
+      },
+      "hasCustomHeaderSetting": true,
+      "hasPromotionSetting": true
+    },
+    "reviews": [
+      {
+        "id": "6a04752802cb28c11b468f88",
+        "filtered": false,
+        "isPending": false,
+        "text": "Quick delivery. ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T14:57:12.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Quick delivery.",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T14:57:12.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "5e41ee8412b06c577feff3e8",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 6,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 5,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0470ffc7db4a81f8f17bb2",
+        "filtered": false,
+        "isPending": false,
+        "text": "I recommend this service. because this service is so fast and so good ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T14:39:27.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Best Service  ",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T14:39:27.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a0470fe2c172787588e7a10",
+          "displayName": "Ezreju",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "IT",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0460a4228ecc4d3a894744",
+        "filtered": false,
+        "isPending": false,
+        "text": "Fast delivery ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T13:29:40.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Fast delivery",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-11T00:00:00.000Z",
+          "publishedDate": "2026-05-13T13:29:40.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "5a3fa2ac0000ff000af5c27f",
+          "displayName": "Gemma Moss",
+          "imageUrl": "https://user-images.trustpilot.com/5a3fa2ac0000ff000af5c27f/73x73.png",
+          "numberOfReviews": 31,
+          "countryCode": "GB",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a045b4fa301acea94cf6cd9",
+        "filtered": false,
+        "isPending": false,
+        "text": "Excellent job!!!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T13:06:55.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Excellent job!!!",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T13:06:55.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69b523a108458546ed2a6ddd",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 4,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 4,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0456cf3e6baa7469864af7",
+        "filtered": false,
+        "isPending": false,
+        "text": "Ty 4 beyond so fast today ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T12:47:43.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Ty 4 bein fast today",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T12:47:43.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "67b1aace1e09b465ac14b661",
+          "displayName": "ShaKK",
+          "imageUrl": "https://user-images.trustpilot.com/67b1aace1e09b465ac14b661/73x73.png",
+          "numberOfReviews": 11,
+          "countryCode": "US",
+          "hasImage": true,
+          "isVerified": true
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 11,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0456a1bf0e2f0155d7fcde",
+        "filtered": false,
+        "isPending": false,
+        "text": "Very easy and really fast delivery, friendly and helpful... I would and will buy from again.. Thank you for everything... Awesome interaction....",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T12:46:57.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Very easy and really fast delivery",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T12:46:57.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "60c1de9b8564720019e86efc",
+          "displayName": "Matthew Smith",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0441c59adb016b24ec477c",
+        "filtered": false,
+        "isPending": false,
+        "text": "Very quickly very easy ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T11:17:57.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Easy",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T11:17:57.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a0441c498a79204ed4b767b",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "CZ",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a043fbe90d1aac48a8e8e79",
+        "filtered": false,
+        "isPending": false,
+        "text": "All good, thanks",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T11:09:18.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Perfect",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T11:09:18.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6904fbbc406414870a2c2611",
+          "displayName": "Jean-Philippe Seguin",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "CA",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a043dfcb2d2da41f26170bf",
+        "filtered": false,
+        "isPending": false,
+        "text": "Fast professional service thanks",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T11:01:48.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Fast professional service thanks",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T11:01:48.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6830e3c54e662dd4e721e031",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 3,
+          "countryCode": "AU",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 3,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0439c1e80fadd115b760c0",
+        "filtered": false,
+        "isPending": false,
+        "text": "quick and responsive and always available to help ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T10:43:45.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "5 stars best place to get your stuff",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T10:43:45.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a0439c02c172748478e160d",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0438e9591a1a1824f2905f",
+        "filtered": false,
+        "isPending": false,
+        "text": "Great - no issues, fast and reliable",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T10:40:09.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great experience",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-11T00:00:00.000Z",
+          "publishedDate": "2026-05-13T10:40:09.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "679e0a184a4a06b85c4348d3",
+          "displayName": "Christopher Oakes",
+          "imageUrl": "https://user-images.trustpilot.com/679e0a184a4a06b85c4348d3/73x73.png",
+          "numberOfReviews": 2,
+          "countryCode": "GB",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0437a3c2e2d99adb36dea7",
+        "filtered": false,
+        "isPending": false,
+        "text": "Excellent service. Delivery was fast.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T10:34:43.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Excellent service",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-02T00:00:00.000Z",
+          "publishedDate": "2026-05-13T10:34:43.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "5c0b42493f0baa489b277546",
+          "displayName": "MG",
+          "imageUrl": "",
+          "numberOfReviews": 6,
+          "countryCode": "GB",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a043757b68eca2202a27db8",
+        "filtered": false,
+        "isPending": false,
+        "text": "I will never be back i will be going to your competitor right now as a matter of fact to place my next order right now . Your guys need to get your shit straight this i like my 20th order never had any problems till now and we had 3 problems with one order . Lol you guys suck!!!",
+        "rating": 1,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T10:33:27.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "I will never be back i will be going to…",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T10:33:27.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "61f4795d554f830013e914ff",
+          "displayName": "Matthew Clay",
+          "imageUrl": "",
+          "numberOfReviews": 6,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": {
+          "message": "Hello, thanks for your feedback. If you are not satisfied with your order or have questions about our service, please don't hesitate to reach out to us through the following methods. We will provide you with a satisfactory solution.\n\nDiscord: iggmofficial_\nEmail : Fixcomplaint@iggm.com\nIGGM TEAM",
+          "publishedDate": "2026-05-13T11:18:20.000Z",
+          "updatedDate": null
+        },
+        "consumersReviewCountOnSameDomain": 5,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0432f1483d35ac0e8dbaca",
+        "filtered": false,
+        "isPending": false,
+        "text": "👍👍👍👍👍👍👍👍👍👍",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T10:14:41.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "👍👍👍👍👍",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-13T10:14:41.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a0432f098a79243fb4b5cd6",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "KR",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0426729b9cf05268b2a96a",
+        "filtered": false,
+        "isPending": false,
+        "text": "Great experience and quick service ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T09:21:22.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great experience and quick service",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T09:21:22.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "686711a78a537557df8733d0",
+          "displayName": "Tim",
+          "imageUrl": "https://user-images.trustpilot.com/686711a78a537557df8733d0/73x73.png",
+          "numberOfReviews": 14,
+          "countryCode": "US",
+          "hasImage": true,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 14,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a04152a0479758a99d2a297",
+        "filtered": false,
+        "isPending": false,
+        "text": "Quick and easy this time. Good experience ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T08:07:38.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Quick and easy this time",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T08:07:38.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "63e7a28d98650000122bf03e",
+          "displayName": "Al",
+          "imageUrl": "",
+          "numberOfReviews": 4,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a041225bd8842d2d72bad1f",
+        "filtered": false,
+        "isPending": false,
+        "text": "Great, second purchase.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T07:54:45.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-13T07:54:45.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "69da71d8c5d6941a5e5c9cfa",
+          "displayName": "VividVision",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a040ff96bf6ac51c5381956",
+        "filtered": false,
+        "isPending": false,
+        "text": "Delivery was instant. Fantastic service!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T07:45:29.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Delivery was instant",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-13T07:45:29.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a040ff82c172751c48de268",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a040eda8a93993e675ed4b8",
+        "filtered": false,
+        "isPending": false,
+        "text": "Only had to waited 10min and quick and efficient.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T07:40:42.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Only had to waited 10min and quick and…",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T07:40:42.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a040ed92c172703e78de1b4",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "CA",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a040cdbbc2e4d6b4b9f1493",
+        "filtered": false,
+        "isPending": false,
+        "text": "Gave me a free Pit 110 run to get me started after delivering my items. ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T07:32:11.000Z",
+            "reviewSourceName": "AFSv2",
+            "verificationSource": "invitation",
+            "verificationLevel": "verified",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Gave me a free Pit 110 run to get me…",
+        "likes": 0,
+        "source": "AFSv2",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T07:32:11.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "62d90796784dd30014eb00f8",
+          "displayName": "Shawn Christensen",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      }
+    ]
+  },
+  {
+    "pageUrl": "https://www.trustpilot.com/review/www.bhphotovideo.com",
+    "companyDetails": {
+      "id": "46fac7c8000064000501afed",
+      "displayName": "B&H Photo-Video",
+      "identifyingName": "www.bhphotovideo.com",
+      "numberOfReviews": 329570,
+      "trustScore": 4.9,
+      "websiteUrl": "https://bandh.com?BI=19550",
+      "websiteTitle": "www.bhphotovideo.com",
+      "profileImageUrl": "//s3-eu-west-1.amazonaws.com/tpd/screenshotlogo-domain/46fac7c8000064000501afed/198x149.png",
+      "customHeaderUrl": "",
+      "promotion": null,
+      "hideCompetitorModule": false,
+      "stars": 5,
+      "categories": [
+        {
+          "id": "electronics_store",
+          "name": "Electronics Store",
+          "rank": "4",
+          "cardinality": "111",
+          "isPrimary": false
+        },
+        {
+          "id": "photo_shop",
+          "name": "Photo Shop",
+          "rank": "1",
+          "cardinality": "10",
+          "isPrimary": true
+        }
+      ],
+      "breadcrumb": {
+        "topLevelId": "electronics_technology",
+        "topLevelDisplayName": "Electronics & Technology",
+        "midLevelId": "audio_visual",
+        "midLevelDisplayName": "Audio & Visual",
+        "bottomLevelId": "photo_shop",
+        "bottomLevelDisplayName": "Photo Shop"
+      },
+      "isClaimed": true,
+      "isClosed": false,
+      "isTemporarilyClosed": false,
+      "locationsCount": 0,
+      "isCollectingReviews": true,
+      "verification": {
+        "verifiedByGoogle": false,
+        "verifiedPaymentMethod": true,
+        "verifiedUserIdentity": false
+      },
+      "hasCollectedIncentivisedReviews": false,
+      "consumerAlert": null,
+      "consumerAlerts": [],
+      "isMerged": false,
+      "contactInfo": {
+        "email": "cs@bandh.com",
+        "address": "420 9th Ave",
+        "city": "New York",
+        "country": "",
+        "phone": "877-619-4907",
+        "zipCode": "10001"
+      },
+      "activity": {
+        "isUsingPaidFeatures": true,
+        "hasSubscription": true,
+        "isAskingForReviews": true,
+        "claimedDate": "2014-05-09T14:10:27.000Z",
+        "isClaimed": true,
+        "previouslyClaimed": true,
+        "replyBehavior": {
+          "averageDaysToReply": 0.87,
+          "lastReplyToNegativeReview": "2026-05-11 13:43:22 UTC",
+          "negativeReviewsWithRepliesCount": 118,
+          "replyPercentage": 99.15966386554622,
+          "totalNegativeReviewsCount": 119
+        },
+        "verification": {
+          "verifiedByGoogle": false,
+          "verifiedPaymentMethod": true,
+          "verifiedUserIdentity": false
+        },
+        "hasBusinessUnitMergeHistory": false,
+        "isUsingAIResponses": false
+      },
+      "hasCustomHeaderSetting": true,
+      "hasPromotionSetting": true
+    },
+    "reviews": [
+      {
+        "id": "6a043f17bfa2bdce45844312",
+        "filtered": false,
+        "isPending": false,
+        "text": "Fast and easy checkout",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T11:06:31.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Fast and easy checkout",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T11:06:31.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a043f162c1727e7308e1f63",
+          "displayName": "Ed Duncan",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0418571aceef4298410a01",
+        "filtered": false,
+        "isPending": false,
+        "text": "Easy, quick and precise.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T08:21:11.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Easy",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-13T00:00:00.000Z",
+          "publishedDate": "2026-05-13T08:21:11.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "5965075f0000ff000aae18e7",
+          "displayName": "Mario Nieto",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "CO",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 2,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a03c73c5b463939a41f823c",
+        "filtered": false,
+        "isPending": false,
+        "text": "I always find what I need, the descriptions are great . I really wish you would still offer USPS shipping to the US Virgin Islands like you used to. The pice yo ulist for DHL sounds still reasonable Ish, but the isse is that after I get the item delivered, DHL send me an additional invoice for $35 per order, so the shipping eds up costing over double what is expected. And there is always delays and issues with DHL actually delivering all the way home. Often you don't even know the item arrived onto the island and you don't find out until you call them and ask about it. And then you have ot pay their recommended person to clear it and they often are busy and it takes sometimes an extra week to get the item. When you ask if you can go an clear it yourself they try to get you to pay their preferred agent instead. It used to be much better when items arrived USPS, there was no nonsense back then. So please bring back USPS shipping to the VI!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T02:35:08.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "I always find what I need but shipping was better before",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-13T02:35:08.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a03c73a5f73f98b7aae370e",
+          "displayName": "Marjo Aho",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "VI",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a03be07a0dcb01938dca60b",
+        "filtered": false,
+        "isPending": false,
+        "text": "All looked promising. First time using payboo. We'll see how it all works",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-13T01:55:51.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "All looked promising",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-13T01:55:51.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "675a0bfd9dbcf61957ca5c8f",
+          "displayName": "William",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a039783ea7f34705da72612",
+        "filtered": false,
+        "isPending": false,
+        "text": "Quick & simple",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T23:11:31.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Quick & simple",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T23:11:31.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6299532a30e24a0012468783",
+          "displayName": "customer",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a037e082eade8706b2c7660",
+        "filtered": false,
+        "isPending": false,
+        "text": "Easy to order. ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T21:22:48.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Easy to order.",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T21:22:48.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "67af46c65aa6b36d018ad0b4",
+          "displayName": "Herb Albritton",
+          "imageUrl": "",
+          "numberOfReviews": 4,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a037b171b11ddd395913261",
+        "filtered": false,
+        "isPending": false,
+        "text": "Trusted business selling legit products ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T21:10:15.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "trust",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T21:10:15.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a037b165f73f91134ade582",
+          "displayName": "Edward Rossell",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a03745cf997d441fe4f2080",
+        "filtered": false,
+        "isPending": false,
+        "text": "Always great to use B&H!  ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T20:41:32.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Always great to use B&H!",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T20:41:32.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "5ef2575be82d2322dd86f4cd",
+          "displayName": "Bill Baker",
+          "imageUrl": "",
+          "numberOfReviews": 6,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 2,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a037092e5f60ed847b126cf",
+        "filtered": false,
+        "isPending": false,
+        "text": "Easy to complete purchase.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T20:25:22.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Easy to complete purchase.",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T20:25:22.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a03709198a792d6cb4aaef3",
+          "displayName": "Norman Wade",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a037012d87d0e0108323930",
+        "filtered": false,
+        "isPending": false,
+        "text": "Very efficient process for finding what I need and submitting an order.  ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T20:23:14.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Very efficient process for finding what…",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T20:23:14.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a0370105f73f96331add2f9",
+          "displayName": "Terence P",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a036c55222a081dcb794bfc",
+        "filtered": false,
+        "isPending": false,
+        "text": "excellent customer service\n",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T20:07:17.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "excellent customer service",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T20:07:17.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "63bda7b04a176f00128c6009",
+          "displayName": "Adelaida Galarza",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 2,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a036c02e42eb8fc0b700908",
+        "filtered": false,
+        "isPending": false,
+        "text": "very efficient on line operation",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T20:05:54.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "very efficient on line operation",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T20:05:54.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a036c022c17271eae8d53ff",
+          "displayName": "scott andrews",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0366243c9ee2ac7477cc5b",
+        "filtered": false,
+        "isPending": false,
+        "text": "B&H is highly reliable, ships everything in short order, and gives excellent advice when asked. Their website and product selection are outstanding. My go-to!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T19:40:52.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "B&H is highly reliable",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T19:40:52.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a0366232c172775568d4a4b",
+          "displayName": "Matt Wright",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a035ed9bc8fb6e39477e2cb",
+        "filtered": false,
+        "isPending": false,
+        "text": "Good price, easy to order/check out, and expedited delivery for free!",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T19:09:45.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Easy to orderFive Star Experience",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T19:09:45.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a035ed979190560a0295eea",
+          "displayName": "Jo Ann",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a035d4218b38c557d9fcbcb",
+        "filtered": false,
+        "isPending": false,
+        "text": "Easy and effective\n",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T19:02:58.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "purchase",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T19:02:58.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a035d417919058be7295c2c",
+          "displayName": "Billy Green",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a035a516b2f4ff9f40ef23f",
+        "filtered": false,
+        "isPending": false,
+        "text": "The reason I keep coming back are the quality products and reasonable prices.",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T18:50:25.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Great selection of products at good prices",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T18:50:25.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "5aff39094de5666d3408b976",
+          "displayName": "George",
+          "imageUrl": "",
+          "numberOfReviews": 6,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 5,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0359dfe9cf36bdb8334820",
+        "filtered": false,
+        "isPending": false,
+        "text": "good web & display has the products I need. ",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T18:48:31.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "website is excellent",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T18:48:31.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6283bf3031b4ab00121b16c3",
+          "displayName": "stacy womack",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 2,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a03523892fd96d79e034faa",
+        "filtered": false,
+        "isPending": false,
+        "text": "Searching for items and getting a quote from the B&H site has always been very easy and quick.  The site is easy to maneuver and everything is always listed with accurate details",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T18:15:52.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Searching for items and getting a quote…",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T18:15:52.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a03523798a7920c3a4a7a29",
+          "displayName": "Patricia A",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a034b6359c3c25ef68f59bb",
+        "filtered": false,
+        "isPending": false,
+        "text": "Easy to navigate teh website,  Items were in stock, Free Shipping",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T17:46:43.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "Easy to navigate teh website",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T17:46:43.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6a034b625f73f9fe2fad91ff",
+          "displayName": "JEFF C",
+          "imageUrl": "",
+          "numberOfReviews": 1,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 1,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      },
+      {
+        "id": "6a0349e12a85f63000a44f18",
+        "filtered": false,
+        "isPending": false,
+        "text": "simple fun .",
+        "rating": 5,
+        "labels": {
+          "merged": null,
+          "verification": {
+            "isVerified": true,
+            "createdDateTime": "2026-05-12T17:40:17.000Z",
+            "reviewSourceName": "InvitationLinkApi",
+            "verificationSource": "invitation",
+            "verificationLevel": "invited",
+            "hasDachExclusion": false
+          }
+        },
+        "title": "simple fun .",
+        "likes": 0,
+        "source": "InvitationLinkApi",
+        "dates": {
+          "experiencedDate": "2026-05-12T00:00:00.000Z",
+          "publishedDate": "2026-05-12T17:40:17.000Z",
+          "updatedDate": null,
+          "submittedDate": null
+        },
+        "report": null,
+        "hasUnhandledReports": false,
+        "consumer": {
+          "id": "6580aa9301a31a0012b4f5ac",
+          "displayName": "clayton abrams",
+          "imageUrl": "",
+          "numberOfReviews": 2,
+          "countryCode": "US",
+          "hasImage": false,
+          "isVerified": false
+        },
+        "reply": null,
+        "consumersReviewCountOnSameDomain": 2,
+        "consumersReviewCountOnSameLocation": null,
+        "productReviews": [],
+        "language": "en",
+        "location": null
+      }
+    ]
+  }
+]

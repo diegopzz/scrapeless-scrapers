@@ -1,0 +1,28 @@
+{
+  "id": "com.spotify.music",
+  "name": "Spotify: Music and Podcasts",
+  "developer": "Spotify AB",
+  "rating": 4.3,
+  "rating_count": 35600000,
+  "price": "Free",
+  "installs": "1B+ Downloads",
+  "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free. We have even added audiobooks, so you can enjoy thousands of stories wherever you are! Stream music and podcasts, listen to audiobooks, discover albums, playlists or even single songs for free on your mobile or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are.",
+  "categories": [
+    "Music & Audio"
+  ],
+  "latest_update": "May 18, 2026",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/fOaUJKnuMPk02Gl5qu_B6ePw0myxaNJx3QZihKxsaAix5TYKl1NnfmvzZ52nSAc3w8nD",
+    "https://play-lh.googleusercontent.com/a7950Z_tJAMl7t9mh62ZBJianaWewvFqSXbpp4XqnrShHD1x4_JzB4ONSfM124rAvd3J",
+    "https://play-lh.googleusercontent.com/I2iwvszKORGgJssO-Q-sy1jL3zcjOQRJ7QBuUW5Zd3z6UeAYXqINSeujzs40f7iTxg",
+    "https://play-lh.googleusercontent.com/eT7N-DGqCGJI1UGli8jF7BbMM-6K-Rs2Kw0WFMy7VABLTZdo01qoPknKKg5OxGSvKw",
+    "https://play-lh.googleusercontent.com/xNZPPk0aK44-0NGEiyq1BGXU4zqGfuBwSL5njO7iDvAJym0F7h0OWyCWmzej1tzxZQ",
+    "https://play-lh.googleusercontent.com/N5zVY4F6PCUc5vhuYyF80h-inbcsuIR2qgJXXgBtzXNfIUveb7kEkbcEZCh_xHyOQjY",
+    "https://play-lh.googleusercontent.com/55pukJuhIGd8TzPnlMUtmnrNKBooTfEy1WphYaaB4OBbrkgV0XYiNbnSaBoVPl_P4A",
+    "https://play-lh.googleusercontent.com/oDhlIw_PEl0h-r4MN0Sw1mI0YW09rvunAwTtlVgiOj9yzKNJgbC3nz-7d-5EHwQWmpIX",
+    "https://play-lh.googleusercontent.com/C1rFzHXR1YG89J-8Ii0qudukTqfHrwImOP-G_2HzIhXQVvqo8glRY4y8J45ykMQNKw",
+    "https://play-lh.googleusercontent.com/-64f3U89NwuLlMTnwHGLrsE931U5RA7YtHqM2zHsoR0s3yomsIRzKWaq08apJrbT2A"
+  ],
+  "icon": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN",
+  "url": "https://play.google.com/store/apps/details?id=com.spotify.music&hl=en_US&gl=US"
+}

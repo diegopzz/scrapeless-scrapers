@@ -1,0 +1,14 @@
+{
+  "id": "https://www.homegate.ch/en",
+  "url": "https://www.homegate.ch/en",
+  "name": "Switzerland's smartest property search",
+  "description": "On the Homegate real estate marketplace you will find the largest selection of apartments, houses and other real estate. Start searching for real estate!",
+  "price": null,
+  "priceCurrency": null,
+  "availability": null,
+  "images": [
+    "https://media.homegate.ch/image/upload/assets/hero/HG-Homepage_preview.jpg"
+  ],
+  "categories": [],
+  "sellerName": null
+}

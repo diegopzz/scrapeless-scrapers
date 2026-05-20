@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Atlas Plumbing",
+    "categories": [
+      "Plumbers",
+      "Plumbing-Drain & Sewer Cleaning",
+      "Water Heater Repair",
+      "Plumbers",
+      "Plumbing-Drain & Sewer Cleaning",
+      "Water Heater Repair"
+    ],
+    "rating": "",
+    "ratingCount": "",
+    "phone": "(415) 852-3803",
+    "website": "http://www.atlasplumber.com",
+    "address": "3311 Mission StSan Francisco, CA 94110",
+    "workingHours": {
+      "Mon - Fri:": "Mo-Fr 07:30-22:00",
+      "Sat:": "Sa 08:00-17:00"
+    }
+  }
+]

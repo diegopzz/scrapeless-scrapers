@@ -1,0 +1,16 @@
+Phase-2B live CLI run (2026-05-17)
+Scraper: glassdoor-scraper
+Result: partial (1/2 useful kinds; remaining kinds intentionally deferred on CLI surface)
+
+Notes:
+- jobs kind: real DOM scrape via sb eval — results/jobs.json populated (48K).
+- salaries kind: backed by Glassdoor's POST GraphQL endpoint requiring an
+  `x-csrf-token` header minted by the in-page JS — the CLI's open + eval
+  flow cannot post arbitrary headers, so results/salaries.json stays "[]".
+- salaries / reviews / companies kinds use the same POST GraphQL surface
+  and the same x-csrf-token gate — not feasible from the CLI eval surface.
+  Use the python/ or nodejs/ surfaces for those kinds; they construct the
+  POST body and supply the CSRF header out of band.
+- CLI deferred for those three kinds by design. Jobs kind is the canonical
+  CLI demo.
+- run.sh and eval/*.js intentionally not modified per agent constraints.

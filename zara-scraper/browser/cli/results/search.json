@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01758050",
+    "url": "https://www.zara.com/us/en/zw-collection-lace-blazer-p01758050.html",
+    "name": "ZW COLLECTION LACE BLAZER",
+    "image": "https://static.zara.net/assets/public/b207/284e/5cc544a0a41b/44bbe3001ee7/01758050712-000-p/01758050712-000-p.jpg?ts=1776075611512&w=352",
+    "price": 129,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "06895081",
+    "url": "https://www.zara.com/us/en/embroidered-jacket-zw-collection-p06895081.html",
+    "name": "EMBROIDERED ZW COLLECTION JACKET",
+    "image": "https://static.zara.net/assets/public/c7d1/c886/cab2416185bb/811c05dc7965/06895081710-a1/06895081710-a1.jpg?ts=1778586940538&w=352",
+    "price": 149,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "05247050",
+    "url": "https://www.zara.com/us/en/zw-collection-fireman-clasp-jacket-p05247050.html",
+    "name": "ZW COLLECTION FIREMAN CLASP JACKET",
+    "image": "https://static.zara.net/assets/public/5a18/e93a/346d45129196/1a4d26dc10f3/06840109407-001-a3/06840109407-001-a3.jpg?ts=1778685207922&w=352",
+    "price": 149,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "02432570",
+    "url": "https://www.zara.com/us/en/short-sleeve-cropped-blazer-zw-collection-p02432570.html",
+    "name": "SHORT SLEEVE CROPPED BLAZER ZW COLLECTION",
+    "image": "https://static.zara.net/assets/public/3152/802e/8b1b4fbba980/91efd7f44548/02438198712-p/02438198712-p.jpg?ts=1775723664308&w=352",
+    "price": 119,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "02432570",
+    "url": "https://www.zara.com/us/en/short-sleeve-cropped-blazer-zw-collection-p02432570.html",
+    "name": "SHORT SLEEVE CROPPED BLAZER ZW COLLECTION",
+    "image": "https://static.zara.net/assets/public/7e3b/79a5/8b244f45aee1/35bfa7f46994/02438198712-a1/02438198712-a1.jpg?ts=1775723663743&w=352",
+    "price": 119,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "05247050",
+    "url": "https://www.zara.com/us/en/zw-collection-fireman-clasp-jacket-p05247050.html",
+    "name": "ZW COLLECTION FIREMAN CLASP JACKET",
+    "image": "https://static.zara.net/assets/public/d8b2/f0f3/f0ca4e8b89c1/f09209d445df/05247050800-a6/05247050800-a6.jpg?ts=1778586912201&w=352",
+    "price": 149,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "02767751",
+    "url": "https://www.zara.com/us/en/zw-collection-oversized-double-breasted-blazer-p02767751.html",
+    "name": "ZW COLLECTION OVERSIZED DOUBLE BREASTED BLAZER",
+    "image": "https://static.zara.net/assets/public/764a/b114/222c446f94c2/e85db1a4b9be/02767751741-1-a7/02767751741-1-a7.jpg?ts=1778597025894&w=352",
+    "price": 179,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "02799164",
+    "url": "https://www.zara.com/us/en/short-sleeve-ruffled-peplum-jacket-p02799164.html",
+    "name": "SHORT-SLEEVE RUFFLED PEPLUM JACKET",
+    "image": "https://static.zara.net/assets/public/89bc/c943/c5584f75b13a/9807471d6d41/02799164712-a1/02799164712-a1.jpg?ts=1778228845836&w=352",
+    "price": 89.9,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "07775471",
+    "url": "https://www.zara.com/us/en/contrasting-lace-trim-cropped-blazer-p07775471.html",
+    "name": "CONTRAST LACE SATIN CROPPED BLAZER",
+    "image": "https://static.zara.net/assets/public/e70e/a768/3dea4644b375/d94b6b9c5f78/07775471300-p/07775471300-p.jpg?ts=1778246073570&w=352",
+    "price": 79.9,
+    "priceCurrency": "USD"
+  },
+  {
+    "id": "07179049",
+    "url": "https://www.zara.com/us/en/zw-collection-textured-plaid-jacket-p07179049.html",
+    "name": "ZW COLLECTION TEXTURED PLAID JACKET",
+    "image": "https://static.zara.net/assets/public/2fa9/4e81/13ec45dcb708/ca767607a4f3/07179049300-a1/07179049300-a1.jpg?ts=1777026487767&w=352",
+    "price": 169,
+    "priceCurrency": "USD"
+  }
+]

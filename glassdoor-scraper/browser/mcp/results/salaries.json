@@ -1,0 +1,18 @@
+{
+  "company": "eBay",
+  "company_id": "E7853",
+  "results": [
+    { "jobTitle": "Software Engineer 3", "salaryCount": 921, "salaryRange": "$189K - $245K /yr" },
+    { "jobTitle": "Software Engineer", "salaryCount": 798, "salaryRange": "$160K - $232K /yr" },
+    { "jobTitle": "Senior Software Engineer", "salaryCount": 492, "salaryRange": "$232K - $328K /yr" },
+    { "jobTitle": "MTS-1", "salaryCount": 415, "salaryRange": "$203K - $299K /yr" },
+    { "jobTitle": "Software Engineer 2", "salaryCount": 397, "salaryRange": "$165K - $208K /yr" },
+    { "jobTitle": "Software Engineer III", "salaryCount": 388, "salaryRange": "$192K - $257K /yr" },
+    { "jobTitle": "Software Engineer II", "salaryCount": 346, "salaryRange": "$165K - $213K /yr" },
+    { "jobTitle": "MTS-2 Software Engineer", "salaryCount": 320, "salaryRange": "$229K - $339K /yr" },
+    { "jobTitle": "Product Manager", "salaryCount": 262, "salaryRange": "$172K - $254K /yr" },
+    { "jobTitle": "Senior Product Manager", "salaryCount": 237, "salaryRange": "$240K - $344K /yr" }
+  ],
+  "totalJobTitles": 2230,
+  "avgSalaryRange": "$37,462 - $650,785"
+}

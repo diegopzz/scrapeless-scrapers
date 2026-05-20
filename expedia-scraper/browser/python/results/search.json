@@ -1,0 +1,802 @@
+[
+  {
+    "id": "6365",
+    "name": "The St. Regis New York",
+    "url": "https://www.expedia.com/New-York-Hotels-The-St-Regis-New-York.h6365.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695407765&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=1811&top_cur=USD&userIntent=&selectedRoomType=212712213&selectedRatePlan=389017750&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$1,526",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/1000000/10000/6400/6365/adad701c.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "91827909",
+    "name": "Home2 Suites By Hilton New York Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Home2-Suites-By-Hilton-New-York-Times-Square.h91827909.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695407767&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=400&top_cur=USD&userIntent=&selectedRoomType=322862459&selectedRatePlan=391973382&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$339",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/92000000/91830000/91828000/91827909/f44b3944.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "36289927",
+    "name": "La Quinta Inn & Suites by Wyndham Times Square South",
+    "url": "https://www.expedia.com/New-York-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Manhattan-Midtown.h36289927.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695407770&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=317&top_cur=USD&userIntent=&selectedRoomType=219948790&selectedRatePlan=286199800&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$254",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/37000000/36290000/36290000/36289927/e9f510d2.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "17117062",
+    "name": "PUBLIC, an Ian Schrager hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-PUBLIC.h17117062.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409296&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141723&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=612&top_cur=USD&userIntent=&selectedRoomType=201980752&selectedRatePlan=385359158&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$485",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "91827910",
+    "name": "Hampton Inn New York Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Hampton-Inn-New-York-Times-Square.h91827910.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409298&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=334&top_cur=USD&userIntent=&selectedRoomType=321836427&selectedRatePlan=389625314&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$288",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "19681371",
+    "name": "Pod Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Pod-Times-Square.h19681371.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409301&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=277&top_cur=USD&userIntent=&selectedRoomType=327123714&selectedRatePlan=403805052&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$219",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "19768",
+    "name": "New York Hilton Midtown",
+    "url": "https://www.expedia.com/New-York-Hotels-New-York-Hilton-Midtown.h19768.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409303&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=454&top_cur=USD&userIntent=&selectedRoomType=76426166&selectedRatePlan=US%7C1519924625%7CQUtWTGVWSUdpYk8xbG1sOEFBQUFBZ0FBQUFCYW1EV1JaXzhOeXlHQlEtRGNVaUE9%7CNRF%7CTV2&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$358",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "1144474",
+    "name": "Hotel St. James",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-St-James.h1144474.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409304&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=319&top_cur=USD&userIntent=&selectedRoomType=324454195&selectedRatePlan=394665924&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$275",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "60677495",
+    "name": "Hotel Riu Plaza Manhattan Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-RIU-Plaza-Manhattan-Times-Square.h60677495.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409306&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=449&top_cur=USD&userIntent=&selectedRoomType=226815914&selectedRatePlan=252328295&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$358",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "130314560",
+    "name": "Madison & East 53rd",
+    "url": "https://www.expedia.com/New-York-Hotels-Madison-East-53rd.h130314560.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409308&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=1234&top_cur=USD&userIntent=&selectedRoomType=328660293&selectedRatePlan=409861382&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$1,073",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "11556809",
+    "name": "Hotel Shocard at Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-Shocard-At-Times-Square.h11556809.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409310&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=248&top_cur=USD&userIntent=&selectedRoomType=327427767&selectedRatePlan=404726073&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$185",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "3509538",
+    "name": "Chelsea Savoy Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Chelsea-Savoy-Hotel.h3509538.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409312&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=311&top_cur=USD&userIntent=&selectedRoomType=486192&selectedRatePlan=1894978&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$268",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "3670",
+    "name": "Empire Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Empire-Hotel.h3670.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409314&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381789&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=310&top_cur=USD&userIntent=&selectedRoomType=321907921&selectedRatePlan=389779537&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$247",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "2804160",
+    "name": "Four Points by Sheraton Midtown-Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Four-Points-By-Sheraton-Midtown-Times-Square.h2804160.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409316&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=296&top_cur=USD&userIntent=&selectedRoomType=326672131&selectedRatePlan=402240804&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$255",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "41194",
+    "name": "Americana Inn",
+    "url": "https://www.expedia.com/New-York-Hotels-Americana-Inn.h41194.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409318&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=202&top_cur=USD&userIntent=&selectedRoomType=325932844&selectedRatePlan=399659147&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$160",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/1000000/50000/41200/41194/193c4dc4.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "24245",
+    "name": "Paramount Times Square – A Generator Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Paramount-Times-Square.h24245.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409320&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=241&top_cur=USD&userIntent=&selectedRoomType=212408489&selectedRatePlan=236136844&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$167",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/1000000/30000/24300/24245/36225ad2.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "36859797",
+    "name": "Hotel Scherman",
+    "url": "https://www.expedia.com/New-York-Hotels-French-Quarters-NYC.h36859797.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409322&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=374&top_cur=USD&userIntent=&selectedRoomType=216342554&selectedRatePlan=262185518&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$299",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/37000000/36860000/36859800/36859797/96e604e9.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "23855",
+    "name": "The Peninsula New York",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Peninsula-New-York.h23855.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409324&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=1413&top_cur=USD&userIntent=&selectedRoomType=201456398&selectedRatePlan=242037795&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$1,228",
+    "review": null,
+    "image": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/lodging/1000000/30000/23900/23855/c7aeeb04_b.jpg"
+  },
+  {
+    "id": "28044",
+    "name": "The Plaza, A Fairmont Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Plaza-Hotel.h28044.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409326&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=2367&top_cur=USD&userIntent=&selectedRoomType=213306056&selectedRatePlan=400154061&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$1,995",
+    "review": null,
+    "image": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/lodging/1000000/30000/28100/28044/04ffdefc_b.jpg"
+  },
+  {
+    "id": "70890150",
+    "name": "The Cloud One New York-Downtown, by the Motel One Group",
+    "url": "https://www.expedia.com/New-York-Hotels-Project-Hotel-NYC.h70890150.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409328&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=320&top_cur=USD&userIntent=&selectedRoomType=315982381&selectedRatePlan=403232841&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$276",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/71000000/70900000/70890200/70890150/ebd0405d.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "7275034",
+    "name": "The Lex NYC",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Lex-NYC.h7275034.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409330&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381211&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=294&top_cur=USD&userIntent=&selectedRoomType=200516760&selectedRatePlan=258316307&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$220",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/8000000/7280000/7275100/7275034/e9e92ed6.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "107079111",
+    "name": "Hudson Yards Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Hudson-Yards-Hotel.h107079111.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409332&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=251&top_cur=USD&userIntent=&selectedRoomType=327010559&selectedRatePlan=403759495&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$216",
+    "review": null,
+    "image": "https://images.trvl-media.com/lodging/108000000/107080000/107079200/107079111/e2ad562f.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455"
+  },
+  {
+    "id": "6842904",
+    "name": "Radio City Apartments",
+    "url": "https://www.expedia.com/New-York-Hotels-Radio-City-Apartments.h6842904.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409333&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=339&top_cur=USD&userIntent=&selectedRoomType=200422107&selectedRatePlan=202427140&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$292",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "128310599",
+    "name": "Chelsea rooms",
+    "url": "https://www.expedia.com/New-York-Hotels-Chelsea-Rooms.h128310599.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409336&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=329&top_cur=USD&userIntent=&selectedRoomType=328463170&selectedRatePlan=409006199&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$284",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "5232871",
+    "name": "Times Square West Hotel, BW Signature Collection",
+    "url": "https://www.expedia.com/New-York-Hotels-Comfort-Inn-Midtown-West.h5232871.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409338&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=312&top_cur=USD&userIntent=&selectedRoomType=327995758&selectedRatePlan=407200479&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$269",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "119253591",
+    "name": "JGSTAY - Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Time-Hotel-By-JGSTAY-Times-Square.h119253591.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409340&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=273&top_cur=USD&userIntent=&selectedRoomType=327097804&selectedRatePlan=405218821&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$225",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "129325",
+    "name": "Night Hotel Broadway",
+    "url": "https://www.expedia.com/New-York-Hotels-Night-Hotel-Broadway.h129325.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409342&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=800075&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=247&top_cur=USD&userIntent=&selectedRoomType=DBL.1B-1&selectedRatePlan=20260615%7C20260616%7CW%7C254%7C13445%7CDBL.1B-1%7CGARNRF0%7CRO%7C%7C1%7E2%7E0%7C%7CN%7C%7CB2C&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$194",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "96472655",
+    "name": "The Fifth Avenue Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Fifth-Avenue-Hotel.h96472655.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409343&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360639&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=1375&top_cur=USD&userIntent=&selectedRoomType=322888839&selectedRatePlan=392026561&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$1,195",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "423330",
+    "name": "Hilton New York Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Hilton-Times-Square.h423330.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409345&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=493&top_cur=USD&userIntent=&selectedRoomType=321024699&selectedRatePlan=387583772&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$427",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "104193",
+    "name": "The Belvedere Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Belvedere-Hotel.h104193.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409347&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=339&top_cur=USD&userIntent=&selectedRoomType=325766207&selectedRatePlan=399436469&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$271",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "1590035",
+    "name": "AMTD Idea Tribeca Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-AMTD-Idea-Tribeca-Hotel.h1590035.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409349&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248621555566047&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=334&top_cur=USD&userIntent=&selectedRoomType=328529451&selectedRatePlan=409227776&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$288",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "2915778",
+    "name": "Hotel Mimosa",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-Mimosa.h2915778.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409351&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6004549&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=293&top_cur=USD&userIntent=&selectedRoomType=409514&selectedRatePlan=1406858&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$252",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "5511074",
+    "name": "Hampton Inn Manhattan Grand Central",
+    "url": "https://www.expedia.com/New-York-Hotels-Hampton-Inn-Manhattan-Grand-Central.h5511074.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409353&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=315&top_cur=USD&userIntent=&selectedRoomType=200250529&selectedRatePlan=250091393&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$271",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "100133766",
+    "name": "Little Charlie Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Little-Charlie-Hotel.h100133766.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409354&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=391&top_cur=USD&userIntent=&selectedRoomType=324360539&selectedRatePlan=399204232&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$337",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "16255092",
+    "name": "DoubleTree by Hilton New York Times Square West",
+    "url": "https://www.expedia.com/New-York-Hotels-DoubleTree-By-Hilton-New-York-Times-Square-West.h16255092.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409356&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=295&top_cur=USD&userIntent=&selectedRoomType=201731150&selectedRatePlan=282076378&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$254",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "10961545",
+    "name": "Hampton Inn Manhattan/Times Square Central",
+    "url": "https://www.expedia.com/New-York-Hotels-Hampton-Inn-ManhattanTimes-Square-Central.h10961545.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409358&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=360&top_cur=USD&userIntent=&selectedRoomType=201148460&selectedRatePlan=280023395&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$311",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "2211934",
+    "name": "Hampton Inn Manhattan/Times Square South",
+    "url": "https://www.expedia.com/New-York-Hotels-Hampton-Inn-ManhattanTimes-Square-South.h2211934.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409359&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=292&top_cur=USD&userIntent=&selectedRoomType=41278193&selectedRatePlan=US%7C1517745297%7CQUh4MDQ0VVdfRktlcGVvWUFBQUFBZ0FBQUFCYWR2U1JMN1VTNk1VM29nTkpsNTg9%7CNRF%7CTV2&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$251",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "126964653",
+    "name": "Nester Finn Financial District",
+    "url": "https://www.expedia.com/New-York-Hotels-Nester-Finn-Fidi.h126964653.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409361&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=396&top_cur=USD&userIntent=&selectedRoomType=328265545&selectedRatePlan=408309794&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$322",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "14742266",
+    "name": "3 West Club",
+    "url": "https://www.expedia.com/New-York-Hotels-3-West-Club.h14742266.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409363&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=365&top_cur=USD&userIntent=&selectedRoomType=202156871&selectedRatePlan=212495741&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$315",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "41203",
+    "name": "The Lucerne Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Lucerne-Hotel.h41203.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409365&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=800075&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=412&top_cur=USD&userIntent=&selectedRoomType=315530259&selectedRatePlan=384653533&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$356",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "201239",
+    "name": "Hotel Belleclaire",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-Belleclaire.h201239.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409367&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=800075&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=403&top_cur=USD&userIntent=&selectedRoomType=213015722&selectedRatePlan=240238059&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$319",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "5444936",
+    "name": "Holiday Inn Express Manhattan Times Square South by IHG",
+    "url": "https://www.expedia.com/New-York-Hotels-Holiday-Inn-Express-Manhattan-Times-Square-South.h5444936.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409369&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=344&top_cur=USD&userIntent=&selectedRoomType=200227218&selectedRatePlan=240341352&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$297",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "20842",
+    "name": "Ameritania Hotel at Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Ameritania-At-Times-Square.h20842.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409371&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=312&top_cur=USD&userIntent=&selectedRoomType=321638485&selectedRatePlan=389192483&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$249",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "69621866",
+    "name": "Best Western Premier Empire State Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Best-Western-Premier-Empire-State-Hotel.h69621866.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409373&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360639&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=337&top_cur=USD&userIntent=&selectedRoomType=328352718&selectedRatePlan=408592379&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$290",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "5321579",
+    "name": "Pod 39",
+    "url": "https://www.expedia.com/New-York-Hotels-Pod-39.h5321579.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409375&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141728&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=298&top_cur=USD&userIntent=&selectedRoomType=327604382&selectedRatePlan=405603652&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$237",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "17432204",
+    "name": "Hilton Garden Inn New York Times Square South",
+    "url": "https://www.expedia.com/New-York-Hotels-Hilton-Garden-Inn-New-York-Times-Square-South.h17432204.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409377&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=382&top_cur=USD&userIntent=&selectedRoomType=201901832&selectedRatePlan=288107737&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$330",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "36289927",
+    "name": "La Quinta Inn & Suites by Wyndham Times Square South",
+    "url": "https://www.expedia.com/New-York-Hotels-La-Quinta-Inn-Suites-By-Wyndham-Manhattan-Midtown.h36289927.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409379&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=317&top_cur=USD&userIntent=&selectedRoomType=219948790&selectedRatePlan=286199800&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$254",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "8370299",
+    "name": "Fairfield Inn New York Manhattan/Financial District",
+    "url": "https://www.expedia.com/New-York-Hotels-Fairfield-Inn-New-York-ManhattanFinancial-District.h8370299.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409381&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=295&top_cur=USD&userIntent=&selectedRoomType=200783559&selectedRatePlan=386914022&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$254",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "6521456",
+    "name": "Courtyard by Marriott New York Manhattan / Chelsea",
+    "url": "https://www.expedia.com/New-York-Hotels-Courtyard-By-Marriott-New-York-Manhattan-Chelsea.h6521456.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409383&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=578&top_cur=USD&userIntent=&selectedRoomType=321453889&selectedRatePlan=388879707&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$499",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "68272643",
+    "name": "Pendry Manhattan West",
+    "url": "https://www.expedia.com/New-York-Hotels-Pendry-Manhattan-West.h68272643.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409384&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=1449&top_cur=USD&userIntent=&selectedRoomType=314361931&selectedRatePlan=383185530&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$1,260",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "438557",
+    "name": "Millennium Premier Hotel New York Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Millennium-Premier-New-York-Times-Square.h438557.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409386&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=268&top_cur=USD&userIntent=&selectedRoomType=216010172&selectedRatePlan=260146957&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$191",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "41009",
+    "name": "NEW YORKER BY LOTTE HOTELS",
+    "url": "https://www.expedia.com/New-York-Hotels-The-New-Yorker-A-Wyndham-Hotel.h41009.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409388&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=370&top_cur=USD&userIntent=&selectedRoomType=200641894&selectedRatePlan=384247158&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$279",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "122871017",
+    "name": "Hotel Henri NY",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-Henri-NY.h122871017.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409390&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6226054&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=317&top_cur=USD&userIntent=&selectedRoomType=327658877&selectedRatePlan=405893971&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$243",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "4164",
+    "name": "Park Central Hotel New York",
+    "url": "https://www.expedia.com/New-York-Hotels-Park-Central-Hotel-New-York.h4164.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409392&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=338&top_cur=USD&userIntent=&selectedRoomType=200290018&selectedRatePlan=212015178&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$251",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "6260",
+    "name": "Hotel Edison Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-Edison-Times-Square.h6260.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409394&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=335&top_cur=USD&userIntent=&selectedRoomType=214630526&selectedRatePlan=250306309&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$249",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "11677770",
+    "name": "Hotel Riu Plaza New York Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-Riu-Plaza-New-York-Times-Square.h11677770.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409396&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=458&top_cur=USD&userIntent=&selectedRoomType=201194925&selectedRatePlan=280265686&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$367",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "3928653",
+    "name": "The Jewel Hotel, New York",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Jewel.h3928653.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409398&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=413&top_cur=USD&userIntent=&selectedRoomType=200257724&selectedRatePlan=201507238&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$332",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "27924",
+    "name": "The London, a Luxury Collection Hotel, New York City",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Luxury-Collection-Hotel-Manhattan-Midtown.h27924.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409400&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=972&top_cur=USD&userIntent=&selectedRoomType=324898790&selectedRatePlan=396124381&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$807",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "3229",
+    "name": "Kixby",
+    "url": "https://www.expedia.com/New-York-Hotels-Kixby.h3229.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409402&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=486&top_cur=USD&userIntent=&selectedRoomType=210606259&selectedRatePlan=224167971&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$390",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "21542436",
+    "name": "Artezen Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Artezen-Hotel.h21542436.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409404&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=401&top_cur=USD&userIntent=&selectedRoomType=219619917&selectedRatePlan=284097733&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$332",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "6077063",
+    "name": "Fairfield Inn & Suites New York Manhattan/Downtown East",
+    "url": "https://www.expedia.com/New-York-Hotels-Fairfield-Inn-Suites-New-York-ManhattanDowntown-East.h6077063.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409406&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6004549&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=334&top_cur=USD&userIntent=&selectedRoomType=200307225&selectedRatePlan=400567559&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$288",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "118524",
+    "name": "Doxie Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Doxie-Hotel.h118524.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409408&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=281&top_cur=USD&userIntent=&selectedRoomType=7915&selectedRatePlan=201171728&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$242",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "35234219",
+    "name": "Wingate by Wyndham New York Midtown South/5th Ave",
+    "url": "https://www.expedia.com/New-York-Hotels-Wingate-By-Wyndham-New-York-Midtown-South5th-Ave.h35234219.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409410&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=323&top_cur=USD&userIntent=&selectedRoomType=213611929&selectedRatePlan=244129192&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$278",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "5981093",
+    "name": "Best Western Premier Herald Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Best-Western-Premier-Herald-Square.h5981093.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409412&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=317&top_cur=USD&userIntent=&selectedRoomType=324366916&selectedRatePlan=394349698&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$273",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "2442699",
+    "name": "Fairfield by Marriott New York Manhattan Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Fairfield-Inn-By-Marriott-New-York-ManhattanTimes-Square.h2442699.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409413&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=351&top_cur=USD&userIntent=&selectedRoomType=214812308&selectedRatePlan=391465724&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$303",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "7362466",
+    "name": "Hilton Garden Inn New York/Manhattan-Midtown East",
+    "url": "https://www.expedia.com/New-York-Hotels-Hilton-Garden-Inn-New-YorkManhattan-Midtown-East.h7362466.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409415&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=337&top_cur=USD&userIntent=&selectedRoomType=200611772&selectedRatePlan=260096381&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$291",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "22244736",
+    "name": "The Gatsby Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Gatsby-Hotel.h22244736.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409417&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141723&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=295&top_cur=USD&userIntent=&selectedRoomType=202463424&selectedRatePlan=408322020&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$239",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "2598721",
+    "name": "Marriott Vacation Club®, New York City",
+    "url": "https://www.expedia.com/New-York-Hotels-Marriott-Vacation-Club-Pulse.h2598721.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409419&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976381758&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=484&top_cur=USD&userIntent=&selectedRoomType=201467962&selectedRatePlan=207333254&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$419",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "13075920",
+    "name": "Courtyard Long Island City/New York Manhattan View",
+    "url": "https://www.expedia.com/New-York-Hotels-Courtyard-Long-Island-CityNew-York-Manhattan-View.h13075920.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409421&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=976435759435649024&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=327&top_cur=USD&userIntent=&selectedRoomType=201422824&selectedRatePlan=282270992&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$282",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "19762246",
+    "name": "The Allen Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Allen-Hotel.h19762246.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409423&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248631819633287&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=323&top_cur=USD&userIntent=&selectedRoomType=328015884&selectedRatePlan=407243435&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$248",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "2645725",
+    "name": "Hotel 32 32",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-32-32.h2645725.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409425&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=333&top_cur=USD&userIntent=&selectedRoomType=200616400&selectedRatePlan=204249305&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$257",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "6939750",
+    "name": "Hilton Garden Inn New York/Central Park South-Midtown West",
+    "url": "https://www.expedia.com/New-York-Hotels-Hilton-Garden-Inn-New-YorkCentral-Park-South-Midtown-West.h6939750.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409427&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=354&top_cur=USD&userIntent=&selectedRoomType=201652271&selectedRatePlan=254028254&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$305",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "8356903",
+    "name": "citizenM New York Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-CitizenM-New-York-Times-Square.h8356903.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409429&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=354&top_cur=USD&userIntent=&selectedRoomType=327683765&selectedRatePlan=405976500&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$305",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "91827909",
+    "name": "Home2 Suites By Hilton New York Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Home2-Suites-By-Hilton-New-York-Times-Square.h91827909.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409431&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=400&top_cur=USD&userIntent=&selectedRoomType=322862459&selectedRatePlan=391973382&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$339",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "3525290",
+    "name": "The Nolitan",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Nolitan.h3525290.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409433&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6360637&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=331&top_cur=USD&userIntent=&selectedRoomType=200178695&selectedRatePlan=232238072&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$251",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "19783816",
+    "name": "Soho 54",
+    "url": "https://www.expedia.com/New-York-Hotels-Soho-54.h19783816.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409435&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976008498&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=324&top_cur=USD&userIntent=&selectedRoomType=202152729&selectedRatePlan=211034531&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$244",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "5950418",
+    "name": "Club Quarters Hotel, Grand Central",
+    "url": "https://www.expedia.com/New-York-Hotels-Club-Quarters-Hotel.h5950418.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409437&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248635976383202&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=394&top_cur=USD&userIntent=&selectedRoomType=200282300&selectedRatePlan=201671594&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$315",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "15838",
+    "name": "New York Marriott Marquis",
+    "url": "https://www.expedia.com/New-York-Hotels-New-York-Marriott-Marquis.h15838.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409439&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=498&top_cur=USD&userIntent=&selectedRoomType=16889&selectedRatePlan=252288661&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$391",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "36942819",
+    "name": "Courtyard by Marriott New York Downtown Manhattan/Financial District",
+    "url": "https://www.expedia.com/New-York-Hotels-Courtyard-By-Marriott-New-York-Downtown-ManhattanFinancial-District.h36942819.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409440&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=346&top_cur=USD&userIntent=&selectedRoomType=326692187&selectedRatePlan=402301084&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$298",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "533993",
+    "name": "Club Quarters, Times Square - Midtown",
+    "url": "https://www.expedia.com/New-York-Hotels-Club-Quarters.h533993.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409442&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=393&top_cur=USD&userIntent=&selectedRoomType=200257646&selectedRatePlan=201507002&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$314",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "1208242",
+    "name": "Hotel 57",
+    "url": "https://www.expedia.com/New-York-Hotels-Hotel-57.h1208242.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409444&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=351&top_cur=USD&userIntent=&selectedRoomType=326445401&selectedRatePlan=401178825&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$263",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "903465",
+    "name": "Eurostars Wall Street",
+    "url": "https://www.expedia.com/New-York-Hotels-Eurostars-Wall-Street.h903465.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409446&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=293&top_cur=USD&userIntent=&selectedRoomType=200022603&selectedRatePlan=201208886&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$252",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "90610602",
+    "name": "Aloft New York Chelsea",
+    "url": "https://www.expedia.com/New-York-Hotels-Aloft-New-York-Chelsea.h90610602.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409448&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=415&top_cur=USD&userIntent=&selectedRoomType=321555664&selectedRatePlan=389046026&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$359",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "6830159",
+    "name": "Homewood Suites New York/Midtown Manhattan Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Homewood-Suites-New-YorkMidtown-Manhattan-Times-Square.h6830159.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409450&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=384&top_cur=USD&userIntent=&selectedRoomType=200886497&selectedRatePlan=256030497&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$330",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "8959009",
+    "name": "Truss Hotel Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Cassa-Times-Square-Hotel.h8959009.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409452&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6203474&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=358&top_cur=USD&userIntent=&selectedRoomType=218755695&selectedRatePlan=389139710&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$309",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "5148566",
+    "name": "Holiday Inn NYC - Lower East Side by IHG",
+    "url": "https://www.expedia.com/New-York-Hotels-Holiday-Inn-NYC-Lower-East-Side.h5148566.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409455&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248631819633287&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=345&top_cur=USD&userIntent=&selectedRoomType=200283552&selectedRatePlan=380380584&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$298",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "8736",
+    "name": "Warwick New York",
+    "url": "https://www.expedia.com/New-York-Hotels-Warwick-New-York.h8736.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409457&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633938969338&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=427&top_cur=USD&userIntent=&selectedRoomType=210602329&selectedRatePlan=224059568&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$340",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "25449",
+    "name": "Millennium Hotel Broadway Times Square",
+    "url": "https://www.expedia.com/New-York-Hotels-Millennium-Hotel-Broadway-Times-Square.h25449.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409459&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=359&top_cur=USD&userIntent=&selectedRoomType=314220482&selectedRatePlan=382701853&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$280",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "21429545",
+    "name": "Thompson Central Park New York, by Hyatt",
+    "url": "https://www.expedia.com/New-York-Hotels-Parker-New-York.h21429545.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409461&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=907&top_cur=USD&userIntent=&selectedRoomType=221736732&selectedRatePlan=397305369&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$748",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "19782",
+    "name": "Waldorf Astoria New York",
+    "url": "https://www.expedia.com/New-York-Hotels-Waldorf-Astoria-New-York.h19782.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409463&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141525&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=2064&top_cur=USD&userIntent=&selectedRoomType=325564033&selectedRatePlan=398450903&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$1,796",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "3859014",
+    "name": "DoubleTree by Hilton New York Downtown",
+    "url": "https://www.expedia.com/New-York-Hotels-DoubleTree-By-Hilton-New-York-Downtown.h3859014.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409465&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6346972&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=379&top_cur=USD&userIntent=&selectedRoomType=55472857&selectedRatePlan=US%7C1335760343%7CQUtWVkdIUENoYjBIQktkQ0FBQUFBZ0FBQUFCUG5oWFhMN1VTNk1VM29nTkpsNTg9%7CNRF%7CTV2&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$327",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "90868202",
+    "name": "The Flat NYC",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Flat-NYC.h90868202.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409467&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6226054&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=313&top_cur=USD&userIntent=&selectedRoomType=321823630&selectedRatePlan=389610774&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$270",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "107472061",
+    "name": "Tribeca Hotel FiDi",
+    "url": "https://www.expedia.com/New-York-Hotels-Tribeca-Hotel-NY-LLC.h107472061.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409469&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=553248633429418894&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=320&top_cur=USD&userIntent=&selectedRoomType=325194193&selectedRatePlan=396897156&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$258",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "115476207",
+    "name": "Interfaith 21",
+    "url": "https://www.expedia.com/New-York-Hotels-Interfaith-21.h115476207.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409471&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6142489&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=370&top_cur=USD&userIntent=&selectedRoomType=DBL.QN&selectedRatePlan=20260615%7C20260616%7CW%7C254%7C1085776%7CDBL.QN%7CBAROPAQ%7CBB%7C%7C1%7E2%7E0%7C%7CN%7C%7CB2C&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$293",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "87",
+    "name": "Sheraton New York Times Square Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Sheraton-New-York-Times-Square-Hotel.h87.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409473&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6157019&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=410&top_cur=USD&userIntent=&selectedRoomType=218129259&selectedRatePlan=274355040&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$319",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "328577",
+    "name": "Da Vinci Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-Da-Vinci-Hotel.h328577.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409475&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=341&top_cur=USD&userIntent=&selectedRoomType=200620818&selectedRatePlan=203014628&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$290",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "2039863",
+    "name": "Holiday Inn Express New York City Times Square by IHG",
+    "url": "https://www.expedia.com/New-York-Hotels-Holiday-Inn-Express-New-York-City-Times-Square.h2039863.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409477&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141724&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=356&top_cur=USD&userIntent=&selectedRoomType=200315679&selectedRatePlan=381155823&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$287",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "74597374",
+    "name": "The FIDI Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-FiDi-Hotel.h74597374.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409479&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6346972&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=378&top_cur=USD&userIntent=&selectedRoomType=316181794&selectedRatePlan=385845865&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$296",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "129326",
+    "name": "Moderne Hotel",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Moderne.h129326.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409481&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141524&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=385&top_cur=USD&userIntent=&selectedRoomType=321621418&selectedRatePlan=389166684&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$313",
+    "review": null,
+    "image": null
+  },
+  {
+    "id": "27283",
+    "name": "The Shelburne Sonesta New York",
+    "url": "https://www.expedia.com/New-York-Hotels-The-Shelburne-Sonesta-New-York.h27283.Hotel-Information?chkin=2026-06-15&chkout=2026-06-16&x_pwa=1&rfrr=HSR&pwa_ts=1778695409483&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=2621&destination=New+York%2C+New+York%2C+United+States+of+America&destType=MARKET&neighborhoodId=6141728&latLong=40.712843%2C-74.005966&sort=RECOMMENDED&top_dp=354&top_cur=USD&userIntent=&selectedRoomType=200981493&selectedRatePlan=409337107&categorySearch=any_option&searchId=58bf7d07-773c-4393-a3d8-fa770081432f",
+    "price": "$263",
+    "review": null,
+    "image": null
+  }
+]

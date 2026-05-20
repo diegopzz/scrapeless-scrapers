@@ -1,0 +1,1642 @@
+[
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 14400,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 15400,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1160067",
+    "status": "active",
+    "slug": "final-fantasy-14-x-slipstream-dark-307713-01",
+    "title": "Puma Final Fantasy XIV x Slipstream 'Dark'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/086/697/205/original/1160067_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 0,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1679788799,
+      "nanos": 999000000
+    },
+    "silhouette": "Slipstream",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 16900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "927868",
+    "status": "active",
+    "slug": "slipstream-lo-reprise-white-dark-slate-384233-01",
+    "title": "Puma Slipstream Lo Reprise 'White Dark Slate'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/070/762/328/original/384233_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 9000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1649375999,
+      "nanos": 999000000
+    },
+    "silhouette": "Slipstream",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        }
+      }
+    ],
+    "id": "1188450",
+    "status": "active",
+    "slug": "exotek-nitro-black-dark-grey-392440-03",
+    "title": "Puma Exotek Nitro 'Black Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/087/429/800/original/392440_03.png.png",
+    "inStock": false,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 16000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Exotek Nitro",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        }
+      }
+    ],
+    "id": "1193112",
+    "status": "active",
+    "slug": "st-runner-v3-black-dark-grey-384857-14",
+    "title": "Puma ST Runner v3 'Black Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/087/693/848/original/384857_14.png.png",
+    "inStock": false,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 5500,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1682380799,
+      "nanos": 999000000
+    },
+    "silhouette": "ST Runner",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 6600,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 6600,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1535683",
+    "status": "active",
+    "slug": "speedcat-premium-dark-olive-matte-silver-403902-04",
+    "title": "Puma Speedcat Premium 'Dark Olive Matte Silver'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/106/284/525/original/403902_04.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 11000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1756771199,
+      "nanos": 999000000
+    },
+    "silhouette": "Speedcat",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 17900,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 19400,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1759172",
+    "status": "active",
+    "slug": "puma-la-france-black-cool-dark-gray-31347801",
+    "title": "Puma La France 'Black Cool Dark Gray'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/116/362/097/original/31347801.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 11500,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "LaFrancé",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 12900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1706663",
+    "status": "active",
+    "slug": "puma-wmns-speedcat-ballet-dark-chocolate-406758-02",
+    "title": "Puma Wmns Speedcat Ballet 'Dark Chocolate'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/113/811/417/original/406758_2002.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 8000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Speedcat",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 12500,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1543990",
+    "status": "active",
+    "slug": "speedcat-og-dark-myrtle-398846-12",
+    "title": "Puma Speedcat OG 'Dark Myrtle'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/107/026/728/original/1543990_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 10000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1704153599,
+      "nanos": 999000000
+    },
+    "silhouette": "Speedcat",
+    "tagsList": [
+      "style:Racing",
+      "style:Jewel Tones",
+      "style:Lifestyle",
+      "style:Low Profile",
+      "detail:Solid Color (Upper)"
+    ]
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 11700,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1607569",
+    "status": "active",
+    "slug": "wmns-speedcat-ballet-satin-black-cool-dark-grey-404383-01",
+    "title": "Puma Wmns Speedcat Ballet Satin 'Black Cool Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/109/676/202/original/404383_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 8000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1747180799,
+      "nanos": 999000000
+    },
+    "silhouette": "Speedcat",
+    "tagsList": [
+      "detail:Solid Color (Upper)",
+      "style:Low Profile",
+      "style:Slacker"
+    ]
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 14400,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 15400,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1610630",
+    "status": "active",
+    "slug": "speedcat-ttf-dark-chocolate-frosted-ivory-403903-01",
+    "title": "Puma Speedcat TTF 'Dark Chocolate Frosted Ivory'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/110/127/558/original/1610630_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 11000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1745971199,
+      "nanos": 999000000
+    },
+    "silhouette": "Speedcat",
+    "tagsList": [
+      "style:Racing",
+      "style:Low Profile",
+      "style:Lifestyle",
+      "style:Earth Tones"
+    ]
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 47100,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1609872",
+    "status": "active",
+    "slug": "voo-store-x-wmns-speedcat-ballet-dark-chocolate-405089-01",
+    "title": "Voo Store x Puma Wmns Speedcat Ballet 'Dark Chocolate'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/109/775/376/original/405089_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 12500,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1746835199,
+      "nanos": 999000000
+    },
+    "silhouette": "Speedcat",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 18500,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1737469",
+    "status": "active",
+    "slug": "puma-wmns-speedcat-lovelace-ballet-dark-crimson-408178-01",
+    "title": "Puma Wmns Speedcat Lovelace Ballet 'Dark Crimson'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/115/419/810/original/408178_2001.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 9000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Speedcat",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 18500,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1737469",
+    "status": "active",
+    "slug": "puma-wmns-speedcat-lovelace-ballet-dark-crimson-408178-01",
+    "title": "Puma Wmns Speedcat Lovelace Ballet 'Dark Crimson'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/115/419/810/original/408178_2001.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 9000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Speedcat",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 11500,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 15800,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1572417",
+    "status": "active",
+    "slug": "skepta-x-forever-mid-flat-dark-grey-399453-01",
+    "title": "Skepta x Puma Skope Forever Mid 'Flat Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/108/703/565/original/1572417_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 22000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Skope Forever",
+    "tagsList": [
+      "detail:Mesh",
+      "style:Hiking"
+    ]
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 13700,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1558730",
+    "status": "active",
+    "slug": "rs-trck-slate-black-cool-dark-grey-391577-01",
+    "title": "Puma RS-Trck Slate 'Black Cool Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/107/306/602/original/391577_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "2023",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 12000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "RS-Trck",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 3700,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1596498",
+    "status": "active",
+    "slug": "skate-c-buck-cool-dark-grey-403556-02",
+    "title": "Puma Skate C Buck 'Cool Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/109/076/057/original/403556_02.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 6000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1743465599,
+      "nanos": 999000000
+    },
+    "silhouette": "Skate C",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 8600,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 12600,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1309903",
+    "status": "active",
+    "slug": "fenty-x-avanti-l-dark-myrtle-398352-02",
+    "title": "Fenty x Puma Avanti L 'Dark Myrtle'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/100/860/255/original/1309903_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 16000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1698969599,
+      "nanos": 999000000
+    },
+    "silhouette": "Avanti",
+    "tagsList": [
+      "style:Jewel Tones",
+      "detail:Solid Color (Upper)",
+      "detail:Gum Outsole",
+      "style:Low Profile",
+      "style:Streetwear",
+      "style:European Football",
+      "style:Earth Tones"
+    ]
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 6700,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1518167",
+    "status": "active",
+    "slug": "inverse-rev-red-dark-amethyst-402380-01",
+    "title": "Puma Inverse Rev 'Red Dark Amethyst'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/105/515/609/original/402380_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 12000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1733615999,
+      "nanos": 999000000
+    },
+    "silhouette": "Inverse",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 7900,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 11300,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1535636",
+    "status": "active",
+    "slug": "mb-04-lo-team-color-black-dark-amethyst-312174-01",
+    "title": "Puma MB.04 Lo Team 'Black Dark Amethyst'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/114/085/884/original/1535636_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 11500,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "basketball"
+    ],
+    "releaseDate": {
+      "seconds": 1751414399,
+      "nanos": 999000000
+    },
+    "silhouette": "MB.04",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 12900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1639333",
+    "status": "active",
+    "slug": "squid-game-x-easy-rider-alpine-snow-dark-myrtle-403643-01",
+    "title": "Squid Game x Puma Easy Rider 'Alpine Snow Dark Myrtle'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/111/207/774/original/403643_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 10000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1752191999,
+      "nanos": 999000000
+    },
+    "silhouette": "Easy Rider",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 10500,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 14900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1721577",
+    "status": "active",
+    "slug": "puma-inverse-black-dark-grey-silver-402946-01",
+    "title": "Puma Inverse 'Black Dark Grey Silver'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/116/283/527/original/1721577_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "2024",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 12000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1733615999,
+      "nanos": 999000000
+    },
+    "silhouette": "Inverse",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 8900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1708139",
+    "status": "active",
+    "slug": "puma-x-wicked-speedcat-ballet-silver-slippers-silver-cool-mid-gray-flat-dark-gray-details-materials-407136-01",
+    "title": "Wicked x Puma Speedcat Ballet Silver Slippers Big Kid 'Silver/Cool Mid Grey/Flat Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/113/885/694/original/1708139_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 7500,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "youth",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Speedcat",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 8700,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1645498",
+    "status": "active",
+    "slug": "mb-04-lo-team-big-kid-black-dark-amethyst-312177-01",
+    "title": "Puma MB.04 Lo Team Big Kid 'Black Dark Amethyst'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/111/483/822/original/312177_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 10000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "youth",
+    "activitiesList": [
+      "basketball"
+    ],
+    "releaseDate": {
+      "seconds": 1753142399,
+      "nanos": 999000000
+    },
+    "silhouette": "MB.04",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 21200,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 31700,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1627709",
+    "status": "active",
+    "slug": "jjjjound-x-mostro-dark-chocolate-403823-02",
+    "title": "JJJJound x Puma Mostro 'Dark Chocolate'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/110/659/947/original/403823_02.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 16000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1752191999,
+      "nanos": 999000000
+    },
+    "silhouette": "Mostro",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 10900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1496423",
+    "status": "active",
+    "slug": "softride-frequence-black-flat-dark-grey-310500-01",
+    "title": "Puma Softride Frequence 'Black Flat Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/104/656/816/original/310500_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 0,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "running"
+    ],
+    "releaseDate": {
+      "seconds": 1727913599,
+      "nanos": 999000000
+    },
+    "silhouette": "Softride Frequence",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 205900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1654094",
+    "status": "active",
+    "slug": "wmns-speedcat-go-dark-olive-403589-07",
+    "title": "Puma Wmns Speedcat Go 'Dark Olive'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/111/904/306/original/403589_07.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 9000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1751759999,
+      "nanos": 999000000
+    },
+    "silhouette": "Speedcat",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 16800,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1301524",
+    "status": "active",
+    "slug": "staple-x-suede-gidra-dark-chocolate-393543-01",
+    "title": "Jeff Staple x Puma Suede 'Gidra - Dark Chocolate'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/097/217/929/original/1301524_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 9000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1697759999,
+      "nanos": 999000000
+    },
+    "silhouette": "Suede",
+    "tagsList": [
+      "style:Skate",
+      "style:Earth Tones",
+      "style:Low Profile",
+      "style:Lifestyle",
+      "detail:Gum Outsole"
+    ]
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 12400,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1505540",
+    "status": "active",
+    "slug": "gv-special-dark-olive-401792-01",
+    "title": "Puma GV Special 'Dark Olive'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/105/011/986/original/401792_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 9000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1729468799,
+      "nanos": 999000000
+    },
+    "silhouette": "GV Special",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 12800,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1621005",
+    "status": "active",
+    "slug": "scend-pro-2-black-flat-dark-grey-310779-02",
+    "title": "Puma Scend Pro 2 'Black Flat Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/110/335/346/original/310779_02.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 7000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "running"
+    ],
+    "releaseDate": {
+      "seconds": 1745884799,
+      "nanos": 999000000
+    },
+    "silhouette": "Scend Pro",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        }
+      }
+    ],
+    "id": "912256",
+    "status": "active",
+    "slug": "cool-cat-slide-camo-dark-olive-373849-01",
+    "title": "Puma Cool Cat Slide 'Camo - Dark Olive'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/069/204/309/original/373849_01.png.png",
+    "inStock": false,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 3000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "sandal"
+    ],
+    "releaseDate": {
+      "seconds": 1646956799,
+      "nanos": 999000000
+    },
+    "silhouette": "Cool Cat Slides",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 10700,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1568862",
+    "status": "active",
+    "slug": "wmns-palermo-aquatic-dark-myrtle-397643-52",
+    "title": "Puma Wmns Palermo 'Aquatic Dark Myrtle'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/107/776/023/original/397643_52.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 8000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1738886399,
+      "nanos": 999000000
+    },
+    "silhouette": "Palermo",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        }
+      }
+    ],
+    "id": "509136",
+    "status": "active",
+    "slug": "roma-pigskin-dark-green-247460-31",
+    "title": "Puma Roma Pigskin 'Dark Green'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/020/723/731/original/247460_31.png.png",
+    "inStock": false,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 6500,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "lifestyle",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Roma",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 20200,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1298920",
+    "status": "active",
+    "slug": "sparco-x-future-cat-og-black-dark-coal-307936-01",
+    "title": "Sparco x Puma Future Cat OG 'Black Dark Coal'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/096/704/106/original/1298920_00.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 10000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1696291199,
+      "nanos": 999000000
+    },
+    "silhouette": "Future Cat",
+    "tagsList": [
+      "style:Lifestyle",
+      "style:Low Profile",
+      "style:Athletic"
+    ]
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 13900,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1668146",
+    "status": "active",
+    "slug": "extos-overdye-cool-dark-grey",
+    "title": "Puma Extos Overdye 'Cool Dark Grey'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/112/564/892/original/402257_02.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "2025",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 12000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "silhouette": "Extos",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 11200,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "731179",
+    "status": "active",
+    "slug": "wmns-kyron-dark-dreams-375625-01",
+    "title": "Puma Wmns Kyron 'Dark Dreams'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/049/708/647/original/375625_01.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 9000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "women",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1614470399,
+      "nanos": 999000000
+    },
+    "silhouette": "Kyron",
+    "tagsList": []
+  },
+  {
+    "variantsList": [
+      {
+        "productCondition": 0,
+        "boxCondition": 0,
+        "size": {
+          "gender": 0,
+          "sizeUnit": 1,
+          "size": "",
+          "displayName": ""
+        },
+        "localizedLowestPriceCents": {
+          "amountCents": 8400,
+          "currency": "USD"
+        },
+        "localizedInstantLowestPriceCents": {
+          "amountCents": 8400,
+          "currency": "USD"
+        }
+      }
+    ],
+    "id": "1601227",
+    "status": "active",
+    "slug": "v-s1-vapor-grey-dark-crimson-402951-06",
+    "title": "Puma V-S1 'Vapor Grey Dark Crimson'",
+    "pictureUrl": "https://image.goat.com/attachments/product_template_pictures/images/109/305/145/original/402951_06.png.png",
+    "inStock": true,
+    "category": "shoes",
+    "seasonYear": "",
+    "productType": "sneakers",
+    "localizedRetailPriceCents": {
+      "amountCents": 14000,
+      "currency": "USD"
+    },
+    "brandName": "Puma",
+    "activity": "",
+    "seasonType": "",
+    "underRetail": false,
+    "gender": "men",
+    "activitiesList": [
+      "lifestyle"
+    ],
+    "releaseDate": {
+      "seconds": 1759363199,
+      "nanos": 999000000
+    },
+    "silhouette": "V-S1",
+    "tagsList": []
+  }
+]

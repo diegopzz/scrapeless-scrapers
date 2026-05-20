@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "datePosted": "2026-05-05T09:20:17.000Z",
+    "description": "&lt;em&gt;Please submit your CV in English and indicate your level of English proficiency.&lt;br&gt;&lt;br&gt;&lt;/em&gt;Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems. &lt;strong&gt;Participation is project-based, not permanent employment.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;What This Opportunity Involves&lt;br&gt;&lt;br&gt;&lt;/strong&gt;While each project involves unique tasks, contributors may:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Design original computational data science problems that simulate real-world analytical workflows across industries (telecom, finance, government, e-commerce, healthcare)&lt;/li&gt;&lt;li&gt;Create problems requiring Python programming to solve (using Pandas, Numpy, Scipy, Sklearn, Statsmodels, Matplotlib, Seaborn)&lt;/li&gt;&lt;li&gt;Ensure problems are computationally intensive and cannot be solved manually within reasonable timeframes (days/weeks)&lt;/li&gt;&lt;li&gt;Develop problems requiring non-trivial reasoning chains in data processing, statistical analysis, feature engineering, predictive modeling, and insight extraction&lt;/li&gt;&lt;li&gt;Create deterministic problems with reproducible answers: avoid stochastic elements or require fixed random seeds for exact reproducibility&lt;/li&gt;&lt;li&gt;Base problems on real business challenges: customer analytics, risk assessment, fraud detection, forecasting, optimization, and operational efficiency&lt;/li&gt;&lt;li&gt;Design end-to-end problems spanning the complete data science pipeline (data ingestion → cleaning → EDA → modeling → validation → deployment considerations)&lt;/li&gt;&lt;li&gt;Incorporate big data processing scenarios requiring scalable computational approaches&lt;/li&gt;&lt;li&gt;Verify solutions using Python with standard data science libraries and statistical methods&lt;/li&gt;&lt;li&gt;Document problem statements clearly with realistic business contexts and provide verified correct answers&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;What We Look For&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This opportunity is a good fit for Data Science specialists with an experience in python open to part-time, non-permanent projects. Ideally, contributors will have:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;5+ years of hands-on data science experience with proven business impact&lt;/li&gt;&lt;li&gt;Portfolio of completed projects and publications showcasing real-world problem-solving&lt;/li&gt;&lt;li&gt;Expert Python programming for data science (pandas, numpy, scipy, scikit-learn, statsmodels)&lt;/li&gt;&lt;li&gt;Expert statistical analysis and machine learning - deep understanding of algorithms, methods, and their practical applications&lt;/li&gt;&lt;li&gt;Expert with SQL and database operations for data manipulation and analysis&lt;/li&gt;&lt;li&gt;Experience with GenAI technologies (LLMs, RAG, prompt engineering, vector databases)&lt;/li&gt;&lt;li&gt;Understanding of MLOps practices and model deployment workflows&lt;/li&gt;&lt;li&gt;Knowledge of modern frameworks (TensorFlow, PyTorch, LangChain)&lt;/li&gt;&lt;li&gt;Strong written English (C1+)&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;How It Works&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Apply → Pass qualification(s) → Join a project → Complete tasks → Get paid&lt;br&gt;&lt;br&gt;&lt;strong&gt;Project time expectations &lt;br&gt;&lt;br&gt;&lt;/strong&gt;For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements. This is an estimate, not a guaranteed workload, and applies only while the project is active.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Compensation&lt;br&gt;&lt;br&gt;&lt;/strong&gt;On this project, contributors can earn up to &lt;strong&gt;$90 per hour equivalent&lt;/strong&gt;, depending on their level and pace of contribution.&lt;br&gt;&lt;br&gt;Compensation varies across projects depending on scope, complexity, and required expertise. Please note that other projects on the platform may offer different earning levels based on their requirements.",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindrift",
+      "sameAs": "https://www.linkedin.com/company/mindrift-ai",
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_200_200/company-logo_200_200/0/1725448348201/mindrift_ai_logo?e=2147483647&amp;v=beta&amp;t=H-jWqqKMUVSWptGCovHAht21l0ethjGcg15R2-NwW40"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindrift",
+      "value": "8F099A7901"
+    },
+    "image": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&amp;v=beta&amp;t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "industry": "IT Services and IT Consulting",
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "Arizona",
+        "addressRegion": "United States",
+        "streetAddress": null
+      },
+      "latitude": 34.29323,
+      "longitude": -111.6646
+    },
+    "skills": "",
+    "title": "Freelance Data Science Engineer (Python &amp; SQL)",
+    "validThrough": "2026-11-01T09:30:23.000Z",
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "bachelor degree"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 60
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "Arizona, United States"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "datePosted": "2026-05-05T09:22:35.000Z",
+    "description": "&lt;em&gt;Please submit your CV in English and indicate your level of English proficiency.&lt;br&gt;&lt;br&gt;&lt;/em&gt;Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems. &lt;strong&gt;Participation is project-based, not permanent employment.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong&gt;What This Opportunity Involves&lt;br&gt;&lt;br&gt;&lt;/strong&gt;While each project involves unique tasks, contributors may:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Design original computational data science problems that simulate real-world analytical workflows across industries (telecom, finance, government, e-commerce, healthcare)&lt;/li&gt;&lt;li&gt;Create problems requiring Python programming to solve (using Pandas, Numpy, Scipy, Sklearn, Statsmodels, Matplotlib, Seaborn)&lt;/li&gt;&lt;li&gt;Ensure problems are computationally intensive and cannot be solved manually within reasonable timeframes (days/weeks)&lt;/li&gt;&lt;li&gt;Develop problems requiring non-trivial reasoning chains in data processing, statistical analysis, feature engineering, predictive modeling, and insight extraction&lt;/li&gt;&lt;li&gt;Create deterministic problems with reproducible answers: avoid stochastic elements or require fixed random seeds for exact reproducibility&lt;/li&gt;&lt;li&gt;Base problems on real business challenges: customer analytics, risk assessment, fraud detection, forecasting, optimization, and operational efficiency&lt;/li&gt;&lt;li&gt;Design end-to-end problems spanning the complete data science pipeline (data ingestion → cleaning → EDA → modeling → validation → deployment considerations)&lt;/li&gt;&lt;li&gt;Incorporate big data processing scenarios requiring scalable computational approaches&lt;/li&gt;&lt;li&gt;Verify solutions using Python with standard data science libraries and statistical methods&lt;/li&gt;&lt;li&gt;Document problem statements clearly with realistic business contexts and provide verified correct answers&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;What We Look For&lt;br&gt;&lt;br&gt;&lt;/strong&gt;This opportunity is a good fit for Data Science specialists with an experience in python open to part-time, non-permanent projects. Ideally, contributors will have:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;5+ years of hands-on data science experience with proven business impact&lt;/li&gt;&lt;li&gt;Portfolio of completed projects and publications showcasing real-world problem-solving&lt;/li&gt;&lt;li&gt;Expert Python programming for data science (pandas, numpy, scipy, scikit-learn, statsmodels)&lt;/li&gt;&lt;li&gt;Expert statistical analysis and machine learning - deep understanding of algorithms, methods, and their practical applications&lt;/li&gt;&lt;li&gt;Expert with SQL and database operations for data manipulation and analysis&lt;/li&gt;&lt;li&gt;Experience with GenAI technologies (LLMs, RAG, prompt engineering, vector databases)&lt;/li&gt;&lt;li&gt;Understanding of MLOps practices and model deployment workflows&lt;/li&gt;&lt;li&gt;Knowledge of modern frameworks (TensorFlow, PyTorch, LangChain)&lt;/li&gt;&lt;li&gt;Strong written English (C1+)&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;How It Works&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Apply → Pass qualification(s) → Join a project → Complete tasks → Get paid&lt;br&gt;&lt;br&gt;&lt;strong&gt;Project time expectations &lt;br&gt;&lt;br&gt;&lt;/strong&gt;For this project, tasks are estimated to require around 10-20 hours per week during active phases, based on project requirements. This is an estimate, not a guaranteed workload, and applies only while the project is active.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Compensation&lt;br&gt;&lt;br&gt;&lt;/strong&gt;On this project, contributors can earn up to &lt;strong&gt;$90 per hour equivalent&lt;/strong&gt;, depending on their level and pace of contribution.&lt;br&gt;&lt;br&gt;Compensation varies across projects depending on scope, complexity, and required expertise. Please note that other projects on the platform may offer different earning levels based on their requirements.",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Mindrift",
+      "sameAs": "https://www.linkedin.com/company/mindrift-ai",
+      "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_200_200/company-logo_200_200/0/1725448348201/mindrift_ai_logo?e=2147483647&amp;v=beta&amp;t=H-jWqqKMUVSWptGCovHAht21l0ethjGcg15R2-NwW40"
+    },
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Mindrift",
+      "value": "BF74F045C0"
+    },
+    "image": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ySVGr5NQzQ/company-logo_100_100/company-logo_100_100/0/1725448348201/mindrift_ai_logo?e=2147483647&amp;v=beta&amp;t=QWIMS9k-I4kkSKVcx06uFCRLdHDZZ1w9E8dWeBmOHCk",
+    "industry": "IT Services and IT Consulting",
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "Wisconsin",
+        "addressRegion": "United States",
+        "streetAddress": null
+      },
+      "latitude": 44.639954,
+      "longitude": -89.732956
+    },
+    "skills": "",
+    "title": "Freelance Data Science Engineer (Python &amp; SQL)",
+    "validThrough": "2026-11-01T09:32:41.000Z",
+    "educationRequirements": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "bachelor degree"
+    },
+    "experienceRequirements": {
+      "@type": "OccupationalExperienceRequirements",
+      "monthsOfExperience": 60
+    },
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": "Wisconsin, United States"
+    }
+  }
+]

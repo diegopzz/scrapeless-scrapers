@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3876",
+    "url": "https://biglots.com/product/serta-jumbo-bed-pillow/",
+    "name": "SERTA JUMBO BED PILLOW",
+    "description": null,
+    "price": 7.99,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "images": [
+      "https://biglots.com/wp-content/uploads/2025/04/large-serta-pillow.png"
+    ],
+    "categories": [],
+    "sellerName": "Big Lots"
+  },
+  {
+    "id": "3870",
+    "url": "https://biglots.com/product/realtree-camo-pet-bed-40-x-30/",
+    "name": "REALTREE CAMO PET BED (40\" X 30\")",
+    "description": "Comfy Realtree camo pet bed with pillow style construction and durable cover.",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "images": [
+      "https://biglots.com/wp-content/uploads/2025/04/realtree-camo-pet-bed.png"
+    ],
+    "categories": [],
+    "sellerName": "Big Lots"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "list_id": 3164280541,
+    "subject": "Boutique 85 m² PARIS",
+    "url": "https://www.leboncoin.fr/ad/bureaux_commerces/3164280541",
+    "category_name": "Bureaux & Commerces",
+    "price": [3500],
+    "location": { "city": "Paris", "zipcode": "75013" }
+  },
+  {
+    "list_id": 3187977247,
+    "subject": "Vinil drum and bass techno",
+    "url": "https://www.leboncoin.fr/ad/cd_musique/3187977247",
+    "category_name": "CD - Musique",
+    "price": [240],
+    "location": { "city": "Toulouse", "zipcode": "31000" }
+  },
+  {
+    "list_id": 3201204662,
+    "subject": "Coffe",
+    "url": "https://www.leboncoin.fr/ad/ameublement/3201204662",
+    "category_name": "Ameublement",
+    "price": [50],
+    "location": { "city": "Verneuil-en-Halatte", "zipcode": "60550" }
+  },
+  {
+    "list_id": 3194858263,
+    "subject": "Mug isotherme (tea, coffe)",
+    "url": "https://www.leboncoin.fr/ad/arts_de_la_table/3194858263",
+    "category_name": "Arts de la table",
+    "price": [2],
+    "location": { "city": "Beauvais", "zipcode": "60000" }
+  },
+  {
+    "list_id": 3198671983,
+    "subject": "Tasse Mylky coffe mug",
+    "url": "https://www.leboncoin.fr/ad/arts_de_la_table/3198671983",
+    "category_name": "Arts de la table",
+    "price": [15],
+    "location": { "city": "Marly", "zipcode": "57155" }
+  },
+  {
+    "list_id": 3186754029,
+    "subject": "Coffe b",
+    "url": "https://www.leboncoin.fr/ad/electromenager/3186754029",
+    "category_name": "Électroménager",
+    "price": [35],
+    "location": { "city": "Sémalens", "zipcode": "81570" }
+  }
+]
