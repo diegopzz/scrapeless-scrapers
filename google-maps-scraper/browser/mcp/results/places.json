@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Epoch Coffee",
+    "category": "Coffee shop",
+    "address": "221 W N Loop Blvd",
+    "phone": null,
+    "website": null,
+    "rating": 4.5,
+    "review_count": null,
+    "price_level": null,
+    "description": "Hip coffee shop with light bites",
+    "url": "https://www.google.com/maps/place/Epoch+Coffee/data=!4m7!3m6!1s0x8644ca6bc309e81b:0x1f1a903bbb66839!8m2!3d30.3186037!4d-97.7245402!16s%2Fg%2F1v76_180!19sChIJG-gJw2vKRIYROWi2uwOp8QE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Terrible Love",
+    "category": "Coffee shop",
+    "address": "3908 Avenue B",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "review_count": null,
+    "price_level": null,
+    "description": null,
+    "url": "https://www.google.com/maps/place/Terrible+Love/data=!4m7!3m6!1s0x8644b5909076ca3f:0x29646d76a1c6aada!8m2!3d30.3045132!4d-97.735632!16s%2Fg%2F11ng70tdrd!19sChIJP8p2kJC1RIYR2qrGoXZtZCk?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Jo's Coffee – South Congress",
+    "category": "Coffee shop",
+    "address": "1300 S Congress Ave",
+    "phone": null,
+    "website": null,
+    "rating": 4.4,
+    "review_count": null,
+    "price_level": null,
+    "description": "Jo's Coffee – South Congress",
+    "url": "https://www.google.com/maps/place/Jo%27s+Coffee+%E2%80%93+South+Congress/data=!4m7!3m6!1s0x8644b4fda2c12fd5:0x66b58cb4722b37b!8m2!3d30.2510458!4d-97.7493717!16s%2Fm%2F020z01l!19sChIJ1S_Bov20RIYRe7MiR8tYawY?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Flora Coffee & Culture",
+    "category": "Coffee shop",
+    "address": "3300 W Anderson Ln. Suite 300",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "review_count": null,
+    "price_level": null,
+    "description": "Flora Coffee & Culture",
+    "url": "https://www.google.com/maps/place/Flora+Coffee+%26+Culture/data=!4m7!3m6!1s0x8644eb01e1b6f12b:0xfd2a1ae49e89ca16!8m2!3d30.362347!4d-97.7421123!16s%2Fg%2F11vrh3fl3l!19sChIJK_G24QHrRIYRFsqJnuQaKv0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Café Crème - Downtown",
+    "category": "Coffee shop",
+    "address": "710 W Cesar Chavez St",
+    "phone": null,
+    "website": null,
+    "rating": 4.8,
+    "review_count": null,
+    "price_level": null,
+    "description": "Café Crème - Downtown",
+    "url": "https://www.google.com/maps/place/Caf%C3%A9+Cr%C3%A8me+-+Downtown/data=!4m7!3m6!1s0x8644b5c58dec06d1:0xc09764ef28121427!8m2!3d30.2661527!4d-97.7513939!16s%2Fg%2F11m6xjvf2c!19sChIJ0QbsjcW1RIYRJxQSKO9kl8A?authuser=0&hl=en&rclk=1"
+  }
+]
